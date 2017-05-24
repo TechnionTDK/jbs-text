@@ -1,1 +1,1 @@
-{"subjects":[{"uri":"jbr:tanach-18","rdfs:label":"ספר עובדיה","jbo:position":"18"},{"jbo:within":["jbr:tanach-18"],"uri":"jbr:tanach-18-1","rdfs:label":"עובדיה פרק א","jbo:position":"1"}]}
+{"subjects":[{"uri":"jbr:tanach-18","rdfs:label":"ספר עובדיה","jbo:position":"18"},{"uri":"jbr:tanach-18-1","rdfs:label":"עובדיה פרק א","jbo:position":"1","jbo:within":"jbr:tanach-18"}]}
