@@ -1,0 +1,30 @@
+{
+	"subjects": [{
+		"uri": "jbr:beerhagola",
+		"rdfs:label": "באר הגולה"
+	},
+	{
+		"uri": "jbr:beerhagola-1",
+		"rdfs:label": "באר הגולה - באר א "
+	},
+	{
+		"uri": "jbr:beerhagola-2",
+		"rdfs:label": "באר הגולה - באר ב "
+	},
+	{
+		"uri": "jbr:beerhagola-3",
+		"rdfs:label": "באר הגולה - באר ג "
+	},
+	{
+		"uri": "jbr:beerhagola-4",
+		"rdfs:label": "באר הגולה - באר ד "
+	},
+	{
+		"uri": "jbr:beerhagola-5",
+		"rdfs:label": "באר הגולה - באר ה "
+	},
+	{
+		"uri": "jbr:beerhagola-6",
+		"rdfs:label": "באר הגולה - באר ו "
+	}]
+}

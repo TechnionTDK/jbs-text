@@ -1,0 +1,343 @@
+{
+	"subjects": [{
+		"uri": "jbr:derechchaim",
+		"rdfs:label": "דרך חיים "
+	},
+	{
+		"uri": "פרק א",
+		"uri": "jbr:derechchaim-1-1",
+		"rdfs:label": "דרך חיים - פרק א - משנה א"
+	},
+	{
+		"uri": "jbr:derechchaim-1-2",
+		"rdfs:label": "דרך חיים - פרק א - משנה ב"
+	},
+	{
+		"uri": "jbr:derechchaim-1-3",
+		"rdfs:label": "דרך חיים - פרק א - משנה ג"
+	},
+	{
+		"uri": "jbr:derechchaim-1-4",
+		"rdfs:label": "דרך חיים - פרק א - משנה ד"
+	},
+	{
+		"uri": "jbr:derechchaim-1-5",
+		"rdfs:label": "דרך חיים - פרק א - משנה ה"
+	},
+	{
+		"uri": "jbr:derechchaim-1-6",
+		"rdfs:label": "דרך חיים - פרק א - משנה ו"
+	},
+	{
+		"uri": "jbr:derechchaim-1-7",
+		"rdfs:label": "דרך חיים - פרק א - משנה ז"
+	},
+	{
+		"uri": "jbr:derechchaim-1-8",
+		"rdfs:label": "דרך חיים - פרק א - משנה ח"
+	},
+	{
+		"uri": "jbr:derechchaim-1-9",
+		"rdfs:label": "דרך חיים - פרק א - משנה ט"
+	},
+	{
+		"uri": "jbr:derechchaim-1-10",
+		"rdfs:label": "דרך חיים - פרק א - משנה י"
+	},
+	{
+		"uri": "jbr:derechchaim-1-11",
+		"rdfs:label": "דרך חיים - פרק א - משנה יא"
+	},
+	{
+		"uri": "jbr:derechchaim-1-12",
+		"rdfs:label": "דרך חיים - פרק א - משנה יב"
+	},
+	{
+		"uri": "jbr:derechchaim-1-13",
+		"rdfs:label": "דרך חיים - פרק א - משנה יג"
+	},
+	{
+		"uri": "jbr:derechchaim-1-14",
+		"rdfs:label": "דרך חיים - פרק א - משנה יד"
+	},
+	{
+		"uri": "jbr:derechchaim-1-15",
+		"rdfs:label": "דרך חיים - פרק א - משנה טו"
+	},
+	{
+		"uri": "jbr:derechchaim-1-16",
+		"rdfs:label": "דרך חיים - פרק א - משנה טז"
+	},
+	{
+		"uri": "jbr:derechchaim-1-17",
+		"rdfs:label": "דרך חיים - פרק א - משנה יז"
+	},
+	{
+		"uri": "jbr:derechchaim-1-18",
+		"rdfs:label": "דרך חיים - פרק א - משנה יח"
+	},
+	{
+		"uri": "פרק ב",
+		"uri": "jbr:derechchaim-2-1",
+		"rdfs:label": "דרך חיים - פרק ב - משנה א"
+	},
+	{
+		"uri": "jbr:derechchaim-2-2",
+		"rdfs:label": "דרך חיים - פרק ב - משנה ב"
+	},
+	{
+		"uri": "jbr:derechchaim-2-3",
+		"rdfs:label": "דרך חיים - פרק ב - משנה ג"
+	},
+	{
+		"uri": "jbr:derechchaim-2-4",
+		"rdfs:label": "דרך חיים - פרק ב - משנה ד"
+	},
+	{
+		"uri": "jbr:derechchaim-2-5",
+		"rdfs:label": "דרך חיים - פרק ב - משנה ה"
+	},
+	{
+		"uri": "jbr:derechchaim-2-6",
+		"rdfs:label": "דרך חיים - פרק ב - משנה ו"
+	},
+	{
+		"uri": "jbr:derechchaim-2-7",
+		"rdfs:label": "דרך חיים - פרק ב - משנה ז"
+	},
+	{
+		"uri": "jbr:derechchaim-2-8",
+		"rdfs:label": "דרך חיים - פרק ב - משנה ח"
+	},
+	{
+		"uri": "jbr:derechchaim-2-9",
+		"rdfs:label": "דרך חיים - פרק ב - משנה ט"
+	},
+	{
+		"uri": "jbr:derechchaim-2-10",
+		"rdfs:label": "דרך חיים - פרק ב - משנה י"
+	},
+	{
+		"uri": "jbr:derechchaim-2-11",
+		"rdfs:label": "דרך חיים - פרק ב - משנה יא"
+	},
+	{
+		"uri": "jbr:derechchaim-2-12",
+		"rdfs:label": "דרך חיים - פרק ב - משנה יב"
+	},
+	{
+		"uri": "jbr:derechchaim-2-13",
+		"rdfs:label": "דרך חיים - פרק ב - משנה יג"
+	},
+	{
+		"uri": "jbr:derechchaim-2-14",
+		"rdfs:label": "דרך חיים - פרק ב - משנה יד"
+	},
+	{
+		"uri": "jbr:derechchaim-2-15",
+		"rdfs:label": "דרך חיים - פרק ב - משנה טו"
+	},
+	{
+		"uri": "jbr:derechchaim-2-16",
+		"rdfs:label": "דרך חיים - פרק ב - משנה טז"
+	},
+	{
+		"uri": "פרק ג",
+		"uri": "jbr:derechchaim-3-1",
+		"rdfs:label": "דרך חיים - פרק ג - משנה א"
+	},
+	{
+		"uri": "jbr:derechchaim-3-2",
+		"rdfs:label": "דרך חיים - פרק ג - משנה ב"
+	},
+	{
+		"uri": "jbr:derechchaim-3-3",
+		"rdfs:label": "דרך חיים - פרק ג - משנה ג"
+	},
+	{
+		"uri": "jbr:derechchaim-3-4",
+		"rdfs:label": "דרך חיים - פרק ג - משנה ד"
+	},
+	{
+		"uri": "jbr:derechchaim-3-5",
+		"rdfs:label": "דרך חיים - פרק ג - משנה ה"
+	},
+	{
+		"uri": "jbr:derechchaim-3-6",
+		"rdfs:label": "דרך חיים - פרק ג - משנה ו"
+	},
+	{
+		"uri": "jbr:derechchaim-3-7",
+		"rdfs:label": "דרך חיים - פרק ג - משנה ז"
+	},
+	{
+		"uri": "jbr:derechchaim-3-8",
+		"rdfs:label": "דרך חיים - פרק ג - משנה ח"
+	},
+	{
+		"uri": "jbr:derechchaim-3-9",
+		"rdfs:label": "דרך חיים - פרק ג - משנה ט"
+	},
+	{
+		"uri": "jbr:derechchaim-3-10",
+		"rdfs:label": "דרך חיים - פרק ג - משנה י"
+	},
+	{
+		"uri": "jbr:derechchaim-3-11",
+		"rdfs:label": "דרך חיים - פרק ג - משנה יא"
+	},
+	{
+		"uri": "jbr:derechchaim-3-12",
+		"rdfs:label": "דרך חיים - פרק ג - משנה יב"
+	},
+	{
+		"uri": "jbr:derechchaim-3-13",
+		"rdfs:label": "דרך חיים - פרק ג - משנה יג"
+	},
+	{
+		"uri": "jbr:derechchaim-3-14",
+		"rdfs:label": "דרך חיים - פרק ג - משנה יד"
+	},
+	{
+		"uri": "jbr:derechchaim-3-15",
+		"rdfs:label": "דרך חיים - פרק ג - משנה טו"
+	},
+	{
+		"uri": "jbr:derechchaim-3-16",
+		"rdfs:label": "דרך חיים - פרק ג - משנה טז"
+	},
+	{
+		"uri": "jbr:derechchaim-3-17",
+		"rdfs:label": "דרך חיים - פרק ג - משנה יז"
+	},
+	{
+		"uri": "jbr:derechchaim-3-18",
+		"rdfs:label": "דרך חיים - פרק ג - משנה יח"
+	},
+	{
+		"uri": "פרק ד",
+		"uri": "jbr:derechchaim-4-1",
+		"rdfs:label": "דרך חיים - פרק ד - משנה א"
+	},
+	{
+		"uri": "jbr:derechchaim-4-2",
+		"rdfs:label": "דרך חיים - פרק ד - משנה ב"
+	},
+	{
+		"uri": "jbr:derechchaim-4-3",
+		"rdfs:label": "דרך חיים - פרק ד - משנה ג"
+	},
+	{
+		"uri": "jbr:derechchaim-4-4",
+		"rdfs:label": "דרך חיים - פרק ד - משנה ד"
+	},
+	{
+		"uri": "jbr:derechchaim-4-5",
+		"rdfs:label": "דרך חיים - פרק ד - משנה ה"
+	},
+	{
+		"uri": "jbr:derechchaim-4-6",
+		"rdfs:label": "דרך חיים - פרק ד - משנה ו"
+	},
+	{
+		"uri": "jbr:derechchaim-4-7",
+		"rdfs:label": "דרך חיים - פרק ד - משנה ז"
+	},
+	{
+		"uri": "jbr:derechchaim-4-8",
+		"rdfs:label": "דרך חיים - פרק ד - משנה ח"
+	},
+	{
+		"uri": "jbr:derechchaim-4-9",
+		"rdfs:label": "דרך חיים - פרק ד - משנה ט"
+	},
+	{
+		"uri": "jbr:derechchaim-4-10",
+		"rdfs:label": "דרך חיים - פרק ד - משנה י"
+	},
+	{
+		"uri": "jbr:derechchaim-4-11",
+		"rdfs:label": "דרך חיים - פרק ד - משנה יא"
+	},
+	{
+		"uri": "jbr:derechchaim-4-12",
+		"rdfs:label": "דרך חיים - פרק ד - משנה יב"
+	},
+	{
+		"uri": "jbr:derechchaim-4-13",
+		"rdfs:label": "דרך חיים - פרק ד - משנה יג"
+	},
+	{
+		"uri": "jbr:derechchaim-4-14",
+		"rdfs:label": "דרך חיים - פרק ד - משנה יד"
+	},
+	{
+		"uri": "jbr:derechchaim-4-15",
+		"rdfs:label": "דרך חיים - פרק ד - משנה טו"
+	},
+	{
+		"uri": "jbr:derechchaim-4-16",
+		"rdfs:label": "דרך חיים - פרק ד - משנה טז"
+	},
+	{
+		"uri": "jbr:derechchaim-4-17",
+		"rdfs:label": "דרך חיים - פרק ד - משנה יז"
+	},
+	{
+		"uri": "jbr:derechchaim-4-18",
+		"rdfs:label": "דרך חיים - פרק ד - משנה יח"
+	},
+	{
+		"uri": "jbr:derechchaim-4-19",
+		"rdfs:label": "דרך חיים - פרק ד - משנה יט"
+	},
+	{
+		"uri": "jbr:derechchaim-4-20",
+		"rdfs:label": "דרך חיים - פרק ד - משנה כ"
+	},
+	{
+		"uri": "jbr:derechchaim-4-21",
+		"rdfs:label": "דרך חיים - פרק ד - משנה כא"
+	},
+	{
+		"uri": "jbr:derechchaim-4-22",
+		"rdfs:label": "דרך חיים - פרק ד - משנה כב"
+	},
+	{
+		"uri": "פרק ה",
+		"uri": "jbr:derechchaim-5-1",
+		"rdfs:label": "דרך חיים - פרק ה - משנה א"
+	},
+	{
+		"uri": "jbr:derechchaim-5-2",
+		"rdfs:label": "דרך חיים - פרק ה - משנה ב"
+	},
+	{
+		"uri": "jbr:derechchaim-5-3",
+		"rdfs:label": "דרך חיים - פרק ה - משנה ג"
+	},
+	{
+		"uri": "jbr:derechchaim-5-4",
+		"rdfs:label": "דרך חיים - פרק ה - משנה ד"
+	},
+	{
+		"uri": "jbr:derechchaim-5-5",
+		"rdfs:label": "דרך חיים - פרק ה - משנה ה"
+	},
+	{
+		"uri": "jbr:derechchaim-5-6",
+		"rdfs:label": "דרך חיים - פרק ה - משנה ו"
+	},
+	{
+		"uri": "jbr:derechchaim-5-7",
+		"rdfs:label": "דרך חיים - פרק ה - משנה ז"
+	},
+	{
+		"uri": "jbr:derechchaim-5-8",
+		"rdfs:label": "דרך חיים - פרק ה - משנה ח"
+	},
+	{
+		"uri": "jbr:derechchaim-5-9",
+		"rdfs:label": "דרך חיים - פרק ה - משנה ט"
+	}]
+}

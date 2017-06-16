@@ -1,0 +1,262 @@
+{
+	"subjects": [{
+		"uri": "jbr:tiferetisrael",
+		"rdfs:label": "תפארת ישראל"
+	},
+	{
+		"uri": "jbr:tiferetisrael-1",
+		"rdfs:label": "תפארת ישראל - פרק א "
+	},
+	{
+		"uri": "jbr:tiferetisrael-2",
+		"rdfs:label": "תפארת ישראל - פרק ב "
+	},
+	{
+		"uri": "jbr:tiferetisrael-3",
+		"rdfs:label": "תפארת ישראל - פרק ג "
+	},
+	{
+		"uri": "jbr:tiferetisrael-4",
+		"rdfs:label": "תפארת ישראל - פרק ד "
+	},
+	{
+		"uri": "jbr:tiferetisrael-5",
+		"rdfs:label": "תפארת ישראל - פרק ה "
+	},
+	{
+		"uri": "jbr:tiferetisrael-6",
+		"rdfs:label": "תפארת ישראל - פרק ו "
+	},
+	{
+		"uri": "jbr:tiferetisrael-7",
+		"rdfs:label": "תפארת ישראל - פרק ז "
+	},
+	{
+		"uri": "jbr:tiferetisrael-8",
+		"rdfs:label": "תפארת ישראל - פרק ח "
+	},
+	{
+		"uri": "jbr:tiferetisrael-9",
+		"rdfs:label": "תפארת ישראל - פרק ט "
+	},
+	{
+		"uri": "jbr:tiferetisrael-10",
+		"rdfs:label": "תפארת ישראל - פרק י "
+	},
+	{
+		"uri": "jbr:tiferetisrael-11",
+		"rdfs:label": "תפארת ישראל - פרק יא "
+	},
+	{
+		"uri": "jbr:tiferetisrael-12",
+		"rdfs:label": "תפארת ישראל - פרק יב "
+	},
+	{
+		"uri": "jbr:tiferetisrael-13",
+		"rdfs:label": "תפארת ישראל - פרק יג "
+	},
+	{
+		"uri": "jbr:tiferetisrael-14",
+		"rdfs:label": "תפארת ישראל - פרק יד "
+	},
+	{
+		"uri": "jbr:tiferetisrael-15",
+		"rdfs:label": "תפארת ישראל - פרק טו "
+	},
+	{
+		"uri": "jbr:tiferetisrael-16",
+		"rdfs:label": "תפארת ישראל - פרק טז "
+	},
+	{
+		"uri": "jbr:tiferetisrael-17",
+		"rdfs:label": "תפארת ישראל - פרק יז "
+	},
+	{
+		"uri": "jbr:tiferetisrael-18",
+		"rdfs:label": "תפארת ישראל - פרק יח "
+	},
+	{
+		"uri": "jbr:tiferetisrael-19",
+		"rdfs:label": "תפארת ישראל - פרק יט "
+	},
+	{
+		"uri": "jbr:tiferetisrael-20",
+		"rdfs:label": "תפארת ישראל - פרק כ "
+	},
+	{
+		"uri": "jbr:tiferetisrael-21",
+		"rdfs:label": "תפארת ישראל - פרק כא "
+	},
+	{
+		"uri": "jbr:tiferetisrael-22",
+		"rdfs:label": "תפארת ישראל - פרק כב "
+	},
+	{
+		"uri": "jbr:tiferetisrael-23",
+		"rdfs:label": "תפארת ישראל - פרק כג "
+	},
+	{
+		"uri": "jbr:tiferetisrael-24",
+		"rdfs:label": "תפארת ישראל - פרק כד "
+	},
+	{
+		"uri": "jbr:tiferetisrael-25",
+		"rdfs:label": "תפארת ישראל - פרק כה "
+	},
+	{
+		"uri": "jbr:tiferetisrael-26",
+		"rdfs:label": "תפארת ישראל - פרק כו "
+	},
+	{
+		"uri": "jbr:tiferetisrael-27",
+		"rdfs:label": "תפארת ישראל - פרק כז "
+	},
+	{
+		"uri": "jbr:tiferetisrael-28",
+		"rdfs:label": "תפארת ישראל - פרק כח "
+	},
+	{
+		"uri": "jbr:tiferetisrael-29",
+		"rdfs:label": "תפארת ישראל - פרק כט "
+	},
+	{
+		"uri": "jbr:tiferetisrael-30",
+		"rdfs:label": "תפארת ישראל - פרק ל "
+	},
+	{
+		"uri": "jbr:tiferetisrael-31",
+		"rdfs:label": "תפארת ישראל - פרק לא "
+	},
+	{
+		"uri": "jbr:tiferetisrael-32",
+		"rdfs:label": "תפארת ישראל - פרק לב "
+	},
+	{
+		"uri": "jbr:tiferetisrael-33",
+		"rdfs:label": "תפארת ישראל - פרק לג "
+	},
+	{
+		"uri": "jbr:tiferetisrael-34",
+		"rdfs:label": "תפארת ישראל - פרק לד "
+	},
+	{
+		"uri": "jbr:tiferetisrael-35",
+		"rdfs:label": "תפארת ישראל - פרק לה "
+	},
+	{
+		"uri": "jbr:tiferetisrael-36",
+		"rdfs:label": "תפארת ישראל - פרק לו "
+	},
+	{
+		"uri": "jbr:tiferetisrael-37",
+		"rdfs:label": "תפארת ישראל - פרק לז "
+	},
+	{
+		"uri": "jbr:tiferetisrael-38",
+		"rdfs:label": "תפארת ישראל - פרק לח "
+	},
+	{
+		"uri": "jbr:tiferetisrael-39",
+		"rdfs:label": "תפארת ישראל - פרק לט "
+	},
+	{
+		"uri": "jbr:tiferetisrael-40",
+		"rdfs:label": "תפארת ישראל - פרק מ "
+	},
+	{
+		"uri": "jbr:tiferetisrael-41",
+		"rdfs:label": "תפארת ישראל - פרק מא "
+	},
+	{
+		"uri": "jbr:tiferetisrael-42",
+		"rdfs:label": "תפארת ישראל - פרק מב "
+	},
+	{
+		"uri": "jbr:tiferetisrael-43",
+		"rdfs:label": "תפארת ישראל - פרק מג "
+	},
+	{
+		"uri": "jbr:tiferetisrael-44",
+		"rdfs:label": "תפארת ישראל - פרק מד "
+	},
+	{
+		"uri": "jbr:tiferetisrael-45",
+		"rdfs:label": "תפארת ישראל - פרק מה "
+	},
+	{
+		"uri": "jbr:tiferetisrael-46",
+		"rdfs:label": "תפארת ישראל - פרק מו "
+	},
+	{
+		"uri": "jbr:tiferetisrael-47",
+		"rdfs:label": "תפארת ישראל - פרק מז "
+	},
+	{
+		"uri": "jbr:tiferetisrael-48",
+		"rdfs:label": "תפארת ישראל - פרק מח "
+	},
+	{
+		"uri": "jbr:tiferetisrael-49",
+		"rdfs:label": "תפארת ישראל - פרק מט "
+	},
+	{
+		"uri": "jbr:tiferetisrael-50",
+		"rdfs:label": "תפארת ישראל - פרק נ "
+	},
+	{
+		"uri": "jbr:tiferetisrael-51",
+		"rdfs:label": "תפארת ישראל - פרק נא "
+	},
+	{
+		"uri": "jbr:tiferetisrael-52",
+		"rdfs:label": "תפארת ישראל - פרק נב "
+	},
+	{
+		"uri": "jbr:tiferetisrael-53",
+		"rdfs:label": "תפארת ישראל - פרק נג "
+	},
+	{
+		"uri": "jbr:tiferetisrael-54",
+		"rdfs:label": "תפארת ישראל - פרק נד "
+	},
+	{
+		"uri": "jbr:tiferetisrael-55",
+		"rdfs:label": "תפארת ישראל - פרק נה "
+	},
+	{
+		"uri": "jbr:tiferetisrael-56",
+		"rdfs:label": "תפארת ישראל - פרק נו "
+	},
+	{
+		"uri": "jbr:tiferetisrael-57",
+		"rdfs:label": "תפארת ישראל - פרק נז "
+	},
+	{
+		"uri": "jbr:tiferetisrael-58",
+		"rdfs:label": "תפארת ישראל - פרק נח "
+	},
+	{
+		"uri": "jbr:tiferetisrael-59",
+		"rdfs:label": "תפארת ישראל - פרק נט "
+	},
+	{
+		"uri": "jbr:tiferetisrael-60",
+		"rdfs:label": "תפארת ישראל - פרק ס "
+	},
+	{
+		"uri": "jbr:tiferetisrael-61",
+		"rdfs:label": "תפארת ישראל - פרק סא "
+	},
+	{
+		"uri": "jbr:tiferetisrael-62",
+		"rdfs:label": "תפארת ישראל - פרק סב "
+	},
+	{
+		"uri": "jbr:tiferetisrael-63",
+		"rdfs:label": "תפארת ישראל - פרק סג "
+	},
+	{
+		"uri": "jbr:tiferetisrael-64",
+		"rdfs:label": "תפארת ישראל - פרק סד "
+	}]
+}

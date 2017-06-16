@@ -1,0 +1,262 @@
+{
+	"subjects": [{
+		"uri": "jbr:netzachisrael",
+		"rdfs:label": "נצח ישראל"
+	},
+	{
+		"uri": "jbr:netzachisrael-1",
+		"rdfs:label": "נצח ישראל - פרק א "
+	},
+	{
+		"uri": "jbr:netzachisrael-2",
+		"rdfs:label": "נצח ישראל - פרק ב "
+	},
+	{
+		"uri": "jbr:netzachisrael-3",
+		"rdfs:label": "נצח ישראל - פרק ג "
+	},
+	{
+		"uri": "jbr:netzachisrael-4",
+		"rdfs:label": "נצח ישראל - פרק ד "
+	},
+	{
+		"uri": "jbr:netzachisrael-5",
+		"rdfs:label": "נצח ישראל - פרק ה "
+	},
+	{
+		"uri": "jbr:netzachisrael-6",
+		"rdfs:label": "נצח ישראל - פרק ו "
+	},
+	{
+		"uri": "jbr:netzachisrael-7",
+		"rdfs:label": "נצח ישראל - פרק ז "
+	},
+	{
+		"uri": "jbr:netzachisrael-8",
+		"rdfs:label": "נצח ישראל - פרק ח "
+	},
+	{
+		"uri": "jbr:netzachisrael-9",
+		"rdfs:label": "נצח ישראל - פרק ט "
+	},
+	{
+		"uri": "jbr:netzachisrael-10",
+		"rdfs:label": "נצח ישראל - פרק י "
+	},
+	{
+		"uri": "jbr:netzachisrael-11",
+		"rdfs:label": "נצח ישראל - פרק יא "
+	},
+	{
+		"uri": "jbr:netzachisrael-12",
+		"rdfs:label": "נצח ישראל - פרק יב "
+	},
+	{
+		"uri": "jbr:netzachisrael-13",
+		"rdfs:label": "נצח ישראל - פרק יג "
+	},
+	{
+		"uri": "jbr:netzachisrael-14",
+		"rdfs:label": "נצח ישראל - פרק יד "
+	},
+	{
+		"uri": "jbr:netzachisrael-15",
+		"rdfs:label": "נצח ישראל - פרק טו "
+	},
+	{
+		"uri": "jbr:netzachisrael-16",
+		"rdfs:label": "נצח ישראל - פרק טז "
+	},
+	{
+		"uri": "jbr:netzachisrael-17",
+		"rdfs:label": "נצח ישראל - פרק יז "
+	},
+	{
+		"uri": "jbr:netzachisrael-18",
+		"rdfs:label": "נצח ישראל - פרק יח "
+	},
+	{
+		"uri": "jbr:netzachisrael-19",
+		"rdfs:label": "נצח ישראל - פרק יט "
+	},
+	{
+		"uri": "jbr:netzachisrael-20",
+		"rdfs:label": "נצח ישראל - פרק כ "
+	},
+	{
+		"uri": "jbr:netzachisrael-21",
+		"rdfs:label": "נצח ישראל - פרק כא "
+	},
+	{
+		"uri": "jbr:netzachisrael-22",
+		"rdfs:label": "נצח ישראל - פרק כב "
+	},
+	{
+		"uri": "jbr:netzachisrael-23",
+		"rdfs:label": "נצח ישראל - פרק כג "
+	},
+	{
+		"uri": "jbr:netzachisrael-24",
+		"rdfs:label": "נצח ישראל - פרק כד "
+	},
+	{
+		"uri": "jbr:netzachisrael-25",
+		"rdfs:label": "נצח ישראל - פרק כה "
+	},
+	{
+		"uri": "jbr:netzachisrael-26",
+		"rdfs:label": "נצח ישראל - פרק כו "
+	},
+	{
+		"uri": "jbr:netzachisrael-27",
+		"rdfs:label": "נצח ישראל - פרק כז "
+	},
+	{
+		"uri": "jbr:netzachisrael-28",
+		"rdfs:label": "נצח ישראל - פרק כח "
+	},
+	{
+		"uri": "jbr:netzachisrael-29",
+		"rdfs:label": "נצח ישראל - פרק כט "
+	},
+	{
+		"uri": "jbr:netzachisrael-30",
+		"rdfs:label": "נצח ישראל - פרק ל "
+	},
+	{
+		"uri": "jbr:netzachisrael-31",
+		"rdfs:label": "נצח ישראל - פרק לא "
+	},
+	{
+		"uri": "jbr:netzachisrael-32",
+		"rdfs:label": "נצח ישראל - פרק לב "
+	},
+	{
+		"uri": "jbr:netzachisrael-33",
+		"rdfs:label": "נצח ישראל - פרק לג "
+	},
+	{
+		"uri": "jbr:netzachisrael-34",
+		"rdfs:label": "נצח ישראל - פרק לד "
+	},
+	{
+		"uri": "jbr:netzachisrael-35",
+		"rdfs:label": "נצח ישראל - פרק לה "
+	},
+	{
+		"uri": "jbr:netzachisrael-36",
+		"rdfs:label": "נצח ישראל - פרק לו "
+	},
+	{
+		"uri": "jbr:netzachisrael-37",
+		"rdfs:label": "נצח ישראל - פרק לז "
+	},
+	{
+		"uri": "jbr:netzachisrael-38",
+		"rdfs:label": "נצח ישראל - פרק לח "
+	},
+	{
+		"uri": "jbr:netzachisrael-39",
+		"rdfs:label": "נצח ישראל - פרק לט "
+	},
+	{
+		"uri": "jbr:netzachisrael-40",
+		"rdfs:label": "נצח ישראל - פרק מ "
+	},
+	{
+		"uri": "jbr:netzachisrael-41",
+		"rdfs:label": "נצח ישראל - פרק מא "
+	},
+	{
+		"uri": "jbr:netzachisrael-42",
+		"rdfs:label": "נצח ישראל - פרק מב "
+	},
+	{
+		"uri": "jbr:netzachisrael-43",
+		"rdfs:label": "נצח ישראל - פרק מג "
+	},
+	{
+		"uri": "jbr:netzachisrael-44",
+		"rdfs:label": "נצח ישראל - פרק מד "
+	},
+	{
+		"uri": "jbr:netzachisrael-45",
+		"rdfs:label": "נצח ישראל - פרק מה "
+	},
+	{
+		"uri": "jbr:netzachisrael-46",
+		"rdfs:label": "נצח ישראל - פרק מו "
+	},
+	{
+		"uri": "jbr:netzachisrael-47",
+		"rdfs:label": "נצח ישראל - פרק מז "
+	},
+	{
+		"uri": "jbr:netzachisrael-48",
+		"rdfs:label": "נצח ישראל - פרק מח "
+	},
+	{
+		"uri": "jbr:netzachisrael-49",
+		"rdfs:label": "נצח ישראל - פרק מט "
+	},
+	{
+		"uri": "jbr:netzachisrael-50",
+		"rdfs:label": "נצח ישראל - פרק נ "
+	},
+	{
+		"uri": "jbr:netzachisrael-51",
+		"rdfs:label": "נצח ישראל - פרק נא "
+	},
+	{
+		"uri": "jbr:netzachisrael-52",
+		"rdfs:label": "נצח ישראל - פרק נב "
+	},
+	{
+		"uri": "jbr:netzachisrael-53",
+		"rdfs:label": "נצח ישראל - פרק נג "
+	},
+	{
+		"uri": "jbr:netzachisrael-54",
+		"rdfs:label": "נצח ישראל - פרק נד "
+	},
+	{
+		"uri": "jbr:netzachisrael-55",
+		"rdfs:label": "נצח ישראל - פרק נה "
+	},
+	{
+		"uri": "jbr:netzachisrael-56",
+		"rdfs:label": "נצח ישראל - פרק נו "
+	},
+	{
+		"uri": "jbr:netzachisrael-57",
+		"rdfs:label": "נצח ישראל - פרק נז "
+	},
+	{
+		"uri": "jbr:netzachisrael-58",
+		"rdfs:label": "נצח ישראל - פרק נח "
+	},
+	{
+		"uri": "jbr:netzachisrael-59",
+		"rdfs:label": "נצח ישראל - פרק נט "
+	},
+	{
+		"uri": "jbr:netzachisrael-60",
+		"rdfs:label": "נצח ישראל - פרק ס "
+	},
+	{
+		"uri": "jbr:netzachisrael-61",
+		"rdfs:label": "נצח ישראל - פרק סא "
+	},
+	{
+		"uri": "jbr:netzachisrael-62",
+		"rdfs:label": "נצח ישראל - פרק סב "
+	},
+	{
+		"uri": "jbr:netzachisrael-63",
+		"rdfs:label": "נצח ישראל - פרק סג "
+	},
+	{
+		"uri": "jbr:netzachisrael-64",
+		"rdfs:label": "נצח ישראל - פרק סד "
+	}]
+}
