@@ -1,0 +1,438 @@
+{
+	"subjects": [{
+		"uri": "jbr:haemunotvehadeot",
+		"rdfs:label": "האמונות והדעות"
+	},
+	{
+		"uri": "haemunotvehadeot - hakdama",
+		"rdfs:label": "האמונות והדעות - הקדמה"
+	},
+	{
+		"uri": "haemunotvehadeot - 1",
+		"rdfs:label": "האמונות והדעות - מאמר הראשון חדוש"
+	},
+	{
+		"uri": "haemunotvehadeot - 1 - 1",
+		"rdfs:label": "האמונות והדעות - מאמר הראשון חדוש - פרק א"
+	},
+	{
+		"uri": "haemunotvehadeot - 1 - 2",
+		"rdfs:label": "האמונות והדעות - מאמר הראשון חדוש - פרק ב"
+	},
+	{
+		"uri": "haemunotvehadeot - 1 - 3",
+		"rdfs:label": "האמונות והדעות - מאמר הראשון חדוש - פרק ג"
+	},
+	{
+		"uri": "haemunotvehadeot - 1 - 4",
+		"rdfs:label": "האמונות והדעות - מאמר הראשון חדוש - פרק ד"
+	},
+	{
+		"uri": "haemunotvehadeot - 1 - 5",
+		"rdfs:label": "האמונות והדעות - מאמר הראשון חדוש - פרק ה"
+	},
+	{
+		"uri": "haemunotvehadeot - 2",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 1",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק א"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 2",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק ב"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 3",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק ג"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 4",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק ד"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 5",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק ה"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 6",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק ו"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 7",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק ז"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 8",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק ח"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 9",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק ט"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 10",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק י"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 11",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק יא"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 12",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק יב"
+	},
+	{
+		"uri": "haemunotvehadeot - 2 - 13",
+		"rdfs:label": "האמונות והדעות - מאמר השני אחדות - פרק יג"
+	},
+	{
+		"uri": "haemunotvehadeot - 3",
+		"rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה"
+	},
+	{
+		"uri": "haemunotvehadeot - 3 - 1",
+		"rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה - פרק א"
+	},
+	{
+		"uri": "haemunotvehadeot - 3 - 2",
+		"rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה - פרק ב"
+	},
+	{
+		"uri": "haemunotvehadeot - 3 - 3",
+		"rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה - פרק ג"
+	},
+	{
+		"uri": "haemunotvehadeot - 3 - 4",
+		"rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה - פרק ד"
+	},
+	{
+		"uri": "haemunotvehadeot - 3 - 5",
+		"rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה - פרק ה"
+	},
+	{
+		"uri": "haemunotvehadeot - 3 - 6",
+		"rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה - פרק ו"
+	},
+	{
+		"uri": "haemunotvehadeot - 3 - 7",
+		"rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה - פרק ז"
+	},
+	{
+		"uri": "haemunotvehadeot - 3 - 8",
+		"rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה - פרק ח"
+	},
+	{
+		"uri": "haemunotvehadeot - 3 - 9",
+		"rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה - פרק ט"
+	},
+	{
+		"uri": "haemunotvehadeot - 3 - 10",
+		"rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה - פרק י"
+	},
+	{
+		"uri": "haemunotvehadeot - 4",
+		"rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי"
+	},
+	{
+		"uri": "haemunotvehadeot - 4 - 1",
+		"rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי - פרק א"
+	},
+	{
+		"uri": "haemunotvehadeot - 4 - 2",
+		"rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי - פרק ב"
+	},
+	{
+		"uri": "haemunotvehadeot - 4 - 3",
+		"rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי - פרק ג"
+	},
+	{
+		"uri": "haemunotvehadeot - 4 - 4",
+		"rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי - פרק ד"
+	},
+	{
+		"uri": "haemunotvehadeot - 4 - 5",
+		"rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי - פרק ה"
+	},
+	{
+		"uri": "haemunotvehadeot - 4 - 6",
+		"rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי - פרק ו"
+	},
+	{
+		"uri": "haemunotvehadeot - 5",
+		"rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות"
+	},
+	{
+		"uri": "haemunotvehadeot - 5 - 1",
+		"rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות - פרק א"
+	},
+	{
+		"uri": "haemunotvehadeot - 5 - 2",
+		"rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות - פרק ב"
+	},
+	{
+		"uri": "haemunotvehadeot - 5 - 3",
+		"rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות - פרק ג"
+	},
+	{
+		"uri": "haemunotvehadeot - 5 - 4",
+		"rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות - פרק ד"
+	},
+	{
+		"uri": "haemunotvehadeot - 5 - 5",
+		"rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות - פרק ה"
+	},
+	{
+		"uri": "haemunotvehadeot - 5 - 6",
+		"rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות - פרק ו"
+	},
+	{
+		"uri": "haemunotvehadeot - 5 - 7",
+		"rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות - פרק ז"
+	},
+	{
+		"uri": "haemunotvehadeot - 5 - 8",
+		"rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות - פרק ח"
+	},
+	{
+		"uri": "haemunotvehadeot - 6",
+		"rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש"
+	},
+	{
+		"uri": "haemunotvehadeot - 6 - 1",
+		"rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש - פרק א"
+	},
+	{
+		"uri": "haemunotvehadeot - 6 - 2",
+		"rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש - פרק ב"
+	},
+	{
+		"uri": "haemunotvehadeot - 6 - 3",
+		"rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש - פרק ג"
+	},
+	{
+		"uri": "haemunotvehadeot - 6 - 4",
+		"rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש - פרק ד"
+	},
+	{
+		"uri": "haemunotvehadeot - 6 - 5",
+		"rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש - פרק ה"
+	},
+	{
+		"uri": "haemunotvehadeot - 6 - 6",
+		"rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש - פרק ו"
+	},
+	{
+		"uri": "haemunotvehadeot - 6 - 7",
+		"rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש - פרק ז"
+	},
+	{
+		"uri": "haemunotvehadeot - 6 - 8",
+		"rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש - פרק ח"
+	},
+	{
+		"uri": "haemunotvehadeot - 7",
+		"rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים"
+	},
+	{
+		"uri": "haemunotvehadeot - 7 - 1",
+		"rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים - פרק א"
+	},
+	{
+		"uri": "haemunotvehadeot - 7 - 2",
+		"rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים - פרק ב"
+	},
+	{
+		"uri": "haemunotvehadeot - 7 - 3",
+		"rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים - פרק ג"
+	},
+	{
+		"uri": "haemunotvehadeot - 7 - 4",
+		"rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים - פרק ד"
+	},
+	{
+		"uri": "haemunotvehadeot - 7 - 5",
+		"rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים - פרק ה"
+	},
+	{
+		"uri": "haemunotvehadeot - 7 - 6",
+		"rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים - פרק ו"
+	},
+	{
+		"uri": "haemunotvehadeot - 7 - 7",
+		"rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים - פרק ז"
+	},
+	{
+		"uri": "haemunotvehadeot - 7 - 8",
+		"rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים - פרק ח"
+	},
+	{
+		"uri": "haemunotvehadeot - 8",
+		"rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה"
+	},
+	{
+		"uri": "haemunotvehadeot - 8 - 1",
+		"rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה - פרק א"
+	},
+	{
+		"uri": "haemunotvehadeot - 8 - 2",
+		"rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה - פרק ב"
+	},
+	{
+		"uri": "haemunotvehadeot - 8 - 3",
+		"rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה - פרק ג"
+	},
+	{
+		"uri": "haemunotvehadeot - 8 - 4",
+		"rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה - פרק ד"
+	},
+	{
+		"uri": "haemunotvehadeot - 8 - 5",
+		"rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה - פרק ה"
+	},
+	{
+		"uri": "haemunotvehadeot - 8 - 6",
+		"rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה - פרק ו"
+	},
+	{
+		"uri": "haemunotvehadeot - 8 - 7",
+		"rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה - פרק ז"
+	},
+	{
+		"uri": "haemunotvehadeot - 8 - 8",
+		"rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה - פרק ח"
+	},
+	{
+		"uri": "haemunotvehadeot - 8 - 9",
+		"rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה - פרק ט"
+	},
+	{
+		"uri": "haemunotvehadeot - 9",
+		"rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש"
+	},
+	{
+		"uri": "haemunotvehadeot - 9 - 1",
+		"rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש - פרק א"
+	},
+	{
+		"uri": "haemunotvehadeot - 9 - 2",
+		"rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש - פרק ב"
+	},
+	{
+		"uri": "haemunotvehadeot - 9 - 3",
+		"rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש - פרק ג"
+	},
+	{
+		"uri": "haemunotvehadeot - 9 - 4",
+		"rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש - פרק ד"
+	},
+	{
+		"uri": "haemunotvehadeot - 9 - 5",
+		"rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש - פרק ה"
+	},
+	{
+		"uri": "haemunotvehadeot - 9 - 6",
+		"rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש - פרק ו"
+	},
+	{
+		"uri": "haemunotvehadeot - 9 - 7",
+		"rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש - פרק ז"
+	},
+	{
+		"uri": "haemunotvehadeot - 9 - 8",
+		"rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש - פרק ח"
+	},
+	{
+		"uri": "haemunotvehadeot - 9 - 9",
+		"rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש - פרק ט"
+	},
+	{
+		"uri": "haemunotvehadeot - 9 - 10",
+		"rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש - פרק י"
+	},
+	{
+		"uri": "haemunotvehadeot - 9 - 11",
+		"rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש - פרק יא"
+	},
+	{
+		"uri": "haemunotvehadeot - 10",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 1",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק א"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 2",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק ב"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 3",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק ג"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 4",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק ד"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 5",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק ה"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 6",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק ו"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 7",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק ז"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 8",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק ח"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 9",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק ט"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 10",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק י"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 11",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק יא"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 12",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק יב"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 13",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק יג"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 14",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק יד"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 15",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק טו"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 16",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק טז"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 17",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק יז"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 18",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק יח"
+	},
+	{
+		"uri": "haemunotvehadeot - 10 - 19",
+		"rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם - פרק יט"
+	}]
+}
