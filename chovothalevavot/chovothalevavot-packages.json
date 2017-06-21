@@ -12,355 +12,39 @@
 		"rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד"
 	},
 	{
-		"uri": "chovothalevavot - 1 - 1",
-		"rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - פרק א"
-	},
-	{
-		"uri": "chovothalevavot - 1 - 2",
-		"rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - פרק ב"
-	},
-	{
-		"uri": "chovothalevavot - 1 - 3",
-		"rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - פרק ג"
-	},
-	{
-		"uri": "chovothalevavot - 1 - 4",
-		"rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - פרק ד"
-	},
-	{
-		"uri": "chovothalevavot - 1 - 5",
-		"rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - פרק ה"
-	},
-	{
-		"uri": "chovothalevavot - 1 - 6",
-		"rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - פרק ו"
-	},
-	{
-		"uri": "chovothalevavot - 1 - 7",
-		"rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - פרק ז"
-	},
-	{
-		"uri": "chovothalevavot - 1 - 8",
-		"rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - פרק ח"
-	},
-	{
-		"uri": "chovothalevavot - 1 - 9",
-		"rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - פרק ט"
-	},
-	{
-		"uri": "chovothalevavot - 1 - 10",
-		"rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - פרק י"
-	},
-	{
 		"uri": "chovothalevavot - 2",
 		"rdfs:label": "חובות הלבבות - שער שני - שער הבחינה"
-	},
-	{
-		"uri": "chovothalevavot - 2 - 1",
-		"rdfs:label": "חובות הלבבות - שער שני - שער הבחינה - פרק א"
-	},
-	{
-		"uri": "chovothalevavot - 2 - 2",
-		"rdfs:label": "חובות הלבבות - שער שני - שער הבחינה - פרק ב"
-	},
-	{
-		"uri": "chovothalevavot - 2 - 3",
-		"rdfs:label": "חובות הלבבות - שער שני - שער הבחינה - פרק ג"
-	},
-	{
-		"uri": "chovothalevavot - 2 - 4",
-		"rdfs:label": "חובות הלבבות - שער שני - שער הבחינה - פרק ד"
-	},
-	{
-		"uri": "chovothalevavot - 2 - 5",
-		"rdfs:label": "חובות הלבבות - שער שני - שער הבחינה - פרק ה"
-	},
-	{
-		"uri": "chovothalevavot - 2 - 6",
-		"rdfs:label": "חובות הלבבות - שער שני - שער הבחינה - פרק ו"
 	},
 	{
 		"uri": "chovothalevavot - 3",
 		"rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים"
 	},
 	{
-		"uri": "chovothalevavot - 3 - 1",
-		"rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - פרק א"
-	},
-	{
-		"uri": "chovothalevavot - 3 - 2",
-		"rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - פרק ב"
-	},
-	{
-		"uri": "chovothalevavot - 3 - 3",
-		"rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - פרק ג"
-	},
-	{
-		"uri": "chovothalevavot - 3 - 4",
-		"rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - פרק ד"
-	},
-	{
-		"uri": "chovothalevavot - 3 - 5",
-		"rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - פרק ה"
-	},
-	{
-		"uri": "chovothalevavot - 3 - 6",
-		"rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - פרק ו"
-	},
-	{
-		"uri": "chovothalevavot - 3 - 7",
-		"rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - פרק ז"
-	},
-	{
-		"uri": "chovothalevavot - 3 - 8",
-		"rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - פרק ח"
-	},
-	{
-		"uri": "chovothalevavot - 3 - 9",
-		"rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - פרק ט"
-	},
-	{
-		"uri": "chovothalevavot - 3 - 10",
-		"rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - פרק י"
-	},
-	{
 		"uri": "chovothalevavot - 4",
 		"rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון"
-	},
-	{
-		"uri": "chovothalevavot - 4 - 1",
-		"rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - פרק א"
-	},
-	{
-		"uri": "chovothalevavot - 4 - 2",
-		"rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - פרק ב"
-	},
-	{
-		"uri": "chovothalevavot - 4 - 3",
-		"rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - פרק ג"
-	},
-	{
-		"uri": "chovothalevavot - 4 - 4",
-		"rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - פרק ד"
-	},
-	{
-		"uri": "chovothalevavot - 4 - 5",
-		"rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - פרק ה"
-	},
-	{
-		"uri": "chovothalevavot - 4 - 6",
-		"rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - פרק ו"
-	},
-	{
-		"uri": "chovothalevavot - 4 - 7",
-		"rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - פרק ז"
 	},
 	{
 		"uri": "chovothalevavot - 5",
 		"rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה"
 	},
 	{
-		"uri": "chovothalevavot - 5 - 1",
-		"rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה - פרק א"
-	},
-	{
-		"uri": "chovothalevavot - 5 - 2",
-		"rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה - פרק ב"
-	},
-	{
-		"uri": "chovothalevavot - 5 - 3",
-		"rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה - פרק ג"
-	},
-	{
-		"uri": "chovothalevavot - 5 - 4",
-		"rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה - פרק ד"
-	},
-	{
-		"uri": "chovothalevavot - 5 - 5",
-		"rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה - פרק ה"
-	},
-	{
-		"uri": "chovothalevavot - 5 - 6",
-		"rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה - פרק ו"
-	},
-	{
 		"uri": "chovothalevavot - 6",
 		"rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה"
-	},
-	{
-		"uri": "chovothalevavot - 6 - 1",
-		"rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - פרק א"
-	},
-	{
-		"uri": "chovothalevavot - 6 - 2",
-		"rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - פרק ב"
-	},
-	{
-		"uri": "chovothalevavot - 6 - 3",
-		"rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - פרק ג"
-	},
-	{
-		"uri": "chovothalevavot - 6 - 4",
-		"rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - פרק ד"
-	},
-	{
-		"uri": "chovothalevavot - 6 - 5",
-		"rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - פרק ה"
-	},
-	{
-		"uri": "chovothalevavot - 6 - 6",
-		"rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - פרק ו"
-	},
-	{
-		"uri": "chovothalevavot - 6 - 7",
-		"rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - פרק ז"
-	},
-	{
-		"uri": "chovothalevavot - 6 - 8",
-		"rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - פרק ח"
-	},
-	{
-		"uri": "chovothalevavot - 6 - 9",
-		"rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - פרק ט"
-	},
-	{
-		"uri": "chovothalevavot - 6 - 10",
-		"rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - פרק י"
 	},
 	{
 		"uri": "chovothalevavot - 7",
 		"rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה"
 	},
 	{
-		"uri": "chovothalevavot - 7 - 1",
-		"rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - פרק א"
-	},
-	{
-		"uri": "chovothalevavot - 7 - 2",
-		"rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - פרק ב"
-	},
-	{
-		"uri": "chovothalevavot - 7 - 3",
-		"rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - פרק ג"
-	},
-	{
-		"uri": "chovothalevavot - 7 - 4",
-		"rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - פרק ד"
-	},
-	{
-		"uri": "chovothalevavot - 7 - 5",
-		"rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - פרק ה"
-	},
-	{
-		"uri": "chovothalevavot - 7 - 6",
-		"rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - פרק ו"
-	},
-	{
-		"uri": "chovothalevavot - 7 - 7",
-		"rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - פרק ז"
-	},
-	{
-		"uri": "chovothalevavot - 7 - 8",
-		"rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - פרק ח"
-	},
-	{
-		"uri": "chovothalevavot - 7 - 9",
-		"rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - פרק ט"
-	},
-	{
-		"uri": "chovothalevavot - 7 - 10",
-		"rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - פרק י"
-	},
-	{
 		"uri": "chovothalevavot - 8",
 		"rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש"
-	},
-	{
-		"uri": "chovothalevavot - 8 - 1",
-		"rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש - פרק א"
-	},
-	{
-		"uri": "chovothalevavot - 8 - 2",
-		"rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש - פרק ב"
-	},
-	{
-		"uri": "chovothalevavot - 8 - 3",
-		"rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש - פרק ג"
-	},
-	{
-		"uri": "chovothalevavot - 8 - 4",
-		"rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש - פרק ד"
-	},
-	{
-		"uri": "chovothalevavot - 8 - 5",
-		"rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש - פרק ה"
-	},
-	{
-		"uri": "chovothalevavot - 8 - 6",
-		"rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש - פרק ו"
 	},
 	{
 		"uri": "chovothalevavot - 9",
 		"rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות"
 	},
 	{
-		"uri": "chovothalevavot - 9 - 1",
-		"rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - פרק א"
-	},
-	{
-		"uri": "chovothalevavot - 9 - 2",
-		"rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - פרק ב"
-	},
-	{
-		"uri": "chovothalevavot - 9 - 3",
-		"rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - פרק ג"
-	},
-	{
-		"uri": "chovothalevavot - 9 - 4",
-		"rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - פרק ד"
-	},
-	{
-		"uri": "chovothalevavot - 9 - 5",
-		"rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - פרק ה"
-	},
-	{
-		"uri": "chovothalevavot - 9 - 6",
-		"rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - פרק ו"
-	},
-	{
-		"uri": "chovothalevavot - 9 - 7",
-		"rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - פרק ז"
-	},
-	{
 		"uri": "chovothalevavot - 10",
 		"rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה'"
-	},
-	{
-		"uri": "chovothalevavot - 10 - 1",
-		"rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - פרק א"
-	},
-	{
-		"uri": "chovothalevavot - 10 - 2",
-		"rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - פרק ב"
-	},
-	{
-		"uri": "chovothalevavot - 10 - 3",
-		"rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - פרק ג"
-	},
-	{
-		"uri": "chovothalevavot - 10 - 4",
-		"rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - פרק ד"
-	},
-	{
-		"uri": "chovothalevavot - 10 - 5",
-		"rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - פרק ה"
-	},
-	{
-		"uri": "chovothalevavot - 10 - 6",
-		"rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - פרק ו"
-	},
-	{
-		"uri": "chovothalevavot - 10 - 7",
-		"rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - פרק ז"
 	}]
 }
