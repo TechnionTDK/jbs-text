@@ -1,12 +1,10 @@
 {"subjects":[
-"dc:subject" : "jbr:category-machashava"
-"dc:subject" : "jbr:category-haravkook"
 {
-"uri" : "jbr:category-machashava"
+"uri" : "jbr:category-machashava",
 "rdfs:label" : "מחשבה"
 },
 {
-"uri" : "jbr:category-haravkook"
+"uri" : "jbr:category-haravkook",
 "rdfs:label" : "הרב קוק"
 }
 ]}
