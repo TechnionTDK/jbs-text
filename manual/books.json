@@ -1,0 +1,14 @@
+{"subjects":[
+{
+"uri" : "jbr:book-orot",
+"rdfs:label" : "אורות",
+"jbo:author" : "jbr:person-haravkook",
+"dc:subject" : ["jbr:category-machashava", "jbr:category-haravkook"]
+},
+{
+"uri" : "jbr:book-orothakodesh",
+"rdfs:label" : "אורות הקודש",
+"jbo:author" : "jbr:person-haravkook",
+"dc:subject" : ["jbr:category-machashava", "jbr:category-haravkook"]
+}
+]}

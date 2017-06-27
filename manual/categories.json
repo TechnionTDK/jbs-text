@@ -1,0 +1,10 @@
+{"subjects":[
+{
+"uri" : "jbr:category-machashava",
+"rdfs:label" : "מחשבה"
+},
+{
+"uri" : "jbr:category-haravkook",
+"rdfs:label" : "הרב קוק"
+}
+]}
