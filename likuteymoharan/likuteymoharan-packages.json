@@ -1,1 +1,1 @@
-{"subjects":[{"uri":"jbr:likuteymoharan","rdfs:label":"ליקוטי מוהר''ן"},{"uri":"jbr:likuteymoharan-1","rdfs:label":"ליקוטי מוהר''ן - חלק א","jbo:position":"1"},{"uri":"jbr:likuteymoharan-2","rdfs:label":"ליקוטי מוהר''ן - חלק ב","jbo:position":"2"}]}
+{"subjects":[{"uri":"jbr:likuteymoharan-1","rdfs:label":"ליקוטי מוהר''ן - חלק א","jbo:position":"1","jbo:book":"jbr:book-likuteymoharan"},{"uri":"jbr:likuteymoharan-2","rdfs:label":"ליקוטי מוהר''ן - חלק ב","jbo:position":"2","jbo:book":"jbr:book-likuteymoharan"}]}
