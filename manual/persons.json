@@ -1,10 +1,26 @@
 {"subjects":[
 {
-"uri" : "jbr:person-haravkook",
+"uri" : "jbr:person-1",
 "rdfs:label" : "הרב קוק",
-"jbo:alias" : ["הראי\"ה", "אברהם יצחק הכהן קוק"],
+"jbo:alias" :["הרב קוק", "הראי\"ה", "אברהם יצחק הכהן קוק"],
 "jbo:title" : "Rabbi",
 "jbo:birthYear" : "1865",
 "jbo:deathYear" : "1935"
+},
+{
+"uri" : "jbr:person-2",
+"rdfs:label" : "מהר\"ל",
+"jbo:alias" : ["מהר\"ל", "מהר\"ל מפראג", "יהודה ליווא בן בצלאל", "המהר\"ל"],
+"jbo:title" : "Rabbi",
+"jbo:birthYear" : "1520",
+"jbo:deathYear" : "1609"
+},
+{
+"uri" : "jbr:person-3",
+"rdfs:label" : "רבינו בחיי אבן פקודה",
+"jbo:alias" : ["רבינו בחיי אבן פקודה", "רבינו בחיי בן יוסף אבן פקודה", "רבינו בחיי"],
+"jbo:title" : "Rabbi",
+"jbo:birthYear" : "1050",
+"jbo:deathYear" : "1120"
 }
 ]}

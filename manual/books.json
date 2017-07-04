@@ -2,13 +2,26 @@
 {
 "uri" : "jbr:book-orot",
 "rdfs:label" : "אורות",
-"jbo:author" : "jbr:person-haravkook",
+"jbo:author" : "jbr:person-1",
 "dc:subject" : ["jbr:category-machashava", "jbr:category-haravkook"]
 },
 {
 "uri" : "jbr:book-orothakodesh",
 "rdfs:label" : "אורות הקודש",
-"jbo:author" : "jbr:person-haravkook",
+"jbo:author" : "jbr:person-1",
 "dc:subject" : ["jbr:category-machashava", "jbr:category-haravkook"]
-}
+},
+{
+"uri" : "jbr:book-chovothalevavot",
+"rdfs:label" : "חובות הלבבות",
+"jbo:author" : "jbr:person-haravkook",
+"dc:subject" : ["jbr:category-machashava", "jbr:category-musar"]
+},
+{
+"uri" : "jbr:book-beerhagola",
+"rdfs:label" : "באר הגולה",
+"jbo:author" : "jbr:person-2",
+"dc:subject" : ["jbr:category-machashava", "jbr:category-maharal"]
+},
+
 ]}
