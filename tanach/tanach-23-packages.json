@@ -1,33 +1,22 @@
 {
   "subjects": [
     {
-      "uri": "jbr:tanach-23",
-      "rdfs:label": "ספר צפניה",
-      "jbo:position": "23"
-    },
-    {
-      "jbo:within": [
-        "jbr:tanach-23"
-      ],
       "uri": "jbr:tanach-23-1",
       "rdfs:label": "צפניה פרק א",
-      "jbo:position": "1"
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-tzefanya"
     },
     {
-      "jbo:within": [
-        "jbr:tanach-23"
-      ],
       "uri": "jbr:tanach-23-2",
       "rdfs:label": "צפניה פרק ב",
-      "jbo:position": "2"
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-tzefanya"
     },
     {
-      "jbo:within": [
-        "jbr:tanach-23"
-      ],
       "uri": "jbr:tanach-23-3",
       "rdfs:label": "צפניה פרק ג",
-      "jbo:position": "3"
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-tzefanya"
     }
   ]
 }

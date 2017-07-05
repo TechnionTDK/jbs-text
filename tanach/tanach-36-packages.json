@@ -1,89 +1,64 @@
 {
   "subjects": [
     {
-      "uri": "jbr:tanach-36",
-      "rdfs:label": "ספר עזרא",
-      "jbo:position": "36"
-    },
-    {
-      "jbo:within": [
-        "jbr:tanach-36"
-      ],
       "uri": "jbr:tanach-36-1",
       "rdfs:label": "עזרא פרק א",
-      "jbo:position": "1"
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-ezra"
     },
     {
-      "jbo:within": [
-        "jbr:tanach-36"
-      ],
       "uri": "jbr:tanach-36-2",
       "rdfs:label": "עזרא פרק ב",
-      "jbo:position": "2"
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-ezra"
     },
     {
-      "jbo:within": [
-        "jbr:tanach-36"
-      ],
       "uri": "jbr:tanach-36-3",
       "rdfs:label": "עזרא פרק ג",
-      "jbo:position": "3"
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-ezra"
     },
     {
-      "jbo:within": [
-        "jbr:tanach-36"
-      ],
       "uri": "jbr:tanach-36-4",
       "rdfs:label": "עזרא פרק ד",
-      "jbo:position": "4"
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-ezra"
     },
     {
-      "jbo:within": [
-        "jbr:tanach-36"
-      ],
       "uri": "jbr:tanach-36-5",
       "rdfs:label": "עזרא פרק ה",
-      "jbo:position": "5"
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-ezra"
     },
     {
-      "jbo:within": [
-        "jbr:tanach-36"
-      ],
       "uri": "jbr:tanach-36-6",
       "rdfs:label": "עזרא פרק ו",
-      "jbo:position": "6"
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-ezra"
     },
     {
-      "jbo:within": [
-        "jbr:tanach-36"
-      ],
       "uri": "jbr:tanach-36-7",
       "rdfs:label": "עזרא פרק ז",
-      "jbo:position": "7"
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-ezra"
     },
     {
-      "jbo:within": [
-        "jbr:tanach-36"
-      ],
       "uri": "jbr:tanach-36-8",
       "rdfs:label": "עזרא פרק ח",
-      "jbo:position": "8"
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-ezra"
     },
     {
-      "jbo:within": [
-        "jbr:tanach-36"
-      ],
       "uri": "jbr:tanach-36-9",
       "rdfs:label": "עזרא פרק ט",
-      "jbo:position": "9"
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-ezra"
     },
     {
-      "jbo:within": [
-        "jbr:tanach-36"
-      ],
       "uri": "jbr:tanach-36-10",
       "rdfs:label": "עזרא פרק י",
-      "jbo:position": "10"
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-ezra"
     }
   ]
 }
