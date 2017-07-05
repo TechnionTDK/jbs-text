@@ -1,114 +1,108 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna",
-      "rdfs:label": "משנה"
-    },
-    {
-      "jbo:within": [
-        "jbr:mishna"
-      ],
       "uri": "jbr:mishna-1",
       "rdfs:label": "סדר זרעים",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:mishna",
         "jbr:mishna-1"
       ],
       "uri": "jbr:mishna-1-1",
       "rdfs:label": "﻿משנה מסכת ברכות",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-1",
-        "jbr:mishna"
+        "jbr:mishna-1-1"
       ],
       "uri": "jbr:mishna-1-1-1",
       "rdfs:label": "משנה ברכות פרק א",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-1",
-        "jbr:mishna"
+        "jbr:mishna-1-1"
       ],
       "uri": "jbr:mishna-1-1-2",
       "rdfs:label": "משנה ברכות פרק ב",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-1",
-        "jbr:mishna"
+        "jbr:mishna-1-1"
       ],
       "uri": "jbr:mishna-1-1-3",
       "rdfs:label": "משנה ברכות פרק ג",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-1",
-        "jbr:mishna"
+        "jbr:mishna-1-1"
       ],
       "uri": "jbr:mishna-1-1-4",
       "rdfs:label": "משנה ברכות פרק ד",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-1",
-        "jbr:mishna"
+        "jbr:mishna-1-1"
       ],
       "uri": "jbr:mishna-1-1-5",
       "rdfs:label": "משנה ברכות פרק ה",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-1",
-        "jbr:mishna"
+        "jbr:mishna-1-1"
       ],
       "uri": "jbr:mishna-1-1-6",
       "rdfs:label": "משנה ברכות פרק ו",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-1",
-        "jbr:mishna"
+        "jbr:mishna-1-1"
       ],
       "uri": "jbr:mishna-1-1-7",
       "rdfs:label": "משנה ברכות פרק ז",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "7"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-1",
-        "jbr:mishna"
+        "jbr:mishna-1-1"
       ],
       "uri": "jbr:mishna-1-1-8",
       "rdfs:label": "משנה ברכות פרק ח",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "8"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-1",
-        "jbr:mishna"
+        "jbr:mishna-1-1"
       ],
       "uri": "jbr:mishna-1-1-9",
       "rdfs:label": "משנה ברכות פרק ט",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "9"
     }
   ]

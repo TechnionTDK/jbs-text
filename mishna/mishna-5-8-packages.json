@@ -1,84 +1,78 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna",
-      "rdfs:label": "משנה"
-    },
-    {
-      "jbo:within": [
-        "jbr:mishna"
-      ],
       "uri": "jbr:mishna-5",
       "rdfs:label": "סדר קדשים",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:mishna",
         "jbr:mishna-5"
       ],
       "uri": "jbr:mishna-5-8",
       "rdfs:label": "﻿משנה מסכת מעילה",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "8"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-8",
-        "jbr:mishna"
+        "jbr:mishna-5-8"
       ],
       "uri": "jbr:mishna-5-8-1",
       "rdfs:label": "משנה מעילה פרק א",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-8",
-        "jbr:mishna"
+        "jbr:mishna-5-8"
       ],
       "uri": "jbr:mishna-5-8-2",
       "rdfs:label": "משנה מעילה פרק ב",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-8",
-        "jbr:mishna"
+        "jbr:mishna-5-8"
       ],
       "uri": "jbr:mishna-5-8-3",
       "rdfs:label": "משנה מעילה פרק ג",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-8",
-        "jbr:mishna"
+        "jbr:mishna-5-8"
       ],
       "uri": "jbr:mishna-5-8-4",
       "rdfs:label": "משנה מעילה פרק ד",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-8",
-        "jbr:mishna"
+        "jbr:mishna-5-8"
       ],
       "uri": "jbr:mishna-5-8-5",
       "rdfs:label": "משנה מעילה פרק ה",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-8",
-        "jbr:mishna"
+        "jbr:mishna-5-8"
       ],
       "uri": "jbr:mishna-5-8-6",
       "rdfs:label": "משנה מעילה פרק ו",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     }
   ]

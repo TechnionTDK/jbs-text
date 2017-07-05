@@ -1,54 +1,48 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna",
-      "rdfs:label": "משנה"
-    },
-    {
-      "jbo:within": [
-        "jbr:mishna"
-      ],
       "uri": "jbr:mishna-5",
       "rdfs:label": "סדר קדשים",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:mishna",
         "jbr:mishna-5"
       ],
       "uri": "jbr:mishna-5-11",
       "rdfs:label": "﻿משנה מסכת קנים",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "11"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-11",
-        "jbr:mishna"
+        "jbr:mishna-5-11"
       ],
       "uri": "jbr:mishna-5-11-1",
       "rdfs:label": "משנה קנים פרק א",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-11",
-        "jbr:mishna"
+        "jbr:mishna-5-11"
       ],
       "uri": "jbr:mishna-5-11-2",
       "rdfs:label": "משנה קנים פרק ב",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-11",
-        "jbr:mishna"
+        "jbr:mishna-5-11"
       ],
       "uri": "jbr:mishna-5-11-3",
       "rdfs:label": "משנה קנים פרק ג",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     }
   ]

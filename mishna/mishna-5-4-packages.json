@@ -1,114 +1,108 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna",
-      "rdfs:label": "משנה"
-    },
-    {
-      "jbo:within": [
-        "jbr:mishna"
-      ],
       "uri": "jbr:mishna-5",
       "rdfs:label": "סדר קדשים",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:mishna",
         "jbr:mishna-5"
       ],
       "uri": "jbr:mishna-5-4",
       "rdfs:label": "﻿משנה מסכת בכורות",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-4",
-        "jbr:mishna"
+        "jbr:mishna-5-4"
       ],
       "uri": "jbr:mishna-5-4-1",
       "rdfs:label": "משנה בכורות פרק א",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-4",
-        "jbr:mishna"
+        "jbr:mishna-5-4"
       ],
       "uri": "jbr:mishna-5-4-2",
       "rdfs:label": "משנה בכורות פרק ב",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-4",
-        "jbr:mishna"
+        "jbr:mishna-5-4"
       ],
       "uri": "jbr:mishna-5-4-3",
       "rdfs:label": "משנה בכורות פרק ג",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-4",
-        "jbr:mishna"
+        "jbr:mishna-5-4"
       ],
       "uri": "jbr:mishna-5-4-4",
       "rdfs:label": "משנה בכורות פרק ד",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-4",
-        "jbr:mishna"
+        "jbr:mishna-5-4"
       ],
       "uri": "jbr:mishna-5-4-5",
       "rdfs:label": "משנה בכורות פרק ה",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-4",
-        "jbr:mishna"
+        "jbr:mishna-5-4"
       ],
       "uri": "jbr:mishna-5-4-6",
       "rdfs:label": "משנה בכורות פרק ו",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-4",
-        "jbr:mishna"
+        "jbr:mishna-5-4"
       ],
       "uri": "jbr:mishna-5-4-7",
       "rdfs:label": "משנה בכורות פרק ז",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "7"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-4",
-        "jbr:mishna"
+        "jbr:mishna-5-4"
       ],
       "uri": "jbr:mishna-5-4-8",
       "rdfs:label": "משנה בכורות פרק ח",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "8"
     },
     {
       "jbo:within": [
         "jbr:mishna-5",
-        "jbr:mishna-5-4",
-        "jbr:mishna"
+        "jbr:mishna-5-4"
       ],
       "uri": "jbr:mishna-5-4-9",
       "rdfs:label": "משנה בכורות פרק ט",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "9"
     }
   ]

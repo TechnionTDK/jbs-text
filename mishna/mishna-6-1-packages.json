@@ -1,324 +1,318 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna",
-      "rdfs:label": "משנה"
-    },
-    {
-      "jbo:within": [
-        "jbr:mishna"
-      ],
       "uri": "jbr:mishna-6",
       "rdfs:label": "סדר טהרות",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
-        "jbr:mishna",
         "jbr:mishna-6"
       ],
       "uri": "jbr:mishna-6-1",
       "rdfs:label": "﻿משנה מסכת כלים",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-1",
       "rdfs:label": "משנה כלים פרק א",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-2",
       "rdfs:label": "משנה כלים פרק ב",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-3",
       "rdfs:label": "משנה כלים פרק ג",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-4",
       "rdfs:label": "משנה כלים פרק ד",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-5",
       "rdfs:label": "משנה כלים פרק ה",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-6",
       "rdfs:label": "משנה כלים פרק ו",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-7",
       "rdfs:label": "משנה כלים פרק ז",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "7"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-8",
       "rdfs:label": "משנה כלים פרק ח",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "8"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-9",
       "rdfs:label": "משנה כלים פרק ט",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "9"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-10",
       "rdfs:label": "משנה כלים פרק י",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "10"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-11",
       "rdfs:label": "משנה כלים פרק יא",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "11"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-12",
       "rdfs:label": "משנה כלים פרק יב",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "12"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-13",
       "rdfs:label": "משנה כלים פרק יג",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "13"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-14",
       "rdfs:label": "משנה כלים פרק יד",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "14"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-15",
       "rdfs:label": "משנה כלים פרק טו",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "15"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-16",
       "rdfs:label": "משנה כלים פרק טז",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "16"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-17",
       "rdfs:label": "משנה כלים פרק יז",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "17"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-18",
       "rdfs:label": "משנה כלים פרק יח",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "18"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-19",
       "rdfs:label": "משנה כלים פרק יט",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "19"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-20",
       "rdfs:label": "משנה כלים פרק כ",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "20"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-21",
       "rdfs:label": "משנה כלים פרק כא",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "21"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-22",
       "rdfs:label": "משנה כלים פרק כב",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "22"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-23",
       "rdfs:label": "משנה כלים פרק כג",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "23"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-24",
       "rdfs:label": "משנה כלים פרק כד",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "24"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-25",
       "rdfs:label": "משנה כלים פרק כה",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "25"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-26",
       "rdfs:label": "משנה כלים פרק כו",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "26"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-27",
       "rdfs:label": "משנה כלים פרק כז",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "27"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-28",
       "rdfs:label": "משנה כלים פרק כח",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "28"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-29",
       "rdfs:label": "משנה כלים פרק כט",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "29"
     },
     {
       "jbo:within": [
         "jbr:mishna-6",
-        "jbr:mishna-6-1",
-        "jbr:mishna"
+        "jbr:mishna-6-1"
       ],
       "uri": "jbr:mishna-6-1-30",
       "rdfs:label": "משנה כלים פרק ל",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "30"
     }
   ]

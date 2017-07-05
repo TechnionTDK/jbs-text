@@ -1,134 +1,128 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna",
-      "rdfs:label": "משנה"
-    },
-    {
-      "jbo:within": [
-        "jbr:mishna"
-      ],
       "uri": "jbr:mishna-1",
       "rdfs:label": "סדר זרעים",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:mishna",
         "jbr:mishna-1"
       ],
       "uri": "jbr:mishna-1-6",
       "rdfs:label": "﻿משנה מסכת תרומות",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-6",
-        "jbr:mishna"
+        "jbr:mishna-1-6"
       ],
       "uri": "jbr:mishna-1-6-1",
       "rdfs:label": "משנה תרומות פרק א",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-6",
-        "jbr:mishna"
+        "jbr:mishna-1-6"
       ],
       "uri": "jbr:mishna-1-6-2",
       "rdfs:label": "משנה תרומות פרק ב",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-6",
-        "jbr:mishna"
+        "jbr:mishna-1-6"
       ],
       "uri": "jbr:mishna-1-6-3",
       "rdfs:label": "משנה תרומות פרק ג",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-6",
-        "jbr:mishna"
+        "jbr:mishna-1-6"
       ],
       "uri": "jbr:mishna-1-6-4",
       "rdfs:label": "משנה תרומות פרק ד",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-6",
-        "jbr:mishna"
+        "jbr:mishna-1-6"
       ],
       "uri": "jbr:mishna-1-6-5",
       "rdfs:label": "משנה תרומות פרק ה",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-6",
-        "jbr:mishna"
+        "jbr:mishna-1-6"
       ],
       "uri": "jbr:mishna-1-6-6",
       "rdfs:label": "משנה תרומות פרק ו",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-6",
-        "jbr:mishna"
+        "jbr:mishna-1-6"
       ],
       "uri": "jbr:mishna-1-6-7",
       "rdfs:label": "משנה תרומות פרק ז",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "7"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-6",
-        "jbr:mishna"
+        "jbr:mishna-1-6"
       ],
       "uri": "jbr:mishna-1-6-8",
       "rdfs:label": "משנה תרומות פרק ח",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "8"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-6",
-        "jbr:mishna"
+        "jbr:mishna-1-6"
       ],
       "uri": "jbr:mishna-1-6-9",
       "rdfs:label": "משנה תרומות פרק ט",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "9"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-6",
-        "jbr:mishna"
+        "jbr:mishna-1-6"
       ],
       "uri": "jbr:mishna-1-6-10",
       "rdfs:label": "משנה תרומות פרק י",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "10"
     },
     {
       "jbo:within": [
         "jbr:mishna-1",
-        "jbr:mishna-1-6",
-        "jbr:mishna"
+        "jbr:mishna-1-6"
       ],
       "uri": "jbr:mishna-1-6-11",
       "rdfs:label": "משנה תרומות פרק יא",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "11"
     }
   ]

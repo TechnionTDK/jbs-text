@@ -1,74 +1,68 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna",
-      "rdfs:label": "משנה"
-    },
-    {
-      "jbo:within": [
-        "jbr:mishna"
-      ],
       "uri": "jbr:mishna-2",
       "rdfs:label": "סדר מועד",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna",
         "jbr:mishna-2"
       ],
       "uri": "jbr:mishna-2-6",
       "rdfs:label": "﻿משנה מסכת סוכה",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
         "jbr:mishna-2",
-        "jbr:mishna-2-6",
-        "jbr:mishna"
+        "jbr:mishna-2-6"
       ],
       "uri": "jbr:mishna-2-6-1",
       "rdfs:label": "משנה סוכה פרק א",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
         "jbr:mishna-2",
-        "jbr:mishna-2-6",
-        "jbr:mishna"
+        "jbr:mishna-2-6"
       ],
       "uri": "jbr:mishna-2-6-2",
       "rdfs:label": "משנה סוכה פרק ב",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
         "jbr:mishna-2",
-        "jbr:mishna-2-6",
-        "jbr:mishna"
+        "jbr:mishna-2-6"
       ],
       "uri": "jbr:mishna-2-6-3",
       "rdfs:label": "משנה סוכה פרק ג",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
         "jbr:mishna-2",
-        "jbr:mishna-2-6",
-        "jbr:mishna"
+        "jbr:mishna-2-6"
       ],
       "uri": "jbr:mishna-2-6-4",
       "rdfs:label": "משנה סוכה פרק ד",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
         "jbr:mishna-2",
-        "jbr:mishna-2-6",
-        "jbr:mishna"
+        "jbr:mishna-2-6"
       ],
       "uri": "jbr:mishna-2-6-5",
       "rdfs:label": "משנה סוכה פרק ה",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     }
   ]

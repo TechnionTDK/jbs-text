@@ -1,104 +1,98 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna",
-      "rdfs:label": "משנה"
-    },
-    {
-      "jbo:within": [
-        "jbr:mishna"
-      ],
       "uri": "jbr:mishna-4",
       "rdfs:label": "סדר נזיקין",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
-        "jbr:mishna",
         "jbr:mishna-4"
       ],
       "uri": "jbr:mishna-4-6",
       "rdfs:label": "﻿משנה מסכת שבועות",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
         "jbr:mishna-4",
-        "jbr:mishna-4-6",
-        "jbr:mishna"
+        "jbr:mishna-4-6"
       ],
       "uri": "jbr:mishna-4-6-1",
       "rdfs:label": "משנה שבועות פרק א",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
         "jbr:mishna-4",
-        "jbr:mishna-4-6",
-        "jbr:mishna"
+        "jbr:mishna-4-6"
       ],
       "uri": "jbr:mishna-4-6-2",
       "rdfs:label": "משנה שבועות פרק ב",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
         "jbr:mishna-4",
-        "jbr:mishna-4-6",
-        "jbr:mishna"
+        "jbr:mishna-4-6"
       ],
       "uri": "jbr:mishna-4-6-3",
       "rdfs:label": "משנה שבועות פרק ג",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
         "jbr:mishna-4",
-        "jbr:mishna-4-6",
-        "jbr:mishna"
+        "jbr:mishna-4-6"
       ],
       "uri": "jbr:mishna-4-6-4",
       "rdfs:label": "משנה שבועות פרק ד",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
         "jbr:mishna-4",
-        "jbr:mishna-4-6",
-        "jbr:mishna"
+        "jbr:mishna-4-6"
       ],
       "uri": "jbr:mishna-4-6-5",
       "rdfs:label": "משנה שבועות פרק ה",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
         "jbr:mishna-4",
-        "jbr:mishna-4-6",
-        "jbr:mishna"
+        "jbr:mishna-4-6"
       ],
       "uri": "jbr:mishna-4-6-6",
       "rdfs:label": "משנה שבועות פרק ו",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
         "jbr:mishna-4",
-        "jbr:mishna-4-6",
-        "jbr:mishna"
+        "jbr:mishna-4-6"
       ],
       "uri": "jbr:mishna-4-6-7",
       "rdfs:label": "משנה שבועות פרק ז",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "7"
     },
     {
       "jbo:within": [
         "jbr:mishna-4",
-        "jbr:mishna-4-6",
-        "jbr:mishna"
+        "jbr:mishna-4-6"
       ],
       "uri": "jbr:mishna-4-6-8",
       "rdfs:label": "משנה שבועות פרק ח",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "8"
     }
   ]

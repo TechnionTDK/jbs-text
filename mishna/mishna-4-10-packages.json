@@ -1,54 +1,48 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna",
-      "rdfs:label": "משנה"
-    },
-    {
-      "jbo:within": [
-        "jbr:mishna"
-      ],
       "uri": "jbr:mishna-4",
       "rdfs:label": "סדר נזיקין",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
-        "jbr:mishna",
         "jbr:mishna-4"
       ],
       "uri": "jbr:mishna-4-10",
       "rdfs:label": "﻿משנה מסכת הוריות",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "10"
     },
     {
       "jbo:within": [
         "jbr:mishna-4",
-        "jbr:mishna-4-10",
-        "jbr:mishna"
+        "jbr:mishna-4-10"
       ],
       "uri": "jbr:mishna-4-10-1",
       "rdfs:label": "משנה הוריות פרק א",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
         "jbr:mishna-4",
-        "jbr:mishna-4-10",
-        "jbr:mishna"
+        "jbr:mishna-4-10"
       ],
       "uri": "jbr:mishna-4-10-2",
       "rdfs:label": "משנה הוריות פרק ב",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
         "jbr:mishna-4",
-        "jbr:mishna-4-10",
-        "jbr:mishna"
+        "jbr:mishna-4-10"
       ],
       "uri": "jbr:mishna-4-10-3",
       "rdfs:label": "משנה הוריות פרק ג",
+      "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     }
   ]
