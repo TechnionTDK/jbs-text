@@ -1,1 +1,526 @@
-{"subjects":[{"uri":"jbr:mishnetorah-14","rdfs:label":"ספר שופטים","jbo:position":"14"},{"uri":"jbr:mishnetorah-14-1","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם","jbo:position":"1"},{"uri":"jbr:mishnetorah-14-1-1","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-14-1-2","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-14-1-3","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-14-1-4","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-14-1-5","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-14-1-6","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-14-1-7","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-14-1-8","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-14-1-9","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-14-1-10","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק עשירי","jbo:position":"10"},{"uri":"jbr:mishnetorah-14-1-11","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק אחד עשר","jbo:position":"11"},{"uri":"jbr:mishnetorah-14-1-12","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק שנים עשר","jbo:position":"12"},{"uri":"jbr:mishnetorah-14-1-13","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק שלשה עשר","jbo:position":"13"},{"uri":"jbr:mishnetorah-14-1-14","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק ארבעה עשר","jbo:position":"14"},{"uri":"jbr:mishnetorah-14-1-15","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק חמשה עשר","jbo:position":"15"},{"uri":"jbr:mishnetorah-14-1-16","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק ששה עשר","jbo:position":"16"},{"uri":"jbr:mishnetorah-14-1-17","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק שבעה עשר","jbo:position":"17"},{"uri":"jbr:mishnetorah-14-1-18","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק שמונה עשר","jbo:position":"18"},{"uri":"jbr:mishnetorah-14-1-19","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק תשעה עשר","jbo:position":"19"},{"uri":"jbr:mishnetorah-14-1-20","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק עשרים","jbo:position":"20"},{"uri":"jbr:mishnetorah-14-1-21","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק אחד ועשרים","jbo:position":"21"},{"uri":"jbr:mishnetorah-14-1-22","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק שנים ועשרים","jbo:position":"22"},{"uri":"jbr:mishnetorah-14-1-23","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק שלשה ועשרים","jbo:position":"23"},{"uri":"jbr:mishnetorah-14-1-24","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק ארבעה ועשרים","jbo:position":"24"},{"uri":"jbr:mishnetorah-14-1-25","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק חמשה ועשרים","jbo:position":"25"},{"uri":"jbr:mishnetorah-14-1-26","rdfs:label":"הלכות סנהדרין והעונשין המסורים להם - פרק ששה ועשרים","jbo:position":"26"},{"uri":"jbr:mishnetorah-14-2","rdfs:label":"הלכות עדות","jbo:position":"2"},{"uri":"jbr:mishnetorah-14-2-1","rdfs:label":"הלכות עדות - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-14-2-2","rdfs:label":"הלכות עדות - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-14-2-3","rdfs:label":"הלכות עדות - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-14-2-4","rdfs:label":"הלכות עדות - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-14-2-5","rdfs:label":"הלכות עדות - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-14-2-6","rdfs:label":"הלכות עדות - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-14-2-7","rdfs:label":"הלכות עדות - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-14-2-8","rdfs:label":"הלכות עדות - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-14-2-9","rdfs:label":"הלכות עדות - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-14-2-10","rdfs:label":"הלכות עדות - פרק עשירי","jbo:position":"10"},{"uri":"jbr:mishnetorah-14-2-11","rdfs:label":"הלכות עדות - פרק אחד עשר","jbo:position":"11"},{"uri":"jbr:mishnetorah-14-2-12","rdfs:label":"הלכות עדות - פרק שנים עשר","jbo:position":"12"},{"uri":"jbr:mishnetorah-14-2-13","rdfs:label":"הלכות עדות - פרק שלשה עשר","jbo:position":"13"},{"uri":"jbr:mishnetorah-14-2-14","rdfs:label":"הלכות עדות - פרק ארבעה עשר","jbo:position":"14"},{"uri":"jbr:mishnetorah-14-2-15","rdfs:label":"הלכות עדות - פרק חמשה עשר","jbo:position":"15"},{"uri":"jbr:mishnetorah-14-2-16","rdfs:label":"הלכות עדות - פרק ששה עשר","jbo:position":"16"},{"uri":"jbr:mishnetorah-14-2-17","rdfs:label":"הלכות עדות - פרק שבעה עשר","jbo:position":"17"},{"uri":"jbr:mishnetorah-14-2-18","rdfs:label":"הלכות עדות - פרק שמונה עשר","jbo:position":"18"},{"uri":"jbr:mishnetorah-14-2-19","rdfs:label":"הלכות עדות - פרק תשעה עשר","jbo:position":"19"},{"uri":"jbr:mishnetorah-14-2-20","rdfs:label":"הלכות עדות - פרק עשרים","jbo:position":"20"},{"uri":"jbr:mishnetorah-14-2-21","rdfs:label":"הלכות עדות - פרק אחד ועשרים","jbo:position":"21"},{"uri":"jbr:mishnetorah-14-2-22","rdfs:label":"הלכות עדות - פרק שנים ועשרים","jbo:position":"22"},{"uri":"jbr:mishnetorah-14-3","rdfs:label":"הלכות ממרים","jbo:position":"3"},{"uri":"jbr:mishnetorah-14-3-1","rdfs:label":"הלכות ממרים - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-14-3-2","rdfs:label":"הלכות ממרים - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-14-3-3","rdfs:label":"הלכות ממרים - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-14-3-4","rdfs:label":"הלכות ממרים - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-14-3-5","rdfs:label":"הלכות ממרים - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-14-3-6","rdfs:label":"הלכות ממרים - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-14-3-7","rdfs:label":"הלכות ממרים - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-14-4","rdfs:label":"הלכות אבל","jbo:position":"4"},{"uri":"jbr:mishnetorah-14-4-1","rdfs:label":"הלכות אבל - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-14-4-2","rdfs:label":"הלכות אבל - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-14-4-3","rdfs:label":"הלכות אבל - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-14-4-4","rdfs:label":"הלכות אבל - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-14-4-5","rdfs:label":"הלכות אבל - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-14-4-6","rdfs:label":"הלכות אבל - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-14-4-7","rdfs:label":"הלכות אבל - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-14-4-8","rdfs:label":"הלכות אבל - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-14-4-9","rdfs:label":"הלכות אבל - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-14-4-10","rdfs:label":"הלכות אבל - פרק עשירי","jbo:position":"10"},{"uri":"jbr:mishnetorah-14-4-11","rdfs:label":"הלכות אבל - פרק אחד עשר","jbo:position":"11"},{"uri":"jbr:mishnetorah-14-4-12","rdfs:label":"הלכות אבל - פרק שנים עשר","jbo:position":"12"},{"uri":"jbr:mishnetorah-14-4-13","rdfs:label":"הלכות אבל - פרק שלשה עשר","jbo:position":"13"},{"uri":"jbr:mishnetorah-14-4-14","rdfs:label":"הלכות אבל - פרק ארבעה עשר","jbo:position":"14"},{"uri":"jbr:mishnetorah-14-5","rdfs:label":"הלכות מלכים ומלחמותיהם","jbo:position":"5"},{"uri":"jbr:mishnetorah-14-5-1","rdfs:label":"הלכות מלכים ומלחמותיהם - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-14-5-2","rdfs:label":"הלכות מלכים ומלחמותיהם - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-14-5-3","rdfs:label":"הלכות מלכים ומלחמותיהם - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-14-5-4","rdfs:label":"הלכות מלכים ומלחמותיהם - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-14-5-5","rdfs:label":"הלכות מלכים ומלחמותיהם - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-14-5-6","rdfs:label":"הלכות מלכים ומלחמותיהם - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-14-5-7","rdfs:label":"הלכות מלכים ומלחמותיהם - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-14-5-8","rdfs:label":"הלכות מלכים ומלחמותיהם - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-14-5-9","rdfs:label":"הלכות מלכים ומלחמותיהם - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-14-5-10","rdfs:label":"הלכות מלכים ומלחמותיהם - פרק עשירי","jbo:position":"10"},{"uri":"jbr:mishnetorah-14-5-11","rdfs:label":"הלכות מלכים ומלחמותיהם - פרק אחד עשר","jbo:position":"11"},{"uri":"jbr:mishnetorah-14-5-12","rdfs:label":"הלכות מלכים ומלחמותיהם - פרק שנים עשר","jbo:position":"12"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishnetorah-14",
+      "rdfs:label": "ספר שופטים",
+      "jbo:position": "14",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-1",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-2",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-3",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-4",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-5",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-6",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-7",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-8",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-9",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-10",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק עשירי",
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-11",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק אחד עשר",
+      "jbo:position": "11",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-12",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק שנים עשר",
+      "jbo:position": "12",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-13",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק שלשה עשר",
+      "jbo:position": "13",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-14",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק ארבעה עשר",
+      "jbo:position": "14",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-15",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק חמשה עשר",
+      "jbo:position": "15",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-16",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק ששה עשר",
+      "jbo:position": "16",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-17",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק שבעה עשר",
+      "jbo:position": "17",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-18",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק שמונה עשר",
+      "jbo:position": "18",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-19",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק תשעה עשר",
+      "jbo:position": "19",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-20",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק עשרים",
+      "jbo:position": "20",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-21",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק אחד ועשרים",
+      "jbo:position": "21",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-22",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק שנים ועשרים",
+      "jbo:position": "22",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-23",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק שלשה ועשרים",
+      "jbo:position": "23",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-24",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק ארבעה ועשרים",
+      "jbo:position": "24",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-25",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק חמשה ועשרים",
+      "jbo:position": "25",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-1-26",
+      "rdfs:label": "הלכות סנהדרין והעונשין המסורים להם - פרק ששה ועשרים",
+      "jbo:position": "26",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2",
+      "rdfs:label": "הלכות עדות",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-1",
+      "rdfs:label": "הלכות עדות - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-2",
+      "rdfs:label": "הלכות עדות - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-3",
+      "rdfs:label": "הלכות עדות - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-4",
+      "rdfs:label": "הלכות עדות - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-5",
+      "rdfs:label": "הלכות עדות - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-6",
+      "rdfs:label": "הלכות עדות - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-7",
+      "rdfs:label": "הלכות עדות - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-8",
+      "rdfs:label": "הלכות עדות - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-9",
+      "rdfs:label": "הלכות עדות - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-10",
+      "rdfs:label": "הלכות עדות - פרק עשירי",
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-11",
+      "rdfs:label": "הלכות עדות - פרק אחד עשר",
+      "jbo:position": "11",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-12",
+      "rdfs:label": "הלכות עדות - פרק שנים עשר",
+      "jbo:position": "12",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-13",
+      "rdfs:label": "הלכות עדות - פרק שלשה עשר",
+      "jbo:position": "13",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-14",
+      "rdfs:label": "הלכות עדות - פרק ארבעה עשר",
+      "jbo:position": "14",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-15",
+      "rdfs:label": "הלכות עדות - פרק חמשה עשר",
+      "jbo:position": "15",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-16",
+      "rdfs:label": "הלכות עדות - פרק ששה עשר",
+      "jbo:position": "16",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-17",
+      "rdfs:label": "הלכות עדות - פרק שבעה עשר",
+      "jbo:position": "17",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-18",
+      "rdfs:label": "הלכות עדות - פרק שמונה עשר",
+      "jbo:position": "18",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-19",
+      "rdfs:label": "הלכות עדות - פרק תשעה עשר",
+      "jbo:position": "19",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-20",
+      "rdfs:label": "הלכות עדות - פרק עשרים",
+      "jbo:position": "20",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-21",
+      "rdfs:label": "הלכות עדות - פרק אחד ועשרים",
+      "jbo:position": "21",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-2-22",
+      "rdfs:label": "הלכות עדות - פרק שנים ועשרים",
+      "jbo:position": "22",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-3",
+      "rdfs:label": "הלכות ממרים",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-3-1",
+      "rdfs:label": "הלכות ממרים - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-3-2",
+      "rdfs:label": "הלכות ממרים - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-3-3",
+      "rdfs:label": "הלכות ממרים - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-3-4",
+      "rdfs:label": "הלכות ממרים - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-3-5",
+      "rdfs:label": "הלכות ממרים - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-3-6",
+      "rdfs:label": "הלכות ממרים - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-3-7",
+      "rdfs:label": "הלכות ממרים - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4",
+      "rdfs:label": "הלכות אבל",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-1",
+      "rdfs:label": "הלכות אבל - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-2",
+      "rdfs:label": "הלכות אבל - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-3",
+      "rdfs:label": "הלכות אבל - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-4",
+      "rdfs:label": "הלכות אבל - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-5",
+      "rdfs:label": "הלכות אבל - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-6",
+      "rdfs:label": "הלכות אבל - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-7",
+      "rdfs:label": "הלכות אבל - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-8",
+      "rdfs:label": "הלכות אבל - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-9",
+      "rdfs:label": "הלכות אבל - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-10",
+      "rdfs:label": "הלכות אבל - פרק עשירי",
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-11",
+      "rdfs:label": "הלכות אבל - פרק אחד עשר",
+      "jbo:position": "11",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-12",
+      "rdfs:label": "הלכות אבל - פרק שנים עשר",
+      "jbo:position": "12",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-13",
+      "rdfs:label": "הלכות אבל - פרק שלשה עשר",
+      "jbo:position": "13",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-4-14",
+      "rdfs:label": "הלכות אבל - פרק ארבעה עשר",
+      "jbo:position": "14",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5-1",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5-2",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5-3",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5-4",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5-5",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5-6",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5-7",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5-8",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5-9",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5-10",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם - פרק עשירי",
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5-11",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם - פרק אחד עשר",
+      "jbo:position": "11",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-14-5-12",
+      "rdfs:label": "הלכות מלכים ומלחמותיהם - פרק שנים עשר",
+      "jbo:position": "12",
+      "jbo:book": "jbr:book-mishnetorah"
+    }
+  ]
+}

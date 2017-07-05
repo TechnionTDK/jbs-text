@@ -1,1 +1,205 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-6","rdfs:label":"סדר טהרות","jbo:position":"6"},{"jbo:within":["jbr:mishna","jbr:mishna-6"],"uri":"jbr:mishna-6-2","rdfs:label":"﻿משנה מסכת אהלות","jbo:position":"2"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-1","rdfs:label":"משנה אהלות פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-2","rdfs:label":"משנה אהלות פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-3","rdfs:label":"משנה אהלות פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-4","rdfs:label":"משנה אהלות פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-5","rdfs:label":"משנה אהלות פרק ה","jbo:position":"5"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-6","rdfs:label":"משנה אהלות פרק ו","jbo:position":"6"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-7","rdfs:label":"משנה אהלות פרק ז","jbo:position":"7"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-8","rdfs:label":"משנה אהלות פרק ח","jbo:position":"8"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-9","rdfs:label":"משנה אהלות פרק ט","jbo:position":"9"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-10","rdfs:label":"משנה אהלות פרק י","jbo:position":"10"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-11","rdfs:label":"משנה אהלות פרק יא","jbo:position":"11"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-12","rdfs:label":"משנה אהלות פרק יב","jbo:position":"12"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-13","rdfs:label":"משנה אהלות פרק יג","jbo:position":"13"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-14","rdfs:label":"משנה אהלות פרק יד","jbo:position":"14"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-15","rdfs:label":"משנה אהלות פרק טו","jbo:position":"15"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-16","rdfs:label":"משנה אהלות פרק טז","jbo:position":"16"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-17","rdfs:label":"משנה אהלות פרק יז","jbo:position":"17"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-2","jbr:mishna"],"uri":"jbr:mishna-6-2-18","rdfs:label":"משנה אהלות פרק יח","jbo:position":"18"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6",
+      "rdfs:label": "סדר טהרות",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-6"
+      ],
+      "uri": "jbr:mishna-6-2",
+      "rdfs:label": "﻿משנה מסכת אהלות",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-1",
+      "rdfs:label": "משנה אהלות פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-2",
+      "rdfs:label": "משנה אהלות פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-3",
+      "rdfs:label": "משנה אהלות פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-4",
+      "rdfs:label": "משנה אהלות פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-5",
+      "rdfs:label": "משנה אהלות פרק ה",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-6",
+      "rdfs:label": "משנה אהלות פרק ו",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-7",
+      "rdfs:label": "משנה אהלות פרק ז",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-8",
+      "rdfs:label": "משנה אהלות פרק ח",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-9",
+      "rdfs:label": "משנה אהלות פרק ט",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-10",
+      "rdfs:label": "משנה אהלות פרק י",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-11",
+      "rdfs:label": "משנה אהלות פרק יא",
+      "jbo:position": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-12",
+      "rdfs:label": "משנה אהלות פרק יב",
+      "jbo:position": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-13",
+      "rdfs:label": "משנה אהלות פרק יג",
+      "jbo:position": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-14",
+      "rdfs:label": "משנה אהלות פרק יד",
+      "jbo:position": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-15",
+      "rdfs:label": "משנה אהלות פרק טו",
+      "jbo:position": "15"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-16",
+      "rdfs:label": "משנה אהלות פרק טז",
+      "jbo:position": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-17",
+      "rdfs:label": "משנה אהלות פרק יז",
+      "jbo:position": "17"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-2",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-2-18",
+      "rdfs:label": "משנה אהלות פרק יח",
+      "jbo:position": "18"
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"subjects":[{"uri":"jbr:bavli-21","rdfs:label":"מסכת בבא מציעא","jbo:position":"21"},{"uri":"jbr:bavli-perek-21-1","rdfs:label":"פרק ראשון - שנים אוחזין","jbo:position":"1"},{"uri":"jbr:bavli-perek-21-2","rdfs:label":"פרק שני - אלו מציאות","jbo:position":"2"},{"uri":"jbr:bavli-perek-21-3","rdfs:label":"פרק שלישי - המפקיד","jbo:position":"3"},{"uri":"jbr:bavli-perek-21-4","rdfs:label":"פרק רביעי - הזהב","jbo:position":"4"},{"uri":"jbr:bavli-perek-21-5","rdfs:label":"פרק חמישי - איזהו נשך","jbo:position":"5"},{"uri":"jbr:bavli-perek-21-6","rdfs:label":"פרק שישי - השוכר את האומנין","jbo:position":"6"},{"uri":"jbr:bavli-perek-21-7","rdfs:label":"פרק שביעי - השוכר את הפועלים","jbo:position":"7"},{"uri":"jbr:bavli-perek-21-8","rdfs:label":"פרק שמיני - השואל את הפרה","jbo:position":"8"},{"uri":"jbr:bavli-perek-21-9","rdfs:label":"פרק תשיעי - המקבל שדה מחבירו","jbo:position":"9"},{"uri":"jbr:bavli-perek-21-10","rdfs:label":"פרק עשירי - הבית והעליה","jbo:position":"10"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:bavli-21",
+      "rdfs:label": "מסכת בבא מציעא",
+      "jbo:position": "21"
+    },
+    {
+      "uri": "jbr:bavli-perek-21-1",
+      "rdfs:label": "פרק ראשון - שנים אוחזין",
+      "jbo:position": "1"
+    },
+    {
+      "uri": "jbr:bavli-perek-21-2",
+      "rdfs:label": "פרק שני - אלו מציאות",
+      "jbo:position": "2"
+    },
+    {
+      "uri": "jbr:bavli-perek-21-3",
+      "rdfs:label": "פרק שלישי - המפקיד",
+      "jbo:position": "3"
+    },
+    {
+      "uri": "jbr:bavli-perek-21-4",
+      "rdfs:label": "פרק רביעי - הזהב",
+      "jbo:position": "4"
+    },
+    {
+      "uri": "jbr:bavli-perek-21-5",
+      "rdfs:label": "פרק חמישי - איזהו נשך",
+      "jbo:position": "5"
+    },
+    {
+      "uri": "jbr:bavli-perek-21-6",
+      "rdfs:label": "פרק שישי - השוכר את האומנין",
+      "jbo:position": "6"
+    },
+    {
+      "uri": "jbr:bavli-perek-21-7",
+      "rdfs:label": "פרק שביעי - השוכר את הפועלים",
+      "jbo:position": "7"
+    },
+    {
+      "uri": "jbr:bavli-perek-21-8",
+      "rdfs:label": "פרק שמיני - השואל את הפרה",
+      "jbo:position": "8"
+    },
+    {
+      "uri": "jbr:bavli-perek-21-9",
+      "rdfs:label": "פרק תשיעי - המקבל שדה מחבירו",
+      "jbo:position": "9"
+    },
+    {
+      "uri": "jbr:bavli-perek-21-10",
+      "rdfs:label": "פרק עשירי - הבית והעליה",
+      "jbo:position": "10"
+    }
+  ]
+}

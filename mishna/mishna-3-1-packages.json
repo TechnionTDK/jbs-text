@@ -1,1 +1,185 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-3","rdfs:label":"סדר נשים","jbo:position":"3"},{"jbo:within":["jbr:mishna","jbr:mishna-3"],"uri":"jbr:mishna-3-1","rdfs:label":"﻿משנה מסכת יבמות","jbo:position":"1"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-1","rdfs:label":"משנה יבמות פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-2","rdfs:label":"משנה יבמות פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-3","rdfs:label":"משנה יבמות פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-4","rdfs:label":"משנה יבמות פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-5","rdfs:label":"משנה יבמות פרק ה","jbo:position":"5"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-6","rdfs:label":"משנה יבמות פרק ו","jbo:position":"6"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-7","rdfs:label":"משנה יבמות פרק ז","jbo:position":"7"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-8","rdfs:label":"משנה יבמות פרק ח","jbo:position":"8"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-9","rdfs:label":"משנה יבמות פרק ט","jbo:position":"9"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-10","rdfs:label":"משנה יבמות פרק י","jbo:position":"10"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-11","rdfs:label":"משנה יבמות פרק יא","jbo:position":"11"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-12","rdfs:label":"משנה יבמות פרק יב","jbo:position":"12"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-13","rdfs:label":"משנה יבמות פרק יג","jbo:position":"13"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-14","rdfs:label":"משנה יבמות פרק יד","jbo:position":"14"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-15","rdfs:label":"משנה יבמות פרק טו","jbo:position":"15"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-1","jbr:mishna"],"uri":"jbr:mishna-3-1-16","rdfs:label":"משנה יבמות פרק טז","jbo:position":"16"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3",
+      "rdfs:label": "סדר נשים",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-3"
+      ],
+      "uri": "jbr:mishna-3-1",
+      "rdfs:label": "﻿משנה מסכת יבמות",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-1",
+      "rdfs:label": "משנה יבמות פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-2",
+      "rdfs:label": "משנה יבמות פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-3",
+      "rdfs:label": "משנה יבמות פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-4",
+      "rdfs:label": "משנה יבמות פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-5",
+      "rdfs:label": "משנה יבמות פרק ה",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-6",
+      "rdfs:label": "משנה יבמות פרק ו",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-7",
+      "rdfs:label": "משנה יבמות פרק ז",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-8",
+      "rdfs:label": "משנה יבמות פרק ח",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-9",
+      "rdfs:label": "משנה יבמות פרק ט",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-10",
+      "rdfs:label": "משנה יבמות פרק י",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-11",
+      "rdfs:label": "משנה יבמות פרק יא",
+      "jbo:position": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-12",
+      "rdfs:label": "משנה יבמות פרק יב",
+      "jbo:position": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-13",
+      "rdfs:label": "משנה יבמות פרק יג",
+      "jbo:position": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-14",
+      "rdfs:label": "משנה יבמות פרק יד",
+      "jbo:position": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-15",
+      "rdfs:label": "משנה יבמות פרק טו",
+      "jbo:position": "15"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-1-16",
+      "rdfs:label": "משנה יבמות פרק טז",
+      "jbo:position": "16"
+    }
+  ]
+}

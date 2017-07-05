@@ -1,1 +1,75 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-6","rdfs:label":"סדר טהרות","jbo:position":"6"},{"jbo:within":["jbr:mishna","jbr:mishna-6"],"uri":"jbr:mishna-6-9","rdfs:label":"﻿משנה מסכת זבים","jbo:position":"9"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-9","jbr:mishna"],"uri":"jbr:mishna-6-9-1","rdfs:label":"משנה זבים פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-9","jbr:mishna"],"uri":"jbr:mishna-6-9-2","rdfs:label":"משנה זבים פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-9","jbr:mishna"],"uri":"jbr:mishna-6-9-3","rdfs:label":"משנה זבים פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-9","jbr:mishna"],"uri":"jbr:mishna-6-9-4","rdfs:label":"משנה זבים פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-9","jbr:mishna"],"uri":"jbr:mishna-6-9-5","rdfs:label":"משנה זבים פרק ה","jbo:position":"5"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6",
+      "rdfs:label": "סדר טהרות",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-6"
+      ],
+      "uri": "jbr:mishna-6-9",
+      "rdfs:label": "﻿משנה מסכת זבים",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-9",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-9-1",
+      "rdfs:label": "משנה זבים פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-9",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-9-2",
+      "rdfs:label": "משנה זבים פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-9",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-9-3",
+      "rdfs:label": "משנה זבים פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-9",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-9-4",
+      "rdfs:label": "משנה זבים פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-9",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-9-5",
+      "rdfs:label": "משנה זבים פרק ה",
+      "jbo:position": "5"
+    }
+  ]
+}

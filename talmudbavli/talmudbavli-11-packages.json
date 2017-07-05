@@ -1,1 +1,24 @@
-{"subjects":[{"uri":"jbr:bavli-11","rdfs:label":"מסכת מועד קטן","jbo:position":"11"},{"uri":"jbr:bavli-perek-11-1","rdfs:label":"פרק ראשון - משקין בית השלחין","jbo:position":"1"},{"uri":"jbr:bavli-perek-11-2","rdfs:label":"פרק שני - מי שהפך","jbo:position":"2"},{"uri":"jbr:bavli-perek-11-3","rdfs:label":"פרק שלישי - אלו מגלחין","jbo:position":"3"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:bavli-11",
+      "rdfs:label": "מסכת מועד קטן",
+      "jbo:position": "11"
+    },
+    {
+      "uri": "jbr:bavli-perek-11-1",
+      "rdfs:label": "פרק ראשון - משקין בית השלחין",
+      "jbo:position": "1"
+    },
+    {
+      "uri": "jbr:bavli-perek-11-2",
+      "rdfs:label": "פרק שני - מי שהפך",
+      "jbo:position": "2"
+    },
+    {
+      "uri": "jbr:bavli-perek-11-3",
+      "rdfs:label": "פרק שלישי - אלו מגלחין",
+      "jbo:position": "3"
+    }
+  ]
+}

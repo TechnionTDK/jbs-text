@@ -1,1 +1,39 @@
-{"subjects":[{"uri":"jbr:bavli-34","rdfs:label":"מסכת כריתות","jbo:position":"34"},{"uri":"jbr:bavli-perek-34-1","rdfs:label":"פרק ראשון - שלשים ושש","jbo:position":"1"},{"uri":"jbr:bavli-perek-34-2","rdfs:label":"פרק שני - ארבעה מחוסרי כפרה","jbo:position":"2"},{"uri":"jbr:bavli-perek-34-3","rdfs:label":"פרק שלישי - אמרו לו","jbo:position":"3"},{"uri":"jbr:bavli-perek-34-4","rdfs:label":"פרק רביעי - ספק אכל חלב","jbo:position":"4"},{"uri":"jbr:bavli-perek-34-5","rdfs:label":"פרק חמישי - דם שחיטה","jbo:position":"5"},{"uri":"jbr:bavli-perek-34-6","rdfs:label":"פרק שישי - המביא אשם","jbo:position":"6"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:bavli-34",
+      "rdfs:label": "מסכת כריתות",
+      "jbo:position": "34"
+    },
+    {
+      "uri": "jbr:bavli-perek-34-1",
+      "rdfs:label": "פרק ראשון - שלשים ושש",
+      "jbo:position": "1"
+    },
+    {
+      "uri": "jbr:bavli-perek-34-2",
+      "rdfs:label": "פרק שני - ארבעה מחוסרי כפרה",
+      "jbo:position": "2"
+    },
+    {
+      "uri": "jbr:bavli-perek-34-3",
+      "rdfs:label": "פרק שלישי - אמרו לו",
+      "jbo:position": "3"
+    },
+    {
+      "uri": "jbr:bavli-perek-34-4",
+      "rdfs:label": "פרק רביעי - ספק אכל חלב",
+      "jbo:position": "4"
+    },
+    {
+      "uri": "jbr:bavli-perek-34-5",
+      "rdfs:label": "פרק חמישי - דם שחיטה",
+      "jbo:position": "5"
+    },
+    {
+      "uri": "jbr:bavli-perek-34-6",
+      "rdfs:label": "פרק שישי - המביא אשם",
+      "jbo:position": "6"
+    }
+  ]
+}

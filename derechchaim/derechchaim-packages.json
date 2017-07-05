@@ -1,1 +1,24 @@
-{"subjects":[{"uri":"jbr:derechchaim-1","rdfs:label":"דרך חיים א"},{"uri":"jbr:derechchaim-2","rdfs:label":"דרך חיים ב"},{"uri":"jbr:derechchaim-3","rdfs:label":"דרך חיים ג"},{"uri":"jbr:derechchaim-4","rdfs:label":"דרך חיים ד"},{"uri":"jbr:derechchaim-5","rdfs:label":"דרך חיים ה"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:derechchaim-1",
+      "rdfs:label": "דרך חיים א"
+    },
+    {
+      "uri": "jbr:derechchaim-2",
+      "rdfs:label": "דרך חיים ב"
+    },
+    {
+      "uri": "jbr:derechchaim-3",
+      "rdfs:label": "דרך חיים ג"
+    },
+    {
+      "uri": "jbr:derechchaim-4",
+      "rdfs:label": "דרך חיים ד"
+    },
+    {
+      "uri": "jbr:derechchaim-5",
+      "rdfs:label": "דרך חיים ה"
+    }
+  ]
+}

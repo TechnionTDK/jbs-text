@@ -1,1 +1,59 @@
-{"subjects":[{"uri":"jbr:bavli-22","rdfs:label":"מסכת בבא בתרא","jbo:position":"22"},{"uri":"jbr:bavli-perek-22-1","rdfs:label":"פרק ראשון - השותפין","jbo:position":"1"},{"uri":"jbr:bavli-perek-22-2","rdfs:label":"פרק שני - לא יחפור","jbo:position":"2"},{"uri":"jbr:bavli-perek-22-3","rdfs:label":"פרק שלישי - חזקת הבתים","jbo:position":"3"},{"uri":"jbr:bavli-perek-22-4","rdfs:label":"פרק רביעי - המוכר את הבית","jbo:position":"4"},{"uri":"jbr:bavli-perek-22-5","rdfs:label":"פרק חמישי - המוכר את הספינה","jbo:position":"5"},{"uri":"jbr:bavli-perek-22-6","rdfs:label":"פרק שישי - המוכר פירות","jbo:position":"6"},{"uri":"jbr:bavli-perek-22-7","rdfs:label":"פרק שביעי - בית כור","jbo:position":"7"},{"uri":"jbr:bavli-perek-22-8","rdfs:label":"פרק שמיני - יש נוחלין","jbo:position":"8"},{"uri":"jbr:bavli-perek-22-9","rdfs:label":"פרק תשיעי - מי שמת","jbo:position":"9"},{"uri":"jbr:bavli-perek-22-10","rdfs:label":"פרק עשירי - גט פשוט","jbo:position":"10"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:bavli-22",
+      "rdfs:label": "מסכת בבא בתרא",
+      "jbo:position": "22"
+    },
+    {
+      "uri": "jbr:bavli-perek-22-1",
+      "rdfs:label": "פרק ראשון - השותפין",
+      "jbo:position": "1"
+    },
+    {
+      "uri": "jbr:bavli-perek-22-2",
+      "rdfs:label": "פרק שני - לא יחפור",
+      "jbo:position": "2"
+    },
+    {
+      "uri": "jbr:bavli-perek-22-3",
+      "rdfs:label": "פרק שלישי - חזקת הבתים",
+      "jbo:position": "3"
+    },
+    {
+      "uri": "jbr:bavli-perek-22-4",
+      "rdfs:label": "פרק רביעי - המוכר את הבית",
+      "jbo:position": "4"
+    },
+    {
+      "uri": "jbr:bavli-perek-22-5",
+      "rdfs:label": "פרק חמישי - המוכר את הספינה",
+      "jbo:position": "5"
+    },
+    {
+      "uri": "jbr:bavli-perek-22-6",
+      "rdfs:label": "פרק שישי - המוכר פירות",
+      "jbo:position": "6"
+    },
+    {
+      "uri": "jbr:bavli-perek-22-7",
+      "rdfs:label": "פרק שביעי - בית כור",
+      "jbo:position": "7"
+    },
+    {
+      "uri": "jbr:bavli-perek-22-8",
+      "rdfs:label": "פרק שמיני - יש נוחלין",
+      "jbo:position": "8"
+    },
+    {
+      "uri": "jbr:bavli-perek-22-9",
+      "rdfs:label": "פרק תשיעי - מי שמת",
+      "jbo:position": "9"
+    },
+    {
+      "uri": "jbr:bavli-perek-22-10",
+      "rdfs:label": "פרק עשירי - גט פשוט",
+      "jbo:position": "10"
+    }
+  ]
+}

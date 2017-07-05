@@ -1,1 +1,59 @@
-{"subjects":[{"uri":"jbr:bavli-4","rdfs:label":"מסכת פסחים","jbo:position":"4"},{"uri":"jbr:bavli-perek-4-1","rdfs:label":"פרק ראשון - אור לארבעה עשר","jbo:position":"1"},{"uri":"jbr:bavli-perek-4-2","rdfs:label":"פרק שני - כל שעה","jbo:position":"2"},{"uri":"jbr:bavli-perek-4-3","rdfs:label":"פרק שלישי - אלו עוברין","jbo:position":"3"},{"uri":"jbr:bavli-perek-4-4","rdfs:label":"פרק רביעי - מקום שנהגו","jbo:position":"4"},{"uri":"jbr:bavli-perek-4-5","rdfs:label":"פרק חמישי - תמיד נשחט","jbo:position":"5"},{"uri":"jbr:bavli-perek-4-6","rdfs:label":"פרק שישי - אלו דברים","jbo:position":"6"},{"uri":"jbr:bavli-perek-4-7","rdfs:label":"פרק שביעי - כיצד צולין","jbo:position":"7"},{"uri":"jbr:bavli-perek-4-8","rdfs:label":"פרק שמיני - האשה","jbo:position":"8"},{"uri":"jbr:bavli-perek-4-9","rdfs:label":"פרק תשיעי - מי שהיה","jbo:position":"9"},{"uri":"jbr:bavli-perek-4-10","rdfs:label":"פרק עשירי - ערבי פסחים","jbo:position":"10"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:bavli-4",
+      "rdfs:label": "מסכת פסחים",
+      "jbo:position": "4"
+    },
+    {
+      "uri": "jbr:bavli-perek-4-1",
+      "rdfs:label": "פרק ראשון - אור לארבעה עשר",
+      "jbo:position": "1"
+    },
+    {
+      "uri": "jbr:bavli-perek-4-2",
+      "rdfs:label": "פרק שני - כל שעה",
+      "jbo:position": "2"
+    },
+    {
+      "uri": "jbr:bavli-perek-4-3",
+      "rdfs:label": "פרק שלישי - אלו עוברין",
+      "jbo:position": "3"
+    },
+    {
+      "uri": "jbr:bavli-perek-4-4",
+      "rdfs:label": "פרק רביעי - מקום שנהגו",
+      "jbo:position": "4"
+    },
+    {
+      "uri": "jbr:bavli-perek-4-5",
+      "rdfs:label": "פרק חמישי - תמיד נשחט",
+      "jbo:position": "5"
+    },
+    {
+      "uri": "jbr:bavli-perek-4-6",
+      "rdfs:label": "פרק שישי - אלו דברים",
+      "jbo:position": "6"
+    },
+    {
+      "uri": "jbr:bavli-perek-4-7",
+      "rdfs:label": "פרק שביעי - כיצד צולין",
+      "jbo:position": "7"
+    },
+    {
+      "uri": "jbr:bavli-perek-4-8",
+      "rdfs:label": "פרק שמיני - האשה",
+      "jbo:position": "8"
+    },
+    {
+      "uri": "jbr:bavli-perek-4-9",
+      "rdfs:label": "פרק תשיעי - מי שהיה",
+      "jbo:position": "9"
+    },
+    {
+      "uri": "jbr:bavli-perek-4-10",
+      "rdfs:label": "פרק עשירי - ערבי פסחים",
+      "jbo:position": "10"
+    }
+  ]
+}

@@ -1,1 +1,165 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-5","rdfs:label":"סדר קדשים","jbo:position":"5"},{"jbo:within":["jbr:mishna","jbr:mishna-5"],"uri":"jbr:mishna-5-1","rdfs:label":"﻿משנה מסכת זבחים","jbo:position":"1"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-1","rdfs:label":"משנה זבחים פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-2","rdfs:label":"משנה זבחים פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-3","rdfs:label":"משנה זבחים פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-4","rdfs:label":"משנה זבחים פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-5","rdfs:label":"משנה זבחים פרק ה","jbo:position":"5"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-6","rdfs:label":"משנה זבחים פרק ו","jbo:position":"6"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-7","rdfs:label":"משנה זבחים פרק ז","jbo:position":"7"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-8","rdfs:label":"משנה זבחים פרק ח","jbo:position":"8"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-9","rdfs:label":"משנה זבחים פרק ט","jbo:position":"9"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-10","rdfs:label":"משנה זבחים פרק י","jbo:position":"10"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-11","rdfs:label":"משנה זבחים פרק יא","jbo:position":"11"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-12","rdfs:label":"משנה זבחים פרק יב","jbo:position":"12"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-13","rdfs:label":"משנה זבחים פרק יג","jbo:position":"13"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-1","jbr:mishna"],"uri":"jbr:mishna-5-1-14","rdfs:label":"משנה זבחים פרק יד","jbo:position":"14"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5",
+      "rdfs:label": "סדר קדשים",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-5"
+      ],
+      "uri": "jbr:mishna-5-1",
+      "rdfs:label": "﻿משנה מסכת זבחים",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-1",
+      "rdfs:label": "משנה זבחים פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-2",
+      "rdfs:label": "משנה זבחים פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-3",
+      "rdfs:label": "משנה זבחים פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-4",
+      "rdfs:label": "משנה זבחים פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-5",
+      "rdfs:label": "משנה זבחים פרק ה",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-6",
+      "rdfs:label": "משנה זבחים פרק ו",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-7",
+      "rdfs:label": "משנה זבחים פרק ז",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-8",
+      "rdfs:label": "משנה זבחים פרק ח",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-9",
+      "rdfs:label": "משנה זבחים פרק ט",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-10",
+      "rdfs:label": "משנה זבחים פרק י",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-11",
+      "rdfs:label": "משנה זבחים פרק יא",
+      "jbo:position": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-12",
+      "rdfs:label": "משנה זבחים פרק יב",
+      "jbo:position": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-13",
+      "rdfs:label": "משנה זבחים פרק יג",
+      "jbo:position": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-1-14",
+      "rdfs:label": "משנה זבחים פרק יד",
+      "jbo:position": "14"
+    }
+  ]
+}

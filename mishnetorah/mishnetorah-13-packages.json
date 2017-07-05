@@ -1,1 +1,490 @@
-{"subjects":[{"uri":"jbr:mishnetorah-13","rdfs:label":"ספר משפטים","jbo:position":"13"},{"uri":"jbr:mishnetorah-13-1","rdfs:label":"הלכות שכירות","jbo:position":"1"},{"uri":"jbr:mishnetorah-13-1-1","rdfs:label":"הלכות שכירות - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-13-1-2","rdfs:label":"הלכות שכירות - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-13-1-3","rdfs:label":"הלכות שכירות - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-13-1-4","rdfs:label":"הלכות שכירות - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-13-1-5","rdfs:label":"הלכות שכירות - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-13-1-6","rdfs:label":"הלכות שכירות - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-13-1-7","rdfs:label":"הלכות שכירות - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-13-1-8","rdfs:label":"הלכות שכירות - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-13-1-9","rdfs:label":"הלכות שכירות - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-13-1-10","rdfs:label":"הלכות שכירות - פרק עשירי","jbo:position":"10"},{"uri":"jbr:mishnetorah-13-1-11","rdfs:label":"הלכות שכירות - פרק אחד עשר","jbo:position":"11"},{"uri":"jbr:mishnetorah-13-1-12","rdfs:label":"הלכות שכירות - פרק שנים עשר","jbo:position":"12"},{"uri":"jbr:mishnetorah-13-1-13","rdfs:label":"הלכות שכירות - פרק שלשה עשר","jbo:position":"13"},{"uri":"jbr:mishnetorah-13-2","rdfs:label":"הלכות שאלה ופקדון","jbo:position":"2"},{"uri":"jbr:mishnetorah-13-2-1","rdfs:label":"הלכות שאלה ופקדון - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-13-2-2","rdfs:label":"הלכות שאלה ופקדון - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-13-2-3","rdfs:label":"הלכות שאלה ופקדון - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-13-2-4","rdfs:label":"הלכות שאלה ופקדון - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-13-2-5","rdfs:label":"הלכות שאלה ופקדון - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-13-2-6","rdfs:label":"הלכות שאלה ופקדון - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-13-2-7","rdfs:label":"הלכות שאלה ופקדון - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-13-2-8","rdfs:label":"הלכות שאלה ופקדון - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-13-3","rdfs:label":"הלכות מלוה ולוה","jbo:position":"3"},{"uri":"jbr:mishnetorah-13-3-1","rdfs:label":"הלכות מלוה ולוה - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-13-3-2","rdfs:label":"הלכות מלוה ולוה - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-13-3-3","rdfs:label":"הלכות מלוה ולוה - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-13-3-4","rdfs:label":"הלכות מלוה ולוה - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-13-3-5","rdfs:label":"הלכות מלוה ולוה - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-13-3-6","rdfs:label":"הלכות מלוה ולוה - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-13-3-7","rdfs:label":"הלכות מלוה ולוה - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-13-3-8","rdfs:label":"הלכות מלוה ולוה - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-13-3-9","rdfs:label":"הלכות מלוה ולוה - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-13-3-10","rdfs:label":"הלכות מלוה ולוה - פרק עשירי","jbo:position":"10"},{"uri":"jbr:mishnetorah-13-3-11","rdfs:label":"הלכות מלוה ולוה - פרק אחד עשר","jbo:position":"11"},{"uri":"jbr:mishnetorah-13-3-12","rdfs:label":"הלכות מלוה ולוה - פרק שנים עשר","jbo:position":"12"},{"uri":"jbr:mishnetorah-13-3-13","rdfs:label":"הלכות מלוה ולוה - פרק שלשה עשר","jbo:position":"13"},{"uri":"jbr:mishnetorah-13-3-14","rdfs:label":"הלכות מלוה ולוה - פרק ארבעה עשר","jbo:position":"14"},{"uri":"jbr:mishnetorah-13-3-15","rdfs:label":"הלכות מלוה ולוה - פרק חמשה עשר","jbo:position":"15"},{"uri":"jbr:mishnetorah-13-3-16","rdfs:label":"הלכות מלוה ולוה - פרק ששה עשר","jbo:position":"16"},{"uri":"jbr:mishnetorah-13-3-17","rdfs:label":"הלכות מלוה ולוה - פרק שבעה עשר","jbo:position":"17"},{"uri":"jbr:mishnetorah-13-3-18","rdfs:label":"הלכות מלוה ולוה - פרק שמונה עשר","jbo:position":"18"},{"uri":"jbr:mishnetorah-13-3-19","rdfs:label":"הלכות מלוה ולוה - פרק תשעה עשר","jbo:position":"19"},{"uri":"jbr:mishnetorah-13-3-20","rdfs:label":"הלכות מלוה ולוה - פרק עשרים","jbo:position":"20"},{"uri":"jbr:mishnetorah-13-3-21","rdfs:label":"הלכות מלוה ולוה - פרק אחד ועשרים","jbo:position":"21"},{"uri":"jbr:mishnetorah-13-3-22","rdfs:label":"הלכות מלוה ולוה - פרק שנים ועשרים","jbo:position":"22"},{"uri":"jbr:mishnetorah-13-3-23","rdfs:label":"הלכות מלוה ולוה - פרק שלשה ועשרים","jbo:position":"23"},{"uri":"jbr:mishnetorah-13-3-24","rdfs:label":"הלכות מלוה ולוה - פרק ארבעה ועשרים","jbo:position":"24"},{"uri":"jbr:mishnetorah-13-3-25","rdfs:label":"הלכות מלוה ולוה - פרק חמשה ועשרים","jbo:position":"25"},{"uri":"jbr:mishnetorah-13-3-26","rdfs:label":"הלכות מלוה ולוה - פרק ששה ועשרים","jbo:position":"26"},{"uri":"jbr:mishnetorah-13-3-27","rdfs:label":"הלכות מלוה ולוה - פרק שבעה ועשרים","jbo:position":"27"},{"uri":"jbr:mishnetorah-13-4","rdfs:label":"הלכות טוען ונטען","jbo:position":"4"},{"uri":"jbr:mishnetorah-13-4-1","rdfs:label":"הלכות טוען ונטען - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-13-4-2","rdfs:label":"הלכות טוען ונטען - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-13-4-3","rdfs:label":"הלכות טוען ונטען - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-13-4-4","rdfs:label":"הלכות טוען ונטען - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-13-4-5","rdfs:label":"הלכות טוען ונטען - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-13-4-6","rdfs:label":"הלכות טוען ונטען - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-13-4-7","rdfs:label":"הלכות טוען ונטען - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-13-4-8","rdfs:label":"הלכות טוען ונטען - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-13-4-9","rdfs:label":"הלכות טוען ונטען - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-13-4-10","rdfs:label":"הלכות טוען ונטען - פרק עשירי","jbo:position":"10"},{"uri":"jbr:mishnetorah-13-4-11","rdfs:label":"הלכות טוען ונטען - פרק אחד עשר","jbo:position":"11"},{"uri":"jbr:mishnetorah-13-4-12","rdfs:label":"הלכות טוען ונטען - פרק שנים עשר","jbo:position":"12"},{"uri":"jbr:mishnetorah-13-4-13","rdfs:label":"הלכות טוען ונטען - פרק שלשה עשר","jbo:position":"13"},{"uri":"jbr:mishnetorah-13-4-14","rdfs:label":"הלכות טוען ונטען - פרק ארבעה עשר","jbo:position":"14"},{"uri":"jbr:mishnetorah-13-4-15","rdfs:label":"הלכות טוען ונטען - פרק חמשה עשר","jbo:position":"15"},{"uri":"jbr:mishnetorah-13-4-16","rdfs:label":"הלכות טוען ונטען - פרק ששה עשר","jbo:position":"16"},{"uri":"jbr:mishnetorah-13-5","rdfs:label":"הלכות נחלות","jbo:position":"5"},{"uri":"jbr:mishnetorah-13-5-1","rdfs:label":"הלכות נחלות - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-13-5-2","rdfs:label":"הלכות נחלות - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-13-5-3","rdfs:label":"הלכות נחלות - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-13-5-4","rdfs:label":"הלכות נחלות - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-13-5-5","rdfs:label":"הלכות נחלות - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-13-5-6","rdfs:label":"הלכות נחלות - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-13-5-7","rdfs:label":"הלכות נחלות - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-13-5-8","rdfs:label":"הלכות נחלות - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-13-5-9","rdfs:label":"הלכות נחלות - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-13-5-10","rdfs:label":"הלכות נחלות - פרק עשירי","jbo:position":"10"},{"uri":"jbr:mishnetorah-13-5-11","rdfs:label":"הלכות נחלות - פרק אחד עשר","jbo:position":"11"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishnetorah-13",
+      "rdfs:label": "ספר משפטים",
+      "jbo:position": "13",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1",
+      "rdfs:label": "הלכות שכירות",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-1",
+      "rdfs:label": "הלכות שכירות - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-2",
+      "rdfs:label": "הלכות שכירות - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-3",
+      "rdfs:label": "הלכות שכירות - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-4",
+      "rdfs:label": "הלכות שכירות - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-5",
+      "rdfs:label": "הלכות שכירות - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-6",
+      "rdfs:label": "הלכות שכירות - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-7",
+      "rdfs:label": "הלכות שכירות - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-8",
+      "rdfs:label": "הלכות שכירות - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-9",
+      "rdfs:label": "הלכות שכירות - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-10",
+      "rdfs:label": "הלכות שכירות - פרק עשירי",
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-11",
+      "rdfs:label": "הלכות שכירות - פרק אחד עשר",
+      "jbo:position": "11",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-12",
+      "rdfs:label": "הלכות שכירות - פרק שנים עשר",
+      "jbo:position": "12",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-1-13",
+      "rdfs:label": "הלכות שכירות - פרק שלשה עשר",
+      "jbo:position": "13",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-2",
+      "rdfs:label": "הלכות שאלה ופקדון",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-2-1",
+      "rdfs:label": "הלכות שאלה ופקדון - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-2-2",
+      "rdfs:label": "הלכות שאלה ופקדון - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-2-3",
+      "rdfs:label": "הלכות שאלה ופקדון - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-2-4",
+      "rdfs:label": "הלכות שאלה ופקדון - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-2-5",
+      "rdfs:label": "הלכות שאלה ופקדון - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-2-6",
+      "rdfs:label": "הלכות שאלה ופקדון - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-2-7",
+      "rdfs:label": "הלכות שאלה ופקדון - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-2-8",
+      "rdfs:label": "הלכות שאלה ופקדון - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3",
+      "rdfs:label": "הלכות מלוה ולוה",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-1",
+      "rdfs:label": "הלכות מלוה ולוה - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-2",
+      "rdfs:label": "הלכות מלוה ולוה - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-3",
+      "rdfs:label": "הלכות מלוה ולוה - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-4",
+      "rdfs:label": "הלכות מלוה ולוה - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-5",
+      "rdfs:label": "הלכות מלוה ולוה - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-6",
+      "rdfs:label": "הלכות מלוה ולוה - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-7",
+      "rdfs:label": "הלכות מלוה ולוה - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-8",
+      "rdfs:label": "הלכות מלוה ולוה - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-9",
+      "rdfs:label": "הלכות מלוה ולוה - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-10",
+      "rdfs:label": "הלכות מלוה ולוה - פרק עשירי",
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-11",
+      "rdfs:label": "הלכות מלוה ולוה - פרק אחד עשר",
+      "jbo:position": "11",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-12",
+      "rdfs:label": "הלכות מלוה ולוה - פרק שנים עשר",
+      "jbo:position": "12",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-13",
+      "rdfs:label": "הלכות מלוה ולוה - פרק שלשה עשר",
+      "jbo:position": "13",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-14",
+      "rdfs:label": "הלכות מלוה ולוה - פרק ארבעה עשר",
+      "jbo:position": "14",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-15",
+      "rdfs:label": "הלכות מלוה ולוה - פרק חמשה עשר",
+      "jbo:position": "15",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-16",
+      "rdfs:label": "הלכות מלוה ולוה - פרק ששה עשר",
+      "jbo:position": "16",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-17",
+      "rdfs:label": "הלכות מלוה ולוה - פרק שבעה עשר",
+      "jbo:position": "17",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-18",
+      "rdfs:label": "הלכות מלוה ולוה - פרק שמונה עשר",
+      "jbo:position": "18",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-19",
+      "rdfs:label": "הלכות מלוה ולוה - פרק תשעה עשר",
+      "jbo:position": "19",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-20",
+      "rdfs:label": "הלכות מלוה ולוה - פרק עשרים",
+      "jbo:position": "20",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-21",
+      "rdfs:label": "הלכות מלוה ולוה - פרק אחד ועשרים",
+      "jbo:position": "21",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-22",
+      "rdfs:label": "הלכות מלוה ולוה - פרק שנים ועשרים",
+      "jbo:position": "22",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-23",
+      "rdfs:label": "הלכות מלוה ולוה - פרק שלשה ועשרים",
+      "jbo:position": "23",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-24",
+      "rdfs:label": "הלכות מלוה ולוה - פרק ארבעה ועשרים",
+      "jbo:position": "24",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-25",
+      "rdfs:label": "הלכות מלוה ולוה - פרק חמשה ועשרים",
+      "jbo:position": "25",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-26",
+      "rdfs:label": "הלכות מלוה ולוה - פרק ששה ועשרים",
+      "jbo:position": "26",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-3-27",
+      "rdfs:label": "הלכות מלוה ולוה - פרק שבעה ועשרים",
+      "jbo:position": "27",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4",
+      "rdfs:label": "הלכות טוען ונטען",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-1",
+      "rdfs:label": "הלכות טוען ונטען - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-2",
+      "rdfs:label": "הלכות טוען ונטען - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-3",
+      "rdfs:label": "הלכות טוען ונטען - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-4",
+      "rdfs:label": "הלכות טוען ונטען - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-5",
+      "rdfs:label": "הלכות טוען ונטען - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-6",
+      "rdfs:label": "הלכות טוען ונטען - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-7",
+      "rdfs:label": "הלכות טוען ונטען - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-8",
+      "rdfs:label": "הלכות טוען ונטען - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-9",
+      "rdfs:label": "הלכות טוען ונטען - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-10",
+      "rdfs:label": "הלכות טוען ונטען - פרק עשירי",
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-11",
+      "rdfs:label": "הלכות טוען ונטען - פרק אחד עשר",
+      "jbo:position": "11",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-12",
+      "rdfs:label": "הלכות טוען ונטען - פרק שנים עשר",
+      "jbo:position": "12",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-13",
+      "rdfs:label": "הלכות טוען ונטען - פרק שלשה עשר",
+      "jbo:position": "13",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-14",
+      "rdfs:label": "הלכות טוען ונטען - פרק ארבעה עשר",
+      "jbo:position": "14",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-15",
+      "rdfs:label": "הלכות טוען ונטען - פרק חמשה עשר",
+      "jbo:position": "15",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-4-16",
+      "rdfs:label": "הלכות טוען ונטען - פרק ששה עשר",
+      "jbo:position": "16",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-5",
+      "rdfs:label": "הלכות נחלות",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-5-1",
+      "rdfs:label": "הלכות נחלות - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-5-2",
+      "rdfs:label": "הלכות נחלות - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-5-3",
+      "rdfs:label": "הלכות נחלות - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-5-4",
+      "rdfs:label": "הלכות נחלות - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-5-5",
+      "rdfs:label": "הלכות נחלות - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-5-6",
+      "rdfs:label": "הלכות נחלות - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-5-7",
+      "rdfs:label": "הלכות נחלות - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-5-8",
+      "rdfs:label": "הלכות נחלות - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-5-9",
+      "rdfs:label": "הלכות נחלות - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-5-10",
+      "rdfs:label": "הלכות נחלות - פרק עשירי",
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-13-5-11",
+      "rdfs:label": "הלכות נחלות - פרק אחד עשר",
+      "jbo:position": "11",
+      "jbo:book": "jbr:book-mishnetorah"
+    }
+  ]
+}

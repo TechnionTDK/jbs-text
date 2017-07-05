@@ -1,1 +1,135 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-3","rdfs:label":"סדר נשים","jbo:position":"3"},{"jbo:within":["jbr:mishna","jbr:mishna-3"],"uri":"jbr:mishna-3-3","rdfs:label":"﻿משנה מסכת נדרים","jbo:position":"3"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-3","jbr:mishna"],"uri":"jbr:mishna-3-3-1","rdfs:label":"משנה נדרים פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-3","jbr:mishna"],"uri":"jbr:mishna-3-3-2","rdfs:label":"משנה נדרים פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-3","jbr:mishna"],"uri":"jbr:mishna-3-3-3","rdfs:label":"משנה נדרים פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-3","jbr:mishna"],"uri":"jbr:mishna-3-3-4","rdfs:label":"משנה נדרים פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-3","jbr:mishna"],"uri":"jbr:mishna-3-3-5","rdfs:label":"משנה נדרים פרק ה","jbo:position":"5"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-3","jbr:mishna"],"uri":"jbr:mishna-3-3-6","rdfs:label":"משנה נדרים פרק ו","jbo:position":"6"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-3","jbr:mishna"],"uri":"jbr:mishna-3-3-7","rdfs:label":"משנה נדרים פרק ז","jbo:position":"7"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-3","jbr:mishna"],"uri":"jbr:mishna-3-3-8","rdfs:label":"משנה נדרים פרק ח","jbo:position":"8"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-3","jbr:mishna"],"uri":"jbr:mishna-3-3-9","rdfs:label":"משנה נדרים פרק ט","jbo:position":"9"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-3","jbr:mishna"],"uri":"jbr:mishna-3-3-10","rdfs:label":"משנה נדרים פרק י","jbo:position":"10"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-3","jbr:mishna"],"uri":"jbr:mishna-3-3-11","rdfs:label":"משנה נדרים פרק יא","jbo:position":"11"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3",
+      "rdfs:label": "סדר נשים",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-3"
+      ],
+      "uri": "jbr:mishna-3-3",
+      "rdfs:label": "﻿משנה מסכת נדרים",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-3-1",
+      "rdfs:label": "משנה נדרים פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-3-2",
+      "rdfs:label": "משנה נדרים פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-3-3",
+      "rdfs:label": "משנה נדרים פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-3-4",
+      "rdfs:label": "משנה נדרים פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-3-5",
+      "rdfs:label": "משנה נדרים פרק ה",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-3-6",
+      "rdfs:label": "משנה נדרים פרק ו",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-3-7",
+      "rdfs:label": "משנה נדרים פרק ז",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-3-8",
+      "rdfs:label": "משנה נדרים פרק ח",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-3-9",
+      "rdfs:label": "משנה נדרים פרק ט",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-3-10",
+      "rdfs:label": "משנה נדרים פרק י",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-3-11",
+      "rdfs:label": "משנה נדרים פרק יא",
+      "jbo:position": "11"
+    }
+  ]
+}

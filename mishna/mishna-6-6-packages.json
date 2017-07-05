@@ -1,1 +1,125 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-6","rdfs:label":"סדר טהרות","jbo:position":"6"},{"jbo:within":["jbr:mishna","jbr:mishna-6"],"uri":"jbr:mishna-6-6","rdfs:label":"﻿משנה מסכת מקוואות","jbo:position":"6"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-6","jbr:mishna"],"uri":"jbr:mishna-6-6-1","rdfs:label":"משנה מקוואות פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-6","jbr:mishna"],"uri":"jbr:mishna-6-6-2","rdfs:label":"משנה מקוואות פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-6","jbr:mishna"],"uri":"jbr:mishna-6-6-3","rdfs:label":"משנה מקוואות פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-6","jbr:mishna"],"uri":"jbr:mishna-6-6-4","rdfs:label":"משנה מקוואות פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-6","jbr:mishna"],"uri":"jbr:mishna-6-6-5","rdfs:label":"משנה מקוואות פרק ה","jbo:position":"5"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-6","jbr:mishna"],"uri":"jbr:mishna-6-6-6","rdfs:label":"משנה מקוואות פרק ו","jbo:position":"6"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-6","jbr:mishna"],"uri":"jbr:mishna-6-6-7","rdfs:label":"משנה מקוואות פרק ז","jbo:position":"7"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-6","jbr:mishna"],"uri":"jbr:mishna-6-6-8","rdfs:label":"משנה מקוואות פרק ח","jbo:position":"8"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-6","jbr:mishna"],"uri":"jbr:mishna-6-6-9","rdfs:label":"משנה מקוואות פרק ט","jbo:position":"9"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-6","jbr:mishna"],"uri":"jbr:mishna-6-6-10","rdfs:label":"משנה מקוואות פרק י","jbo:position":"10"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6",
+      "rdfs:label": "סדר טהרות",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-6"
+      ],
+      "uri": "jbr:mishna-6-6",
+      "rdfs:label": "﻿משנה מסכת מקוואות",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-6",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-6-1",
+      "rdfs:label": "משנה מקוואות פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-6",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-6-2",
+      "rdfs:label": "משנה מקוואות פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-6",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-6-3",
+      "rdfs:label": "משנה מקוואות פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-6",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-6-4",
+      "rdfs:label": "משנה מקוואות פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-6",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-6-5",
+      "rdfs:label": "משנה מקוואות פרק ה",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-6",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-6-6",
+      "rdfs:label": "משנה מקוואות פרק ו",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-6",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-6-7",
+      "rdfs:label": "משנה מקוואות פרק ז",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-6",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-6-8",
+      "rdfs:label": "משנה מקוואות פרק ח",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-6",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-6-9",
+      "rdfs:label": "משנה מקוואות פרק ט",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-6",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-6-10",
+      "rdfs:label": "משנה מקוואות פרק י",
+      "jbo:position": "10"
+    }
+  ]
+}

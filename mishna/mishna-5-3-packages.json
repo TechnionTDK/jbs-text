@@ -1,1 +1,145 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-5","rdfs:label":"סדר קדשים","jbo:position":"5"},{"jbo:within":["jbr:mishna","jbr:mishna-5"],"uri":"jbr:mishna-5-3","rdfs:label":"﻿משנה מסכת חולין","jbo:position":"3"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-3","jbr:mishna"],"uri":"jbr:mishna-5-3-1","rdfs:label":"משנה חולין פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-3","jbr:mishna"],"uri":"jbr:mishna-5-3-2","rdfs:label":"משנה חולין פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-3","jbr:mishna"],"uri":"jbr:mishna-5-3-3","rdfs:label":"משנה חולין פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-3","jbr:mishna"],"uri":"jbr:mishna-5-3-4","rdfs:label":"משנה חולין פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-3","jbr:mishna"],"uri":"jbr:mishna-5-3-5","rdfs:label":"משנה חולין פרק ה","jbo:position":"5"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-3","jbr:mishna"],"uri":"jbr:mishna-5-3-6","rdfs:label":"משנה חולין פרק ו","jbo:position":"6"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-3","jbr:mishna"],"uri":"jbr:mishna-5-3-7","rdfs:label":"משנה חולין פרק ז","jbo:position":"7"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-3","jbr:mishna"],"uri":"jbr:mishna-5-3-8","rdfs:label":"משנה חולין פרק ח","jbo:position":"8"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-3","jbr:mishna"],"uri":"jbr:mishna-5-3-9","rdfs:label":"משנה חולין פרק ט","jbo:position":"9"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-3","jbr:mishna"],"uri":"jbr:mishna-5-3-10","rdfs:label":"משנה חולין פרק י","jbo:position":"10"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-3","jbr:mishna"],"uri":"jbr:mishna-5-3-11","rdfs:label":"משנה חולין פרק יא","jbo:position":"11"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-3","jbr:mishna"],"uri":"jbr:mishna-5-3-12","rdfs:label":"משנה חולין פרק יב","jbo:position":"12"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5",
+      "rdfs:label": "סדר קדשים",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-5"
+      ],
+      "uri": "jbr:mishna-5-3",
+      "rdfs:label": "﻿משנה מסכת חולין",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-3-1",
+      "rdfs:label": "משנה חולין פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-3-2",
+      "rdfs:label": "משנה חולין פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-3-3",
+      "rdfs:label": "משנה חולין פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-3-4",
+      "rdfs:label": "משנה חולין פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-3-5",
+      "rdfs:label": "משנה חולין פרק ה",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-3-6",
+      "rdfs:label": "משנה חולין פרק ו",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-3-7",
+      "rdfs:label": "משנה חולין פרק ז",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-3-8",
+      "rdfs:label": "משנה חולין פרק ח",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-3-9",
+      "rdfs:label": "משנה חולין פרק ט",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-3-10",
+      "rdfs:label": "משנה חולין פרק י",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-3-11",
+      "rdfs:label": "משנה חולין פרק יא",
+      "jbo:position": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-3",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-3-12",
+      "rdfs:label": "משנה חולין פרק יב",
+      "jbo:position": "12"
+    }
+  ]
+}

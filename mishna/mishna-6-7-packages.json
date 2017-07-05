@@ -1,1 +1,125 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-6","rdfs:label":"סדר טהרות","jbo:position":"6"},{"jbo:within":["jbr:mishna","jbr:mishna-6"],"uri":"jbr:mishna-6-7","rdfs:label":"﻿משנה מסכת נדה","jbo:position":"7"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-7","jbr:mishna"],"uri":"jbr:mishna-6-7-1","rdfs:label":"משנה נדה פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-7","jbr:mishna"],"uri":"jbr:mishna-6-7-2","rdfs:label":"משנה נדה פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-7","jbr:mishna"],"uri":"jbr:mishna-6-7-3","rdfs:label":"משנה נדה פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-7","jbr:mishna"],"uri":"jbr:mishna-6-7-4","rdfs:label":"משנה נדה פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-7","jbr:mishna"],"uri":"jbr:mishna-6-7-5","rdfs:label":"משנה נדה פרק ה","jbo:position":"5"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-7","jbr:mishna"],"uri":"jbr:mishna-6-7-6","rdfs:label":"משנה נדה פרק ו","jbo:position":"6"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-7","jbr:mishna"],"uri":"jbr:mishna-6-7-7","rdfs:label":"משנה נדה פרק ז","jbo:position":"7"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-7","jbr:mishna"],"uri":"jbr:mishna-6-7-8","rdfs:label":"משנה נדה פרק ח","jbo:position":"8"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-7","jbr:mishna"],"uri":"jbr:mishna-6-7-9","rdfs:label":"משנה נדה פרק ט","jbo:position":"9"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-7","jbr:mishna"],"uri":"jbr:mishna-6-7-10","rdfs:label":"משנה נדה פרק י","jbo:position":"10"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6",
+      "rdfs:label": "סדר טהרות",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-6"
+      ],
+      "uri": "jbr:mishna-6-7",
+      "rdfs:label": "﻿משנה מסכת נדה",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-7-1",
+      "rdfs:label": "משנה נדה פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-7-2",
+      "rdfs:label": "משנה נדה פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-7-3",
+      "rdfs:label": "משנה נדה פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-7-4",
+      "rdfs:label": "משנה נדה פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-7-5",
+      "rdfs:label": "משנה נדה פרק ה",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-7-6",
+      "rdfs:label": "משנה נדה פרק ו",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-7-7",
+      "rdfs:label": "משנה נדה פרק ז",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-7-8",
+      "rdfs:label": "משנה נדה פרק ח",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-7-9",
+      "rdfs:label": "משנה נדה פרק ט",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-7-10",
+      "rdfs:label": "משנה נדה פרק י",
+      "jbo:position": "10"
+    }
+  ]
+}

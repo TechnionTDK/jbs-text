@@ -1,1 +1,29 @@
-{"subjects":[{"uri":"jbr:bavli-10","rdfs:label":"מסכת מגילה","jbo:position":"10"},{"uri":"jbr:bavli-perek-10-1","rdfs:label":"פרק ראשון - מגילה נקראת","jbo:position":"1"},{"uri":"jbr:bavli-perek-10-2","rdfs:label":"פרק שני - הקורא למפרע","jbo:position":"2"},{"uri":"jbr:bavli-perek-10-3","rdfs:label":"פרק שלישי - הקורא עומד","jbo:position":"3"},{"uri":"jbr:bavli-perek-10-4","rdfs:label":"פרק רביעי - בני העיר","jbo:position":"4"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:bavli-10",
+      "rdfs:label": "מסכת מגילה",
+      "jbo:position": "10"
+    },
+    {
+      "uri": "jbr:bavli-perek-10-1",
+      "rdfs:label": "פרק ראשון - מגילה נקראת",
+      "jbo:position": "1"
+    },
+    {
+      "uri": "jbr:bavli-perek-10-2",
+      "rdfs:label": "פרק שני - הקורא למפרע",
+      "jbo:position": "2"
+    },
+    {
+      "uri": "jbr:bavli-perek-10-3",
+      "rdfs:label": "פרק שלישי - הקורא עומד",
+      "jbo:position": "3"
+    },
+    {
+      "uri": "jbr:bavli-perek-10-4",
+      "rdfs:label": "פרק רביעי - בני העיר",
+      "jbo:position": "4"
+    }
+  ]
+}

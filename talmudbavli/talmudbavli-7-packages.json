@@ -1,1 +1,34 @@
-{"subjects":[{"uri":"jbr:bavli-7","rdfs:label":"מסכת סוכה","jbo:position":"7"},{"uri":"jbr:bavli-perek-7-1","rdfs:label":"פרק ראשון - סוכה","jbo:position":"1"},{"uri":"jbr:bavli-perek-7-2","rdfs:label":"פרק שני - הישן תחת המטה","jbo:position":"2"},{"uri":"jbr:bavli-perek-7-3","rdfs:label":"פרק שלישי - לולב הגזול","jbo:position":"3"},{"uri":"jbr:bavli-perek-7-4","rdfs:label":"פרק רביעי - לולב וערבה","jbo:position":"4"},{"uri":"jbr:bavli-perek-7-5","rdfs:label":"פרק חמישי - החליל","jbo:position":"5"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:bavli-7",
+      "rdfs:label": "מסכת סוכה",
+      "jbo:position": "7"
+    },
+    {
+      "uri": "jbr:bavli-perek-7-1",
+      "rdfs:label": "פרק ראשון - סוכה",
+      "jbo:position": "1"
+    },
+    {
+      "uri": "jbr:bavli-perek-7-2",
+      "rdfs:label": "פרק שני - הישן תחת המטה",
+      "jbo:position": "2"
+    },
+    {
+      "uri": "jbr:bavli-perek-7-3",
+      "rdfs:label": "פרק שלישי - לולב הגזול",
+      "jbo:position": "3"
+    },
+    {
+      "uri": "jbr:bavli-perek-7-4",
+      "rdfs:label": "פרק רביעי - לולב וערבה",
+      "jbo:position": "4"
+    },
+    {
+      "uri": "jbr:bavli-perek-7-5",
+      "rdfs:label": "פרק חמישי - החליל",
+      "jbo:position": "5"
+    }
+  ]
+}

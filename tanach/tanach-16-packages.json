@@ -1,1 +1,41 @@
-{"subjects":[{"uri":"jbr:tanach-16","rdfs:label":"ספר יואל","jbo:position":"16"},{"jbo:within":["jbr:tanach-16"],"uri":"jbr:tanach-16-1","rdfs:label":"יואל פרק א","jbo:position":"1"},{"jbo:within":["jbr:tanach-16"],"uri":"jbr:tanach-16-2","rdfs:label":"יואל פרק ב","jbo:position":"2"},{"jbo:within":["jbr:tanach-16"],"uri":"jbr:tanach-16-3","rdfs:label":"יואל פרק ג","jbo:position":"3"},{"jbo:within":["jbr:tanach-16"],"uri":"jbr:tanach-16-4","rdfs:label":"יואל פרק ד","jbo:position":"4"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:tanach-16",
+      "rdfs:label": "ספר יואל",
+      "jbo:position": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:tanach-16"
+      ],
+      "uri": "jbr:tanach-16-1",
+      "rdfs:label": "יואל פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:tanach-16"
+      ],
+      "uri": "jbr:tanach-16-2",
+      "rdfs:label": "יואל פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:tanach-16"
+      ],
+      "uri": "jbr:tanach-16-3",
+      "rdfs:label": "יואל פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:tanach-16"
+      ],
+      "uri": "jbr:tanach-16-4",
+      "rdfs:label": "יואל פרק ד",
+      "jbo:position": "4"
+    }
+  ]
+}

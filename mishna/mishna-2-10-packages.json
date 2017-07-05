@@ -1,1 +1,65 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-2","rdfs:label":"סדר מועד","jbo:position":"2"},{"jbo:within":["jbr:mishna","jbr:mishna-2"],"uri":"jbr:mishna-2-10","rdfs:label":"﻿משנה מסכת מגילה","jbo:position":"10"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-10","jbr:mishna"],"uri":"jbr:mishna-2-10-1","rdfs:label":"משנה מגילה פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-10","jbr:mishna"],"uri":"jbr:mishna-2-10-2","rdfs:label":"משנה מגילה פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-10","jbr:mishna"],"uri":"jbr:mishna-2-10-3","rdfs:label":"משנה מגילה פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-10","jbr:mishna"],"uri":"jbr:mishna-2-10-4","rdfs:label":"משנה מגילה פרק ד","jbo:position":"4"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2",
+      "rdfs:label": "סדר מועד",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-2"
+      ],
+      "uri": "jbr:mishna-2-10",
+      "rdfs:label": "﻿משנה מסכת מגילה",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-10",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-10-1",
+      "rdfs:label": "משנה מגילה פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-10",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-10-2",
+      "rdfs:label": "משנה מגילה פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-10",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-10-3",
+      "rdfs:label": "משנה מגילה פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-10",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-10-4",
+      "rdfs:label": "משנה מגילה פרק ד",
+      "jbo:position": "4"
+    }
+  ]
+}

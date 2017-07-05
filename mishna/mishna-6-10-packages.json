@@ -1,1 +1,65 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-6","rdfs:label":"סדר טהרות","jbo:position":"6"},{"jbo:within":["jbr:mishna","jbr:mishna-6"],"uri":"jbr:mishna-6-10","rdfs:label":"﻿משנה מסכת טבול יום","jbo:position":"10"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-10","jbr:mishna"],"uri":"jbr:mishna-6-10-1","rdfs:label":"משנה טבול יום פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-10","jbr:mishna"],"uri":"jbr:mishna-6-10-2","rdfs:label":"משנה טבול יום פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-10","jbr:mishna"],"uri":"jbr:mishna-6-10-3","rdfs:label":"משנה טבול יום פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-6","jbr:mishna-6-10","jbr:mishna"],"uri":"jbr:mishna-6-10-4","rdfs:label":"משנה טבול יום פרק ד","jbo:position":"4"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6",
+      "rdfs:label": "סדר טהרות",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-6"
+      ],
+      "uri": "jbr:mishna-6-10",
+      "rdfs:label": "﻿משנה מסכת טבול יום",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-10",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-10-1",
+      "rdfs:label": "משנה טבול יום פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-10",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-10-2",
+      "rdfs:label": "משנה טבול יום פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-10",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-10-3",
+      "rdfs:label": "משנה טבול יום פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-6",
+        "jbr:mishna-6-10",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-6-10-4",
+      "rdfs:label": "משנה טבול יום פרק ד",
+      "jbo:position": "4"
+    }
+  ]
+}

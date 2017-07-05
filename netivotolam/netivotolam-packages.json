@@ -1,1 +1,202 @@
-{"subjects":[{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-1","jbo:position":"1","rdfs:label":"נתיב התורה"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-2","jbo:position":"2","rdfs:label":"נתיב העבודה"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-3","jbo:position":"3","rdfs:label":"נתיב גמילות חסדים"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-4","jbo:position":"4","rdfs:label":"נתיב הצדקה"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-5","jbo:position":"5","rdfs:label":"נתיב הדין"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-6","jbo:position":"6","rdfs:label":"נתיב האמת"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-7","jbo:position":"7","rdfs:label":"נתיב האמונה"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-8","jbo:position":"8","rdfs:label":"נתיב השלום"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-9","jbo:position":"9","rdfs:label":"נתיב אהבת ריע"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-10","jbo:position":"10","rdfs:label":"נתיב הענוה"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-11","jbo:position":"11","rdfs:label":"נתיב יראת השם"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-12","jbo:position":"12","rdfs:label":"נתיב הלשון"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-13","jbo:position":"13","rdfs:label":"נתיב אהבת השם"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-14","jbo:position":"14","rdfs:label":"נתיב השתיקה"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-15","jbo:position":"15","rdfs:label":"נתיב הפּרישות"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-16","jbo:position":"16","rdfs:label":"נתיב הצניעות"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-17","jbo:position":"17","rdfs:label":"נתיב כח היצר"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-18","jbo:position":"18","rdfs:label":"נתיב הצדק"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-19","jbo:position":"19","rdfs:label":"נתיב התשובה"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-20","jbo:position":"20","rdfs:label":"נתיב היסורין"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-21","jbo:position":"21","rdfs:label":"נתיב הזריזות"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-22","jbo:position":"22","rdfs:label":"נתיב התוכחה"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-23","jbo:position":"23","rdfs:label":"נתיב הבושה"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-24","jbo:position":"24","rdfs:label":"נתיב התמימות"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-25","jbo:position":"25","rdfs:label":"נתיב לב טוב"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-26","jbo:position":"26","rdfs:label":"נתיב עין טוב"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-27","jbo:position":"27","rdfs:label":"נתיב הליצנות"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-28","jbo:position":"28","rdfs:label":"נתיב העושר"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-29","jbo:position":"29","rdfs:label":"נתיב הבטחון"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-30","jbo:position":"30","rdfs:label":"נתיב הכעס"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-31","jbo:position":"31","rdfs:label":"נתיב הנדיבות"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-32","jbo:position":"32","rdfs:label":"נתיב שם טוב"},{"jbo:book":"jbr:book-netivotolam","uri":"jbr:netivotolam-33","jbo:position":"33","rdfs:label":"נתיב דרך ארץ"}]}
+{
+  "subjects": [
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-1",
+      "jbo:position": "1",
+      "rdfs:label": "נתיב התורה"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-2",
+      "jbo:position": "2",
+      "rdfs:label": "נתיב העבודה"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-3",
+      "jbo:position": "3",
+      "rdfs:label": "נתיב גמילות חסדים"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-4",
+      "jbo:position": "4",
+      "rdfs:label": "נתיב הצדקה"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-5",
+      "jbo:position": "5",
+      "rdfs:label": "נתיב הדין"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-6",
+      "jbo:position": "6",
+      "rdfs:label": "נתיב האמת"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-7",
+      "jbo:position": "7",
+      "rdfs:label": "נתיב האמונה"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-8",
+      "jbo:position": "8",
+      "rdfs:label": "נתיב השלום"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-9",
+      "jbo:position": "9",
+      "rdfs:label": "נתיב אהבת ריע"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-10",
+      "jbo:position": "10",
+      "rdfs:label": "נתיב הענוה"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-11",
+      "jbo:position": "11",
+      "rdfs:label": "נתיב יראת השם"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-12",
+      "jbo:position": "12",
+      "rdfs:label": "נתיב הלשון"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-13",
+      "jbo:position": "13",
+      "rdfs:label": "נתיב אהבת השם"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-14",
+      "jbo:position": "14",
+      "rdfs:label": "נתיב השתיקה"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-15",
+      "jbo:position": "15",
+      "rdfs:label": "נתיב הפּרישות"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-16",
+      "jbo:position": "16",
+      "rdfs:label": "נתיב הצניעות"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-17",
+      "jbo:position": "17",
+      "rdfs:label": "נתיב כח היצר"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-18",
+      "jbo:position": "18",
+      "rdfs:label": "נתיב הצדק"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-19",
+      "jbo:position": "19",
+      "rdfs:label": "נתיב התשובה"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-20",
+      "jbo:position": "20",
+      "rdfs:label": "נתיב היסורין"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-21",
+      "jbo:position": "21",
+      "rdfs:label": "נתיב הזריזות"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-22",
+      "jbo:position": "22",
+      "rdfs:label": "נתיב התוכחה"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-23",
+      "jbo:position": "23",
+      "rdfs:label": "נתיב הבושה"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-24",
+      "jbo:position": "24",
+      "rdfs:label": "נתיב התמימות"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-25",
+      "jbo:position": "25",
+      "rdfs:label": "נתיב לב טוב"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-26",
+      "jbo:position": "26",
+      "rdfs:label": "נתיב עין טוב"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-27",
+      "jbo:position": "27",
+      "rdfs:label": "נתיב הליצנות"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-28",
+      "jbo:position": "28",
+      "rdfs:label": "נתיב העושר"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-29",
+      "jbo:position": "29",
+      "rdfs:label": "נתיב הבטחון"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-30",
+      "jbo:position": "30",
+      "rdfs:label": "נתיב הכעס"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-31",
+      "jbo:position": "31",
+      "rdfs:label": "נתיב הנדיבות"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-32",
+      "jbo:position": "32",
+      "rdfs:label": "נתיב שם טוב"
+    },
+    {
+      "jbo:book": "jbr:book-netivotolam",
+      "uri": "jbr:netivotolam-33",
+      "jbo:position": "33",
+      "rdfs:label": "נתיב דרך ארץ"
+    }
+  ]
+}

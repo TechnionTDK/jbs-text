@@ -1,1 +1,115 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-1","rdfs:label":"סדר זרעים","jbo:position":"1"},{"jbo:within":["jbr:mishna","jbr:mishna-1"],"uri":"jbr:mishna-1-4","rdfs:label":"﻿משנה מסכת כלאים","jbo:position":"4"},{"jbo:within":["jbr:mishna-1","jbr:mishna-1-4","jbr:mishna"],"uri":"jbr:mishna-1-4-1","rdfs:label":"משנה כלאים פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-1","jbr:mishna-1-4","jbr:mishna"],"uri":"jbr:mishna-1-4-2","rdfs:label":"משנה כלאים פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-1","jbr:mishna-1-4","jbr:mishna"],"uri":"jbr:mishna-1-4-3","rdfs:label":"משנה כלאים פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-1","jbr:mishna-1-4","jbr:mishna"],"uri":"jbr:mishna-1-4-4","rdfs:label":"משנה כלאים פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-1","jbr:mishna-1-4","jbr:mishna"],"uri":"jbr:mishna-1-4-5","rdfs:label":"משנה כלאים פרק ה","jbo:position":"5"},{"jbo:within":["jbr:mishna-1","jbr:mishna-1-4","jbr:mishna"],"uri":"jbr:mishna-1-4-6","rdfs:label":"משנה כלאים פרק ו","jbo:position":"6"},{"jbo:within":["jbr:mishna-1","jbr:mishna-1-4","jbr:mishna"],"uri":"jbr:mishna-1-4-7","rdfs:label":"משנה כלאים פרק ז","jbo:position":"7"},{"jbo:within":["jbr:mishna-1","jbr:mishna-1-4","jbr:mishna"],"uri":"jbr:mishna-1-4-8","rdfs:label":"משנה כלאים פרק ח","jbo:position":"8"},{"jbo:within":["jbr:mishna-1","jbr:mishna-1-4","jbr:mishna"],"uri":"jbr:mishna-1-4-9","rdfs:label":"משנה כלאים פרק ט","jbo:position":"9"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-1",
+      "rdfs:label": "סדר זרעים",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-1"
+      ],
+      "uri": "jbr:mishna-1-4",
+      "rdfs:label": "﻿משנה מסכת כלאים",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-1",
+        "jbr:mishna-1-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-1-4-1",
+      "rdfs:label": "משנה כלאים פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-1",
+        "jbr:mishna-1-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-1-4-2",
+      "rdfs:label": "משנה כלאים פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-1",
+        "jbr:mishna-1-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-1-4-3",
+      "rdfs:label": "משנה כלאים פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-1",
+        "jbr:mishna-1-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-1-4-4",
+      "rdfs:label": "משנה כלאים פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-1",
+        "jbr:mishna-1-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-1-4-5",
+      "rdfs:label": "משנה כלאים פרק ה",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-1",
+        "jbr:mishna-1-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-1-4-6",
+      "rdfs:label": "משנה כלאים פרק ו",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-1",
+        "jbr:mishna-1-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-1-4-7",
+      "rdfs:label": "משנה כלאים פרק ז",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-1",
+        "jbr:mishna-1-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-1-4-8",
+      "rdfs:label": "משנה כלאים פרק ח",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-1",
+        "jbr:mishna-1-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-1-4-9",
+      "rdfs:label": "משנה כלאים פרק ט",
+      "jbo:position": "9"
+    }
+  ]
+}

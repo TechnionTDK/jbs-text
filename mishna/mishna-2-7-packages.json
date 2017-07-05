@@ -1,1 +1,75 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-2","rdfs:label":"סדר מועד","jbo:position":"2"},{"jbo:within":["jbr:mishna","jbr:mishna-2"],"uri":"jbr:mishna-2-7","rdfs:label":"﻿משנה מסכת ביצה","jbo:position":"7"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-7","jbr:mishna"],"uri":"jbr:mishna-2-7-1","rdfs:label":"משנה ביצה פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-7","jbr:mishna"],"uri":"jbr:mishna-2-7-2","rdfs:label":"משנה ביצה פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-7","jbr:mishna"],"uri":"jbr:mishna-2-7-3","rdfs:label":"משנה ביצה פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-7","jbr:mishna"],"uri":"jbr:mishna-2-7-4","rdfs:label":"משנה ביצה פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-7","jbr:mishna"],"uri":"jbr:mishna-2-7-5","rdfs:label":"משנה ביצה פרק ה","jbo:position":"5"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2",
+      "rdfs:label": "סדר מועד",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-2"
+      ],
+      "uri": "jbr:mishna-2-7",
+      "rdfs:label": "﻿משנה מסכת ביצה",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-7-1",
+      "rdfs:label": "משנה ביצה פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-7-2",
+      "rdfs:label": "משנה ביצה פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-7-3",
+      "rdfs:label": "משנה ביצה פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-7-4",
+      "rdfs:label": "משנה ביצה פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-7",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-7-5",
+      "rdfs:label": "משנה ביצה פרק ה",
+      "jbo:position": "5"
+    }
+  ]
+}

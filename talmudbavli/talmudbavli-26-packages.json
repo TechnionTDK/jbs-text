@@ -1,1 +1,34 @@
-{"subjects":[{"uri":"jbr:bavli-26","rdfs:label":"מסכת עבודה זרה","jbo:position":"26"},{"uri":"jbr:bavli-perek-26-1","rdfs:label":"פרק ראשון - לפני אידיהן","jbo:position":"1"},{"uri":"jbr:bavli-perek-26-2","rdfs:label":"פרק שני - אין מעמידין","jbo:position":"2"},{"uri":"jbr:bavli-perek-26-3","rdfs:label":"פרק שלישי - כל הצלמים","jbo:position":"3"},{"uri":"jbr:bavli-perek-26-4","rdfs:label":"פרק רביעי - רבי ישמעאל","jbo:position":"4"},{"uri":"jbr:bavli-perek-26-5","rdfs:label":"פרק חמישי - השוכר את הפועל","jbo:position":"5"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:bavli-26",
+      "rdfs:label": "מסכת עבודה זרה",
+      "jbo:position": "26"
+    },
+    {
+      "uri": "jbr:bavli-perek-26-1",
+      "rdfs:label": "פרק ראשון - לפני אידיהן",
+      "jbo:position": "1"
+    },
+    {
+      "uri": "jbr:bavli-perek-26-2",
+      "rdfs:label": "פרק שני - אין מעמידין",
+      "jbo:position": "2"
+    },
+    {
+      "uri": "jbr:bavli-perek-26-3",
+      "rdfs:label": "פרק שלישי - כל הצלמים",
+      "jbo:position": "3"
+    },
+    {
+      "uri": "jbr:bavli-perek-26-4",
+      "rdfs:label": "פרק רביעי - רבי ישמעאל",
+      "jbo:position": "4"
+    },
+    {
+      "uri": "jbr:bavli-perek-26-5",
+      "rdfs:label": "פרק חמישי - השוכר את הפועל",
+      "jbo:position": "5"
+    }
+  ]
+}

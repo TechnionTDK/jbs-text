@@ -1,1 +1,634 @@
-{"subjects":[{"uri":"jbr:mishnetorah-8","rdfs:label":"ספר עבודה","jbo:position":"8"},{"uri":"jbr:mishnetorah-8-1","rdfs:label":"הלכות בית הבחירה","jbo:position":"1"},{"uri":"jbr:mishnetorah-8-1-1","rdfs:label":"הלכות בית הבחירה - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-8-1-2","rdfs:label":"הלכות בית הבחירה - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-8-1-3","rdfs:label":"הלכות בית הבחירה - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-8-1-4","rdfs:label":"הלכות בית הבחירה - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-8-1-5","rdfs:label":"הלכות בית הבחירה - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-8-1-6","rdfs:label":"הלכות בית הבחירה - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-8-1-7","rdfs:label":"הלכות בית הבחירה - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-8-1-8","rdfs:label":"הלכות בית הבחירה - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-8-2","rdfs:label":"הלכות כלי המקדש והעובדים בו","jbo:position":"2"},{"uri":"jbr:mishnetorah-8-2-1","rdfs:label":"הלכות כלי המקדש והעובדים בו - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-8-2-2","rdfs:label":"הלכות כלי המקדש והעובדים בו - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-8-2-3","rdfs:label":"הלכות כלי המקדש והעובדים בו - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-8-2-4","rdfs:label":"הלכות כלי המקדש והעובדים בו - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-8-2-5","rdfs:label":"הלכות כלי המקדש והעובדים בו - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-8-2-6","rdfs:label":"הלכות כלי המקדש והעובדים בו - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-8-2-7","rdfs:label":"הלכות כלי המקדש והעובדים בו - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-8-2-8","rdfs:label":"הלכות כלי המקדש והעובדים בו - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-8-2-9","rdfs:label":"הלכות כלי המקדש והעובדים בו - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-8-2-10","rdfs:label":"הלכות כלי המקדש והעובדים בו - פרק עשירי","jbo:position":"10"},{"uri":"jbr:mishnetorah-8-3","rdfs:label":"הלכות ביאת המקדש","jbo:position":"3"},{"uri":"jbr:mishnetorah-8-3-1","rdfs:label":"הלכות ביאת המקדש - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-8-3-2","rdfs:label":"הלכות ביאת המקדש - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-8-3-3","rdfs:label":"הלכות ביאת המקדש - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-8-3-4","rdfs:label":"הלכות ביאת המקדש - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-8-3-5","rdfs:label":"הלכות ביאת המקדש - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-8-3-6","rdfs:label":"הלכות ביאת המקדש - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-8-3-7","rdfs:label":"הלכות ביאת המקדש - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-8-3-8","rdfs:label":"הלכות ביאת המקדש - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-8-3-9","rdfs:label":"הלכות ביאת המקדש - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-8-4","rdfs:label":"הלכות איסורי מזבח","jbo:position":"4"},{"uri":"jbr:mishnetorah-8-4-1","rdfs:label":"הלכות איסורי מזבח - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-8-4-2","rdfs:label":"הלכות איסורי מזבח - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-8-4-3","rdfs:label":"הלכות איסורי מזבח - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-8-4-4","rdfs:label":"הלכות איסורי מזבח - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-8-4-5","rdfs:label":"הלכות איסורי מזבח - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-8-4-6","rdfs:label":"הלכות איסורי מזבח - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-8-4-7","rdfs:label":"הלכות איסורי מזבח - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-8-5","rdfs:label":"הלכות מעשה הקרבנות","jbo:position":"5"},{"uri":"jbr:mishnetorah-8-5-1","rdfs:label":"הלכות מעשה הקרבנות - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-8-5-2","rdfs:label":"הלכות מעשה הקרבנות - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-8-5-3","rdfs:label":"הלכות מעשה הקרבנות - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-8-5-4","rdfs:label":"הלכות מעשה הקרבנות - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-8-5-5","rdfs:label":"הלכות מעשה הקרבנות - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-8-5-6","rdfs:label":"הלכות מעשה הקרבנות - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-8-5-7","rdfs:label":"הלכות מעשה הקרבנות - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-8-5-8","rdfs:label":"הלכות מעשה הקרבנות - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-8-5-9","rdfs:label":"הלכות מעשה הקרבנות - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-8-5-10","rdfs:label":"הלכות מעשה הקרבנות - פרק עשירי","jbo:position":"10"},{"uri":"jbr:mishnetorah-8-5-11","rdfs:label":"הלכות מעשה הקרבנות - פרק אחד עשר","jbo:position":"11"},{"uri":"jbr:mishnetorah-8-5-12","rdfs:label":"הלכות מעשה הקרבנות - פרק שנים עשר","jbo:position":"12"},{"uri":"jbr:mishnetorah-8-5-13","rdfs:label":"הלכות מעשה הקרבנות - פרק שלשה עשר","jbo:position":"13"},{"uri":"jbr:mishnetorah-8-5-14","rdfs:label":"הלכות מעשה הקרבנות - פרק ארבעה עשר","jbo:position":"14"},{"uri":"jbr:mishnetorah-8-5-15","rdfs:label":"הלכות מעשה הקרבנות - פרק חמשה עשר","jbo:position":"15"},{"uri":"jbr:mishnetorah-8-5-16","rdfs:label":"הלכות מעשה הקרבנות - פרק ששה עשר","jbo:position":"16"},{"uri":"jbr:mishnetorah-8-5-17","rdfs:label":"הלכות מעשה הקרבנות - פרק שבעה עשר","jbo:position":"17"},{"uri":"jbr:mishnetorah-8-5-18","rdfs:label":"הלכות מעשה הקרבנות - פרק שמונה עשר","jbo:position":"18"},{"uri":"jbr:mishnetorah-8-5-19","rdfs:label":"הלכות מעשה הקרבנות - פרק תשעה עשר","jbo:position":"19"},{"uri":"jbr:mishnetorah-8-6","rdfs:label":"הלכות תמידין ומוספין","jbo:position":"6"},{"uri":"jbr:mishnetorah-8-6-1","rdfs:label":"הלכות תמידין ומוספין - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-8-6-2","rdfs:label":"הלכות תמידין ומוספין - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-8-6-3","rdfs:label":"הלכות תמידין ומוספין - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-8-6-4","rdfs:label":"הלכות תמידין ומוספין - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-8-6-5","rdfs:label":"הלכות תמידין ומוספין - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-8-6-6","rdfs:label":"הלכות תמידין ומוספין - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-8-6-7","rdfs:label":"הלכות תמידין ומוספין - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-8-6-8","rdfs:label":"הלכות תמידין ומוספין - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-8-6-9","rdfs:label":"הלכות תמידין ומוספין - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-8-6-10","rdfs:label":"הלכות תמידין ומוספין - פרק עשירי","jbo:position":"10"},{"uri":"jbr:mishnetorah-8-7","rdfs:label":"הלכות פסולי המוקדשין","jbo:position":"7"},{"uri":"jbr:mishnetorah-8-7-1","rdfs:label":"הלכות פסולי המוקדשין - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-8-7-2","rdfs:label":"הלכות פסולי המוקדשין - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-8-7-3","rdfs:label":"הלכות פסולי המוקדשין - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-8-7-4","rdfs:label":"הלכות פסולי המוקדשין - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-8-7-5","rdfs:label":"הלכות פסולי המוקדשין - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-8-7-6","rdfs:label":"הלכות פסולי המוקדשין - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-8-7-7","rdfs:label":"הלכות פסולי המוקדשין - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-8-7-8","rdfs:label":"הלכות פסולי המוקדשין - פרק שמיני","jbo:position":"8"},{"uri":"jbr:mishnetorah-8-7-9","rdfs:label":"הלכות פסולי המוקדשין - פרק תשיעי","jbo:position":"9"},{"uri":"jbr:mishnetorah-8-7-10","rdfs:label":"הלכות פסולי המוקדשין - פרק עשירי","jbo:position":"10"},{"uri":"jbr:mishnetorah-8-7-11","rdfs:label":"הלכות פסולי המוקדשין - פרק אחד עשר","jbo:position":"11"},{"uri":"jbr:mishnetorah-8-7-12","rdfs:label":"הלכות פסולי המוקדשין - פרק שנים עשר","jbo:position":"12"},{"uri":"jbr:mishnetorah-8-7-13","rdfs:label":"הלכות פסולי המוקדשין - פרק שלשה עשר","jbo:position":"13"},{"uri":"jbr:mishnetorah-8-7-14","rdfs:label":"הלכות פסולי המוקדשין - פרק ארבעה עשר","jbo:position":"14"},{"uri":"jbr:mishnetorah-8-7-15","rdfs:label":"הלכות פסולי המוקדשין - פרק חמשה עשר","jbo:position":"15"},{"uri":"jbr:mishnetorah-8-7-16","rdfs:label":"הלכות פסולי המוקדשין - פרק ששה עשר","jbo:position":"16"},{"uri":"jbr:mishnetorah-8-7-17","rdfs:label":"הלכות פסולי המוקדשין - פרק שבעה עשר","jbo:position":"17"},{"uri":"jbr:mishnetorah-8-7-18","rdfs:label":"הלכות פסולי המוקדשין - פרק שמונה עשר","jbo:position":"18"},{"uri":"jbr:mishnetorah-8-7-19","rdfs:label":"הלכות פסולי המוקדשין - פרק תשעה עשר","jbo:position":"19"},{"uri":"jbr:mishnetorah-8-8","rdfs:label":"הלכות עבודת יום הכיפורים","jbo:position":"8"},{"uri":"jbr:mishnetorah-8-8-1","rdfs:label":"הלכות עבודת יום הכיפורים - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-8-8-2","rdfs:label":"הלכות עבודת יום הכיפורים - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-8-8-3","rdfs:label":"הלכות עבודת יום הכיפורים - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-8-8-4","rdfs:label":"הלכות עבודת יום הכיפורים - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-8-8-5","rdfs:label":"הלכות עבודת יום הכיפורים - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-8-9","rdfs:label":"הלכות מעילה","jbo:position":"9"},{"uri":"jbr:mishnetorah-8-9-1","rdfs:label":"הלכות מעילה - פרק ראשון","jbo:position":"1"},{"uri":"jbr:mishnetorah-8-9-2","rdfs:label":"הלכות מעילה - פרק שני","jbo:position":"2"},{"uri":"jbr:mishnetorah-8-9-3","rdfs:label":"הלכות מעילה - פרק שלישי","jbo:position":"3"},{"uri":"jbr:mishnetorah-8-9-4","rdfs:label":"הלכות מעילה - פרק רביעי","jbo:position":"4"},{"uri":"jbr:mishnetorah-8-9-5","rdfs:label":"הלכות מעילה - פרק חמישי","jbo:position":"5"},{"uri":"jbr:mishnetorah-8-9-6","rdfs:label":"הלכות מעילה - פרק ששי","jbo:position":"6"},{"uri":"jbr:mishnetorah-8-9-7","rdfs:label":"הלכות מעילה - פרק שביעי","jbo:position":"7"},{"uri":"jbr:mishnetorah-8-9-8","rdfs:label":"הלכות מעילה - פרק שמיני","jbo:position":"8"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishnetorah-8",
+      "rdfs:label": "ספר עבודה",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-1",
+      "rdfs:label": "הלכות בית הבחירה",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-1-1",
+      "rdfs:label": "הלכות בית הבחירה - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-1-2",
+      "rdfs:label": "הלכות בית הבחירה - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-1-3",
+      "rdfs:label": "הלכות בית הבחירה - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-1-4",
+      "rdfs:label": "הלכות בית הבחירה - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-1-5",
+      "rdfs:label": "הלכות בית הבחירה - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-1-6",
+      "rdfs:label": "הלכות בית הבחירה - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-1-7",
+      "rdfs:label": "הלכות בית הבחירה - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-1-8",
+      "rdfs:label": "הלכות בית הבחירה - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-2",
+      "rdfs:label": "הלכות כלי המקדש והעובדים בו",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-2-1",
+      "rdfs:label": "הלכות כלי המקדש והעובדים בו - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-2-2",
+      "rdfs:label": "הלכות כלי המקדש והעובדים בו - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-2-3",
+      "rdfs:label": "הלכות כלי המקדש והעובדים בו - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-2-4",
+      "rdfs:label": "הלכות כלי המקדש והעובדים בו - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-2-5",
+      "rdfs:label": "הלכות כלי המקדש והעובדים בו - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-2-6",
+      "rdfs:label": "הלכות כלי המקדש והעובדים בו - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-2-7",
+      "rdfs:label": "הלכות כלי המקדש והעובדים בו - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-2-8",
+      "rdfs:label": "הלכות כלי המקדש והעובדים בו - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-2-9",
+      "rdfs:label": "הלכות כלי המקדש והעובדים בו - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-2-10",
+      "rdfs:label": "הלכות כלי המקדש והעובדים בו - פרק עשירי",
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-3",
+      "rdfs:label": "הלכות ביאת המקדש",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-3-1",
+      "rdfs:label": "הלכות ביאת המקדש - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-3-2",
+      "rdfs:label": "הלכות ביאת המקדש - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-3-3",
+      "rdfs:label": "הלכות ביאת המקדש - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-3-4",
+      "rdfs:label": "הלכות ביאת המקדש - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-3-5",
+      "rdfs:label": "הלכות ביאת המקדש - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-3-6",
+      "rdfs:label": "הלכות ביאת המקדש - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-3-7",
+      "rdfs:label": "הלכות ביאת המקדש - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-3-8",
+      "rdfs:label": "הלכות ביאת המקדש - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-3-9",
+      "rdfs:label": "הלכות ביאת המקדש - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-4",
+      "rdfs:label": "הלכות איסורי מזבח",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-4-1",
+      "rdfs:label": "הלכות איסורי מזבח - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-4-2",
+      "rdfs:label": "הלכות איסורי מזבח - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-4-3",
+      "rdfs:label": "הלכות איסורי מזבח - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-4-4",
+      "rdfs:label": "הלכות איסורי מזבח - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-4-5",
+      "rdfs:label": "הלכות איסורי מזבח - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-4-6",
+      "rdfs:label": "הלכות איסורי מזבח - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-4-7",
+      "rdfs:label": "הלכות איסורי מזבח - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5",
+      "rdfs:label": "הלכות מעשה הקרבנות",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-1",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-2",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-3",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-4",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-5",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-6",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-7",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-8",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-9",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-10",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק עשירי",
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-11",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק אחד עשר",
+      "jbo:position": "11",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-12",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק שנים עשר",
+      "jbo:position": "12",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-13",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק שלשה עשר",
+      "jbo:position": "13",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-14",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק ארבעה עשר",
+      "jbo:position": "14",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-15",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק חמשה עשר",
+      "jbo:position": "15",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-16",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק ששה עשר",
+      "jbo:position": "16",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-17",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק שבעה עשר",
+      "jbo:position": "17",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-18",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק שמונה עשר",
+      "jbo:position": "18",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-5-19",
+      "rdfs:label": "הלכות מעשה הקרבנות - פרק תשעה עשר",
+      "jbo:position": "19",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-6",
+      "rdfs:label": "הלכות תמידין ומוספין",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-6-1",
+      "rdfs:label": "הלכות תמידין ומוספין - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-6-2",
+      "rdfs:label": "הלכות תמידין ומוספין - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-6-3",
+      "rdfs:label": "הלכות תמידין ומוספין - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-6-4",
+      "rdfs:label": "הלכות תמידין ומוספין - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-6-5",
+      "rdfs:label": "הלכות תמידין ומוספין - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-6-6",
+      "rdfs:label": "הלכות תמידין ומוספין - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-6-7",
+      "rdfs:label": "הלכות תמידין ומוספין - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-6-8",
+      "rdfs:label": "הלכות תמידין ומוספין - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-6-9",
+      "rdfs:label": "הלכות תמידין ומוספין - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-6-10",
+      "rdfs:label": "הלכות תמידין ומוספין - פרק עשירי",
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7",
+      "rdfs:label": "הלכות פסולי המוקדשין",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-1",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-2",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-3",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-4",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-5",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-6",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-7",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-8",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-9",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק תשיעי",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-10",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק עשירי",
+      "jbo:position": "10",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-11",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק אחד עשר",
+      "jbo:position": "11",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-12",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק שנים עשר",
+      "jbo:position": "12",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-13",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק שלשה עשר",
+      "jbo:position": "13",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-14",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק ארבעה עשר",
+      "jbo:position": "14",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-15",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק חמשה עשר",
+      "jbo:position": "15",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-16",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק ששה עשר",
+      "jbo:position": "16",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-17",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק שבעה עשר",
+      "jbo:position": "17",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-18",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק שמונה עשר",
+      "jbo:position": "18",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-7-19",
+      "rdfs:label": "הלכות פסולי המוקדשין - פרק תשעה עשר",
+      "jbo:position": "19",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-8",
+      "rdfs:label": "הלכות עבודת יום הכיפורים",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-8-1",
+      "rdfs:label": "הלכות עבודת יום הכיפורים - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-8-2",
+      "rdfs:label": "הלכות עבודת יום הכיפורים - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-8-3",
+      "rdfs:label": "הלכות עבודת יום הכיפורים - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-8-4",
+      "rdfs:label": "הלכות עבודת יום הכיפורים - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-8-5",
+      "rdfs:label": "הלכות עבודת יום הכיפורים - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-9",
+      "rdfs:label": "הלכות מעילה",
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-9-1",
+      "rdfs:label": "הלכות מעילה - פרק ראשון",
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-9-2",
+      "rdfs:label": "הלכות מעילה - פרק שני",
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-9-3",
+      "rdfs:label": "הלכות מעילה - פרק שלישי",
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-9-4",
+      "rdfs:label": "הלכות מעילה - פרק רביעי",
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-9-5",
+      "rdfs:label": "הלכות מעילה - פרק חמישי",
+      "jbo:position": "5",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-9-6",
+      "rdfs:label": "הלכות מעילה - פרק ששי",
+      "jbo:position": "6",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-9-7",
+      "rdfs:label": "הלכות מעילה - פרק שביעי",
+      "jbo:position": "7",
+      "jbo:book": "jbr:book-mishnetorah"
+    },
+    {
+      "uri": "jbr:mishnetorah-8-9-8",
+      "rdfs:label": "הלכות מעילה - פרק שמיני",
+      "jbo:position": "8",
+      "jbo:book": "jbr:book-mishnetorah"
+    }
+  ]
+}

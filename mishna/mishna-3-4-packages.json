@@ -1,1 +1,115 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-3","rdfs:label":"סדר נשים","jbo:position":"3"},{"jbo:within":["jbr:mishna","jbr:mishna-3"],"uri":"jbr:mishna-3-4","rdfs:label":"﻿משנה מסכת נזיר","jbo:position":"4"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-4","jbr:mishna"],"uri":"jbr:mishna-3-4-1","rdfs:label":"משנה נזיר פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-4","jbr:mishna"],"uri":"jbr:mishna-3-4-2","rdfs:label":"משנה נזיר פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-4","jbr:mishna"],"uri":"jbr:mishna-3-4-3","rdfs:label":"משנה נזיר פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-4","jbr:mishna"],"uri":"jbr:mishna-3-4-4","rdfs:label":"משנה נזיר פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-4","jbr:mishna"],"uri":"jbr:mishna-3-4-5","rdfs:label":"משנה נזיר פרק ה","jbo:position":"5"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-4","jbr:mishna"],"uri":"jbr:mishna-3-4-6","rdfs:label":"משנה נזיר פרק ו","jbo:position":"6"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-4","jbr:mishna"],"uri":"jbr:mishna-3-4-7","rdfs:label":"משנה נזיר פרק ז","jbo:position":"7"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-4","jbr:mishna"],"uri":"jbr:mishna-3-4-8","rdfs:label":"משנה נזיר פרק ח","jbo:position":"8"},{"jbo:within":["jbr:mishna-3","jbr:mishna-3-4","jbr:mishna"],"uri":"jbr:mishna-3-4-9","rdfs:label":"משנה נזיר פרק ט","jbo:position":"9"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3",
+      "rdfs:label": "סדר נשים",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-3"
+      ],
+      "uri": "jbr:mishna-3-4",
+      "rdfs:label": "﻿משנה מסכת נזיר",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-4-1",
+      "rdfs:label": "משנה נזיר פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-4-2",
+      "rdfs:label": "משנה נזיר פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-4-3",
+      "rdfs:label": "משנה נזיר פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-4-4",
+      "rdfs:label": "משנה נזיר פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-4-5",
+      "rdfs:label": "משנה נזיר פרק ה",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-4-6",
+      "rdfs:label": "משנה נזיר פרק ו",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-4-7",
+      "rdfs:label": "משנה נזיר פרק ז",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-4-8",
+      "rdfs:label": "משנה נזיר פרק ח",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-3",
+        "jbr:mishna-3-4",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-3-4-9",
+      "rdfs:label": "משנה נזיר פרק ט",
+      "jbo:position": "9"
+    }
+  ]
+}

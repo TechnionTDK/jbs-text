@@ -1,1 +1,95 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-5","rdfs:label":"סדר קדשים","jbo:position":"5"},{"jbo:within":["jbr:mishna","jbr:mishna-5"],"uri":"jbr:mishna-5-9","rdfs:label":"﻿משנה מסכת תמיד","jbo:position":"9"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-9","jbr:mishna"],"uri":"jbr:mishna-5-9-1","rdfs:label":"משנה תמיד פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-9","jbr:mishna"],"uri":"jbr:mishna-5-9-2","rdfs:label":"משנה תמיד פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-9","jbr:mishna"],"uri":"jbr:mishna-5-9-3","rdfs:label":"משנה תמיד פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-9","jbr:mishna"],"uri":"jbr:mishna-5-9-4","rdfs:label":"משנה תמיד פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-9","jbr:mishna"],"uri":"jbr:mishna-5-9-5","rdfs:label":"משנה תמיד פרק ה","jbo:position":"5"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-9","jbr:mishna"],"uri":"jbr:mishna-5-9-6","rdfs:label":"משנה תמיד פרק ו","jbo:position":"6"},{"jbo:within":["jbr:mishna-5","jbr:mishna-5-9","jbr:mishna"],"uri":"jbr:mishna-5-9-7","rdfs:label":"משנה תמיד פרק ז","jbo:position":"7"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5",
+      "rdfs:label": "סדר קדשים",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-5"
+      ],
+      "uri": "jbr:mishna-5-9",
+      "rdfs:label": "﻿משנה מסכת תמיד",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-9",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-9-1",
+      "rdfs:label": "משנה תמיד פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-9",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-9-2",
+      "rdfs:label": "משנה תמיד פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-9",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-9-3",
+      "rdfs:label": "משנה תמיד פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-9",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-9-4",
+      "rdfs:label": "משנה תמיד פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-9",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-9-5",
+      "rdfs:label": "משנה תמיד פרק ה",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-9",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-9-6",
+      "rdfs:label": "משנה תמיד פרק ו",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-5",
+        "jbr:mishna-5-9",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-5-9-7",
+      "rdfs:label": "משנה תמיד פרק ז",
+      "jbo:position": "7"
+    }
+  ]
+}

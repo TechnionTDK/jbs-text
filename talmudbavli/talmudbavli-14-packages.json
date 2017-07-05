@@ -1,1 +1,74 @@
-{"subjects":[{"uri":"jbr:bavli-14","rdfs:label":"מסכת כתובות","jbo:position":"14"},{"uri":"jbr:bavli-perek-14-1","rdfs:label":"פרק ראשון - בתולה נשאת","jbo:position":"1"},{"uri":"jbr:bavli-perek-14-2","rdfs:label":"פרק שני - האשה שנתארמלה","jbo:position":"2"},{"uri":"jbr:bavli-perek-14-3","rdfs:label":"פרק שלישי - אלו נערות","jbo:position":"3"},{"uri":"jbr:bavli-perek-14-4","rdfs:label":"פרק רביעי - נערה שנתפתתה","jbo:position":"4"},{"uri":"jbr:bavli-perek-14-5","rdfs:label":"פרק חמישי - אף על פי","jbo:position":"5"},{"uri":"jbr:bavli-perek-14-6","rdfs:label":"פרק שישי - מציאת האשה","jbo:position":"6"},{"uri":"jbr:bavli-perek-14-7","rdfs:label":"פרק שביעי - המדיר","jbo:position":"7"},{"uri":"jbr:bavli-perek-14-8","rdfs:label":"פרק שמיני - האשה שנפלו","jbo:position":"8"},{"uri":"jbr:bavli-perek-14-9","rdfs:label":"פרק תשיעי - הכותב לאשתו","jbo:position":"9"},{"uri":"jbr:bavli-perek-14-10","rdfs:label":"פרק עשירי - מי שהיה נשוי","jbo:position":"10"},{"uri":"jbr:bavli-perek-14-11","rdfs:label":"פרק אחד עשרה - אלמנה ניזונת","jbo:position":"11"},{"uri":"jbr:bavli-perek-14-12","rdfs:label":"פרק שנים עשרה - הנושא את האשה","jbo:position":"12"},{"uri":"jbr:bavli-perek-14-13","rdfs:label":"פרק שלוש עשרה - שני דייני","jbo:position":"13"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:bavli-14",
+      "rdfs:label": "מסכת כתובות",
+      "jbo:position": "14"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-1",
+      "rdfs:label": "פרק ראשון - בתולה נשאת",
+      "jbo:position": "1"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-2",
+      "rdfs:label": "פרק שני - האשה שנתארמלה",
+      "jbo:position": "2"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-3",
+      "rdfs:label": "פרק שלישי - אלו נערות",
+      "jbo:position": "3"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-4",
+      "rdfs:label": "פרק רביעי - נערה שנתפתתה",
+      "jbo:position": "4"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-5",
+      "rdfs:label": "פרק חמישי - אף על פי",
+      "jbo:position": "5"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-6",
+      "rdfs:label": "פרק שישי - מציאת האשה",
+      "jbo:position": "6"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-7",
+      "rdfs:label": "פרק שביעי - המדיר",
+      "jbo:position": "7"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-8",
+      "rdfs:label": "פרק שמיני - האשה שנפלו",
+      "jbo:position": "8"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-9",
+      "rdfs:label": "פרק תשיעי - הכותב לאשתו",
+      "jbo:position": "9"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-10",
+      "rdfs:label": "פרק עשירי - מי שהיה נשוי",
+      "jbo:position": "10"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-11",
+      "rdfs:label": "פרק אחד עשרה - אלמנה ניזונת",
+      "jbo:position": "11"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-12",
+      "rdfs:label": "פרק שנים עשרה - הנושא את האשה",
+      "jbo:position": "12"
+    },
+    {
+      "uri": "jbr:bavli-perek-14-13",
+      "rdfs:label": "פרק שלוש עשרה - שני דייני",
+      "jbo:position": "13"
+    }
+  ]
+}

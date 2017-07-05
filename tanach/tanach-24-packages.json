@@ -1,1 +1,25 @@
-{"subjects":[{"uri":"jbr:tanach-24","rdfs:label":"ספר חגי","jbo:position":"24"},{"jbo:within":["jbr:tanach-24"],"uri":"jbr:tanach-24-1","rdfs:label":"חגי פרק א","jbo:position":"1"},{"jbo:within":["jbr:tanach-24"],"uri":"jbr:tanach-24-2","rdfs:label":"חגי פרק ב","jbo:position":"2"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:tanach-24",
+      "rdfs:label": "ספר חגי",
+      "jbo:position": "24"
+    },
+    {
+      "jbo:within": [
+        "jbr:tanach-24"
+      ],
+      "uri": "jbr:tanach-24-1",
+      "rdfs:label": "חגי פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:tanach-24"
+      ],
+      "uri": "jbr:tanach-24-2",
+      "rdfs:label": "חגי פרק ב",
+      "jbo:position": "2"
+    }
+  ]
+}

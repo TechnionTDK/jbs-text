@@ -1,1 +1,74 @@
-{"subjects":[{"uri":"jbr:bavli-29","rdfs:label":"מסכת מנחות","jbo:position":"29"},{"uri":"jbr:bavli-perek-29-1","rdfs:label":"פרק ראשון - כל המנחות","jbo:position":"1"},{"uri":"jbr:bavli-perek-29-2","rdfs:label":"פרק שני - הקומץ את המנחה","jbo:position":"2"},{"uri":"jbr:bavli-perek-29-3","rdfs:label":"פרק שלישי - הקומץ רבה","jbo:position":"3"},{"uri":"jbr:bavli-perek-29-4","rdfs:label":"פרק רביעי - התכלת","jbo:position":"4"},{"uri":"jbr:bavli-perek-29-5","rdfs:label":"פרק חמישי - כל המנחות באות מצה","jbo:position":"5"},{"uri":"jbr:bavli-perek-29-6","rdfs:label":"פרק שישי - רבי ישמעאל","jbo:position":"6"},{"uri":"jbr:bavli-perek-29-7","rdfs:label":"פרק שביעי - אלו מנחות נקמצות","jbo:position":"7"},{"uri":"jbr:bavli-perek-29-8","rdfs:label":"פרק שמיני - התודה היתה באה","jbo:position":"8"},{"uri":"jbr:bavli-perek-29-9","rdfs:label":"פרק תשיעי - כל קרבנות הציבור","jbo:position":"9"},{"uri":"jbr:bavli-perek-29-10","rdfs:label":"פרק עשירי - שתי מדות","jbo:position":"10"},{"uri":"jbr:bavli-perek-29-11","rdfs:label":"פרק אחד עשר - שתי הלחם","jbo:position":"11"},{"uri":"jbr:bavli-perek-29-12","rdfs:label":"פרק שנים עשר - המנחות והנסכים","jbo:position":"12"},{"uri":"jbr:bavli-perek-29-13","rdfs:label":"פרק שלושה עשר - הרי עלי עשרון","jbo:position":"13"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:bavli-29",
+      "rdfs:label": "מסכת מנחות",
+      "jbo:position": "29"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-1",
+      "rdfs:label": "פרק ראשון - כל המנחות",
+      "jbo:position": "1"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-2",
+      "rdfs:label": "פרק שני - הקומץ את המנחה",
+      "jbo:position": "2"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-3",
+      "rdfs:label": "פרק שלישי - הקומץ רבה",
+      "jbo:position": "3"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-4",
+      "rdfs:label": "פרק רביעי - התכלת",
+      "jbo:position": "4"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-5",
+      "rdfs:label": "פרק חמישי - כל המנחות באות מצה",
+      "jbo:position": "5"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-6",
+      "rdfs:label": "פרק שישי - רבי ישמעאל",
+      "jbo:position": "6"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-7",
+      "rdfs:label": "פרק שביעי - אלו מנחות נקמצות",
+      "jbo:position": "7"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-8",
+      "rdfs:label": "פרק שמיני - התודה היתה באה",
+      "jbo:position": "8"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-9",
+      "rdfs:label": "פרק תשיעי - כל קרבנות הציבור",
+      "jbo:position": "9"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-10",
+      "rdfs:label": "פרק עשירי - שתי מדות",
+      "jbo:position": "10"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-11",
+      "rdfs:label": "פרק אחד עשר - שתי הלחם",
+      "jbo:position": "11"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-12",
+      "rdfs:label": "פרק שנים עשר - המנחות והנסכים",
+      "jbo:position": "12"
+    },
+    {
+      "uri": "jbr:bavli-perek-29-13",
+      "rdfs:label": "פרק שלושה עשר - הרי עלי עשרון",
+      "jbo:position": "13"
+    }
+  ]
+}

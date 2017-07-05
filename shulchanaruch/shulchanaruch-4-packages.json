@@ -1,1 +1,3769 @@
-{"subjects":[{"uri":"jbr:shulchanaruch","rdfs:label":"שלחן ערוך"},{"uri":"jbr:shulchanaruch-baerheytev","rdfs:label":"שלחן ערוך באר היטב"},{"uri":"jbr:shulchanaruch-4","rdfs:label":"שלחן ערוך - חשן משפט","jbo:position":"4"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-1","rdfs:label":"הלכות דיינים","jbo:position":"1"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-1","rdfs:label":"מנוי השופטים בארץ ובחוצה לארץ","jbo:position":"1"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-2","rdfs:label":"בית דין מכין ועונשין לצרך שעה","jbo:position":"2"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-3","rdfs:label":"בכמה דינים דנין","jbo:position":"3"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-4","rdfs:label":"כיצד אדם עושה דין לעצמו","jbo:position":"4"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-5","rdfs:label":"באיזה יום דנין ובאיזה זמן ביום","jbo:position":"5"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-6","rdfs:label":"על כמה דנין","jbo:position":"6"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-7","rdfs:label":"מי ראוי לדון, והפסולים מחמת שנאה וקרבה","jbo:position":"7"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-8","rdfs:label":"שלא למנות דין שאינו הגון, וגדל שכר הדין וענשו","jbo:position":"8"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-9","rdfs:label":"שלא לקח שחד, והתרת שכר בטלה","jbo:position":"9"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-10","rdfs:label":"להיות מתון בדין, ושימלך בגדול ממנו","jbo:position":"10"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-11","rdfs:label":"כיצד מזמינים לדין ועל פי מי","jbo:position":"11"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-12","rdfs:label":"דין שבאו לפניו רך וקשה, וכל דיני פשרה","jbo:position":"12"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-13","rdfs:label":"כיצד בוררים הדינים כשאין בעלי דינין מסכימין יחד","jbo:position":"13"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-14","rdfs:label":"אם אחד מבעלי דינין אומר: נלך לבית דין הגדול, ודין האומר: מאיזה טעם דנתוני,","jbo:position":"14"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-15","rdfs:label":"איזה דין דנין תחלה, ודין דין מרמה","jbo:position":"15"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-16","rdfs:label":"כמה זמן נותנין להביא ראיה, ודין הטלת חרם","jbo:position":"16"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-17","rdfs:label":"להשוות הבעלי דינין בכל דבר","jbo:position":"17"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-18","rdfs:label":"כיצד נושאין ונותנין בדבר, ושהולכין אחר הרב","jbo:position":"18"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-19","rdfs:label":"כיצד נותנין הפסק, וסדר כתיבתו","jbo:position":"19"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-20","rdfs:label":"עד מתי יכול להביא ראיה לסתר הדין","jbo:position":"20"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-21","rdfs:label":"מי שקבל עליו להשלים הדין ליום ידוע, ונאנס","jbo:position":"21"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-22","rdfs:label":"מי שקבל עליו קרוב ופסול, ודין שבועה והפוכה","jbo:position":"22"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-23","rdfs:label":"עד מתי נאמן הדין לומר לזה זכיתי","jbo:position":"23"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-24","rdfs:label":"שנזקקין לתובע תחלה","jbo:position":"24"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-25","rdfs:label":"דין שטעה, מתי חוזר ומתי משלם","jbo:position":"25"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-26","rdfs:label":"שלא לדון בדיני גויים","jbo:position":"26"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-27","rdfs:label":"שלא לקלל דין או שום אחד מישראל","jbo:position":"27"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-2","rdfs:label":"הלכות עדות","jbo:position":"2"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-28","rdfs:label":"כיצד מאימין העדים, ואין מקבלין עדות שלא בפני בעל דין","jbo:position":"28"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-29","rdfs:label":"שלא יוכלו העדים לחזר","jbo:position":"29"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-30","rdfs:label":"אין עדי ממונות צריכין דרישה וחקירה, וצריך להיות עדות שלם","jbo:position":"30"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-31","rdfs:label":"דין הרבה כתי עדיות","jbo:position":"31"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-32","rdfs:label":"המודה בפני עדים, (שיאמרו דברים כהויתן, ואם) אומר: משטה אני בך","jbo:position":"32"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-33","rdfs:label":"פסולי עדות מחמת קרבה, ואשה ועבד","jbo:position":"33"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-34","rdfs:label":"עדים הפסולים מחמת עברה","jbo:position":"34"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-35","rdfs:label":"פסול סומא וחרש, שוטה וקטן","jbo:position":"35"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-36","rdfs:label":"רבים שהעידו, ונמצא אחד מהם קרוב או פסול","jbo:position":"36"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-37","rdfs:label":"הפסולים מחמת הנאה","jbo:position":"37"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-38","rdfs:label":"קצת דיני הזמה","jbo:position":"38"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-3","rdfs:label":"הלכות הלוואה","jbo:position":"3"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-39","rdfs:label":"כותבין שטר ללוה בלא מלוה, ועל איזה הודאה כותבין","jbo:position":"39"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-40","rdfs:label":"דין המחיב עצמו לחברו","jbo:position":"40"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-41","rdfs:label":"דין (מי) שנמחק או אבד שטר חובו","jbo:position":"41"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-42","rdfs:label":"שכותבין השטר בכל לשון, ודין אם אין המטבע מפרש בו","jbo:position":"42"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-43","rdfs:label":"שצריך לכתב זמן בשטר, וכל דיני האחור והקדימה בפרטות","jbo:position":"43"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-44","rdfs:label":"דין חזרת השטר בשיטה אחרונה, וכיצד מקימים המחק והתלוים","jbo:position":"44"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-45","rdfs:label":"שהעדים צריכים לקרות מקדם שטר, ודין שטר הבא על הניר ועדיו על המחק,","jbo:position":"45"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-46","rdfs:label":"העדים שאמרו: קטנים או פסולים היינו, או שטר אמנה היה, וכל דין קיום שטרות,","jbo:position":"46"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-47","rdfs:label":"מי שטען אמנה הוא או פרוע","jbo:position":"47"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-48","rdfs:label":"שכותבין טפסי שטרות","jbo:position":"48"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-49","rdfs:label":"שיכירו העדים שם הלוה והמלוה, ודין טעות השמות והסכום","jbo:position":"49"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-50","rdfs:label":"שטר שכתוב בו: לויתי ממך מנה","jbo:position":"50"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-51","rdfs:label":"שטר שאין בו אלא עד אחד, או אחד מהם פסול","jbo:position":"51"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-52","rdfs:label":"שטר שיש בו רבית או קרוע","jbo:position":"52"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-53","rdfs:label":"שלא לשנות השטר","jbo:position":"53"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-54","rdfs:label":"דין אסמכתא, ואם כותבין שובר, וכיצד כותבין אותו (ודין פרעון על ידי שובר),","jbo:position":"54"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-55","rdfs:label":"דין מי שפרע מקצת חובו והשליש שטרו","jbo:position":"55"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-56","rdfs:label":"דין שלישות","jbo:position":"56"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-57","rdfs:label":"דין שאסור להשהות שטר פרוע","jbo:position":"57"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-58","rdfs:label":"מי שהוציא שטר חוב על חברו, (וטענת סטראי)","jbo:position":"58"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-59","rdfs:label":"שטר מקים והלוה טוען פרוע (והמלוה אומר: איני יודע)","jbo:position":"59"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-60","rdfs:label":"דין שעבוד מטלטלי אגב מקרקעי, ודין שעבוד דבר שלא בא לעולם","jbo:position":"60"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-61","rdfs:label":"כמה דינים מענין שטרות","jbo:position":"61"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-62","rdfs:label":"דין אשה הנושאת ונותנת בתוך הבית","jbo:position":"62"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-63","rdfs:label":"מי שהועד עליו שמחזר אחר זיוף","jbo:position":"63"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-64","rdfs:label":"נפקד שרצה לעכב בחובו שטרות הפקדון","jbo:position":"64"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-65","rdfs:label":"דין שטרות שנמצאו, ודין שובר שנמצא ביד שליש","jbo:position":"65"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-66","rdfs:label":"דין מכירת שטרות ואונאתן","jbo:position":"66"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-67","rdfs:label":"דין שמטה ופרוזבול","jbo:position":"67"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-68","rdfs:label":"דין שטרות העשויות בערכאות של גויים","jbo:position":"68"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-69","rdfs:label":"דין הוציא עליו כתב ידו מקים או בלתי מקים, ודין טענת פרעתי ומודה מקצת,","jbo:position":"69"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-70","rdfs:label":"דין מלוה על פה, ואם אמר לה: אל תפרעני אלא בעדים","jbo:position":"70"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-71","rdfs:label":"לוה שהאמין למלוה בעל פה, למה מועיל נאמנות","jbo:position":"71"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-72","rdfs:label":"המלוה על המשכון, והרבה דני משכונות","jbo:position":"72"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-73","rdfs:label":"כמה זמן סתם הלואה, וכמה פרטי דיני הלואה","jbo:position":"73"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-74","rdfs:label":"באיזה מקום נתנה מלוה לפרע, וסדר הפרעון","jbo:position":"74"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-4","rdfs:label":"הלכות טוען ונטען","jbo:position":"4"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-75","rdfs:label":"אם המלוה והלוה צריכין לברר הטענות, וכל דיני המחויב שבועה מן התורה או מדרבנן ומי שאינו יכול לשבע, וכל שטוען התובע והנתבע ברי ושמא","jbo:position":"75"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-76","rdfs:label":"אחד שלוה משנים בעל פה מזה מאה ומזה מאתים, וכל אחד תובע מאתים","jbo:position":"76"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-77","rdfs:label":"דין שנים שלוו מאחד, ודין שתפין שלוה אחד לבדו","jbo:position":"77"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-78","rdfs:label":"הטוען שפרע תוך הזמן","jbo:position":"78"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-79","rdfs:label":"דין האומר: לא לויתי, והחלוק שבין צא תן לו או חיב אתה לתן לו","jbo:position":"79"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-80","rdfs:label":"באיזו ענין טוען וחוזר וטוען","jbo:position":"80"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-81","rdfs:label":"אם הודה מעצמו, מתי יכול לומר: משטה אני בך","jbo:position":"81"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-82","rdfs:label":"דין שטר (שאינו מקים, או מקים, שהלוה טוען:) אמנה (או) פרוע או רבית, ודין תנאי השטר והשבועה","jbo:position":"82"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-83","rdfs:label":"דין מלוה שהודה בשטר שהוא מזיף","jbo:position":"83"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-84","rdfs:label":"הפוגם או פוחת שטרו, או עד אחד מעיד שהוא פרוע","jbo:position":"84"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-85","rdfs:label":"הוציא שטר חוב והלה טוען שמכר לו שדהו","jbo:position":"85"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-86","rdfs:label":"ראובן נושה בשמעון ושמעון בלוי, מוציאין מלוי ונותנין לראובן","jbo:position":"86"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-87","rdfs:label":"דיני שבועת הסת ושבועה דאוריתא","jbo:position":"87"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-88","rdfs:label":"דיני כפירה והודאה, ושתהא ממין הטענה","jbo:position":"88"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-89","rdfs:label":"שהשכיר נשבע ונוטל","jbo:position":"89"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-90","rdfs:label":"הנזקין נשבעין ונוטלין, (כגון הנגזל והנחבל) , ודין המביא כלים מבית בעל הבית והוא אומר: שאולים הם","jbo:position":"90"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-91","rdfs:label":"חנוני נשבע ונוטל, ודין פנקסים","jbo:position":"91"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-92","rdfs:label":"דין החשוד על השבועה","jbo:position":"92"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-93","rdfs:label":"דין שבועת ספק ושבועת השתפין","jbo:position":"93"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-94","rdfs:label":"דין גלגול שבועה","jbo:position":"94"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-95","rdfs:label":"דין איזו שבועה נשבעין על קרקעות, ודין הקדש בזמן הזה","jbo:position":"95"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-96","rdfs:label":"חרש שוטה וקטן איזה שבועה נשבעים, וגם אשת איש","jbo:position":"96"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-5","rdfs:label":"הלכות גבית מלוה","jbo:position":"5"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-97","rdfs:label":"להלוות לעני ושלא לנגשו, (ושלא לחבל כלי אכל נפש ואלמנה) , והשבת העבוט, ודין הסדור","jbo:position":"97"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-98","rdfs:label":"סדר גבית החוב, והמבקש זמן לפסל שטר, ואם לא בא בזמנו","jbo:position":"98"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-99","rdfs:label":"כיצד משביעין ללוה אם יש לו, ומחרימים מי שיודע לו נכסים, ואם הוא כשר או רמאי, ואם נתן שלו במתנה","jbo:position":"99"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-100","rdfs:label":"המבקש זמן לפרעון, כמה זמן נותנים לו, ואם לא בא בזמנו, והמסרב צווי בית דין,","jbo:position":"100"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-101","rdfs:label":"מגבין לבעל חוב מעות או מטלטלין, ואם תלה מעותיו בגוי, ואם יש עליו חובות לגויים","jbo:position":"101"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-102","rdfs:label":"מאיזה קרקע מגבין החוב לבעל החוב","jbo:position":"102"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-103","rdfs:label":"שמין קרקע של לוה, ואם טעו בשומא, (ושומא הדרה לעולם)","jbo:position":"103"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-104","rdfs:label":"דין בעל חוב מאחר שקדם וגבה מקרקעי או מטלטלי, (ומלוה על פה מקדמת קודמת למלוה בשטר)","jbo:position":"104"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-105","rdfs:label":"דין התופס לבעל חוב במקום שחב לאחרים, (ונפקד שתפס הפקדון בשביל הבעל חוב)","jbo:position":"105"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-106","rdfs:label":"דין הבא לפרע שלא בפני בעל חובו","jbo:position":"106"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-6","rdfs:label":"הלכות גביית חוב מהיתומים","jbo:position":"6"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-107","rdfs:label":"כופין את היתומים לפרע חוב אביהם","jbo:position":"107"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-108","rdfs:label":"באיזה ענין נפרע מלוה מיורשיו, ואיזה שבועה אדם מוריש לבניו","jbo:position":"108"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-109","rdfs:label":"מכריזין על נכסי יתומים","jbo:position":"109"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-110","rdfs:label":"אין נזקקין לנכסי קטן","jbo:position":"110"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-7","rdfs:label":"הלכות גביית חוב מנכסים משועבדים","jbo:position":"7"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-111","rdfs:label":"דין מלוה בשטר גובה ממשעבדי, והמלוה על פה","jbo:position":"111"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-112","rdfs:label":"אין בעל חוב טורף (מהמשעבדים) ממה שקנה","jbo:position":"112"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-113","rdfs:label":"אין בעל חוב טורף ממטלטלים המשעבדים","jbo:position":"113"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-114","rdfs:label":"דין בעל חוב עם הלוקח אם יכול לדחותו אצל הלוה","jbo:position":"114"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-115","rdfs:label":"דין הפרות והשבח בטורף מלוקח ויתומים","jbo:position":"115"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-116","rdfs:label":"כיצד כותבין לו הטרפא","jbo:position":"116"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-8","rdfs:label":"הלכות אפותיקי","jbo:position":"8"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-117","rdfs:label":"דין העושה שדהו או עבדו אפותיקי","jbo:position":"117"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-118","rdfs:label":"הכותב ללוקח שני: דין ודברים אין לי עמך","jbo:position":"118"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-119","rdfs:label":"המוכר כל שדותיו, ולוה שהתנה שיגבה מן העדית","jbo:position":"119"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-120","rdfs:label":"הזורק חובו סתם, או בתורת גיטין, וזרקו ונאבד","jbo:position":"120"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-9","rdfs:label":"הלכות העושה שליח לגבות חובו","jbo:position":"9"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-121","rdfs:label":"השולח חובו על ידי שליח","jbo:position":"121"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-10","rdfs:label":"הלכות הרשאה","jbo:position":"10"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-122","rdfs:label":"אם מת המלוה או שבטל השליחות או ההרשאה","jbo:position":"122"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-123","rdfs:label":"הרשאה, על מה נכתבת וכיצד נכתבת","jbo:position":"123"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-124","rdfs:label":"נתבע, אם יכול לעשות מרשה","jbo:position":"124"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-125","rdfs:label":"השולח חובו או פקדונו על ידי שליח","jbo:position":"125"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-126","rdfs:label":"הפורע חובו במעמד שלשתן","jbo:position":"126"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-127","rdfs:label":"דין איש שלוה מאשתו וגרשה, או מעבדו ושחררו, והלוה מן הגר","jbo:position":"127"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-128","rdfs:label":"דין הפורע חוב של חברו או שמשכנו בשביל חברו","jbo:position":"128"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-11","rdfs:label":"הלכות ערב","jbo:position":"11"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-129","rdfs:label":"דין הערב בשטר ועל פה, ומתי נפרעין מן הערב","jbo:position":"129"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-130","rdfs:label":"דין ערב שפרע למלוה כיצד נפרע מן הלוה","jbo:position":"130"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-131","rdfs:label":"מי שחזר בו אחר שנתרצה להיות ערב","jbo:position":"131"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-132","rdfs:label":"עבד ואשה וקטן שערבו, ושנים שנעשו ערבים בשביל אחד, ואחד בשביל שנים,","jbo:position":"132"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-12","rdfs:label":"הלכות חזקת מטלטלין","jbo:position":"12"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-133","rdfs:label":"מי שמחזק במטלטלין הידועים לאחר","jbo:position":"133"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-134","rdfs:label":"אמן שטוען בדבר שהוא אמן שקנאו מבעליו","jbo:position":"134"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-135","rdfs:label":"דין המחזיק בבעלי חיים כגון בהמה ועבד","jbo:position":"135"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-136","rdfs:label":"מי שנתחלפו כליו בבית האבל והמשתה","jbo:position":"136"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-137","rdfs:label":"מי שלקט פרותיו של חברו","jbo:position":"137"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-138","rdfs:label":"דין שנים אוחזין בטלית וחלוקים עליו","jbo:position":"138"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-139","rdfs:label":"דין שנים חלוקין בדבר, ואם בא שלישי וחטפה","jbo:position":"139"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-13","rdfs:label":"הלכות חזקת קרקעות","jbo:position":"13"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-140","rdfs:label":"דין החזיק בקרקע של חברו, ודין חזקת הבתים והחניות","jbo:position":"140"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-141","rdfs:label":"דין חזקת שדה הלבן והאילן","jbo:position":"141"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-142","rdfs:label":"דין סיוע המערער למחזיק בחזקתו, ואם היה הסיוע בטעות","jbo:position":"142"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-143","rdfs:label":"דין המחזיק שלא בפני המערער והוא במדינה אחרת או ברח","jbo:position":"143"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-144","rdfs:label":"שנים שהחזיקו בשדה אחת, זה אכלה וזה אכלה","jbo:position":"144"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-145","rdfs:label":"הביא המחזיק עדים ולא כונו עדותם בשנים","jbo:position":"145"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-146","rdfs:label":"מחאה מבטל החזקה, ובאיזה לשון ובמה ומתי","jbo:position":"146"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-147","rdfs:label":"המערער על השדה והוא עד או דין","jbo:position":"147"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-148","rdfs:label":"מי שאבדה לו דרך שדהו","jbo:position":"148"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-149","rdfs:label":"אלו שאין להם חזקה: השתפין, והאריסין, והאפוטרופסים, הגזלנין, והאחין, וחרש שוטה וקטן","jbo:position":"149"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-150","rdfs:label":"מי שירד לתוך שדה בתורת משכון וחזר ועשה שטר מכירה","jbo:position":"150"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-151","rdfs:label":"דין אלו שאין אכילתן ראיה","jbo:position":"151"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-152","rdfs:label":"דין אלו שאין להם חזקה, מתי יש להם חזקה","jbo:position":"152"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-14","rdfs:label":"הלכות נזקי שכנים","jbo:position":"14"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-153","rdfs:label":"דין הוצאת זיז ומרזב והעמדת סלם ונעיצת ק ורות","jbo:position":"153"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-154","rdfs:label":"חזקת חלונות ופתחים, וכמה צריך להתרחק מהן","jbo:position":"154"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-155","rdfs:label":"דין הרחקת נזיקין","jbo:position":"155"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-156","rdfs:label":"דין מי שירד לאמנותו של חברו, ומי שמביא סחורה לעיר אחרת","jbo:position":"156"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-15","rdfs:label":"הלכות שותפים בקרקע","jbo:position":"15"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-157","rdfs:label":"שנים שהן שתפים בחצר ובאים לידי חלקה, כיצד יבנו הכתל","jbo:position":"157"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-158","rdfs:label":"חלקו גנה או בקעה, כיצד עושים הגדר","jbo:position":"158"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-159","rdfs:label":"הזק ראיה שמגג לגג, וכיצד יסירוהו","jbo:position":"159"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-160","rdfs:label":"גג הסמוך לחצר, ושתי חצרות אחת גבוהה מחברתה","jbo:position":"160"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-161","rdfs:label":"דברים שבני החצר כופין זה את זה","jbo:position":"161"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-162","rdfs:label":"דברים שבני מבוי כופין זה את זה","jbo:position":"162"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-163","rdfs:label":"דברים שבני העיר כופין זה את זה","jbo:position":"163"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-164","rdfs:label":"בית ועליה של שנים, ומה יש על כל אחד לתקן","jbo:position":"164"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-165","rdfs:label":"מי שיש לו גנה תחת בד של חברו","jbo:position":"165"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-166","rdfs:label":"מי שנפל כתלו לגנת חברו","jbo:position":"166"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-167","rdfs:label":"שתי גנות, אחת גבוהה מחברתה","jbo:position":"167"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-168","rdfs:label":"שטף נהר את זיתיו, והמוכר זיתיו לעצים","jbo:position":"168"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-169","rdfs:label":"מי שיש לו בור לפנים מבורו וגנה לפנים מגנתו","jbo:position":"169"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-170","rdfs:label":"גנות המסתפקות ממעין אחד","jbo:position":"170"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-16","rdfs:label":"הלכות חלוקת שותפות","jbo:position":"16"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-171","rdfs:label":"איזה דבר שהשתפין כופין זה את זה לחלק, וכל דיניו","jbo:position":"171"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-172","rdfs:label":"בית או חצר איך נותנים ארבע אמות, (ודין הזבל שבחצר ונתינת האכסניא),","jbo:position":"172"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-173","rdfs:label":"שתפים או אחים שרצו לחלק דבר שאין בו דין חלקה, וחלקת ספרים, ושאין להם חזקה זה על זה","jbo:position":"173"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-174","rdfs:label":"אחים או שתפים או בכור שבאים לחלק","jbo:position":"174"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-17","rdfs:label":"הלכות מצרנות","jbo:position":"17"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-175","rdfs:label":"אחין שרצו לחלק, וכל דיני דבר מצרא","jbo:position":"175"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-18","rdfs:label":"הלכות שותפים","jbo:position":"18"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-176","rdfs:label":"השתוף כיצד מתקים וכיצד נוהגין וכיצד נפרדין, ואם מת אחד מהם,","jbo:position":"176"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-177","rdfs:label":"שתפים שאחד מהם ירד לאמנות המלך או חלה","jbo:position":"177"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-178","rdfs:label":"שתף שבקש מהמוכס שימחל לו","jbo:position":"178"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-179","rdfs:label":"שתפין אין להם חזקה זה על זה","jbo:position":"179"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-180","rdfs:label":"שתפים בחצר שנדרו הנאה זה מזה","jbo:position":"180"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-181","rdfs:label":"שירא שעמד עליהם גיס והציל אחד מהם","jbo:position":"181"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-19","rdfs:label":"הלכות שלוחין","jbo:position":"19"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-182","rdfs:label":"כיצד נעשה שליח, או טעה וקנה ביקר, ואם עבר על דעת משלחו","jbo:position":"182"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-183","rdfs:label":"עשה שליח לקנות לו חטין וקנה לו שעורין","jbo:position":"183"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-184","rdfs:label":"הקונה שדה על שם אחר, ואחר כך אומר שהוא לעצמו, ודין שליח שקנה לשלשה ביחד","jbo:position":"184"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-185","rdfs:label":"סרסור שמכר בפחות או ביותר ממה שאמר לו בעל הבית, ושאר טענות שבינו לבין בעל הבית","jbo:position":"185"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-186","rdfs:label":"הלוקח כלים מן האמן למכר","jbo:position":"186"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-187","rdfs:label":"דין שליח שטוען שארעו לו אנסים","jbo:position":"187"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-188","rdfs:label":"אין שליחות לגוי ויש שליחות לעבד ואשה","jbo:position":"188"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-20","rdfs:label":"הלכות מקח וממכר","jbo:position":"20"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-189","rdfs:label":"דין אין המקח נגמר בדברים","jbo:position":"189"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-190","rdfs:label":"דין קנית קרקע בכסף","jbo:position":"190"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-191","rdfs:label":"דין קנית קרקע בשטר","jbo:position":"191"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-192","rdfs:label":"דין קנית קרקע בחזקה","jbo:position":"192"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-193","rdfs:label":"המחבר לקרקע דינו כקרקע","jbo:position":"193"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-194","rdfs:label":"גוי שמכר קרקע לישראל וקבל כסף ולא כתב שטר","jbo:position":"194"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-195","rdfs:label":"דין קנית קרקע או מטלטלין בחליפין","jbo:position":"195"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-196","rdfs:label":"דין קנית עבד כנעני","jbo:position":"196"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-197","rdfs:label":"דין קנית בהמה גסה ודקה","jbo:position":"197"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-198","rdfs:label":"דין קנית מטלטלין איזה במשיכה ואיזה במסירה, ומה דינו במעות שבידו,","jbo:position":"198"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-199","rdfs:label":"יש דרכים שמעות קונות, ויש זמן שמעות ק ונות","jbo:position":"199"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-200","rdfs:label":"דין קנית מטלטלין על ידי חצרו, וכיצד קונה כליו","jbo:position":"200"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-201","rdfs:label":"דין רשם על החבית, והתוקע כפו לחברו","jbo:position":"201"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-202","rdfs:label":"דין קנית מטלטלין אגב קרקע, או עבדים וקרקע, או עבד ומטלטלין, או בהמה וכלים שעליה","jbo:position":"202"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-203","rdfs:label":"כל מטלטלין נקנין בחליפין, ומטבע אין נקנה בחליפין","jbo:position":"203"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-204","rdfs:label":"אימתי מקבל החוזר בו ''מי שפרע'', ומתי נקרא ''מחסר אמנה''","jbo:position":"204"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-205","rdfs:label":"דין מוכר מחמת אנס, ומסר מודעא ובטלה","jbo:position":"205"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-206","rdfs:label":"דין כשאמכר אמכר לך במאה ומכר לאחר ביותר, או שאמר: אמכרנה לך כמו שישומו אותו בית דין","jbo:position":"206"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-207","rdfs:label":"המוכר נכסיו על תנאי, ודיני אסמכתא, והמחיב עצמו בדבר שאינו חיב בו,","jbo:position":"207"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-208","rdfs:label":"מקח שנעשה בצד אסור","jbo:position":"208"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-209","rdfs:label":"המקנה דבר שאינו מסים או שלא בא לעולם","jbo:position":"209"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-210","rdfs:label":"המקנה לעובר שלו או לעובר אחר","jbo:position":"210"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-211","rdfs:label":"דין דבר שלא ברשותו, והכותב נכסיו לבניו לאחר מותו","jbo:position":"211"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-212","rdfs:label":"דין מקנה דירת בית או חצרו, או מקדיש דבר שלא בא לעולם","jbo:position":"212"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-213","rdfs:label":"פרות כורת ופרות שובך באיזה ענין קנה","jbo:position":"213"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-214","rdfs:label":"המוכר בית סתם מה נמכר עמו","jbo:position":"214"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-215","rdfs:label":"המוכר חצר ובית הבד ומרחץ ועיר, מה מכר בכלל","jbo:position":"215"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-216","rdfs:label":"המוכר שדה ואמר: חוץ מדקל פלוני או חוץ מהאילנות, או קרקע לזה ואילנות לזה, (וכיצד יכתב בשטר מכירה כדי להסתלק מן הערעורים)","jbo:position":"216"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-217","rdfs:label":"המוכר בתוך שדהו אמת השלחים או דרך יחיד או דרך רבים או מקום לעשות קבורה,","jbo:position":"217"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-218","rdfs:label":"המוכר בית כור עפר ויש בו סלעים ובקעים","jbo:position":"218"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-219","rdfs:label":"כיצד מסימין המצרים, ואם לא סים אותם","jbo:position":"219"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-220","rdfs:label":"המוכר את הספינה וקרון וצמד בקר ופרה וחמור ושפחה","jbo:position":"220"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-221","rdfs:label":"מוכר שאמר במאתים ולוקח אומר במנה","jbo:position":"221"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-222","rdfs:label":"שנים חלוקים על המקח, ושאר טענות שבין המוכר והלוקח","jbo:position":"222"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-223","rdfs:label":"המחליף פרה בחמור וילדה, או מי שיש לו שני עבדים או שני שדות","jbo:position":"223"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-224","rdfs:label":"המחליף פרה בחמור, או שקנה ונמצא נקב בבית הכוסות","jbo:position":"224"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-225","rdfs:label":"אם קבל עליו כל אנס שארע, או התנה בפרוש שלא יהיה עליו אחריות","jbo:position":"225"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-226","rdfs:label":"המוכר שדה שלא באחריות, או יצא עליו קול ערעור","jbo:position":"226"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-21","rdfs:label":"הלכות אונאה ומקח טעות","jbo:position":"21"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-227","rdfs:label":"עד כמה הוה מחילה או חזרת האונאה, ושליח שטעה ואחים שחלקו וטעו,","jbo:position":"227"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-228","rdfs:label":"אסור להונות בדברים ולגנב דעת הבריות ולרמות במקח וממכר","jbo:position":"228"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-229","rdfs:label":"המוכר לחברו חטים או שעורים או פרות, כמה פסלת צריך לקבל הלוקח,","jbo:position":"229"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-230","rdfs:label":"המוכר לחברו מרתף של יין, והלוקח יין והחמיץ","jbo:position":"230"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-231","rdfs:label":"שלא לרמות במדה ובמשקל, וכיצד יעשה אותם וכיצד ישקל, וחיבין להעמיד ממנים על המדות ועל השערים","jbo:position":"231"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-232","rdfs:label":"המוכר דבר במדה ובמשקל וטעה, או שטעה במנין המעות, ומוכר דבר ונמצא בו מום,","jbo:position":"232"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-233","rdfs:label":"המוכר מין ונמצא מין אחר, או רע ונמצא יפה","jbo:position":"233"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-234","rdfs:label":"המוכר דבר אסור ואכלו הלוקח","jbo:position":"234"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-235","rdfs:label":"קטן וחרש ושוטה ושכור מתי מוכר מטלטלין, והקונה בשבת וביום טוב,","jbo:position":"235"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-236","rdfs:label":"גוי שאנס קרקע מישראל או בעלילות דברים","jbo:position":"236"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-237","rdfs:label":"המחזיר אחר דבר לקנותו וקדם אחר וקנאו","jbo:position":"237"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-238","rdfs:label":"כותבין שטר למוכר ולא ללוקח","jbo:position":"238"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-239","rdfs:label":"מי שבא ואמר: אבד שטר קניתי, כיצד כותבין לו שטר אחר","jbo:position":"239"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-240","rdfs:label":"שני שטרי מכר היוצאים על שדה אחת מזמן אחד","jbo:position":"240"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-22","rdfs:label":"הלכות מתנה","jbo:position":"22"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-241","rdfs:label":"המתנה במה תתקים וכן המחילה, והנותן דבר שאינו מסים","jbo:position":"241"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-242","rdfs:label":"דין מתנה באנס ומסירת מודעה ומתנה טמירתא","jbo:position":"242"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-243","rdfs:label":"דין המזכה לחברו על ידי אחר ורוצה הנותן או המקבל לחזר בו","jbo:position":"243"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-244","rdfs:label":"האומר לשנים לכתב שטר מתנה לפלוני","jbo:position":"244"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-245","rdfs:label":"הכותב: נתתי שדה פלוני לפלוני, והאומר: נתתי שדה פלוני לפלוני, והוא אומר: לא נתת לי","jbo:position":"245"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-246","rdfs:label":"השומע שמת בנו וכתב נכסיו לאחר","jbo:position":"246"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-247","rdfs:label":"השולח חפצים לבני ביתו ולא פרש היאך יחלקום","jbo:position":"247"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-248","rdfs:label":"הנותן מתנה לחברו, ואמר לה: ואחריך לפלוני","jbo:position":"248"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-249","rdfs:label":"הנותן מתנה וחוזר בו, או הנותן לעבד ואשה","jbo:position":"249"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-23","rdfs:label":"הלכות מתנת שכיב מרע","jbo:position":"23"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-250","rdfs:label":"דין מתנת שכיב מרע במקצת או בכלה, בלא קנין ובקנין","jbo:position":"250"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-251","rdfs:label":"דין מתנת שכיב מרע או בריא","jbo:position":"251"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-252","rdfs:label":"מתנת שכיב מרע מוציאין ממנו למזון האשה והבנות","jbo:position":"252"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-253","rdfs:label":"איזה לשון מועיל לשכיב מרע, ואמר: תנו מנה לפלוני ומאתים לפלוני ושלש מאות לפלוני","jbo:position":"253"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-254","rdfs:label":"שכיב מרע שבקש שיעשו קנין במתנות","jbo:position":"254"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-255","rdfs:label":"שכיב מרע שאמר: יש לי מנה ביד פלוני, או של פלוני בידי","jbo:position":"255"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-256","rdfs:label":"גר שנתן מתנת שכיב מרע או ששחרר עבדו","jbo:position":"256"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-257","rdfs:label":"הכותב נכסיו לבנו או לאחר מהיום ולאחר מותו, ומתנת בריא שכתבו בה מהיום ולאחר מיתה","jbo:position":"257"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-258","rdfs:label":"מתנה שכתוב בה ''לאחר מיתה'' אם יש בו זמן","jbo:position":"258"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-24","rdfs:label":"הלכות אבידה ומציאה","jbo:position":"24"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-259","rdfs:label":"השבת אבידה, מאיזה מקום חיב להשיבה","jbo:position":"259"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-260","rdfs:label":"המוצא דבר שמוכח שהנח שם","jbo:position":"260"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-261","rdfs:label":"דין המוצא במקום שנכר שאינה אבדה","jbo:position":"261"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-262","rdfs:label":"על איזה דבר חיב להכריז ואיזה דבר הוא של מוצאו","jbo:position":"262"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-263","rdfs:label":"המוצא אבדה שמתביש להשיבה","jbo:position":"263"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-264","rdfs:label":"אבדתו קדמת לכל אדם, אבדת רבו ואבדת אביו של מי קדמת","jbo:position":"264"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-265","rdfs:label":"אין לטל שכר על האבדה","jbo:position":"265"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-266","rdfs:label":"דין אבדת עוברי עברה","jbo:position":"266"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-267","rdfs:label":"כיצד מכריז, וכיצד מטפל בה בעודה בידו","jbo:position":"267"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-268","rdfs:label":"דין קניה בחצרו ובארבע אמותיו","jbo:position":"268"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-269","rdfs:label":"המגביה מציאה לחברו, ואם הגביהו חרש ופקח","jbo:position":"269"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-270","rdfs:label":"מציאת חרש שוטה וקטן, ובנו ובתו, ועבדו ושפחתו, ואשתו ופועלו","jbo:position":"270"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-271","rdfs:label":"מציאת בהמה ושטר חוב ושובר וגט אשה","jbo:position":"271"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-25","rdfs:label":"הלכות פריקה וטעינה ודין הולכי דרכים","jbo:position":"25"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-272","rdfs:label":"דין בהמות או ספינות שפגעו זה בזה","jbo:position":"272"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-26","rdfs:label":"הלכות הפקר ונכסי הגר","jbo:position":"26"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-273","rdfs:label":"דין הזוכה מן ההפקר, והפקר כיצד וכמה","jbo:position":"273"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-274","rdfs:label":"עוד יש איזה דברים של חברו שמתרים אף על פי שאינם הפקר","jbo:position":"274"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-275","rdfs:label":"דין הזוכה בנכסי גר שנתגיר ומת בלא יורשין","jbo:position":"275"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-27","rdfs:label":"הלכות נחלות","jbo:position":"27"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-276","rdfs:label":"סדר נחלות כיצד הוא","jbo:position":"276"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-277","rdfs:label":"הבכור נוטל פי שנים, ואיזה הוא בכור לנחלה וספק בכור","jbo:position":"277"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-278","rdfs:label":"אין הבכור נוטל פי שנים לא במלוה ולא בשבח, ואם מכר חלק בכורה","jbo:position":"278"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-279","rdfs:label":"דין האומר: זה בני או אחי או עבדי, וחזר ואמר אפכא","jbo:position":"279"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-280","rdfs:label":"אמר אחד: זה אחינו, או שבא אחד ואמר: אני אחיך","jbo:position":"280"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-281","rdfs:label":"המעביר נכסיו מבניו לתנם לאחד","jbo:position":"281"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-282","rdfs:label":"שלא להעביר נחלה ממי שראוי לירש","jbo:position":"282"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-283","rdfs:label":"דין ירשת גוי, וגר, וישראל משמד","jbo:position":"283"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-284","rdfs:label":"אין צריך עדות ליורש שהוא קרוב וצריך עדות שמת","jbo:position":"284"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-285","rdfs:label":"שבוי שברח והיוצא לדעת, מה יעשו בנכסים","jbo:position":"285"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-286","rdfs:label":"יתומים גדולים וקטנים היאך נזונים מנכסיהם","jbo:position":"286"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-287","rdfs:label":"מי שמת והניח בנים גדולים וקטנים","jbo:position":"287"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-288","rdfs:label":"היאך שמין מה שעל בניהם ובנותיהם כשח ולקים","jbo:position":"288"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-289","rdfs:label":"אחים גדולים וקטנים ורוצים לחלק","jbo:position":"289"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-28","rdfs:label":"הלכות אפוטרופוס","jbo:position":"28"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-290","rdfs:label":"דין אפוטרופוס, מי ימנו, וכיצד יתנהג, וכל משפטיו","jbo:position":"290"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-29","rdfs:label":"הלכות פקדון","jbo:position":"29"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-291","rdfs:label":"דין שומר חנם, מאימתי מתחיב בשמירה, וכיצד היא השמירה","jbo:position":"291"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-292","rdfs:label":"שלא לשלח יד בפקדון, ואם שלח בו יד","jbo:position":"292"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-293","rdfs:label":"מתי ניתן הפקדון לתבע, ואם יכול להחזירו (בכל מקום)","jbo:position":"293"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-294","rdfs:label":"הכופר בפקדון או שטוען נגנב","jbo:position":"294"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-295","rdfs:label":"שלם הנפקד, כיצד משביעין אותו","jbo:position":"295"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-296","rdfs:label":"המפקיד בעדים, וטוען הנפקד: נגנבה או: להד''מ","jbo:position":"296"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-297","rdfs:label":"הכופר בפקדון אפלו נותן המפקיד סימן","jbo:position":"297"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-298","rdfs:label":"נפקד אומר: איני יודע כמה אני חיב, והמפקיד טוען ברי","jbo:position":"298"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-299","rdfs:label":"שנים שהפקידו ביד אחד ואחד מהם בא לתבע","jbo:position":"299"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-300","rdfs:label":"שנים שהפקידו, אחד מאה ואחד מאתים, וכל אחד תובע מאתים","jbo:position":"300"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-301","rdfs:label":"דין השומרים בעבדים וקרקעות ובהקדשות ובשל עניים","jbo:position":"301"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-302","rdfs:label":"דיני שומרים אחד האיש ואחד האשה","jbo:position":"302"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-30","rdfs:label":"הלכות שומר שכר","jbo:position":"30"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-303","rdfs:label":"שומר שכר, באיזה דבר חיב או פטור, ומאימתי מתחיב","jbo:position":"303"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-304","rdfs:label":"המעביר חבית ממקום למקום ונשבר, מתי חיב","jbo:position":"304"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-305","rdfs:label":"שומר שכופר או שטוען נאנס או נגנב","jbo:position":"305"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-31","rdfs:label":"הלכות אומנים","jbo:position":"31"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-306","rdfs:label":"האמנים שומרי שכר, ואם קלקלו, וטבח שנבל","jbo:position":"306"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-32","rdfs:label":"הלכות שוכר","jbo:position":"32"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-307","rdfs:label":"דיני השוכר וחיובו ופטורו, ואם השאיל או השכיר","jbo:position":"307"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-308","rdfs:label":"השוכר בהמה לרכב עליה, כמה יטען עליה","jbo:position":"308"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-309","rdfs:label":"השוכר את הבהמה לילך למקום ידוע והוליכה למקום אחר","jbo:position":"309"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-310","rdfs:label":"השוכר את החמור ונסתמא או מת או נשבר","jbo:position":"310"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-311","rdfs:label":"השוכר את הספינה ופרקה בחצי הדרך או טבעה בחצי הדרך","jbo:position":"311"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-312","rdfs:label":"המשכיר בית לחברו לזמן קצוב או סתם","jbo:position":"312"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-313","rdfs:label":"המשכיר בית לחברו בבירה גדולה, באיזה מקום רשאי להשתמש","jbo:position":"313"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-314","rdfs:label":"מה הדברים שעל המשכיר לעשות או על השוכר","jbo:position":"314"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-315","rdfs:label":"דין המשכיר בית על תנאי","jbo:position":"315"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-316","rdfs:label":"המשכיר בית לחברו לזמן קצוב ורצה השוכר להשכירו לאחרים","jbo:position":"316"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-317","rdfs:label":"אמר השוכר: פרעתי שכר הבית, והמשכיר אומר: לא פרעת","jbo:position":"317"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-318","rdfs:label":"השוכר רחים מחברו ושוב לא נצטרך","jbo:position":"318"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-319","rdfs:label":"מי שהטעה חברו עד שהכניס פרותיו לביתו","jbo:position":"319"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-33","rdfs:label":"הלכות חכירות וקבלנות","jbo:position":"33"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-320","rdfs:label":"מקבל או חוכר מחברו היאך יתנהגו זה עם זה","jbo:position":"320"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-321","rdfs:label":"המקבל בית השלחין ושדה האילן ויבשו","jbo:position":"321"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-322","rdfs:label":"המקבל שדה מחברו ואכלה חגב או נשדפה","jbo:position":"322"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-323","rdfs:label":"המקבל שדה מחברו ולקתה בעמריה","jbo:position":"323"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-324","rdfs:label":"המקבל שדה לזרעה מין ידוע ובא לשנותה","jbo:position":"324"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-325","rdfs:label":"המקבל שדה מחברו אם רשאי לזרעה פשתן","jbo:position":"325"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-326","rdfs:label":"המקבל שדה לזרעה שומשמין וזרעה חטין","jbo:position":"326"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-327","rdfs:label":"דין מקבל שבא להסתלק ועדין לא נגמרו ה זרעים","jbo:position":"327"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-328","rdfs:label":"דין מקבל שרוצה להסתלק מפני רעת השדה","jbo:position":"328"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-329","rdfs:label":"המקבל שדה לזמן ומת והניח בן","jbo:position":"329"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-330","rdfs:label":"המקבל שדה לטע כמה אילנות","jbo:position":"330"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-34","rdfs:label":"הלכות שכירות פועלים","jbo:position":"34"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-331","rdfs:label":"השוכר פועלים ינהג עמהם כמנהג המדינה","jbo:position":"331"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-332","rdfs:label":"דין האומר לשלוחו: צא ושכר לי פועלים, ושכרן יותר ממה שאמר לו","jbo:position":"332"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-333","rdfs:label":"השוכר את הפועל ובא הפועל לחזר קדם שהתחיל או אחר כן","jbo:position":"333"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-334","rdfs:label":"השוכר את הפועל להשקות השדה, והשוכר מלמד וחלה בנו","jbo:position":"334"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-335","rdfs:label":"השוכר את הפועל למלאכה סתם או למלאכה ידועה","jbo:position":"335"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-336","rdfs:label":"השוכר את הפועל לעשות בשלו והראהו בשל חברו","jbo:position":"336"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-337","rdfs:label":"דין אכילת פועל בשעת מלאכה, ממה אוכל או מתי אוכל","jbo:position":"337"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-338","rdfs:label":"דין אכילת בהמה בשעת מלאכה, ואסור חסימתה","jbo:position":"338"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-339","rdfs:label":"לתת שכר אדם בהמה וכלים בזמנו, ומתי זמנו","jbo:position":"339"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-35","rdfs:label":"הלכות שאילה","jbo:position":"35"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-340","rdfs:label":"השואל חיב באנס, ובהמה שמתה מחמת מלאכה, ואם שלחה על יד בנו או עבדו,","jbo:position":"340"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-341","rdfs:label":"השואל מחברו חפץ סתם או לזמן קצוב","jbo:position":"341"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-342","rdfs:label":"אין השואל רשאי להשאיל","jbo:position":"342"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-343","rdfs:label":"דין השואל אחר כלות זמן השאילה","jbo:position":"343"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-344","rdfs:label":"טען שמתה מחמת מלאכה או רוצה לשלם או לשבע","jbo:position":"344"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-345","rdfs:label":"דין שאל פרה ושכר אחרת","jbo:position":"345"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-346","rdfs:label":"דין פטור שאילה בבעלים עם כל דיניו, ובעל בנכסי אשתו","jbo:position":"346"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-347","rdfs:label":"דין הזיק שור של שואל לשל משאיל או אפכא","jbo:position":"347"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-36","rdfs:label":"הלכות גניבה","jbo:position":"36"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-348","rdfs:label":"אסור גנבה, ומי נקרא גנב, ומאיזה שעה מתחיב","jbo:position":"348"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-349","rdfs:label":"דין אשה ועבד וקטן שגנבו","jbo:position":"349"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-350","rdfs:label":"גנב חלבו של חברו ואכלו, משלם לו דמי חלבו","jbo:position":"350"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-351","rdfs:label":"דין הגונב כיס בשבת","jbo:position":"351"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-352","rdfs:label":"הפקיד לשנים, וטענו נגנב, והודה האחד ועל השני באו עדים, בין שניהם משלמים הקרן","jbo:position":"352"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-353","rdfs:label":"נשתנה הגנבה ביד הגנב או שנתיאשו בעליה ממנה","jbo:position":"353"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-354","rdfs:label":"השביחה הגנבה ביד הגנב","jbo:position":"354"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-355","rdfs:label":"גנב שהחזיר הגנבה שלא מדעת הבעלים","jbo:position":"355"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-356","rdfs:label":"אסור לקנות שום דבר מהגנב, והקונה מגנב מפרסם או אינו מפרסם","jbo:position":"356"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-357","rdfs:label":"המכיר כליו וספריו ויצא לו שם גנבה בעיר","jbo:position":"357"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-358","rdfs:label":"דברים האסורים לקנות מהרועים ומשומרי פרות ומבעלי אמנות","jbo:position":"358"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-37","rdfs:label":"הלכות גזילה","jbo:position":"37"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-359","rdfs:label":"אסור גזלה אפלו על מנת להחזיר, ומה נקרא גזלה, ואסור לא תחמד ולא תתאוה,","jbo:position":"359"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-360","rdfs:label":"מצוה על הגזלן להשיב הגזלה, ואם אין בה שוה פרוטה או נשתנית","jbo:position":"360"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-361","rdfs:label":"דין יאוש, ואם יש עמו שנוי השם או שנוי רשות","jbo:position":"361"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-362","rdfs:label":"השביחה הגזלה ביד הגזלן ממילא","jbo:position":"362"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-363","rdfs:label":"הגוזל בהמה ועבדים והזקינו, והדר בחצר חברו שלא מדעתו","jbo:position":"363"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-364","rdfs:label":"הנכנס בבית פלוני והוציא כלים או חטף מידו זהובים","jbo:position":"364"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-365","rdfs:label":"הגוזל ואינו יודע ממי גזל","jbo:position":"365"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-366","rdfs:label":"גזלן שבא לעשות תשובה אם מקבלין ממנו","jbo:position":"366"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-367","rdfs:label":"גזלן שבא להחזיר את הגזלה, והגוזל את אביו, או את הגר","jbo:position":"367"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-368","rdfs:label":"דין המציל או הקונה מלסטים ישראל או גוי","jbo:position":"368"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-369","rdfs:label":"אסור לקנות מגזלן ולסטים ולהנות מממונם, ודינא דמלכותא כיצד","jbo:position":"369"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-370","rdfs:label":"דברים שהם גזל מדבריהם, כגון מפריחי יונים והמשחקים בקביא","jbo:position":"370"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-371","rdfs:label":"קרקע אינה נגזלת אפלו נתיאשו הבעלים","jbo:position":"371"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-372","rdfs:label":"גזלן שהפסיד השדה ואכל פרות כיצד גובה אותם הנגזל","jbo:position":"372"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-373","rdfs:label":"דין מכרה הגזלן והשביח הלוקח, מה דינו של לוקח עם הגזלן","jbo:position":"373"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-374","rdfs:label":"מכרה הגזלן וחזר וקנאה מהנגזל או נתנה לו במתנה","jbo:position":"374"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-375","rdfs:label":"היורד לשדה חברו או לתוך חרבתו ונטעו או בנאו","jbo:position":"375"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-376","rdfs:label":"דין המסיג גבול רעהו","jbo:position":"376"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-377","rdfs:label":"מי שדרך הרבים עובר בתוך שדהו","jbo:position":"377"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-38","rdfs:label":"הלכות נזיקין","jbo:position":"38"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-378","rdfs:label":"אסור להזיק ממון חברו ולא לגרם שום הזק","jbo:position":"378"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-379","rdfs:label":"דין זה בא בחביתו וזה בא בקורתו ונשבר החבית","jbo:position":"379"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-380","rdfs:label":"האומר לחברו: קרע כסותי או של חברי, או רודף או נרדף ששברו כלים","jbo:position":"380"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-381","rdfs:label":"דין חמשה שישבו על ספסל אחד","jbo:position":"381"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-382","rdfs:label":"הקוצץ אילן של חברו, והמונע חברו מלעשות מצוה","jbo:position":"382"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-383","rdfs:label":"דין אדם המזיק לבהמת חברו","jbo:position":"383"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-384","rdfs:label":"דין אדם המזיק שלא בגופו","jbo:position":"384"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-385","rdfs:label":"דין הזק שאינו נכר כגון מנסך יינו של חברו","jbo:position":"385"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-386","rdfs:label":"חלוק שבין גרמא בנזקין לדינא דגרמי, והזורק כלי מראש הגג","jbo:position":"386"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-387","rdfs:label":"שמין השברים לנזק ומשלם לו עליהם","jbo:position":"387"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-39","rdfs:label":"הלכות מאבד ממון חבירו בידים ומוסר ומלשין","jbo:position":"39"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-388","rdfs:label":"דין נזק נשבע ונוטל","jbo:position":"388"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-40","rdfs:label":"הלכות נזקי ממון","jbo:position":"40"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-389","rdfs:label":"דין ממון האדם שהזיק, וחלוק שבין תם למועד, ובאיזה מקום חיב קרן ושן ורגל,","jbo:position":"389"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-390","rdfs:label":"נזקי רגל ותולדותיו, ודיני צרורות, וכלב ותרנגול שקפצו","jbo:position":"390"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-391","rdfs:label":"שן, באיזה מקום ובאיזו אכילה משלם מה שהזיקה או מה שנהנית","jbo:position":"391"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-392","rdfs:label":"דין כלב שנטל חררה ואכל חררה והדליק הגדיש","jbo:position":"392"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-393","rdfs:label":"הכניס פרותיו לחצר חברו שלא ברשות והזק בהן בעל החצר","jbo:position":"393"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-394","rdfs:label":"בהמה שנפלה לגנה והזיקה, וכיצד משערין ההזק","jbo:position":"394"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-395","rdfs:label":"המשסה את הכלב בחברו או בעצמו","jbo:position":"395"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-396","rdfs:label":"כיצד שמירת תם ומועד, או מסרן לשומר חנם או לשומר שכר","jbo:position":"396"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-397","rdfs:label":"מי שבהמתו רגילה לכנס לתוך שדה חברו, ובהמת הקצבים שמזקת","jbo:position":"397"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-398","rdfs:label":"הכניס שורו לחצר חברו שלא ברשות, או נתן לו רשות להכניסו","jbo:position":"398"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-399","rdfs:label":"פרה שהזיקה, גובה מולדה, ושור שנגח פרה מעברת כיצד שמין אותה","jbo:position":"399"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-400","rdfs:label":"שור שהיה רודף אחר חברו, או שנים רודפים או שנים נרדפים","jbo:position":"400"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-401","rdfs:label":"שור שנגח וחזר ונגח, ואם תפס נזק וחזר ונגח","jbo:position":"401"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-402","rdfs:label":"שני שורים שחבלו זה בזה והם תמים או מועדים","jbo:position":"402"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-403","rdfs:label":"שמין השברים לנזק, ואם פחתו או הותירו","jbo:position":"403"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-404","rdfs:label":"שור שחבל בשור או השביח או פגם","jbo:position":"404"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-405","rdfs:label":"שור שחבל באדם, או שנגח אשה או שפחה","jbo:position":"405"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-406","rdfs:label":"שור של גוי, או של הפקר, או של חרש שוטה וקטן","jbo:position":"406"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-407","rdfs:label":"שור שנגח ומכרו מזיק או נזק","jbo:position":"407"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-408","rdfs:label":"אין דנין דיני נזיקין אלא בעדות ברורה","jbo:position":"408"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-409","rdfs:label":"אין מגדלים בהמה דקה בישוב, וחזיר וכלב רע בכל מקום","jbo:position":"409"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-410","rdfs:label":"בור באיזה מקום חיובו וכמה שעורו, וכל משפטי בור","jbo:position":"410"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-411","rdfs:label":"תולדות הבור כגון אבנו סכינו ומשאו שהזיקו","jbo:position":"411"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-412","rdfs:label":"המניח הכד ברשות הרבים ונתקל בו אחר, או טען כד ונתקל ונשבר, והשופך מים לרשות הרבים והזיקו","jbo:position":"412"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-413","rdfs:label":"דין הקדרים שהולכין זה אחר זה ונתקלו ונפלו","jbo:position":"413"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-414","rdfs:label":"אימתי אדם רשאי להוציא זבלים לרשות הרבים","jbo:position":"414"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-415","rdfs:label":"הגודר גדרו בקוצים והזק בהם, והמצניע קוצים בכתל חברו","jbo:position":"415"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-416","rdfs:label":"הכתל והאילן שהיו רעועים ונפלו והזיקו","jbo:position":"416"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-417","rdfs:label":"כל דבר המזיק אין מוציאין אותו לרשות הרבים","jbo:position":"417"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-418","rdfs:label":"נזקי האש פטורו וחיובו, וטמון באש וכל דיניו","jbo:position":"418"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-419","rdfs:label":"כיצד נפרעים לנזקים מהמזיק ומיורשיו","jbo:position":"419"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-41","rdfs:label":"הלכות חובל בחבירו","jbo:position":"41"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-420","rdfs:label":"החובל בחברו חיב בחמשה דברים, וכיצד משערין אותם, והמביש בדברים תלמיד חכם ועם הארץ","jbo:position":"420"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-421","rdfs:label":"המביש חברו שלא בכונה, והחובל בחברו שלא בכונה","jbo:position":"421"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-422","rdfs:label":"צריך החובל לפיס הנחבל שימחל לו","jbo:position":"422"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-423","rdfs:label":"נגף אשה ויצאו ילדיה, וכיצד שמין דמי ולדות","jbo:position":"423"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-424","rdfs:label":"החובל באביו ואמו, או החובל בבניו, או החובל בחברו בשבת","jbo:position":"424"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-425","rdfs:label":"חיבי מיתות בית דין, היאך דנים אותם בזמן הזה","jbo:position":"425"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-halachot-4-42","rdfs:label":"הלכות שמירת נפש","jbo:position":"42"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-426","rdfs:label":"חיב אדם להציל את חברו בין בגופו בין בממונו","jbo:position":"426"},{"jbo:within":["shulchanaruch-4"],"uri":"jbr:shulchanaruch-4-427","rdfs:label":"מצות עשה להסיר כל מכשול שיש בו סכנת נפשות, ועשית מעקה לגגו","jbo:position":"427"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:shulchanaruch",
+      "rdfs:label": "שלחן ערוך"
+    },
+    {
+      "uri": "jbr:shulchanaruch-baerheytev",
+      "rdfs:label": "שלחן ערוך באר היטב"
+    },
+    {
+      "uri": "jbr:shulchanaruch-4",
+      "rdfs:label": "שלחן ערוך - חשן משפט",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-1",
+      "rdfs:label": "הלכות דיינים",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-1",
+      "rdfs:label": "מנוי השופטים בארץ ובחוצה לארץ",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-2",
+      "rdfs:label": "בית דין מכין ועונשין לצרך שעה",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-3",
+      "rdfs:label": "בכמה דינים דנין",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-4",
+      "rdfs:label": "כיצד אדם עושה דין לעצמו",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-5",
+      "rdfs:label": "באיזה יום דנין ובאיזה זמן ביום",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-6",
+      "rdfs:label": "על כמה דנין",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-7",
+      "rdfs:label": "מי ראוי לדון, והפסולים מחמת שנאה וקרבה",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-8",
+      "rdfs:label": "שלא למנות דין שאינו הגון, וגדל שכר הדין וענשו",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-9",
+      "rdfs:label": "שלא לקח שחד, והתרת שכר בטלה",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-10",
+      "rdfs:label": "להיות מתון בדין, ושימלך בגדול ממנו",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-11",
+      "rdfs:label": "כיצד מזמינים לדין ועל פי מי",
+      "jbo:position": "11"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-12",
+      "rdfs:label": "דין שבאו לפניו רך וקשה, וכל דיני פשרה",
+      "jbo:position": "12"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-13",
+      "rdfs:label": "כיצד בוררים הדינים כשאין בעלי דינין מסכימין יחד",
+      "jbo:position": "13"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-14",
+      "rdfs:label": "אם אחד מבעלי דינין אומר: נלך לבית דין הגדול, ודין האומר: מאיזה טעם דנתוני,",
+      "jbo:position": "14"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-15",
+      "rdfs:label": "איזה דין דנין תחלה, ודין דין מרמה",
+      "jbo:position": "15"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-16",
+      "rdfs:label": "כמה זמן נותנין להביא ראיה, ודין הטלת חרם",
+      "jbo:position": "16"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-17",
+      "rdfs:label": "להשוות הבעלי דינין בכל דבר",
+      "jbo:position": "17"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-18",
+      "rdfs:label": "כיצד נושאין ונותנין בדבר, ושהולכין אחר הרב",
+      "jbo:position": "18"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-19",
+      "rdfs:label": "כיצד נותנין הפסק, וסדר כתיבתו",
+      "jbo:position": "19"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-20",
+      "rdfs:label": "עד מתי יכול להביא ראיה לסתר הדין",
+      "jbo:position": "20"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-21",
+      "rdfs:label": "מי שקבל עליו להשלים הדין ליום ידוע, ונאנס",
+      "jbo:position": "21"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-22",
+      "rdfs:label": "מי שקבל עליו קרוב ופסול, ודין שבועה והפוכה",
+      "jbo:position": "22"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-23",
+      "rdfs:label": "עד מתי נאמן הדין לומר לזה זכיתי",
+      "jbo:position": "23"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-24",
+      "rdfs:label": "שנזקקין לתובע תחלה",
+      "jbo:position": "24"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-25",
+      "rdfs:label": "דין שטעה, מתי חוזר ומתי משלם",
+      "jbo:position": "25"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-26",
+      "rdfs:label": "שלא לדון בדיני גויים",
+      "jbo:position": "26"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-27",
+      "rdfs:label": "שלא לקלל דין או שום אחד מישראל",
+      "jbo:position": "27"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-2",
+      "rdfs:label": "הלכות עדות",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-28",
+      "rdfs:label": "כיצד מאימין העדים, ואין מקבלין עדות שלא בפני בעל דין",
+      "jbo:position": "28"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-29",
+      "rdfs:label": "שלא יוכלו העדים לחזר",
+      "jbo:position": "29"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-30",
+      "rdfs:label": "אין עדי ממונות צריכין דרישה וחקירה, וצריך להיות עדות שלם",
+      "jbo:position": "30"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-31",
+      "rdfs:label": "דין הרבה כתי עדיות",
+      "jbo:position": "31"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-32",
+      "rdfs:label": "המודה בפני עדים, (שיאמרו דברים כהויתן, ואם) אומר: משטה אני בך",
+      "jbo:position": "32"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-33",
+      "rdfs:label": "פסולי עדות מחמת קרבה, ואשה ועבד",
+      "jbo:position": "33"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-34",
+      "rdfs:label": "עדים הפסולים מחמת עברה",
+      "jbo:position": "34"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-35",
+      "rdfs:label": "פסול סומא וחרש, שוטה וקטן",
+      "jbo:position": "35"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-36",
+      "rdfs:label": "רבים שהעידו, ונמצא אחד מהם קרוב או פסול",
+      "jbo:position": "36"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-37",
+      "rdfs:label": "הפסולים מחמת הנאה",
+      "jbo:position": "37"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-38",
+      "rdfs:label": "קצת דיני הזמה",
+      "jbo:position": "38"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-3",
+      "rdfs:label": "הלכות הלוואה",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-39",
+      "rdfs:label": "כותבין שטר ללוה בלא מלוה, ועל איזה הודאה כותבין",
+      "jbo:position": "39"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-40",
+      "rdfs:label": "דין המחיב עצמו לחברו",
+      "jbo:position": "40"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-41",
+      "rdfs:label": "דין (מי) שנמחק או אבד שטר חובו",
+      "jbo:position": "41"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-42",
+      "rdfs:label": "שכותבין השטר בכל לשון, ודין אם אין המטבע מפרש בו",
+      "jbo:position": "42"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-43",
+      "rdfs:label": "שצריך לכתב זמן בשטר, וכל דיני האחור והקדימה בפרטות",
+      "jbo:position": "43"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-44",
+      "rdfs:label": "דין חזרת השטר בשיטה אחרונה, וכיצד מקימים המחק והתלוים",
+      "jbo:position": "44"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-45",
+      "rdfs:label": "שהעדים צריכים לקרות מקדם שטר, ודין שטר הבא על הניר ועדיו על המחק,",
+      "jbo:position": "45"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-46",
+      "rdfs:label": "העדים שאמרו: קטנים או פסולים היינו, או שטר אמנה היה, וכל דין קיום שטרות,",
+      "jbo:position": "46"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-47",
+      "rdfs:label": "מי שטען אמנה הוא או פרוע",
+      "jbo:position": "47"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-48",
+      "rdfs:label": "שכותבין טפסי שטרות",
+      "jbo:position": "48"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-49",
+      "rdfs:label": "שיכירו העדים שם הלוה והמלוה, ודין טעות השמות והסכום",
+      "jbo:position": "49"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-50",
+      "rdfs:label": "שטר שכתוב בו: לויתי ממך מנה",
+      "jbo:position": "50"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-51",
+      "rdfs:label": "שטר שאין בו אלא עד אחד, או אחד מהם פסול",
+      "jbo:position": "51"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-52",
+      "rdfs:label": "שטר שיש בו רבית או קרוע",
+      "jbo:position": "52"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-53",
+      "rdfs:label": "שלא לשנות השטר",
+      "jbo:position": "53"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-54",
+      "rdfs:label": "דין אסמכתא, ואם כותבין שובר, וכיצד כותבין אותו (ודין פרעון על ידי שובר),",
+      "jbo:position": "54"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-55",
+      "rdfs:label": "דין מי שפרע מקצת חובו והשליש שטרו",
+      "jbo:position": "55"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-56",
+      "rdfs:label": "דין שלישות",
+      "jbo:position": "56"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-57",
+      "rdfs:label": "דין שאסור להשהות שטר פרוע",
+      "jbo:position": "57"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-58",
+      "rdfs:label": "מי שהוציא שטר חוב על חברו, (וטענת סטראי)",
+      "jbo:position": "58"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-59",
+      "rdfs:label": "שטר מקים והלוה טוען פרוע (והמלוה אומר: איני יודע)",
+      "jbo:position": "59"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-60",
+      "rdfs:label": "דין שעבוד מטלטלי אגב מקרקעי, ודין שעבוד דבר שלא בא לעולם",
+      "jbo:position": "60"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-61",
+      "rdfs:label": "כמה דינים מענין שטרות",
+      "jbo:position": "61"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-62",
+      "rdfs:label": "דין אשה הנושאת ונותנת בתוך הבית",
+      "jbo:position": "62"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-63",
+      "rdfs:label": "מי שהועד עליו שמחזר אחר זיוף",
+      "jbo:position": "63"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-64",
+      "rdfs:label": "נפקד שרצה לעכב בחובו שטרות הפקדון",
+      "jbo:position": "64"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-65",
+      "rdfs:label": "דין שטרות שנמצאו, ודין שובר שנמצא ביד שליש",
+      "jbo:position": "65"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-66",
+      "rdfs:label": "דין מכירת שטרות ואונאתן",
+      "jbo:position": "66"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-67",
+      "rdfs:label": "דין שמטה ופרוזבול",
+      "jbo:position": "67"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-68",
+      "rdfs:label": "דין שטרות העשויות בערכאות של גויים",
+      "jbo:position": "68"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-69",
+      "rdfs:label": "דין הוציא עליו כתב ידו מקים או בלתי מקים, ודין טענת פרעתי ומודה מקצת,",
+      "jbo:position": "69"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-70",
+      "rdfs:label": "דין מלוה על פה, ואם אמר לה: אל תפרעני אלא בעדים",
+      "jbo:position": "70"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-71",
+      "rdfs:label": "לוה שהאמין למלוה בעל פה, למה מועיל נאמנות",
+      "jbo:position": "71"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-72",
+      "rdfs:label": "המלוה על המשכון, והרבה דני משכונות",
+      "jbo:position": "72"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-73",
+      "rdfs:label": "כמה זמן סתם הלואה, וכמה פרטי דיני הלואה",
+      "jbo:position": "73"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-74",
+      "rdfs:label": "באיזה מקום נתנה מלוה לפרע, וסדר הפרעון",
+      "jbo:position": "74"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-4",
+      "rdfs:label": "הלכות טוען ונטען",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-75",
+      "rdfs:label": "אם המלוה והלוה צריכין לברר הטענות, וכל דיני המחויב שבועה מן התורה או מדרבנן ומי שאינו יכול לשבע, וכל שטוען התובע והנתבע ברי ושמא",
+      "jbo:position": "75"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-76",
+      "rdfs:label": "אחד שלוה משנים בעל פה מזה מאה ומזה מאתים, וכל אחד תובע מאתים",
+      "jbo:position": "76"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-77",
+      "rdfs:label": "דין שנים שלוו מאחד, ודין שתפין שלוה אחד לבדו",
+      "jbo:position": "77"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-78",
+      "rdfs:label": "הטוען שפרע תוך הזמן",
+      "jbo:position": "78"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-79",
+      "rdfs:label": "דין האומר: לא לויתי, והחלוק שבין צא תן לו או חיב אתה לתן לו",
+      "jbo:position": "79"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-80",
+      "rdfs:label": "באיזו ענין טוען וחוזר וטוען",
+      "jbo:position": "80"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-81",
+      "rdfs:label": "אם הודה מעצמו, מתי יכול לומר: משטה אני בך",
+      "jbo:position": "81"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-82",
+      "rdfs:label": "דין שטר (שאינו מקים, או מקים, שהלוה טוען:) אמנה (או) פרוע או רבית, ודין תנאי השטר והשבועה",
+      "jbo:position": "82"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-83",
+      "rdfs:label": "דין מלוה שהודה בשטר שהוא מזיף",
+      "jbo:position": "83"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-84",
+      "rdfs:label": "הפוגם או פוחת שטרו, או עד אחד מעיד שהוא פרוע",
+      "jbo:position": "84"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-85",
+      "rdfs:label": "הוציא שטר חוב והלה טוען שמכר לו שדהו",
+      "jbo:position": "85"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-86",
+      "rdfs:label": "ראובן נושה בשמעון ושמעון בלוי, מוציאין מלוי ונותנין לראובן",
+      "jbo:position": "86"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-87",
+      "rdfs:label": "דיני שבועת הסת ושבועה דאוריתא",
+      "jbo:position": "87"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-88",
+      "rdfs:label": "דיני כפירה והודאה, ושתהא ממין הטענה",
+      "jbo:position": "88"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-89",
+      "rdfs:label": "שהשכיר נשבע ונוטל",
+      "jbo:position": "89"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-90",
+      "rdfs:label": "הנזקין נשבעין ונוטלין, (כגון הנגזל והנחבל) , ודין המביא כלים מבית בעל הבית והוא אומר: שאולים הם",
+      "jbo:position": "90"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-91",
+      "rdfs:label": "חנוני נשבע ונוטל, ודין פנקסים",
+      "jbo:position": "91"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-92",
+      "rdfs:label": "דין החשוד על השבועה",
+      "jbo:position": "92"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-93",
+      "rdfs:label": "דין שבועת ספק ושבועת השתפין",
+      "jbo:position": "93"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-94",
+      "rdfs:label": "דין גלגול שבועה",
+      "jbo:position": "94"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-95",
+      "rdfs:label": "דין איזו שבועה נשבעין על קרקעות, ודין הקדש בזמן הזה",
+      "jbo:position": "95"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-96",
+      "rdfs:label": "חרש שוטה וקטן איזה שבועה נשבעים, וגם אשת איש",
+      "jbo:position": "96"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-5",
+      "rdfs:label": "הלכות גבית מלוה",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-97",
+      "rdfs:label": "להלוות לעני ושלא לנגשו, (ושלא לחבל כלי אכל נפש ואלמנה) , והשבת העבוט, ודין הסדור",
+      "jbo:position": "97"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-98",
+      "rdfs:label": "סדר גבית החוב, והמבקש זמן לפסל שטר, ואם לא בא בזמנו",
+      "jbo:position": "98"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-99",
+      "rdfs:label": "כיצד משביעין ללוה אם יש לו, ומחרימים מי שיודע לו נכסים, ואם הוא כשר או רמאי, ואם נתן שלו במתנה",
+      "jbo:position": "99"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-100",
+      "rdfs:label": "המבקש זמן לפרעון, כמה זמן נותנים לו, ואם לא בא בזמנו, והמסרב צווי בית דין,",
+      "jbo:position": "100"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-101",
+      "rdfs:label": "מגבין לבעל חוב מעות או מטלטלין, ואם תלה מעותיו בגוי, ואם יש עליו חובות לגויים",
+      "jbo:position": "101"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-102",
+      "rdfs:label": "מאיזה קרקע מגבין החוב לבעל החוב",
+      "jbo:position": "102"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-103",
+      "rdfs:label": "שמין קרקע של לוה, ואם טעו בשומא, (ושומא הדרה לעולם)",
+      "jbo:position": "103"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-104",
+      "rdfs:label": "דין בעל חוב מאחר שקדם וגבה מקרקעי או מטלטלי, (ומלוה על פה מקדמת קודמת למלוה בשטר)",
+      "jbo:position": "104"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-105",
+      "rdfs:label": "דין התופס לבעל חוב במקום שחב לאחרים, (ונפקד שתפס הפקדון בשביל הבעל חוב)",
+      "jbo:position": "105"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-106",
+      "rdfs:label": "דין הבא לפרע שלא בפני בעל חובו",
+      "jbo:position": "106"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-6",
+      "rdfs:label": "הלכות גביית חוב מהיתומים",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-107",
+      "rdfs:label": "כופין את היתומים לפרע חוב אביהם",
+      "jbo:position": "107"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-108",
+      "rdfs:label": "באיזה ענין נפרע מלוה מיורשיו, ואיזה שבועה אדם מוריש לבניו",
+      "jbo:position": "108"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-109",
+      "rdfs:label": "מכריזין על נכסי יתומים",
+      "jbo:position": "109"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-110",
+      "rdfs:label": "אין נזקקין לנכסי קטן",
+      "jbo:position": "110"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-7",
+      "rdfs:label": "הלכות גביית חוב מנכסים משועבדים",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-111",
+      "rdfs:label": "דין מלוה בשטר גובה ממשעבדי, והמלוה על פה",
+      "jbo:position": "111"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-112",
+      "rdfs:label": "אין בעל חוב טורף (מהמשעבדים) ממה שקנה",
+      "jbo:position": "112"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-113",
+      "rdfs:label": "אין בעל חוב טורף ממטלטלים המשעבדים",
+      "jbo:position": "113"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-114",
+      "rdfs:label": "דין בעל חוב עם הלוקח אם יכול לדחותו אצל הלוה",
+      "jbo:position": "114"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-115",
+      "rdfs:label": "דין הפרות והשבח בטורף מלוקח ויתומים",
+      "jbo:position": "115"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-116",
+      "rdfs:label": "כיצד כותבין לו הטרפא",
+      "jbo:position": "116"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-8",
+      "rdfs:label": "הלכות אפותיקי",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-117",
+      "rdfs:label": "דין העושה שדהו או עבדו אפותיקי",
+      "jbo:position": "117"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-118",
+      "rdfs:label": "הכותב ללוקח שני: דין ודברים אין לי עמך",
+      "jbo:position": "118"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-119",
+      "rdfs:label": "המוכר כל שדותיו, ולוה שהתנה שיגבה מן העדית",
+      "jbo:position": "119"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-120",
+      "rdfs:label": "הזורק חובו סתם, או בתורת גיטין, וזרקו ונאבד",
+      "jbo:position": "120"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-9",
+      "rdfs:label": "הלכות העושה שליח לגבות חובו",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-121",
+      "rdfs:label": "השולח חובו על ידי שליח",
+      "jbo:position": "121"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-10",
+      "rdfs:label": "הלכות הרשאה",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-122",
+      "rdfs:label": "אם מת המלוה או שבטל השליחות או ההרשאה",
+      "jbo:position": "122"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-123",
+      "rdfs:label": "הרשאה, על מה נכתבת וכיצד נכתבת",
+      "jbo:position": "123"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-124",
+      "rdfs:label": "נתבע, אם יכול לעשות מרשה",
+      "jbo:position": "124"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-125",
+      "rdfs:label": "השולח חובו או פקדונו על ידי שליח",
+      "jbo:position": "125"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-126",
+      "rdfs:label": "הפורע חובו במעמד שלשתן",
+      "jbo:position": "126"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-127",
+      "rdfs:label": "דין איש שלוה מאשתו וגרשה, או מעבדו ושחררו, והלוה מן הגר",
+      "jbo:position": "127"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-128",
+      "rdfs:label": "דין הפורע חוב של חברו או שמשכנו בשביל חברו",
+      "jbo:position": "128"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-11",
+      "rdfs:label": "הלכות ערב",
+      "jbo:position": "11"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-129",
+      "rdfs:label": "דין הערב בשטר ועל פה, ומתי נפרעין מן הערב",
+      "jbo:position": "129"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-130",
+      "rdfs:label": "דין ערב שפרע למלוה כיצד נפרע מן הלוה",
+      "jbo:position": "130"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-131",
+      "rdfs:label": "מי שחזר בו אחר שנתרצה להיות ערב",
+      "jbo:position": "131"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-132",
+      "rdfs:label": "עבד ואשה וקטן שערבו, ושנים שנעשו ערבים בשביל אחד, ואחד בשביל שנים,",
+      "jbo:position": "132"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-12",
+      "rdfs:label": "הלכות חזקת מטלטלין",
+      "jbo:position": "12"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-133",
+      "rdfs:label": "מי שמחזק במטלטלין הידועים לאחר",
+      "jbo:position": "133"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-134",
+      "rdfs:label": "אמן שטוען בדבר שהוא אמן שקנאו מבעליו",
+      "jbo:position": "134"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-135",
+      "rdfs:label": "דין המחזיק בבעלי חיים כגון בהמה ועבד",
+      "jbo:position": "135"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-136",
+      "rdfs:label": "מי שנתחלפו כליו בבית האבל והמשתה",
+      "jbo:position": "136"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-137",
+      "rdfs:label": "מי שלקט פרותיו של חברו",
+      "jbo:position": "137"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-138",
+      "rdfs:label": "דין שנים אוחזין בטלית וחלוקים עליו",
+      "jbo:position": "138"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-139",
+      "rdfs:label": "דין שנים חלוקין בדבר, ואם בא שלישי וחטפה",
+      "jbo:position": "139"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-13",
+      "rdfs:label": "הלכות חזקת קרקעות",
+      "jbo:position": "13"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-140",
+      "rdfs:label": "דין החזיק בקרקע של חברו, ודין חזקת הבתים והחניות",
+      "jbo:position": "140"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-141",
+      "rdfs:label": "דין חזקת שדה הלבן והאילן",
+      "jbo:position": "141"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-142",
+      "rdfs:label": "דין סיוע המערער למחזיק בחזקתו, ואם היה הסיוע בטעות",
+      "jbo:position": "142"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-143",
+      "rdfs:label": "דין המחזיק שלא בפני המערער והוא במדינה אחרת או ברח",
+      "jbo:position": "143"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-144",
+      "rdfs:label": "שנים שהחזיקו בשדה אחת, זה אכלה וזה אכלה",
+      "jbo:position": "144"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-145",
+      "rdfs:label": "הביא המחזיק עדים ולא כונו עדותם בשנים",
+      "jbo:position": "145"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-146",
+      "rdfs:label": "מחאה מבטל החזקה, ובאיזה לשון ובמה ומתי",
+      "jbo:position": "146"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-147",
+      "rdfs:label": "המערער על השדה והוא עד או דין",
+      "jbo:position": "147"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-148",
+      "rdfs:label": "מי שאבדה לו דרך שדהו",
+      "jbo:position": "148"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-149",
+      "rdfs:label": "אלו שאין להם חזקה: השתפין, והאריסין, והאפוטרופסים, הגזלנין, והאחין, וחרש שוטה וקטן",
+      "jbo:position": "149"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-150",
+      "rdfs:label": "מי שירד לתוך שדה בתורת משכון וחזר ועשה שטר מכירה",
+      "jbo:position": "150"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-151",
+      "rdfs:label": "דין אלו שאין אכילתן ראיה",
+      "jbo:position": "151"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-152",
+      "rdfs:label": "דין אלו שאין להם חזקה, מתי יש להם חזקה",
+      "jbo:position": "152"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-14",
+      "rdfs:label": "הלכות נזקי שכנים",
+      "jbo:position": "14"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-153",
+      "rdfs:label": "דין הוצאת זיז ומרזב והעמדת סלם ונעיצת ק ורות",
+      "jbo:position": "153"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-154",
+      "rdfs:label": "חזקת חלונות ופתחים, וכמה צריך להתרחק מהן",
+      "jbo:position": "154"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-155",
+      "rdfs:label": "דין הרחקת נזיקין",
+      "jbo:position": "155"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-156",
+      "rdfs:label": "דין מי שירד לאמנותו של חברו, ומי שמביא סחורה לעיר אחרת",
+      "jbo:position": "156"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-15",
+      "rdfs:label": "הלכות שותפים בקרקע",
+      "jbo:position": "15"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-157",
+      "rdfs:label": "שנים שהן שתפים בחצר ובאים לידי חלקה, כיצד יבנו הכתל",
+      "jbo:position": "157"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-158",
+      "rdfs:label": "חלקו גנה או בקעה, כיצד עושים הגדר",
+      "jbo:position": "158"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-159",
+      "rdfs:label": "הזק ראיה שמגג לגג, וכיצד יסירוהו",
+      "jbo:position": "159"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-160",
+      "rdfs:label": "גג הסמוך לחצר, ושתי חצרות אחת גבוהה מחברתה",
+      "jbo:position": "160"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-161",
+      "rdfs:label": "דברים שבני החצר כופין זה את זה",
+      "jbo:position": "161"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-162",
+      "rdfs:label": "דברים שבני מבוי כופין זה את זה",
+      "jbo:position": "162"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-163",
+      "rdfs:label": "דברים שבני העיר כופין זה את זה",
+      "jbo:position": "163"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-164",
+      "rdfs:label": "בית ועליה של שנים, ומה יש על כל אחד לתקן",
+      "jbo:position": "164"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-165",
+      "rdfs:label": "מי שיש לו גנה תחת בד של חברו",
+      "jbo:position": "165"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-166",
+      "rdfs:label": "מי שנפל כתלו לגנת חברו",
+      "jbo:position": "166"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-167",
+      "rdfs:label": "שתי גנות, אחת גבוהה מחברתה",
+      "jbo:position": "167"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-168",
+      "rdfs:label": "שטף נהר את זיתיו, והמוכר זיתיו לעצים",
+      "jbo:position": "168"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-169",
+      "rdfs:label": "מי שיש לו בור לפנים מבורו וגנה לפנים מגנתו",
+      "jbo:position": "169"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-170",
+      "rdfs:label": "גנות המסתפקות ממעין אחד",
+      "jbo:position": "170"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-16",
+      "rdfs:label": "הלכות חלוקת שותפות",
+      "jbo:position": "16"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-171",
+      "rdfs:label": "איזה דבר שהשתפין כופין זה את זה לחלק, וכל דיניו",
+      "jbo:position": "171"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-172",
+      "rdfs:label": "בית או חצר איך נותנים ארבע אמות, (ודין הזבל שבחצר ונתינת האכסניא),",
+      "jbo:position": "172"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-173",
+      "rdfs:label": "שתפים או אחים שרצו לחלק דבר שאין בו דין חלקה, וחלקת ספרים, ושאין להם חזקה זה על זה",
+      "jbo:position": "173"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-174",
+      "rdfs:label": "אחים או שתפים או בכור שבאים לחלק",
+      "jbo:position": "174"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-17",
+      "rdfs:label": "הלכות מצרנות",
+      "jbo:position": "17"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-175",
+      "rdfs:label": "אחין שרצו לחלק, וכל דיני דבר מצרא",
+      "jbo:position": "175"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-18",
+      "rdfs:label": "הלכות שותפים",
+      "jbo:position": "18"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-176",
+      "rdfs:label": "השתוף כיצד מתקים וכיצד נוהגין וכיצד נפרדין, ואם מת אחד מהם,",
+      "jbo:position": "176"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-177",
+      "rdfs:label": "שתפים שאחד מהם ירד לאמנות המלך או חלה",
+      "jbo:position": "177"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-178",
+      "rdfs:label": "שתף שבקש מהמוכס שימחל לו",
+      "jbo:position": "178"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-179",
+      "rdfs:label": "שתפין אין להם חזקה זה על זה",
+      "jbo:position": "179"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-180",
+      "rdfs:label": "שתפים בחצר שנדרו הנאה זה מזה",
+      "jbo:position": "180"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-181",
+      "rdfs:label": "שירא שעמד עליהם גיס והציל אחד מהם",
+      "jbo:position": "181"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-19",
+      "rdfs:label": "הלכות שלוחין",
+      "jbo:position": "19"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-182",
+      "rdfs:label": "כיצד נעשה שליח, או טעה וקנה ביקר, ואם עבר על דעת משלחו",
+      "jbo:position": "182"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-183",
+      "rdfs:label": "עשה שליח לקנות לו חטין וקנה לו שעורין",
+      "jbo:position": "183"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-184",
+      "rdfs:label": "הקונה שדה על שם אחר, ואחר כך אומר שהוא לעצמו, ודין שליח שקנה לשלשה ביחד",
+      "jbo:position": "184"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-185",
+      "rdfs:label": "סרסור שמכר בפחות או ביותר ממה שאמר לו בעל הבית, ושאר טענות שבינו לבין בעל הבית",
+      "jbo:position": "185"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-186",
+      "rdfs:label": "הלוקח כלים מן האמן למכר",
+      "jbo:position": "186"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-187",
+      "rdfs:label": "דין שליח שטוען שארעו לו אנסים",
+      "jbo:position": "187"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-188",
+      "rdfs:label": "אין שליחות לגוי ויש שליחות לעבד ואשה",
+      "jbo:position": "188"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-20",
+      "rdfs:label": "הלכות מקח וממכר",
+      "jbo:position": "20"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-189",
+      "rdfs:label": "דין אין המקח נגמר בדברים",
+      "jbo:position": "189"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-190",
+      "rdfs:label": "דין קנית קרקע בכסף",
+      "jbo:position": "190"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-191",
+      "rdfs:label": "דין קנית קרקע בשטר",
+      "jbo:position": "191"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-192",
+      "rdfs:label": "דין קנית קרקע בחזקה",
+      "jbo:position": "192"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-193",
+      "rdfs:label": "המחבר לקרקע דינו כקרקע",
+      "jbo:position": "193"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-194",
+      "rdfs:label": "גוי שמכר קרקע לישראל וקבל כסף ולא כתב שטר",
+      "jbo:position": "194"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-195",
+      "rdfs:label": "דין קנית קרקע או מטלטלין בחליפין",
+      "jbo:position": "195"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-196",
+      "rdfs:label": "דין קנית עבד כנעני",
+      "jbo:position": "196"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-197",
+      "rdfs:label": "דין קנית בהמה גסה ודקה",
+      "jbo:position": "197"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-198",
+      "rdfs:label": "דין קנית מטלטלין איזה במשיכה ואיזה במסירה, ומה דינו במעות שבידו,",
+      "jbo:position": "198"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-199",
+      "rdfs:label": "יש דרכים שמעות קונות, ויש זמן שמעות ק ונות",
+      "jbo:position": "199"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-200",
+      "rdfs:label": "דין קנית מטלטלין על ידי חצרו, וכיצד קונה כליו",
+      "jbo:position": "200"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-201",
+      "rdfs:label": "דין רשם על החבית, והתוקע כפו לחברו",
+      "jbo:position": "201"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-202",
+      "rdfs:label": "דין קנית מטלטלין אגב קרקע, או עבדים וקרקע, או עבד ומטלטלין, או בהמה וכלים שעליה",
+      "jbo:position": "202"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-203",
+      "rdfs:label": "כל מטלטלין נקנין בחליפין, ומטבע אין נקנה בחליפין",
+      "jbo:position": "203"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-204",
+      "rdfs:label": "אימתי מקבל החוזר בו ''מי שפרע'', ומתי נקרא ''מחסר אמנה''",
+      "jbo:position": "204"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-205",
+      "rdfs:label": "דין מוכר מחמת אנס, ומסר מודעא ובטלה",
+      "jbo:position": "205"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-206",
+      "rdfs:label": "דין כשאמכר אמכר לך במאה ומכר לאחר ביותר, או שאמר: אמכרנה לך כמו שישומו אותו בית דין",
+      "jbo:position": "206"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-207",
+      "rdfs:label": "המוכר נכסיו על תנאי, ודיני אסמכתא, והמחיב עצמו בדבר שאינו חיב בו,",
+      "jbo:position": "207"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-208",
+      "rdfs:label": "מקח שנעשה בצד אסור",
+      "jbo:position": "208"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-209",
+      "rdfs:label": "המקנה דבר שאינו מסים או שלא בא לעולם",
+      "jbo:position": "209"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-210",
+      "rdfs:label": "המקנה לעובר שלו או לעובר אחר",
+      "jbo:position": "210"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-211",
+      "rdfs:label": "דין דבר שלא ברשותו, והכותב נכסיו לבניו לאחר מותו",
+      "jbo:position": "211"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-212",
+      "rdfs:label": "דין מקנה דירת בית או חצרו, או מקדיש דבר שלא בא לעולם",
+      "jbo:position": "212"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-213",
+      "rdfs:label": "פרות כורת ופרות שובך באיזה ענין קנה",
+      "jbo:position": "213"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-214",
+      "rdfs:label": "המוכר בית סתם מה נמכר עמו",
+      "jbo:position": "214"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-215",
+      "rdfs:label": "המוכר חצר ובית הבד ומרחץ ועיר, מה מכר בכלל",
+      "jbo:position": "215"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-216",
+      "rdfs:label": "המוכר שדה ואמר: חוץ מדקל פלוני או חוץ מהאילנות, או קרקע לזה ואילנות לזה, (וכיצד יכתב בשטר מכירה כדי להסתלק מן הערעורים)",
+      "jbo:position": "216"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-217",
+      "rdfs:label": "המוכר בתוך שדהו אמת השלחים או דרך יחיד או דרך רבים או מקום לעשות קבורה,",
+      "jbo:position": "217"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-218",
+      "rdfs:label": "המוכר בית כור עפר ויש בו סלעים ובקעים",
+      "jbo:position": "218"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-219",
+      "rdfs:label": "כיצד מסימין המצרים, ואם לא סים אותם",
+      "jbo:position": "219"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-220",
+      "rdfs:label": "המוכר את הספינה וקרון וצמד בקר ופרה וחמור ושפחה",
+      "jbo:position": "220"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-221",
+      "rdfs:label": "מוכר שאמר במאתים ולוקח אומר במנה",
+      "jbo:position": "221"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-222",
+      "rdfs:label": "שנים חלוקים על המקח, ושאר טענות שבין המוכר והלוקח",
+      "jbo:position": "222"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-223",
+      "rdfs:label": "המחליף פרה בחמור וילדה, או מי שיש לו שני עבדים או שני שדות",
+      "jbo:position": "223"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-224",
+      "rdfs:label": "המחליף פרה בחמור, או שקנה ונמצא נקב בבית הכוסות",
+      "jbo:position": "224"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-225",
+      "rdfs:label": "אם קבל עליו כל אנס שארע, או התנה בפרוש שלא יהיה עליו אחריות",
+      "jbo:position": "225"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-226",
+      "rdfs:label": "המוכר שדה שלא באחריות, או יצא עליו קול ערעור",
+      "jbo:position": "226"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-21",
+      "rdfs:label": "הלכות אונאה ומקח טעות",
+      "jbo:position": "21"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-227",
+      "rdfs:label": "עד כמה הוה מחילה או חזרת האונאה, ושליח שטעה ואחים שחלקו וטעו,",
+      "jbo:position": "227"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-228",
+      "rdfs:label": "אסור להונות בדברים ולגנב דעת הבריות ולרמות במקח וממכר",
+      "jbo:position": "228"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-229",
+      "rdfs:label": "המוכר לחברו חטים או שעורים או פרות, כמה פסלת צריך לקבל הלוקח,",
+      "jbo:position": "229"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-230",
+      "rdfs:label": "המוכר לחברו מרתף של יין, והלוקח יין והחמיץ",
+      "jbo:position": "230"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-231",
+      "rdfs:label": "שלא לרמות במדה ובמשקל, וכיצד יעשה אותם וכיצד ישקל, וחיבין להעמיד ממנים על המדות ועל השערים",
+      "jbo:position": "231"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-232",
+      "rdfs:label": "המוכר דבר במדה ובמשקל וטעה, או שטעה במנין המעות, ומוכר דבר ונמצא בו מום,",
+      "jbo:position": "232"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-233",
+      "rdfs:label": "המוכר מין ונמצא מין אחר, או רע ונמצא יפה",
+      "jbo:position": "233"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-234",
+      "rdfs:label": "המוכר דבר אסור ואכלו הלוקח",
+      "jbo:position": "234"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-235",
+      "rdfs:label": "קטן וחרש ושוטה ושכור מתי מוכר מטלטלין, והקונה בשבת וביום טוב,",
+      "jbo:position": "235"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-236",
+      "rdfs:label": "גוי שאנס קרקע מישראל או בעלילות דברים",
+      "jbo:position": "236"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-237",
+      "rdfs:label": "המחזיר אחר דבר לקנותו וקדם אחר וקנאו",
+      "jbo:position": "237"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-238",
+      "rdfs:label": "כותבין שטר למוכר ולא ללוקח",
+      "jbo:position": "238"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-239",
+      "rdfs:label": "מי שבא ואמר: אבד שטר קניתי, כיצד כותבין לו שטר אחר",
+      "jbo:position": "239"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-240",
+      "rdfs:label": "שני שטרי מכר היוצאים על שדה אחת מזמן אחד",
+      "jbo:position": "240"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-22",
+      "rdfs:label": "הלכות מתנה",
+      "jbo:position": "22"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-241",
+      "rdfs:label": "המתנה במה תתקים וכן המחילה, והנותן דבר שאינו מסים",
+      "jbo:position": "241"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-242",
+      "rdfs:label": "דין מתנה באנס ומסירת מודעה ומתנה טמירתא",
+      "jbo:position": "242"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-243",
+      "rdfs:label": "דין המזכה לחברו על ידי אחר ורוצה הנותן או המקבל לחזר בו",
+      "jbo:position": "243"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-244",
+      "rdfs:label": "האומר לשנים לכתב שטר מתנה לפלוני",
+      "jbo:position": "244"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-245",
+      "rdfs:label": "הכותב: נתתי שדה פלוני לפלוני, והאומר: נתתי שדה פלוני לפלוני, והוא אומר: לא נתת לי",
+      "jbo:position": "245"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-246",
+      "rdfs:label": "השומע שמת בנו וכתב נכסיו לאחר",
+      "jbo:position": "246"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-247",
+      "rdfs:label": "השולח חפצים לבני ביתו ולא פרש היאך יחלקום",
+      "jbo:position": "247"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-248",
+      "rdfs:label": "הנותן מתנה לחברו, ואמר לה: ואחריך לפלוני",
+      "jbo:position": "248"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-249",
+      "rdfs:label": "הנותן מתנה וחוזר בו, או הנותן לעבד ואשה",
+      "jbo:position": "249"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-23",
+      "rdfs:label": "הלכות מתנת שכיב מרע",
+      "jbo:position": "23"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-250",
+      "rdfs:label": "דין מתנת שכיב מרע במקצת או בכלה, בלא קנין ובקנין",
+      "jbo:position": "250"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-251",
+      "rdfs:label": "דין מתנת שכיב מרע או בריא",
+      "jbo:position": "251"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-252",
+      "rdfs:label": "מתנת שכיב מרע מוציאין ממנו למזון האשה והבנות",
+      "jbo:position": "252"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-253",
+      "rdfs:label": "איזה לשון מועיל לשכיב מרע, ואמר: תנו מנה לפלוני ומאתים לפלוני ושלש מאות לפלוני",
+      "jbo:position": "253"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-254",
+      "rdfs:label": "שכיב מרע שבקש שיעשו קנין במתנות",
+      "jbo:position": "254"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-255",
+      "rdfs:label": "שכיב מרע שאמר: יש לי מנה ביד פלוני, או של פלוני בידי",
+      "jbo:position": "255"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-256",
+      "rdfs:label": "גר שנתן מתנת שכיב מרע או ששחרר עבדו",
+      "jbo:position": "256"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-257",
+      "rdfs:label": "הכותב נכסיו לבנו או לאחר מהיום ולאחר מותו, ומתנת בריא שכתבו בה מהיום ולאחר מיתה",
+      "jbo:position": "257"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-258",
+      "rdfs:label": "מתנה שכתוב בה ''לאחר מיתה'' אם יש בו זמן",
+      "jbo:position": "258"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-24",
+      "rdfs:label": "הלכות אבידה ומציאה",
+      "jbo:position": "24"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-259",
+      "rdfs:label": "השבת אבידה, מאיזה מקום חיב להשיבה",
+      "jbo:position": "259"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-260",
+      "rdfs:label": "המוצא דבר שמוכח שהנח שם",
+      "jbo:position": "260"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-261",
+      "rdfs:label": "דין המוצא במקום שנכר שאינה אבדה",
+      "jbo:position": "261"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-262",
+      "rdfs:label": "על איזה דבר חיב להכריז ואיזה דבר הוא של מוצאו",
+      "jbo:position": "262"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-263",
+      "rdfs:label": "המוצא אבדה שמתביש להשיבה",
+      "jbo:position": "263"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-264",
+      "rdfs:label": "אבדתו קדמת לכל אדם, אבדת רבו ואבדת אביו של מי קדמת",
+      "jbo:position": "264"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-265",
+      "rdfs:label": "אין לטל שכר על האבדה",
+      "jbo:position": "265"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-266",
+      "rdfs:label": "דין אבדת עוברי עברה",
+      "jbo:position": "266"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-267",
+      "rdfs:label": "כיצד מכריז, וכיצד מטפל בה בעודה בידו",
+      "jbo:position": "267"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-268",
+      "rdfs:label": "דין קניה בחצרו ובארבע אמותיו",
+      "jbo:position": "268"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-269",
+      "rdfs:label": "המגביה מציאה לחברו, ואם הגביהו חרש ופקח",
+      "jbo:position": "269"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-270",
+      "rdfs:label": "מציאת חרש שוטה וקטן, ובנו ובתו, ועבדו ושפחתו, ואשתו ופועלו",
+      "jbo:position": "270"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-271",
+      "rdfs:label": "מציאת בהמה ושטר חוב ושובר וגט אשה",
+      "jbo:position": "271"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-25",
+      "rdfs:label": "הלכות פריקה וטעינה ודין הולכי דרכים",
+      "jbo:position": "25"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-272",
+      "rdfs:label": "דין בהמות או ספינות שפגעו זה בזה",
+      "jbo:position": "272"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-26",
+      "rdfs:label": "הלכות הפקר ונכסי הגר",
+      "jbo:position": "26"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-273",
+      "rdfs:label": "דין הזוכה מן ההפקר, והפקר כיצד וכמה",
+      "jbo:position": "273"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-274",
+      "rdfs:label": "עוד יש איזה דברים של חברו שמתרים אף על פי שאינם הפקר",
+      "jbo:position": "274"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-275",
+      "rdfs:label": "דין הזוכה בנכסי גר שנתגיר ומת בלא יורשין",
+      "jbo:position": "275"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-27",
+      "rdfs:label": "הלכות נחלות",
+      "jbo:position": "27"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-276",
+      "rdfs:label": "סדר נחלות כיצד הוא",
+      "jbo:position": "276"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-277",
+      "rdfs:label": "הבכור נוטל פי שנים, ואיזה הוא בכור לנחלה וספק בכור",
+      "jbo:position": "277"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-278",
+      "rdfs:label": "אין הבכור נוטל פי שנים לא במלוה ולא בשבח, ואם מכר חלק בכורה",
+      "jbo:position": "278"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-279",
+      "rdfs:label": "דין האומר: זה בני או אחי או עבדי, וחזר ואמר אפכא",
+      "jbo:position": "279"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-280",
+      "rdfs:label": "אמר אחד: זה אחינו, או שבא אחד ואמר: אני אחיך",
+      "jbo:position": "280"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-281",
+      "rdfs:label": "המעביר נכסיו מבניו לתנם לאחד",
+      "jbo:position": "281"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-282",
+      "rdfs:label": "שלא להעביר נחלה ממי שראוי לירש",
+      "jbo:position": "282"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-283",
+      "rdfs:label": "דין ירשת גוי, וגר, וישראל משמד",
+      "jbo:position": "283"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-284",
+      "rdfs:label": "אין צריך עדות ליורש שהוא קרוב וצריך עדות שמת",
+      "jbo:position": "284"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-285",
+      "rdfs:label": "שבוי שברח והיוצא לדעת, מה יעשו בנכסים",
+      "jbo:position": "285"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-286",
+      "rdfs:label": "יתומים גדולים וקטנים היאך נזונים מנכסיהם",
+      "jbo:position": "286"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-287",
+      "rdfs:label": "מי שמת והניח בנים גדולים וקטנים",
+      "jbo:position": "287"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-288",
+      "rdfs:label": "היאך שמין מה שעל בניהם ובנותיהם כשח ולקים",
+      "jbo:position": "288"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-289",
+      "rdfs:label": "אחים גדולים וקטנים ורוצים לחלק",
+      "jbo:position": "289"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-28",
+      "rdfs:label": "הלכות אפוטרופוס",
+      "jbo:position": "28"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-290",
+      "rdfs:label": "דין אפוטרופוס, מי ימנו, וכיצד יתנהג, וכל משפטיו",
+      "jbo:position": "290"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-29",
+      "rdfs:label": "הלכות פקדון",
+      "jbo:position": "29"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-291",
+      "rdfs:label": "דין שומר חנם, מאימתי מתחיב בשמירה, וכיצד היא השמירה",
+      "jbo:position": "291"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-292",
+      "rdfs:label": "שלא לשלח יד בפקדון, ואם שלח בו יד",
+      "jbo:position": "292"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-293",
+      "rdfs:label": "מתי ניתן הפקדון לתבע, ואם יכול להחזירו (בכל מקום)",
+      "jbo:position": "293"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-294",
+      "rdfs:label": "הכופר בפקדון או שטוען נגנב",
+      "jbo:position": "294"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-295",
+      "rdfs:label": "שלם הנפקד, כיצד משביעין אותו",
+      "jbo:position": "295"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-296",
+      "rdfs:label": "המפקיד בעדים, וטוען הנפקד: נגנבה או: להד''מ",
+      "jbo:position": "296"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-297",
+      "rdfs:label": "הכופר בפקדון אפלו נותן המפקיד סימן",
+      "jbo:position": "297"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-298",
+      "rdfs:label": "נפקד אומר: איני יודע כמה אני חיב, והמפקיד טוען ברי",
+      "jbo:position": "298"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-299",
+      "rdfs:label": "שנים שהפקידו ביד אחד ואחד מהם בא לתבע",
+      "jbo:position": "299"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-300",
+      "rdfs:label": "שנים שהפקידו, אחד מאה ואחד מאתים, וכל אחד תובע מאתים",
+      "jbo:position": "300"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-301",
+      "rdfs:label": "דין השומרים בעבדים וקרקעות ובהקדשות ובשל עניים",
+      "jbo:position": "301"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-302",
+      "rdfs:label": "דיני שומרים אחד האיש ואחד האשה",
+      "jbo:position": "302"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-30",
+      "rdfs:label": "הלכות שומר שכר",
+      "jbo:position": "30"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-303",
+      "rdfs:label": "שומר שכר, באיזה דבר חיב או פטור, ומאימתי מתחיב",
+      "jbo:position": "303"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-304",
+      "rdfs:label": "המעביר חבית ממקום למקום ונשבר, מתי חיב",
+      "jbo:position": "304"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-305",
+      "rdfs:label": "שומר שכופר או שטוען נאנס או נגנב",
+      "jbo:position": "305"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-31",
+      "rdfs:label": "הלכות אומנים",
+      "jbo:position": "31"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-306",
+      "rdfs:label": "האמנים שומרי שכר, ואם קלקלו, וטבח שנבל",
+      "jbo:position": "306"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-32",
+      "rdfs:label": "הלכות שוכר",
+      "jbo:position": "32"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-307",
+      "rdfs:label": "דיני השוכר וחיובו ופטורו, ואם השאיל או השכיר",
+      "jbo:position": "307"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-308",
+      "rdfs:label": "השוכר בהמה לרכב עליה, כמה יטען עליה",
+      "jbo:position": "308"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-309",
+      "rdfs:label": "השוכר את הבהמה לילך למקום ידוע והוליכה למקום אחר",
+      "jbo:position": "309"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-310",
+      "rdfs:label": "השוכר את החמור ונסתמא או מת או נשבר",
+      "jbo:position": "310"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-311",
+      "rdfs:label": "השוכר את הספינה ופרקה בחצי הדרך או טבעה בחצי הדרך",
+      "jbo:position": "311"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-312",
+      "rdfs:label": "המשכיר בית לחברו לזמן קצוב או סתם",
+      "jbo:position": "312"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-313",
+      "rdfs:label": "המשכיר בית לחברו בבירה גדולה, באיזה מקום רשאי להשתמש",
+      "jbo:position": "313"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-314",
+      "rdfs:label": "מה הדברים שעל המשכיר לעשות או על השוכר",
+      "jbo:position": "314"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-315",
+      "rdfs:label": "דין המשכיר בית על תנאי",
+      "jbo:position": "315"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-316",
+      "rdfs:label": "המשכיר בית לחברו לזמן קצוב ורצה השוכר להשכירו לאחרים",
+      "jbo:position": "316"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-317",
+      "rdfs:label": "אמר השוכר: פרעתי שכר הבית, והמשכיר אומר: לא פרעת",
+      "jbo:position": "317"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-318",
+      "rdfs:label": "השוכר רחים מחברו ושוב לא נצטרך",
+      "jbo:position": "318"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-319",
+      "rdfs:label": "מי שהטעה חברו עד שהכניס פרותיו לביתו",
+      "jbo:position": "319"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-33",
+      "rdfs:label": "הלכות חכירות וקבלנות",
+      "jbo:position": "33"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-320",
+      "rdfs:label": "מקבל או חוכר מחברו היאך יתנהגו זה עם זה",
+      "jbo:position": "320"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-321",
+      "rdfs:label": "המקבל בית השלחין ושדה האילן ויבשו",
+      "jbo:position": "321"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-322",
+      "rdfs:label": "המקבל שדה מחברו ואכלה חגב או נשדפה",
+      "jbo:position": "322"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-323",
+      "rdfs:label": "המקבל שדה מחברו ולקתה בעמריה",
+      "jbo:position": "323"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-324",
+      "rdfs:label": "המקבל שדה לזרעה מין ידוע ובא לשנותה",
+      "jbo:position": "324"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-325",
+      "rdfs:label": "המקבל שדה מחברו אם רשאי לזרעה פשתן",
+      "jbo:position": "325"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-326",
+      "rdfs:label": "המקבל שדה לזרעה שומשמין וזרעה חטין",
+      "jbo:position": "326"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-327",
+      "rdfs:label": "דין מקבל שבא להסתלק ועדין לא נגמרו ה זרעים",
+      "jbo:position": "327"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-328",
+      "rdfs:label": "דין מקבל שרוצה להסתלק מפני רעת השדה",
+      "jbo:position": "328"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-329",
+      "rdfs:label": "המקבל שדה לזמן ומת והניח בן",
+      "jbo:position": "329"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-330",
+      "rdfs:label": "המקבל שדה לטע כמה אילנות",
+      "jbo:position": "330"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-34",
+      "rdfs:label": "הלכות שכירות פועלים",
+      "jbo:position": "34"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-331",
+      "rdfs:label": "השוכר פועלים ינהג עמהם כמנהג המדינה",
+      "jbo:position": "331"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-332",
+      "rdfs:label": "דין האומר לשלוחו: צא ושכר לי פועלים, ושכרן יותר ממה שאמר לו",
+      "jbo:position": "332"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-333",
+      "rdfs:label": "השוכר את הפועל ובא הפועל לחזר קדם שהתחיל או אחר כן",
+      "jbo:position": "333"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-334",
+      "rdfs:label": "השוכר את הפועל להשקות השדה, והשוכר מלמד וחלה בנו",
+      "jbo:position": "334"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-335",
+      "rdfs:label": "השוכר את הפועל למלאכה סתם או למלאכה ידועה",
+      "jbo:position": "335"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-336",
+      "rdfs:label": "השוכר את הפועל לעשות בשלו והראהו בשל חברו",
+      "jbo:position": "336"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-337",
+      "rdfs:label": "דין אכילת פועל בשעת מלאכה, ממה אוכל או מתי אוכל",
+      "jbo:position": "337"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-338",
+      "rdfs:label": "דין אכילת בהמה בשעת מלאכה, ואסור חסימתה",
+      "jbo:position": "338"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-339",
+      "rdfs:label": "לתת שכר אדם בהמה וכלים בזמנו, ומתי זמנו",
+      "jbo:position": "339"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-35",
+      "rdfs:label": "הלכות שאילה",
+      "jbo:position": "35"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-340",
+      "rdfs:label": "השואל חיב באנס, ובהמה שמתה מחמת מלאכה, ואם שלחה על יד בנו או עבדו,",
+      "jbo:position": "340"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-341",
+      "rdfs:label": "השואל מחברו חפץ סתם או לזמן קצוב",
+      "jbo:position": "341"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-342",
+      "rdfs:label": "אין השואל רשאי להשאיל",
+      "jbo:position": "342"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-343",
+      "rdfs:label": "דין השואל אחר כלות זמן השאילה",
+      "jbo:position": "343"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-344",
+      "rdfs:label": "טען שמתה מחמת מלאכה או רוצה לשלם או לשבע",
+      "jbo:position": "344"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-345",
+      "rdfs:label": "דין שאל פרה ושכר אחרת",
+      "jbo:position": "345"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-346",
+      "rdfs:label": "דין פטור שאילה בבעלים עם כל דיניו, ובעל בנכסי אשתו",
+      "jbo:position": "346"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-347",
+      "rdfs:label": "דין הזיק שור של שואל לשל משאיל או אפכא",
+      "jbo:position": "347"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-36",
+      "rdfs:label": "הלכות גניבה",
+      "jbo:position": "36"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-348",
+      "rdfs:label": "אסור גנבה, ומי נקרא גנב, ומאיזה שעה מתחיב",
+      "jbo:position": "348"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-349",
+      "rdfs:label": "דין אשה ועבד וקטן שגנבו",
+      "jbo:position": "349"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-350",
+      "rdfs:label": "גנב חלבו של חברו ואכלו, משלם לו דמי חלבו",
+      "jbo:position": "350"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-351",
+      "rdfs:label": "דין הגונב כיס בשבת",
+      "jbo:position": "351"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-352",
+      "rdfs:label": "הפקיד לשנים, וטענו נגנב, והודה האחד ועל השני באו עדים, בין שניהם משלמים הקרן",
+      "jbo:position": "352"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-353",
+      "rdfs:label": "נשתנה הגנבה ביד הגנב או שנתיאשו בעליה ממנה",
+      "jbo:position": "353"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-354",
+      "rdfs:label": "השביחה הגנבה ביד הגנב",
+      "jbo:position": "354"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-355",
+      "rdfs:label": "גנב שהחזיר הגנבה שלא מדעת הבעלים",
+      "jbo:position": "355"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-356",
+      "rdfs:label": "אסור לקנות שום דבר מהגנב, והקונה מגנב מפרסם או אינו מפרסם",
+      "jbo:position": "356"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-357",
+      "rdfs:label": "המכיר כליו וספריו ויצא לו שם גנבה בעיר",
+      "jbo:position": "357"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-358",
+      "rdfs:label": "דברים האסורים לקנות מהרועים ומשומרי פרות ומבעלי אמנות",
+      "jbo:position": "358"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-37",
+      "rdfs:label": "הלכות גזילה",
+      "jbo:position": "37"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-359",
+      "rdfs:label": "אסור גזלה אפלו על מנת להחזיר, ומה נקרא גזלה, ואסור לא תחמד ולא תתאוה,",
+      "jbo:position": "359"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-360",
+      "rdfs:label": "מצוה על הגזלן להשיב הגזלה, ואם אין בה שוה פרוטה או נשתנית",
+      "jbo:position": "360"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-361",
+      "rdfs:label": "דין יאוש, ואם יש עמו שנוי השם או שנוי רשות",
+      "jbo:position": "361"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-362",
+      "rdfs:label": "השביחה הגזלה ביד הגזלן ממילא",
+      "jbo:position": "362"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-363",
+      "rdfs:label": "הגוזל בהמה ועבדים והזקינו, והדר בחצר חברו שלא מדעתו",
+      "jbo:position": "363"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-364",
+      "rdfs:label": "הנכנס בבית פלוני והוציא כלים או חטף מידו זהובים",
+      "jbo:position": "364"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-365",
+      "rdfs:label": "הגוזל ואינו יודע ממי גזל",
+      "jbo:position": "365"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-366",
+      "rdfs:label": "גזלן שבא לעשות תשובה אם מקבלין ממנו",
+      "jbo:position": "366"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-367",
+      "rdfs:label": "גזלן שבא להחזיר את הגזלה, והגוזל את אביו, או את הגר",
+      "jbo:position": "367"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-368",
+      "rdfs:label": "דין המציל או הקונה מלסטים ישראל או גוי",
+      "jbo:position": "368"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-369",
+      "rdfs:label": "אסור לקנות מגזלן ולסטים ולהנות מממונם, ודינא דמלכותא כיצד",
+      "jbo:position": "369"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-370",
+      "rdfs:label": "דברים שהם גזל מדבריהם, כגון מפריחי יונים והמשחקים בקביא",
+      "jbo:position": "370"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-371",
+      "rdfs:label": "קרקע אינה נגזלת אפלו נתיאשו הבעלים",
+      "jbo:position": "371"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-372",
+      "rdfs:label": "גזלן שהפסיד השדה ואכל פרות כיצד גובה אותם הנגזל",
+      "jbo:position": "372"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-373",
+      "rdfs:label": "דין מכרה הגזלן והשביח הלוקח, מה דינו של לוקח עם הגזלן",
+      "jbo:position": "373"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-374",
+      "rdfs:label": "מכרה הגזלן וחזר וקנאה מהנגזל או נתנה לו במתנה",
+      "jbo:position": "374"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-375",
+      "rdfs:label": "היורד לשדה חברו או לתוך חרבתו ונטעו או בנאו",
+      "jbo:position": "375"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-376",
+      "rdfs:label": "דין המסיג גבול רעהו",
+      "jbo:position": "376"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-377",
+      "rdfs:label": "מי שדרך הרבים עובר בתוך שדהו",
+      "jbo:position": "377"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-38",
+      "rdfs:label": "הלכות נזיקין",
+      "jbo:position": "38"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-378",
+      "rdfs:label": "אסור להזיק ממון חברו ולא לגרם שום הזק",
+      "jbo:position": "378"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-379",
+      "rdfs:label": "דין זה בא בחביתו וזה בא בקורתו ונשבר החבית",
+      "jbo:position": "379"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-380",
+      "rdfs:label": "האומר לחברו: קרע כסותי או של חברי, או רודף או נרדף ששברו כלים",
+      "jbo:position": "380"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-381",
+      "rdfs:label": "דין חמשה שישבו על ספסל אחד",
+      "jbo:position": "381"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-382",
+      "rdfs:label": "הקוצץ אילן של חברו, והמונע חברו מלעשות מצוה",
+      "jbo:position": "382"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-383",
+      "rdfs:label": "דין אדם המזיק לבהמת חברו",
+      "jbo:position": "383"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-384",
+      "rdfs:label": "דין אדם המזיק שלא בגופו",
+      "jbo:position": "384"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-385",
+      "rdfs:label": "דין הזק שאינו נכר כגון מנסך יינו של חברו",
+      "jbo:position": "385"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-386",
+      "rdfs:label": "חלוק שבין גרמא בנזקין לדינא דגרמי, והזורק כלי מראש הגג",
+      "jbo:position": "386"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-387",
+      "rdfs:label": "שמין השברים לנזק ומשלם לו עליהם",
+      "jbo:position": "387"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-39",
+      "rdfs:label": "הלכות מאבד ממון חבירו בידים ומוסר ומלשין",
+      "jbo:position": "39"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-388",
+      "rdfs:label": "דין נזק נשבע ונוטל",
+      "jbo:position": "388"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-40",
+      "rdfs:label": "הלכות נזקי ממון",
+      "jbo:position": "40"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-389",
+      "rdfs:label": "דין ממון האדם שהזיק, וחלוק שבין תם למועד, ובאיזה מקום חיב קרן ושן ורגל,",
+      "jbo:position": "389"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-390",
+      "rdfs:label": "נזקי רגל ותולדותיו, ודיני צרורות, וכלב ותרנגול שקפצו",
+      "jbo:position": "390"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-391",
+      "rdfs:label": "שן, באיזה מקום ובאיזו אכילה משלם מה שהזיקה או מה שנהנית",
+      "jbo:position": "391"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-392",
+      "rdfs:label": "דין כלב שנטל חררה ואכל חררה והדליק הגדיש",
+      "jbo:position": "392"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-393",
+      "rdfs:label": "הכניס פרותיו לחצר חברו שלא ברשות והזק בהן בעל החצר",
+      "jbo:position": "393"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-394",
+      "rdfs:label": "בהמה שנפלה לגנה והזיקה, וכיצד משערין ההזק",
+      "jbo:position": "394"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-395",
+      "rdfs:label": "המשסה את הכלב בחברו או בעצמו",
+      "jbo:position": "395"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-396",
+      "rdfs:label": "כיצד שמירת תם ומועד, או מסרן לשומר חנם או לשומר שכר",
+      "jbo:position": "396"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-397",
+      "rdfs:label": "מי שבהמתו רגילה לכנס לתוך שדה חברו, ובהמת הקצבים שמזקת",
+      "jbo:position": "397"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-398",
+      "rdfs:label": "הכניס שורו לחצר חברו שלא ברשות, או נתן לו רשות להכניסו",
+      "jbo:position": "398"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-399",
+      "rdfs:label": "פרה שהזיקה, גובה מולדה, ושור שנגח פרה מעברת כיצד שמין אותה",
+      "jbo:position": "399"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-400",
+      "rdfs:label": "שור שהיה רודף אחר חברו, או שנים רודפים או שנים נרדפים",
+      "jbo:position": "400"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-401",
+      "rdfs:label": "שור שנגח וחזר ונגח, ואם תפס נזק וחזר ונגח",
+      "jbo:position": "401"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-402",
+      "rdfs:label": "שני שורים שחבלו זה בזה והם תמים או מועדים",
+      "jbo:position": "402"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-403",
+      "rdfs:label": "שמין השברים לנזק, ואם פחתו או הותירו",
+      "jbo:position": "403"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-404",
+      "rdfs:label": "שור שחבל בשור או השביח או פגם",
+      "jbo:position": "404"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-405",
+      "rdfs:label": "שור שחבל באדם, או שנגח אשה או שפחה",
+      "jbo:position": "405"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-406",
+      "rdfs:label": "שור של גוי, או של הפקר, או של חרש שוטה וקטן",
+      "jbo:position": "406"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-407",
+      "rdfs:label": "שור שנגח ומכרו מזיק או נזק",
+      "jbo:position": "407"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-408",
+      "rdfs:label": "אין דנין דיני נזיקין אלא בעדות ברורה",
+      "jbo:position": "408"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-409",
+      "rdfs:label": "אין מגדלים בהמה דקה בישוב, וחזיר וכלב רע בכל מקום",
+      "jbo:position": "409"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-410",
+      "rdfs:label": "בור באיזה מקום חיובו וכמה שעורו, וכל משפטי בור",
+      "jbo:position": "410"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-411",
+      "rdfs:label": "תולדות הבור כגון אבנו סכינו ומשאו שהזיקו",
+      "jbo:position": "411"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-412",
+      "rdfs:label": "המניח הכד ברשות הרבים ונתקל בו אחר, או טען כד ונתקל ונשבר, והשופך מים לרשות הרבים והזיקו",
+      "jbo:position": "412"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-413",
+      "rdfs:label": "דין הקדרים שהולכין זה אחר זה ונתקלו ונפלו",
+      "jbo:position": "413"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-414",
+      "rdfs:label": "אימתי אדם רשאי להוציא זבלים לרשות הרבים",
+      "jbo:position": "414"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-415",
+      "rdfs:label": "הגודר גדרו בקוצים והזק בהם, והמצניע קוצים בכתל חברו",
+      "jbo:position": "415"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-416",
+      "rdfs:label": "הכתל והאילן שהיו רעועים ונפלו והזיקו",
+      "jbo:position": "416"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-417",
+      "rdfs:label": "כל דבר המזיק אין מוציאין אותו לרשות הרבים",
+      "jbo:position": "417"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-418",
+      "rdfs:label": "נזקי האש פטורו וחיובו, וטמון באש וכל דיניו",
+      "jbo:position": "418"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-419",
+      "rdfs:label": "כיצד נפרעים לנזקים מהמזיק ומיורשיו",
+      "jbo:position": "419"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-41",
+      "rdfs:label": "הלכות חובל בחבירו",
+      "jbo:position": "41"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-420",
+      "rdfs:label": "החובל בחברו חיב בחמשה דברים, וכיצד משערין אותם, והמביש בדברים תלמיד חכם ועם הארץ",
+      "jbo:position": "420"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-421",
+      "rdfs:label": "המביש חברו שלא בכונה, והחובל בחברו שלא בכונה",
+      "jbo:position": "421"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-422",
+      "rdfs:label": "צריך החובל לפיס הנחבל שימחל לו",
+      "jbo:position": "422"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-423",
+      "rdfs:label": "נגף אשה ויצאו ילדיה, וכיצד שמין דמי ולדות",
+      "jbo:position": "423"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-424",
+      "rdfs:label": "החובל באביו ואמו, או החובל בבניו, או החובל בחברו בשבת",
+      "jbo:position": "424"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-425",
+      "rdfs:label": "חיבי מיתות בית דין, היאך דנים אותם בזמן הזה",
+      "jbo:position": "425"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-halachot-4-42",
+      "rdfs:label": "הלכות שמירת נפש",
+      "jbo:position": "42"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-426",
+      "rdfs:label": "חיב אדם להציל את חברו בין בגופו בין בממונו",
+      "jbo:position": "426"
+    },
+    {
+      "jbo:within": [
+        "shulchanaruch-4"
+      ],
+      "uri": "jbr:shulchanaruch-4-427",
+      "rdfs:label": "מצות עשה להסיר כל מכשול שיש בו סכנת נפשות, ועשית מעקה לגגו",
+      "jbo:position": "427"
+    }
+  ]
+}

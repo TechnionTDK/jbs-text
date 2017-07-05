@@ -1,1 +1,265 @@
-{"subjects":[{"uri":"jbr:mishna","rdfs:label":"משנה"},{"jbo:within":["jbr:mishna"],"uri":"jbr:mishna-2","rdfs:label":"סדר מועד","jbo:position":"2"},{"jbo:within":["jbr:mishna","jbr:mishna-2"],"uri":"jbr:mishna-2-1","rdfs:label":"﻿משנה מסכת שבת","jbo:position":"1"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-1","rdfs:label":"משנה שבת פרק א","jbo:position":"1"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-2","rdfs:label":"משנה שבת פרק ב","jbo:position":"2"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-3","rdfs:label":"משנה שבת פרק ג","jbo:position":"3"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-4","rdfs:label":"משנה שבת פרק ד","jbo:position":"4"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-5","rdfs:label":"משנה שבת פרק ה","jbo:position":"5"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-6","rdfs:label":"משנה שבת פרק ו","jbo:position":"6"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-7","rdfs:label":"משנה שבת פרק ז","jbo:position":"7"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-8","rdfs:label":"משנה שבת פרק ח","jbo:position":"8"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-9","rdfs:label":"משנה שבת פרק ט","jbo:position":"9"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-10","rdfs:label":"משנה שבת פרק י","jbo:position":"10"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-11","rdfs:label":"משנה שבת פרק יא","jbo:position":"11"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-12","rdfs:label":"משנה שבת פרק יב","jbo:position":"12"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-13","rdfs:label":"משנה שבת פרק יג","jbo:position":"13"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-14","rdfs:label":"משנה שבת פרק יד","jbo:position":"14"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-15","rdfs:label":"משנה שבת פרק טו","jbo:position":"15"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-16","rdfs:label":"משנה שבת פרק טז","jbo:position":"16"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-17","rdfs:label":"משנה שבת פרק יז","jbo:position":"17"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-18","rdfs:label":"משנה שבת פרק יח","jbo:position":"18"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-19","rdfs:label":"משנה שבת פרק יט","jbo:position":"19"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-20","rdfs:label":"משנה שבת פרק כ","jbo:position":"20"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-21","rdfs:label":"משנה שבת פרק כא","jbo:position":"21"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-22","rdfs:label":"משנה שבת פרק כב","jbo:position":"22"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-23","rdfs:label":"משנה שבת פרק כג","jbo:position":"23"},{"jbo:within":["jbr:mishna-2","jbr:mishna-2-1","jbr:mishna"],"uri":"jbr:mishna-2-1-24","rdfs:label":"משנה שבת פרק כד","jbo:position":"24"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:mishna",
+      "rdfs:label": "משנה"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2",
+      "rdfs:label": "סדר מועד",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna",
+        "jbr:mishna-2"
+      ],
+      "uri": "jbr:mishna-2-1",
+      "rdfs:label": "﻿משנה מסכת שבת",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-1",
+      "rdfs:label": "משנה שבת פרק א",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-2",
+      "rdfs:label": "משנה שבת פרק ב",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-3",
+      "rdfs:label": "משנה שבת פרק ג",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-4",
+      "rdfs:label": "משנה שבת פרק ד",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-5",
+      "rdfs:label": "משנה שבת פרק ה",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-6",
+      "rdfs:label": "משנה שבת פרק ו",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-7",
+      "rdfs:label": "משנה שבת פרק ז",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-8",
+      "rdfs:label": "משנה שבת פרק ח",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-9",
+      "rdfs:label": "משנה שבת פרק ט",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-10",
+      "rdfs:label": "משנה שבת פרק י",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-11",
+      "rdfs:label": "משנה שבת פרק יא",
+      "jbo:position": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-12",
+      "rdfs:label": "משנה שבת פרק יב",
+      "jbo:position": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-13",
+      "rdfs:label": "משנה שבת פרק יג",
+      "jbo:position": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-14",
+      "rdfs:label": "משנה שבת פרק יד",
+      "jbo:position": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-15",
+      "rdfs:label": "משנה שבת פרק טו",
+      "jbo:position": "15"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-16",
+      "rdfs:label": "משנה שבת פרק טז",
+      "jbo:position": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-17",
+      "rdfs:label": "משנה שבת פרק יז",
+      "jbo:position": "17"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-18",
+      "rdfs:label": "משנה שבת פרק יח",
+      "jbo:position": "18"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-19",
+      "rdfs:label": "משנה שבת פרק יט",
+      "jbo:position": "19"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-20",
+      "rdfs:label": "משנה שבת פרק כ",
+      "jbo:position": "20"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-21",
+      "rdfs:label": "משנה שבת פרק כא",
+      "jbo:position": "21"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-22",
+      "rdfs:label": "משנה שבת פרק כב",
+      "jbo:position": "22"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-23",
+      "rdfs:label": "משנה שבת פרק כג",
+      "jbo:position": "23"
+    },
+    {
+      "jbo:within": [
+        "jbr:mishna-2",
+        "jbr:mishna-2-1",
+        "jbr:mishna"
+      ],
+      "uri": "jbr:mishna-2-1-24",
+      "rdfs:label": "משנה שבת פרק כד",
+      "jbo:position": "24"
+    }
+  ]
+}

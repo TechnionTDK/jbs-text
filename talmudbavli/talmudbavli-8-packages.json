@@ -1,1 +1,34 @@
-{"subjects":[{"uri":"jbr:bavli-8","rdfs:label":"מסכת ביצה","jbo:position":"8"},{"uri":"jbr:bavli-perek-8-1","rdfs:label":"פרק ראשון - ביצה","jbo:position":"1"},{"uri":"jbr:bavli-perek-8-2","rdfs:label":"פרק שני - יום טוב","jbo:position":"2"},{"uri":"jbr:bavli-perek-8-3","rdfs:label":"פרק שלישי - אין צדין","jbo:position":"3"},{"uri":"jbr:bavli-perek-8-4","rdfs:label":"פרק רביעי - המביא","jbo:position":"4"},{"uri":"jbr:bavli-perek-8-5","rdfs:label":"פרק חמישי - משילין","jbo:position":"5"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:bavli-8",
+      "rdfs:label": "מסכת ביצה",
+      "jbo:position": "8"
+    },
+    {
+      "uri": "jbr:bavli-perek-8-1",
+      "rdfs:label": "פרק ראשון - ביצה",
+      "jbo:position": "1"
+    },
+    {
+      "uri": "jbr:bavli-perek-8-2",
+      "rdfs:label": "פרק שני - יום טוב",
+      "jbo:position": "2"
+    },
+    {
+      "uri": "jbr:bavli-perek-8-3",
+      "rdfs:label": "פרק שלישי - אין צדין",
+      "jbo:position": "3"
+    },
+    {
+      "uri": "jbr:bavli-perek-8-4",
+      "rdfs:label": "פרק רביעי - המביא",
+      "jbo:position": "4"
+    },
+    {
+      "uri": "jbr:bavli-perek-8-5",
+      "rdfs:label": "פרק חמישי - משילין",
+      "jbo:position": "5"
+    }
+  ]
+}

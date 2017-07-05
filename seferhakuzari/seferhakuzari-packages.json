@@ -1,1 +1,44 @@
-{"subjects":[{"jbo:within":["jbr:seferhakuzari-1"],"uri":"jbr:seferhakuzari-1","jbo:book":"jbr:book-seferhakuzari","rdfs:label":"הכוזרי א"},{"jbo:within":["jbr:seferhakuzari-2"],"uri":"jbr:seferhakuzari-2","jbo:book":"jbr:book-seferhakuzari","rdfs:label":"הכוזרי ב"},{"jbo:within":["jbr:seferhakuzari-3"],"uri":"jbr:seferhakuzari-3","jbo:book":"jbr:book-seferhakuzari","rdfs:label":"הכוזרי ג"},{"jbo:within":["jbr:seferhakuzari-4"],"uri":"jbr:seferhakuzari-4","jbo:book":"jbr:book-seferhakuzari","rdfs:label":"הכוזרי ד"},{"jbo:within":["jbr:seferhakuzari-5"],"uri":"jbr:seferhakuzari-5","jbo:book":"jbr:book-seferhakuzari","rdfs:label":"הכוזרי ה"}]}
+{
+  "subjects": [
+    {
+      "jbo:within": [
+        "jbr:seferhakuzari-1"
+      ],
+      "uri": "jbr:seferhakuzari-1",
+      "jbo:book": "jbr:book-seferhakuzari",
+      "rdfs:label": "הכוזרי א"
+    },
+    {
+      "jbo:within": [
+        "jbr:seferhakuzari-2"
+      ],
+      "uri": "jbr:seferhakuzari-2",
+      "jbo:book": "jbr:book-seferhakuzari",
+      "rdfs:label": "הכוזרי ב"
+    },
+    {
+      "jbo:within": [
+        "jbr:seferhakuzari-3"
+      ],
+      "uri": "jbr:seferhakuzari-3",
+      "jbo:book": "jbr:book-seferhakuzari",
+      "rdfs:label": "הכוזרי ג"
+    },
+    {
+      "jbo:within": [
+        "jbr:seferhakuzari-4"
+      ],
+      "uri": "jbr:seferhakuzari-4",
+      "jbo:book": "jbr:book-seferhakuzari",
+      "rdfs:label": "הכוזרי ד"
+    },
+    {
+      "jbo:within": [
+        "jbr:seferhakuzari-5"
+      ],
+      "uri": "jbr:seferhakuzari-5",
+      "jbo:book": "jbr:book-seferhakuzari",
+      "rdfs:label": "הכוזרי ה"
+    }
+  ]
+}

@@ -1,1 +1,24 @@
-{"subjects":[{"uri":"jbr:bavli-24","rdfs:label":"מסכת מכות","jbo:position":"24"},{"uri":"jbr:bavli-perek-24-1","rdfs:label":"פרק ראשון - כיצד העדים","jbo:position":"1"},{"uri":"jbr:bavli-perek-24-2","rdfs:label":"פרק שני - אלו הן הגולין","jbo:position":"2"},{"uri":"jbr:bavli-perek-24-3","rdfs:label":"פרק שלישי - אלו הן הלוקין","jbo:position":"3"}]}
+{
+  "subjects": [
+    {
+      "uri": "jbr:bavli-24",
+      "rdfs:label": "מסכת מכות",
+      "jbo:position": "24"
+    },
+    {
+      "uri": "jbr:bavli-perek-24-1",
+      "rdfs:label": "פרק ראשון - כיצד העדים",
+      "jbo:position": "1"
+    },
+    {
+      "uri": "jbr:bavli-perek-24-2",
+      "rdfs:label": "פרק שני - אלו הן הגולין",
+      "jbo:position": "2"
+    },
+    {
+      "uri": "jbr:bavli-perek-24-3",
+      "rdfs:label": "פרק שלישי - אלו הן הלוקין",
+      "jbo:position": "3"
+    }
+  ]
+}
