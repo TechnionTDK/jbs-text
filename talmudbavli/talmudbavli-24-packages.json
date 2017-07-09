@@ -3,22 +3,26 @@
     {
       "uri": "jbr:bavli-24",
       "rdfs:label": "מסכת מכות",
-      "jbo:position": "24"
+      "jbo:position": "24",
+      "jbo:book": "jbr:book-talmudbavli"
     },
     {
       "uri": "jbr:bavli-perek-24-1",
       "rdfs:label": "פרק ראשון - כיצד העדים",
-      "jbo:position": "1"
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-talmudbavli"
     },
     {
       "uri": "jbr:bavli-perek-24-2",
       "rdfs:label": "פרק שני - אלו הן הגולין",
-      "jbo:position": "2"
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-talmudbavli"
     },
     {
       "uri": "jbr:bavli-perek-24-3",
       "rdfs:label": "פרק שלישי - אלו הן הלוקין",
-      "jbo:position": "3"
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-talmudbavli"
     }
   ]
 }

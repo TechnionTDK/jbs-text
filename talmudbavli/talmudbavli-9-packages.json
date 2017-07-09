@@ -3,27 +3,32 @@
     {
       "uri": "jbr:bavli-9",
       "rdfs:label": "מסכת תענית",
-      "jbo:position": "9"
+      "jbo:position": "9",
+      "jbo:book": "jbr:book-talmudbavli"
     },
     {
       "uri": "jbr:bavli-perek-9-1",
       "rdfs:label": "פרק ראשון - מאימתי",
-      "jbo:position": "1"
+      "jbo:position": "1",
+      "jbo:book": "jbr:book-talmudbavli"
     },
     {
       "uri": "jbr:bavli-perek-9-2",
       "rdfs:label": "פרק שני - סדר תענית כיצד",
-      "jbo:position": "2"
+      "jbo:position": "2",
+      "jbo:book": "jbr:book-talmudbavli"
     },
     {
       "uri": "jbr:bavli-perek-9-3",
       "rdfs:label": "פרק שלישי - סדר תעניות אלו",
-      "jbo:position": "3"
+      "jbo:position": "3",
+      "jbo:book": "jbr:book-talmudbavli"
     },
     {
       "uri": "jbr:bavli-perek-9-4",
       "rdfs:label": "פרק רביעי - בשלשה פרקים",
-      "jbo:position": "4"
+      "jbo:position": "4",
+      "jbo:book": "jbr:book-talmudbavli"
     }
   ]
 }
