@@ -1,47 +1,47 @@
 {
   "subjects": [
     {
-      "uri": "haemunotvehadeot - hakdama",
+      "uri": "jbr:section-haemunotvehadeot - hakdama",
       "rdfs:label": "האמונות והדעות - הקדמה"
     },
     {
-      "uri": "haemunotvehadeot - 1",
+      "uri": "jbr:section-haemunotvehadeot - 1",
       "rdfs:label": "האמונות והדעות - מאמר הראשון חדוש"
     },
     {
-      "uri": "haemunotvehadeot - 2",
+      "uri": "jbr:section-haemunotvehadeot - 2",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות"
     },
     {
-      "uri": "haemunotvehadeot - 3",
+      "uri": "jbr:section-haemunotvehadeot - 3",
       "rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה"
     },
     {
-      "uri": "haemunotvehadeot - 4",
+      "uri": "jbr:section-haemunotvehadeot - 4",
       "rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי"
     },
     {
-      "uri": "haemunotvehadeot - 5",
+      "uri": "jbr:section-haemunotvehadeot - 5",
       "rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות"
     },
     {
-      "uri": "haemunotvehadeot - 6",
+      "uri": "jbr:section-haemunotvehadeot - 6",
       "rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש"
     },
     {
-      "uri": "haemunotvehadeot - 7",
+      "uri": "jbr:section-haemunotvehadeot - 7",
       "rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים"
     },
     {
-      "uri": "haemunotvehadeot - 8",
+      "uri": "jbr:section-haemunotvehadeot - 8",
       "rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה"
     },
     {
-      "uri": "haemunotvehadeot - 9",
+      "uri": "jbr:section-haemunotvehadeot - 9",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש"
     },
     {
-      "uri": "haemunotvehadeot - 10",
+      "uri": "jbr:section-haemunotvehadeot - 10",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם"
     }
   ]

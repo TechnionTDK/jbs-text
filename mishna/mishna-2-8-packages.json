@@ -1,56 +1,56 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna-2",
+      "uri": "jbr:section-mishna-2",
       "rdfs:label": "סדר מועד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2"
+        "jbr:section-mishna-2"
       ],
-      "uri": "jbr:mishna-2-8",
+      "uri": "jbr:section-mishna-2-8",
       "rdfs:label": "﻿משנה מסכת ראש השנה",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "8"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-8"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-8"
       ],
-      "uri": "jbr:mishna-2-8-1",
+      "uri": "jbr:section-mishna-2-8-1",
       "rdfs:label": "משנה ראש השנה פרק א",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-8"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-8"
       ],
-      "uri": "jbr:mishna-2-8-2",
+      "uri": "jbr:section-mishna-2-8-2",
       "rdfs:label": "משנה ראש השנה פרק ב",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-8"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-8"
       ],
-      "uri": "jbr:mishna-2-8-3",
+      "uri": "jbr:section-mishna-2-8-3",
       "rdfs:label": "משנה ראש השנה פרק ג",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-8"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-8"
       ],
-      "uri": "jbr:mishna-2-8-4",
+      "uri": "jbr:section-mishna-2-8-4",
       "rdfs:label": "משנה ראש השנה פרק ד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"

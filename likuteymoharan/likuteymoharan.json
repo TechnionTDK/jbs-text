@@ -2,9 +2,9 @@
   "subjects": [
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-1",
+      "uri": "jbr:text-likuteymoharan-1-1",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "1",
       "rdfs:label": "ליקוטי מוהר''ן א א",
@@ -13,9 +13,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-2",
+      "uri": "jbr:text-likuteymoharan-1-2",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "2",
       "rdfs:label": "ליקוטי מוהר''ן א ב",
@@ -24,9 +24,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-3",
+      "uri": "jbr:text-likuteymoharan-1-3",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "3",
       "rdfs:label": "ליקוטי מוהר''ן א ג",
@@ -35,9 +35,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-4",
+      "uri": "jbr:text-likuteymoharan-1-4",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "4",
       "rdfs:label": "ליקוטי מוהר''ן א ד",
@@ -46,9 +46,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-5",
+      "uri": "jbr:text-likuteymoharan-1-5",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "5",
       "rdfs:label": "ליקוטי מוהר''ן א ה",
@@ -57,9 +57,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-6",
+      "uri": "jbr:text-likuteymoharan-1-6",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "6",
       "rdfs:label": "ליקוטי מוהר''ן א ו",
@@ -68,9 +68,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-7",
+      "uri": "jbr:text-likuteymoharan-1-7",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "7",
       "rdfs:label": "ליקוטי מוהר''ן א ז",
@@ -79,9 +79,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-8",
+      "uri": "jbr:text-likuteymoharan-1-8",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "8",
       "rdfs:label": "ליקוטי מוהר''ן א ח",
@@ -90,9 +90,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-9",
+      "uri": "jbr:text-likuteymoharan-1-9",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "9",
       "rdfs:label": "ליקוטי מוהר''ן א ט",
@@ -101,9 +101,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-10",
+      "uri": "jbr:text-likuteymoharan-1-10",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "10",
       "rdfs:label": "ליקוטי מוהר''ן א י",
@@ -112,9 +112,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-11",
+      "uri": "jbr:text-likuteymoharan-1-11",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "11",
       "rdfs:label": "ליקוטי מוהר''ן א יא",
@@ -123,9 +123,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-12",
+      "uri": "jbr:text-likuteymoharan-1-12",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "12",
       "rdfs:label": "ליקוטי מוהר''ן א יב",
@@ -134,9 +134,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-13",
+      "uri": "jbr:text-likuteymoharan-1-13",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "13",
       "rdfs:label": "ליקוטי מוהר''ן א יג",
@@ -145,9 +145,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-14",
+      "uri": "jbr:text-likuteymoharan-1-14",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "14",
       "rdfs:label": "ליקוטי מוהר''ן א יד",
@@ -156,9 +156,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-15",
+      "uri": "jbr:text-likuteymoharan-1-15",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "15",
       "rdfs:label": "ליקוטי מוהר''ן א טו",
@@ -167,9 +167,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-16",
+      "uri": "jbr:text-likuteymoharan-1-16",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "16",
       "rdfs:label": "ליקוטי מוהר''ן א טז",
@@ -178,9 +178,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-17",
+      "uri": "jbr:text-likuteymoharan-1-17",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "17",
       "rdfs:label": "ליקוטי מוהר''ן א יז",
@@ -189,9 +189,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-18",
+      "uri": "jbr:text-likuteymoharan-1-18",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "18",
       "rdfs:label": "ליקוטי מוהר''ן א יח",
@@ -200,9 +200,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-19",
+      "uri": "jbr:text-likuteymoharan-1-19",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "19",
       "rdfs:label": "ליקוטי מוהר''ן א יט",
@@ -211,9 +211,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-20",
+      "uri": "jbr:text-likuteymoharan-1-20",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "20",
       "rdfs:label": "ליקוטי מוהר''ן א כ",
@@ -222,9 +222,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-21",
+      "uri": "jbr:text-likuteymoharan-1-21",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "21",
       "rdfs:label": "ליקוטי מוהר''ן א כא",
@@ -233,9 +233,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-22",
+      "uri": "jbr:text-likuteymoharan-1-22",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "22",
       "rdfs:label": "ליקוטי מוהר''ן א כב",
@@ -244,9 +244,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-23",
+      "uri": "jbr:text-likuteymoharan-1-23",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "23",
       "rdfs:label": "ליקוטי מוהר''ן א כג",
@@ -255,9 +255,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-24",
+      "uri": "jbr:text-likuteymoharan-1-24",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "24",
       "rdfs:label": "ליקוטי מוהר''ן א כד",
@@ -266,9 +266,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-25",
+      "uri": "jbr:text-likuteymoharan-1-25",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "25",
       "rdfs:label": "ליקוטי מוהר''ן א כה",
@@ -277,9 +277,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-26",
+      "uri": "jbr:text-likuteymoharan-1-26",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "26",
       "rdfs:label": "ליקוטי מוהר''ן א כו",
@@ -288,9 +288,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-27",
+      "uri": "jbr:text-likuteymoharan-1-27",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "27",
       "rdfs:label": "ליקוטי מוהר''ן א כז",
@@ -299,9 +299,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-28",
+      "uri": "jbr:text-likuteymoharan-1-28",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "28",
       "rdfs:label": "ליקוטי מוהר''ן א כח",
@@ -310,9 +310,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-29",
+      "uri": "jbr:text-likuteymoharan-1-29",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "29",
       "rdfs:label": "ליקוטי מוהר''ן א כט",
@@ -321,9 +321,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-30",
+      "uri": "jbr:text-likuteymoharan-1-30",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "30",
       "rdfs:label": "ליקוטי מוהר''ן א ל",
@@ -332,9 +332,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-31",
+      "uri": "jbr:text-likuteymoharan-1-31",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "31",
       "rdfs:label": "ליקוטי מוהר''ן א לא",
@@ -343,9 +343,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-32",
+      "uri": "jbr:text-likuteymoharan-1-32",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "32",
       "rdfs:label": "ליקוטי מוהר''ן א לב",
@@ -354,9 +354,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-33",
+      "uri": "jbr:text-likuteymoharan-1-33",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "33",
       "rdfs:label": "ליקוטי מוהר''ן א לג",
@@ -365,9 +365,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-34",
+      "uri": "jbr:text-likuteymoharan-1-34",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "34",
       "rdfs:label": "ליקוטי מוהר''ן א לד",
@@ -376,9 +376,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-35",
+      "uri": "jbr:text-likuteymoharan-1-35",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "35",
       "rdfs:label": "ליקוטי מוהר''ן א לה",
@@ -387,9 +387,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-36",
+      "uri": "jbr:text-likuteymoharan-1-36",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "36",
       "rdfs:label": "ליקוטי מוהר''ן א לו",
@@ -398,9 +398,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-37",
+      "uri": "jbr:text-likuteymoharan-1-37",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "37",
       "rdfs:label": "ליקוטי מוהר''ן א לז",
@@ -409,9 +409,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-38",
+      "uri": "jbr:text-likuteymoharan-1-38",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "38",
       "rdfs:label": "ליקוטי מוהר''ן א לח",
@@ -420,9 +420,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-39",
+      "uri": "jbr:text-likuteymoharan-1-39",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "39",
       "rdfs:label": "ליקוטי מוהר''ן א לט",
@@ -431,9 +431,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-40",
+      "uri": "jbr:text-likuteymoharan-1-40",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "40",
       "rdfs:label": "ליקוטי מוהר''ן א מ",
@@ -442,9 +442,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-41",
+      "uri": "jbr:text-likuteymoharan-1-41",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "41",
       "rdfs:label": "ליקוטי מוהר''ן א מא",
@@ -453,9 +453,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-42",
+      "uri": "jbr:text-likuteymoharan-1-42",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "42",
       "rdfs:label": "ליקוטי מוהר''ן א מב",
@@ -464,9 +464,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-43",
+      "uri": "jbr:text-likuteymoharan-1-43",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "43",
       "rdfs:label": "ליקוטי מוהר''ן א מג",
@@ -475,9 +475,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-44",
+      "uri": "jbr:text-likuteymoharan-1-44",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "44",
       "rdfs:label": "ליקוטי מוהר''ן א מד",
@@ -486,9 +486,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-45",
+      "uri": "jbr:text-likuteymoharan-1-45",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "45",
       "rdfs:label": "ליקוטי מוהר''ן א מה",
@@ -497,9 +497,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-46",
+      "uri": "jbr:text-likuteymoharan-1-46",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "46",
       "rdfs:label": "ליקוטי מוהר''ן א מו",
@@ -508,9 +508,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-47",
+      "uri": "jbr:text-likuteymoharan-1-47",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "47",
       "rdfs:label": "ליקוטי מוהר''ן א מז",
@@ -519,9 +519,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-48",
+      "uri": "jbr:text-likuteymoharan-1-48",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "48",
       "rdfs:label": "ליקוטי מוהר''ן א מח",
@@ -530,9 +530,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-49",
+      "uri": "jbr:text-likuteymoharan-1-49",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "49",
       "rdfs:label": "ליקוטי מוהר''ן א מט",
@@ -541,9 +541,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-50",
+      "uri": "jbr:text-likuteymoharan-1-50",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "50",
       "rdfs:label": "ליקוטי מוהר''ן א נ",
@@ -552,9 +552,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-51",
+      "uri": "jbr:text-likuteymoharan-1-51",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "51",
       "rdfs:label": "ליקוטי מוהר''ן א נא",
@@ -563,9 +563,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-52",
+      "uri": "jbr:text-likuteymoharan-1-52",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "52",
       "rdfs:label": "ליקוטי מוהר''ן א נב",
@@ -574,9 +574,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-53",
+      "uri": "jbr:text-likuteymoharan-1-53",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "53",
       "rdfs:label": "ליקוטי מוהר''ן א נג",
@@ -585,9 +585,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-54",
+      "uri": "jbr:text-likuteymoharan-1-54",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "54",
       "rdfs:label": "ליקוטי מוהר''ן א נד",
@@ -596,9 +596,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-55",
+      "uri": "jbr:text-likuteymoharan-1-55",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "55",
       "rdfs:label": "ליקוטי מוהר''ן א נה",
@@ -607,9 +607,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-56",
+      "uri": "jbr:text-likuteymoharan-1-56",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "56",
       "rdfs:label": "ליקוטי מוהר''ן א נו",
@@ -618,9 +618,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-57",
+      "uri": "jbr:text-likuteymoharan-1-57",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "57",
       "rdfs:label": "ליקוטי מוהר''ן א נז",
@@ -629,9 +629,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-58",
+      "uri": "jbr:text-likuteymoharan-1-58",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "58",
       "rdfs:label": "ליקוטי מוהר''ן א נח",
@@ -640,9 +640,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-59",
+      "uri": "jbr:text-likuteymoharan-1-59",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "59",
       "rdfs:label": "ליקוטי מוהר''ן א נט",
@@ -651,9 +651,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-60",
+      "uri": "jbr:text-likuteymoharan-1-60",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "60",
       "rdfs:label": "ליקוטי מוהר''ן א ס",
@@ -662,9 +662,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-61",
+      "uri": "jbr:text-likuteymoharan-1-61",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "61",
       "rdfs:label": "ליקוטי מוהר''ן א סא",
@@ -673,9 +673,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-62",
+      "uri": "jbr:text-likuteymoharan-1-62",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "62",
       "rdfs:label": "ליקוטי מוהר''ן א סב",
@@ -684,9 +684,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-63",
+      "uri": "jbr:text-likuteymoharan-1-63",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "63",
       "rdfs:label": "ליקוטי מוהר''ן א סג",
@@ -695,9 +695,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-64",
+      "uri": "jbr:text-likuteymoharan-1-64",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "64",
       "rdfs:label": "ליקוטי מוהר''ן א סד",
@@ -706,9 +706,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-65",
+      "uri": "jbr:text-likuteymoharan-1-65",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "65",
       "rdfs:label": "ליקוטי מוהר''ן א סה",
@@ -717,9 +717,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-66",
+      "uri": "jbr:text-likuteymoharan-1-66",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "66",
       "rdfs:label": "ליקוטי מוהר''ן א סו",
@@ -728,9 +728,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-67",
+      "uri": "jbr:text-likuteymoharan-1-67",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "67",
       "rdfs:label": "ליקוטי מוהר''ן א סז",
@@ -739,9 +739,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-68",
+      "uri": "jbr:text-likuteymoharan-1-68",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "68",
       "rdfs:label": "ליקוטי מוהר''ן א סח",
@@ -750,9 +750,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-69",
+      "uri": "jbr:text-likuteymoharan-1-69",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "69",
       "rdfs:label": "ליקוטי מוהר''ן א סט",
@@ -761,9 +761,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-70",
+      "uri": "jbr:text-likuteymoharan-1-70",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "70",
       "rdfs:label": "ליקוטי מוהר''ן א ע",
@@ -772,9 +772,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-71",
+      "uri": "jbr:text-likuteymoharan-1-71",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "71",
       "rdfs:label": "ליקוטי מוהר''ן א עא",
@@ -783,9 +783,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-72",
+      "uri": "jbr:text-likuteymoharan-1-72",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "72",
       "rdfs:label": "ליקוטי מוהר''ן א עב",
@@ -794,9 +794,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-73",
+      "uri": "jbr:text-likuteymoharan-1-73",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "73",
       "rdfs:label": "ליקוטי מוהר''ן א עג",
@@ -805,9 +805,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-74",
+      "uri": "jbr:text-likuteymoharan-1-74",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "74",
       "rdfs:label": "ליקוטי מוהר''ן א עד",
@@ -816,9 +816,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-75",
+      "uri": "jbr:text-likuteymoharan-1-75",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "75",
       "rdfs:label": "ליקוטי מוהר''ן א עה",
@@ -827,9 +827,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-76",
+      "uri": "jbr:text-likuteymoharan-1-76",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "76",
       "rdfs:label": "ליקוטי מוהר''ן א עו",
@@ -838,9 +838,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-77",
+      "uri": "jbr:text-likuteymoharan-1-77",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "77",
       "rdfs:label": "ליקוטי מוהר''ן א עז",
@@ -849,9 +849,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-78",
+      "uri": "jbr:text-likuteymoharan-1-78",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "78",
       "rdfs:label": "ליקוטי מוהר''ן א עח",
@@ -860,9 +860,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-79",
+      "uri": "jbr:text-likuteymoharan-1-79",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "79",
       "rdfs:label": "ליקוטי מוהר''ן א עט",
@@ -871,9 +871,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-80",
+      "uri": "jbr:text-likuteymoharan-1-80",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "80",
       "rdfs:label": "ליקוטי מוהר''ן א פ",
@@ -882,9 +882,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-81",
+      "uri": "jbr:text-likuteymoharan-1-81",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "81",
       "rdfs:label": "ליקוטי מוהר''ן א פא",
@@ -893,9 +893,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-82",
+      "uri": "jbr:text-likuteymoharan-1-82",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "82",
       "rdfs:label": "ליקוטי מוהר''ן א פב",
@@ -904,9 +904,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-83",
+      "uri": "jbr:text-likuteymoharan-1-83",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "83",
       "rdfs:label": "ליקוטי מוהר''ן א פג",
@@ -915,9 +915,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-84",
+      "uri": "jbr:text-likuteymoharan-1-84",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "84",
       "rdfs:label": "ליקוטי מוהר''ן א פד",
@@ -926,9 +926,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-85",
+      "uri": "jbr:text-likuteymoharan-1-85",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "85",
       "rdfs:label": "ליקוטי מוהר''ן א פה",
@@ -937,9 +937,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-86",
+      "uri": "jbr:text-likuteymoharan-1-86",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "86",
       "rdfs:label": "ליקוטי מוהר''ן א פו",
@@ -948,9 +948,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-87",
+      "uri": "jbr:text-likuteymoharan-1-87",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "87",
       "rdfs:label": "ליקוטי מוהר''ן א פז",
@@ -959,9 +959,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-88",
+      "uri": "jbr:text-likuteymoharan-1-88",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "88",
       "rdfs:label": "ליקוטי מוהר''ן א פח",
@@ -970,9 +970,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-89",
+      "uri": "jbr:text-likuteymoharan-1-89",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "89",
       "rdfs:label": "ליקוטי מוהר''ן א פט",
@@ -981,9 +981,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-90",
+      "uri": "jbr:text-likuteymoharan-1-90",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "90",
       "rdfs:label": "ליקוטי מוהר''ן א צ",
@@ -992,9 +992,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-91",
+      "uri": "jbr:text-likuteymoharan-1-91",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "91",
       "rdfs:label": "ליקוטי מוהר''ן א צא",
@@ -1003,9 +1003,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-92",
+      "uri": "jbr:text-likuteymoharan-1-92",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "92",
       "rdfs:label": "ליקוטי מוהר''ן א צב",
@@ -1014,9 +1014,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-93",
+      "uri": "jbr:text-likuteymoharan-1-93",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "93",
       "rdfs:label": "ליקוטי מוהר''ן א צג",
@@ -1025,9 +1025,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-94",
+      "uri": "jbr:text-likuteymoharan-1-94",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "94",
       "rdfs:label": "ליקוטי מוהר''ן א צד",
@@ -1036,9 +1036,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-95",
+      "uri": "jbr:text-likuteymoharan-1-95",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "95",
       "rdfs:label": "ליקוטי מוהר''ן א צה",
@@ -1047,9 +1047,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-96",
+      "uri": "jbr:text-likuteymoharan-1-96",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "96",
       "rdfs:label": "ליקוטי מוהר''ן א צו",
@@ -1058,9 +1058,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-97",
+      "uri": "jbr:text-likuteymoharan-1-97",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "97",
       "rdfs:label": "ליקוטי מוהר''ן א צז",
@@ -1069,9 +1069,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-98",
+      "uri": "jbr:text-likuteymoharan-1-98",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "98",
       "rdfs:label": "ליקוטי מוהר''ן א צח",
@@ -1080,9 +1080,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-99",
+      "uri": "jbr:text-likuteymoharan-1-99",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "99",
       "rdfs:label": "ליקוטי מוהר''ן א צט",
@@ -1091,9 +1091,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-100",
+      "uri": "jbr:text-likuteymoharan-1-100",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "100",
       "rdfs:label": "ליקוטי מוהר''ן א ק",
@@ -1102,9 +1102,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-101",
+      "uri": "jbr:text-likuteymoharan-1-101",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "101",
       "rdfs:label": "ליקוטי מוהר''ן א קא",
@@ -1113,9 +1113,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-102",
+      "uri": "jbr:text-likuteymoharan-1-102",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "102",
       "rdfs:label": "ליקוטי מוהר''ן א קב",
@@ -1124,9 +1124,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-103",
+      "uri": "jbr:text-likuteymoharan-1-103",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "103",
       "rdfs:label": "ליקוטי מוהר''ן א קג",
@@ -1135,9 +1135,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-104",
+      "uri": "jbr:text-likuteymoharan-1-104",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "104",
       "rdfs:label": "ליקוטי מוהר''ן א קד",
@@ -1146,9 +1146,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-105",
+      "uri": "jbr:text-likuteymoharan-1-105",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "105",
       "rdfs:label": "ליקוטי מוהר''ן א קה",
@@ -1157,9 +1157,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-106",
+      "uri": "jbr:text-likuteymoharan-1-106",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "106",
       "rdfs:label": "ליקוטי מוהר''ן א קו",
@@ -1168,9 +1168,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-107",
+      "uri": "jbr:text-likuteymoharan-1-107",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "107",
       "rdfs:label": "ליקוטי מוהר''ן א קז",
@@ -1179,9 +1179,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-108",
+      "uri": "jbr:text-likuteymoharan-1-108",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "108",
       "rdfs:label": "ליקוטי מוהר''ן א קח",
@@ -1190,9 +1190,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-109",
+      "uri": "jbr:text-likuteymoharan-1-109",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "109",
       "rdfs:label": "ליקוטי מוהר''ן א קט",
@@ -1201,9 +1201,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-110",
+      "uri": "jbr:text-likuteymoharan-1-110",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "110",
       "rdfs:label": "ליקוטי מוהר''ן א קי",
@@ -1212,9 +1212,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-111",
+      "uri": "jbr:text-likuteymoharan-1-111",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "111",
       "rdfs:label": "ליקוטי מוהר''ן א קיא",
@@ -1223,9 +1223,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-112",
+      "uri": "jbr:text-likuteymoharan-1-112",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "112",
       "rdfs:label": "ליקוטי מוהר''ן א קיב",
@@ -1234,9 +1234,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-113",
+      "uri": "jbr:text-likuteymoharan-1-113",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "113",
       "rdfs:label": "ליקוטי מוהר''ן א קיג",
@@ -1245,9 +1245,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-114",
+      "uri": "jbr:text-likuteymoharan-1-114",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "114",
       "rdfs:label": "ליקוטי מוהר''ן א קיד",
@@ -1256,9 +1256,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-115",
+      "uri": "jbr:text-likuteymoharan-1-115",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "115",
       "rdfs:label": "ליקוטי מוהר''ן א קטו",
@@ -1267,9 +1267,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-116",
+      "uri": "jbr:text-likuteymoharan-1-116",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "116",
       "rdfs:label": "ליקוטי מוהר''ן א קטז",
@@ -1278,9 +1278,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-117",
+      "uri": "jbr:text-likuteymoharan-1-117",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "117",
       "rdfs:label": "ליקוטי מוהר''ן א קיז",
@@ -1289,9 +1289,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-118",
+      "uri": "jbr:text-likuteymoharan-1-118",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "118",
       "rdfs:label": "ליקוטי מוהר''ן א קיח",
@@ -1300,9 +1300,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-119",
+      "uri": "jbr:text-likuteymoharan-1-119",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "119",
       "rdfs:label": "ליקוטי מוהר''ן א קיט",
@@ -1311,9 +1311,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-120",
+      "uri": "jbr:text-likuteymoharan-1-120",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "120",
       "rdfs:label": "ליקוטי מוהר''ן א קכ",
@@ -1322,9 +1322,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-121",
+      "uri": "jbr:text-likuteymoharan-1-121",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "121",
       "rdfs:label": "ליקוטי מוהר''ן א קכא",
@@ -1333,9 +1333,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-122",
+      "uri": "jbr:text-likuteymoharan-1-122",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "122",
       "rdfs:label": "ליקוטי מוהר''ן א קכב",
@@ -1344,9 +1344,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-123",
+      "uri": "jbr:text-likuteymoharan-1-123",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "123",
       "rdfs:label": "ליקוטי מוהר''ן א קכג",
@@ -1355,9 +1355,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-124",
+      "uri": "jbr:text-likuteymoharan-1-124",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "124",
       "rdfs:label": "ליקוטי מוהר''ן א קכד",
@@ -1366,9 +1366,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-125",
+      "uri": "jbr:text-likuteymoharan-1-125",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "125",
       "rdfs:label": "ליקוטי מוהר''ן א קכה",
@@ -1377,9 +1377,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-126",
+      "uri": "jbr:text-likuteymoharan-1-126",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "126",
       "rdfs:label": "ליקוטי מוהר''ן א קכו",
@@ -1388,9 +1388,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-127",
+      "uri": "jbr:text-likuteymoharan-1-127",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "127",
       "rdfs:label": "ליקוטי מוהר''ן א קכז",
@@ -1399,9 +1399,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-128",
+      "uri": "jbr:text-likuteymoharan-1-128",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "128",
       "rdfs:label": "ליקוטי מוהר''ן א קכח",
@@ -1410,9 +1410,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-129",
+      "uri": "jbr:text-likuteymoharan-1-129",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "129",
       "rdfs:label": "ליקוטי מוהר''ן א קכט",
@@ -1421,9 +1421,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-130",
+      "uri": "jbr:text-likuteymoharan-1-130",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "130",
       "rdfs:label": "ליקוטי מוהר''ן א קל",
@@ -1432,9 +1432,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-131",
+      "uri": "jbr:text-likuteymoharan-1-131",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "131",
       "rdfs:label": "ליקוטי מוהר''ן א קלא",
@@ -1443,9 +1443,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-132",
+      "uri": "jbr:text-likuteymoharan-1-132",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "132",
       "rdfs:label": "ליקוטי מוהר''ן א קלב",
@@ -1454,9 +1454,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-133",
+      "uri": "jbr:text-likuteymoharan-1-133",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "133",
       "rdfs:label": "ליקוטי מוהר''ן א קלג",
@@ -1465,9 +1465,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-134",
+      "uri": "jbr:text-likuteymoharan-1-134",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "134",
       "rdfs:label": "ליקוטי מוהר''ן א קלד",
@@ -1476,9 +1476,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-135",
+      "uri": "jbr:text-likuteymoharan-1-135",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "135",
       "rdfs:label": "ליקוטי מוהר''ן א קלה",
@@ -1487,9 +1487,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-136",
+      "uri": "jbr:text-likuteymoharan-1-136",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "136",
       "rdfs:label": "ליקוטי מוהר''ן א קלו",
@@ -1498,9 +1498,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-137",
+      "uri": "jbr:text-likuteymoharan-1-137",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "137",
       "rdfs:label": "ליקוטי מוהר''ן א קלז",
@@ -1509,9 +1509,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-138",
+      "uri": "jbr:text-likuteymoharan-1-138",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "138",
       "rdfs:label": "ליקוטי מוהר''ן א קלח",
@@ -1520,9 +1520,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-139",
+      "uri": "jbr:text-likuteymoharan-1-139",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "139",
       "rdfs:label": "ליקוטי מוהר''ן א קלט",
@@ -1531,9 +1531,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-140",
+      "uri": "jbr:text-likuteymoharan-1-140",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "140",
       "rdfs:label": "ליקוטי מוהר''ן א קמ",
@@ -1542,9 +1542,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-141",
+      "uri": "jbr:text-likuteymoharan-1-141",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "141",
       "rdfs:label": "ליקוטי מוהר''ן א קמא",
@@ -1553,9 +1553,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-142",
+      "uri": "jbr:text-likuteymoharan-1-142",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "142",
       "rdfs:label": "ליקוטי מוהר''ן א קמב",
@@ -1564,9 +1564,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-143",
+      "uri": "jbr:text-likuteymoharan-1-143",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "143",
       "rdfs:label": "ליקוטי מוהר''ן א קמג",
@@ -1575,9 +1575,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-144",
+      "uri": "jbr:text-likuteymoharan-1-144",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "144",
       "rdfs:label": "ליקוטי מוהר''ן א קמד",
@@ -1586,9 +1586,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-145",
+      "uri": "jbr:text-likuteymoharan-1-145",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "145",
       "rdfs:label": "ליקוטי מוהר''ן א קמה",
@@ -1597,9 +1597,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-146",
+      "uri": "jbr:text-likuteymoharan-1-146",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "146",
       "rdfs:label": "ליקוטי מוהר''ן א קמו",
@@ -1608,9 +1608,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-147",
+      "uri": "jbr:text-likuteymoharan-1-147",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "147",
       "rdfs:label": "ליקוטי מוהר''ן א קמז",
@@ -1619,9 +1619,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-148",
+      "uri": "jbr:text-likuteymoharan-1-148",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "148",
       "rdfs:label": "ליקוטי מוהר''ן א קמח",
@@ -1630,9 +1630,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-149",
+      "uri": "jbr:text-likuteymoharan-1-149",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "149",
       "rdfs:label": "ליקוטי מוהר''ן א קמט",
@@ -1641,9 +1641,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-150",
+      "uri": "jbr:text-likuteymoharan-1-150",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "150",
       "rdfs:label": "ליקוטי מוהר''ן א קנ",
@@ -1652,9 +1652,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-151",
+      "uri": "jbr:text-likuteymoharan-1-151",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "151",
       "rdfs:label": "ליקוטי מוהר''ן א קנא",
@@ -1663,9 +1663,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-152",
+      "uri": "jbr:text-likuteymoharan-1-152",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "152",
       "rdfs:label": "ליקוטי מוהר''ן א קנב",
@@ -1674,9 +1674,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-153",
+      "uri": "jbr:text-likuteymoharan-1-153",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "153",
       "rdfs:label": "ליקוטי מוהר''ן א קנג",
@@ -1685,9 +1685,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-154",
+      "uri": "jbr:text-likuteymoharan-1-154",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "154",
       "rdfs:label": "ליקוטי מוהר''ן א קנד",
@@ -1696,9 +1696,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-155",
+      "uri": "jbr:text-likuteymoharan-1-155",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "155",
       "rdfs:label": "ליקוטי מוהר''ן א קנה",
@@ -1707,9 +1707,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-156",
+      "uri": "jbr:text-likuteymoharan-1-156",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "156",
       "rdfs:label": "ליקוטי מוהר''ן א קנו",
@@ -1718,9 +1718,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-157",
+      "uri": "jbr:text-likuteymoharan-1-157",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "157",
       "rdfs:label": "ליקוטי מוהר''ן א קנז",
@@ -1729,9 +1729,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-158",
+      "uri": "jbr:text-likuteymoharan-1-158",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "158",
       "rdfs:label": "ליקוטי מוהר''ן א קנח",
@@ -1740,9 +1740,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-159",
+      "uri": "jbr:text-likuteymoharan-1-159",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "159",
       "rdfs:label": "ליקוטי מוהר''ן א קנט",
@@ -1751,9 +1751,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-160",
+      "uri": "jbr:text-likuteymoharan-1-160",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "160",
       "rdfs:label": "ליקוטי מוהר''ן א קס",
@@ -1762,9 +1762,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-161",
+      "uri": "jbr:text-likuteymoharan-1-161",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "161",
       "rdfs:label": "ליקוטי מוהר''ן א קסא",
@@ -1773,9 +1773,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-162",
+      "uri": "jbr:text-likuteymoharan-1-162",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "162",
       "rdfs:label": "ליקוטי מוהר''ן א קסב",
@@ -1784,9 +1784,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-163",
+      "uri": "jbr:text-likuteymoharan-1-163",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "163",
       "rdfs:label": "ליקוטי מוהר''ן א קסג",
@@ -1795,9 +1795,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-164",
+      "uri": "jbr:text-likuteymoharan-1-164",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "164",
       "rdfs:label": "ליקוטי מוהר''ן א קסד",
@@ -1806,9 +1806,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-165",
+      "uri": "jbr:text-likuteymoharan-1-165",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "165",
       "rdfs:label": "ליקוטי מוהר''ן א קסה",
@@ -1817,9 +1817,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-166",
+      "uri": "jbr:text-likuteymoharan-1-166",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "166",
       "rdfs:label": "ליקוטי מוהר''ן א קסו",
@@ -1828,9 +1828,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-167",
+      "uri": "jbr:text-likuteymoharan-1-167",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "167",
       "rdfs:label": "ליקוטי מוהר''ן א קסז",
@@ -1839,9 +1839,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-168",
+      "uri": "jbr:text-likuteymoharan-1-168",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "168",
       "rdfs:label": "ליקוטי מוהר''ן א קסח",
@@ -1850,9 +1850,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-169",
+      "uri": "jbr:text-likuteymoharan-1-169",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "169",
       "rdfs:label": "ליקוטי מוהר''ן א קסט",
@@ -1861,9 +1861,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-170",
+      "uri": "jbr:text-likuteymoharan-1-170",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "170",
       "rdfs:label": "ליקוטי מוהר''ן א קע",
@@ -1872,9 +1872,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-171",
+      "uri": "jbr:text-likuteymoharan-1-171",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "171",
       "rdfs:label": "ליקוטי מוהר''ן א קעא",
@@ -1883,9 +1883,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-172",
+      "uri": "jbr:text-likuteymoharan-1-172",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "172",
       "rdfs:label": "ליקוטי מוהר''ן א קעב",
@@ -1894,9 +1894,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-173",
+      "uri": "jbr:text-likuteymoharan-1-173",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "173",
       "rdfs:label": "ליקוטי מוהר''ן א קעג",
@@ -1905,9 +1905,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-174",
+      "uri": "jbr:text-likuteymoharan-1-174",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "174",
       "rdfs:label": "ליקוטי מוהר''ן א קעד",
@@ -1916,9 +1916,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-175",
+      "uri": "jbr:text-likuteymoharan-1-175",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "175",
       "rdfs:label": "ליקוטי מוהר''ן א קעה",
@@ -1927,9 +1927,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-176",
+      "uri": "jbr:text-likuteymoharan-1-176",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "176",
       "rdfs:label": "ליקוטי מוהר''ן א קעו",
@@ -1938,9 +1938,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-177",
+      "uri": "jbr:text-likuteymoharan-1-177",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "177",
       "rdfs:label": "ליקוטי מוהר''ן א קעז",
@@ -1949,9 +1949,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-178",
+      "uri": "jbr:text-likuteymoharan-1-178",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "178",
       "rdfs:label": "ליקוטי מוהר''ן א קעח",
@@ -1960,9 +1960,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-179",
+      "uri": "jbr:text-likuteymoharan-1-179",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "179",
       "rdfs:label": "ליקוטי מוהר''ן א קעט",
@@ -1971,9 +1971,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-180",
+      "uri": "jbr:text-likuteymoharan-1-180",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "180",
       "rdfs:label": "ליקוטי מוהר''ן א קפ",
@@ -1982,9 +1982,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-181",
+      "uri": "jbr:text-likuteymoharan-1-181",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "181",
       "rdfs:label": "ליקוטי מוהר''ן א קפא",
@@ -1993,9 +1993,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-182",
+      "uri": "jbr:text-likuteymoharan-1-182",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "182",
       "rdfs:label": "ליקוטי מוהר''ן א קפב",
@@ -2004,9 +2004,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-183",
+      "uri": "jbr:text-likuteymoharan-1-183",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "183",
       "rdfs:label": "ליקוטי מוהר''ן א קפג",
@@ -2015,9 +2015,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-184",
+      "uri": "jbr:text-likuteymoharan-1-184",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "184",
       "rdfs:label": "ליקוטי מוהר''ן א קפד",
@@ -2026,9 +2026,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-185",
+      "uri": "jbr:text-likuteymoharan-1-185",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "185",
       "rdfs:label": "ליקוטי מוהר''ן א קפה",
@@ -2037,9 +2037,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-186",
+      "uri": "jbr:text-likuteymoharan-1-186",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "186",
       "rdfs:label": "ליקוטי מוהר''ן א קפו",
@@ -2048,9 +2048,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-187",
+      "uri": "jbr:text-likuteymoharan-1-187",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "187",
       "rdfs:label": "ליקוטי מוהר''ן א קפז",
@@ -2059,9 +2059,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-188",
+      "uri": "jbr:text-likuteymoharan-1-188",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "188",
       "rdfs:label": "ליקוטי מוהר''ן א קפח",
@@ -2070,9 +2070,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-189",
+      "uri": "jbr:text-likuteymoharan-1-189",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "189",
       "rdfs:label": "ליקוטי מוהר''ן א קפט",
@@ -2081,9 +2081,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-190",
+      "uri": "jbr:text-likuteymoharan-1-190",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "190",
       "rdfs:label": "ליקוטי מוהר''ן א קצ",
@@ -2092,9 +2092,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-191",
+      "uri": "jbr:text-likuteymoharan-1-191",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "191",
       "rdfs:label": "ליקוטי מוהר''ן א קצא",
@@ -2103,9 +2103,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-192",
+      "uri": "jbr:text-likuteymoharan-1-192",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "192",
       "rdfs:label": "ליקוטי מוהר''ן א קצב",
@@ -2114,9 +2114,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-193",
+      "uri": "jbr:text-likuteymoharan-1-193",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "193",
       "rdfs:label": "ליקוטי מוהר''ן א קצג",
@@ -2125,9 +2125,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-194",
+      "uri": "jbr:text-likuteymoharan-1-194",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "194",
       "rdfs:label": "ליקוטי מוהר''ן א קצד",
@@ -2136,9 +2136,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-195",
+      "uri": "jbr:text-likuteymoharan-1-195",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "195",
       "rdfs:label": "ליקוטי מוהר''ן א קצה",
@@ -2147,9 +2147,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-196",
+      "uri": "jbr:text-likuteymoharan-1-196",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "196",
       "rdfs:label": "ליקוטי מוהר''ן א קצו",
@@ -2158,9 +2158,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-197",
+      "uri": "jbr:text-likuteymoharan-1-197",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "197",
       "rdfs:label": "ליקוטי מוהר''ן א קצז",
@@ -2169,9 +2169,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-198",
+      "uri": "jbr:text-likuteymoharan-1-198",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "198",
       "rdfs:label": "ליקוטי מוהר''ן א קצח",
@@ -2180,9 +2180,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-199",
+      "uri": "jbr:text-likuteymoharan-1-199",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "199",
       "rdfs:label": "ליקוטי מוהר''ן א קצט",
@@ -2191,9 +2191,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-200",
+      "uri": "jbr:text-likuteymoharan-1-200",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "200",
       "rdfs:label": "ליקוטי מוהר''ן א ר",
@@ -2202,9 +2202,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-201",
+      "uri": "jbr:text-likuteymoharan-1-201",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "201",
       "rdfs:label": "ליקוטי מוהר''ן א רא",
@@ -2213,9 +2213,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-202",
+      "uri": "jbr:text-likuteymoharan-1-202",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "202",
       "rdfs:label": "ליקוטי מוהר''ן א רב",
@@ -2224,9 +2224,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-203",
+      "uri": "jbr:text-likuteymoharan-1-203",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "203",
       "rdfs:label": "ליקוטי מוהר''ן א רג",
@@ -2235,9 +2235,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-204",
+      "uri": "jbr:text-likuteymoharan-1-204",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "204",
       "rdfs:label": "ליקוטי מוהר''ן א רד",
@@ -2246,9 +2246,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-205",
+      "uri": "jbr:text-likuteymoharan-1-205",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "205",
       "rdfs:label": "ליקוטי מוהר''ן א רה",
@@ -2257,9 +2257,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-206",
+      "uri": "jbr:text-likuteymoharan-1-206",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "206",
       "rdfs:label": "ליקוטי מוהר''ן א רו",
@@ -2268,9 +2268,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-207",
+      "uri": "jbr:text-likuteymoharan-1-207",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "207",
       "rdfs:label": "ליקוטי מוהר''ן א רז",
@@ -2279,9 +2279,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-208",
+      "uri": "jbr:text-likuteymoharan-1-208",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "208",
       "rdfs:label": "ליקוטי מוהר''ן א רח",
@@ -2290,9 +2290,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-209",
+      "uri": "jbr:text-likuteymoharan-1-209",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "209",
       "rdfs:label": "ליקוטי מוהר''ן א רט",
@@ -2301,9 +2301,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-210",
+      "uri": "jbr:text-likuteymoharan-1-210",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "210",
       "rdfs:label": "ליקוטי מוהר''ן א רי",
@@ -2312,9 +2312,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-211",
+      "uri": "jbr:text-likuteymoharan-1-211",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "211",
       "rdfs:label": "ליקוטי מוהר''ן א ריא",
@@ -2323,9 +2323,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-212",
+      "uri": "jbr:text-likuteymoharan-1-212",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "212",
       "rdfs:label": "ליקוטי מוהר''ן א ריב",
@@ -2334,9 +2334,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-213",
+      "uri": "jbr:text-likuteymoharan-1-213",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "213",
       "rdfs:label": "ליקוטי מוהר''ן א ריג",
@@ -2345,9 +2345,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-214",
+      "uri": "jbr:text-likuteymoharan-1-214",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "214",
       "rdfs:label": "ליקוטי מוהר''ן א ריד",
@@ -2356,9 +2356,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-216",
+      "uri": "jbr:text-likuteymoharan-1-216",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "215",
       "rdfs:label": "ליקוטי מוהר''ן א רטז",
@@ -2367,9 +2367,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-217",
+      "uri": "jbr:text-likuteymoharan-1-217",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "216",
       "rdfs:label": "ליקוטי מוהר''ן א ריז",
@@ -2378,9 +2378,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-218",
+      "uri": "jbr:text-likuteymoharan-1-218",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "217",
       "rdfs:label": "ליקוטי מוהר''ן א ריח",
@@ -2389,9 +2389,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-219",
+      "uri": "jbr:text-likuteymoharan-1-219",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "218",
       "rdfs:label": "ליקוטי מוהר''ן א ריט",
@@ -2400,9 +2400,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-220",
+      "uri": "jbr:text-likuteymoharan-1-220",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "219",
       "rdfs:label": "ליקוטי מוהר''ן א רכ",
@@ -2411,9 +2411,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-221",
+      "uri": "jbr:text-likuteymoharan-1-221",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "220",
       "rdfs:label": "ליקוטי מוהר''ן א רכא",
@@ -2422,9 +2422,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-222",
+      "uri": "jbr:text-likuteymoharan-1-222",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "221",
       "rdfs:label": "ליקוטי מוהר''ן א רכב",
@@ -2433,9 +2433,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-223",
+      "uri": "jbr:text-likuteymoharan-1-223",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "222",
       "rdfs:label": "ליקוטי מוהר''ן א רכג",
@@ -2444,9 +2444,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-224",
+      "uri": "jbr:text-likuteymoharan-1-224",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "223",
       "rdfs:label": "ליקוטי מוהר''ן א רכד",
@@ -2455,9 +2455,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-225",
+      "uri": "jbr:text-likuteymoharan-1-225",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "224",
       "rdfs:label": "ליקוטי מוהר''ן א רכה",
@@ -2466,9 +2466,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-226",
+      "uri": "jbr:text-likuteymoharan-1-226",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "225",
       "rdfs:label": "ליקוטי מוהר''ן א רכו",
@@ -2477,9 +2477,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-227",
+      "uri": "jbr:text-likuteymoharan-1-227",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "226",
       "rdfs:label": "ליקוטי מוהר''ן א רכז",
@@ -2488,9 +2488,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-228",
+      "uri": "jbr:text-likuteymoharan-1-228",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "227",
       "rdfs:label": "ליקוטי מוהר''ן א רכח",
@@ -2499,9 +2499,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-229",
+      "uri": "jbr:text-likuteymoharan-1-229",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "228",
       "rdfs:label": "ליקוטי מוהר''ן א רכט",
@@ -2510,9 +2510,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-230",
+      "uri": "jbr:text-likuteymoharan-1-230",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "229",
       "rdfs:label": "ליקוטי מוהר''ן א רל",
@@ -2521,9 +2521,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-231",
+      "uri": "jbr:text-likuteymoharan-1-231",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "230",
       "rdfs:label": "ליקוטי מוהר''ן א רלא",
@@ -2532,9 +2532,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-232",
+      "uri": "jbr:text-likuteymoharan-1-232",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "231",
       "rdfs:label": "ליקוטי מוהר''ן א רלב",
@@ -2543,9 +2543,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-233",
+      "uri": "jbr:text-likuteymoharan-1-233",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "232",
       "rdfs:label": "ליקוטי מוהר''ן א רלג",
@@ -2554,9 +2554,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-234",
+      "uri": "jbr:text-likuteymoharan-1-234",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "233",
       "rdfs:label": "ליקוטי מוהר''ן א רלד",
@@ -2565,9 +2565,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-235",
+      "uri": "jbr:text-likuteymoharan-1-235",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "234",
       "rdfs:label": "ליקוטי מוהר''ן א רלה",
@@ -2576,9 +2576,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-236",
+      "uri": "jbr:text-likuteymoharan-1-236",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "235",
       "rdfs:label": "ליקוטי מוהר''ן א רלו",
@@ -2587,9 +2587,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-237",
+      "uri": "jbr:text-likuteymoharan-1-237",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "236",
       "rdfs:label": "ליקוטי מוהר''ן א רלז",
@@ -2598,9 +2598,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-238",
+      "uri": "jbr:text-likuteymoharan-1-238",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "237",
       "rdfs:label": "ליקוטי מוהר''ן א רלח",
@@ -2609,9 +2609,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-239",
+      "uri": "jbr:text-likuteymoharan-1-239",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "238",
       "rdfs:label": "ליקוטי מוהר''ן א רלט",
@@ -2620,9 +2620,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-240",
+      "uri": "jbr:text-likuteymoharan-1-240",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "239",
       "rdfs:label": "ליקוטי מוהר''ן א רמ",
@@ -2631,9 +2631,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-241",
+      "uri": "jbr:text-likuteymoharan-1-241",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "240",
       "rdfs:label": "ליקוטי מוהר''ן א רמא",
@@ -2642,9 +2642,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-242",
+      "uri": "jbr:text-likuteymoharan-1-242",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "241",
       "rdfs:label": "ליקוטי מוהר''ן א רמב",
@@ -2653,9 +2653,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-243",
+      "uri": "jbr:text-likuteymoharan-1-243",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "242",
       "rdfs:label": "ליקוטי מוהר''ן א רמג",
@@ -2664,9 +2664,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-244",
+      "uri": "jbr:text-likuteymoharan-1-244",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "243",
       "rdfs:label": "ליקוטי מוהר''ן א רמד",
@@ -2675,9 +2675,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-245",
+      "uri": "jbr:text-likuteymoharan-1-245",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "244",
       "rdfs:label": "ליקוטי מוהר''ן א רמה",
@@ -2686,9 +2686,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-246",
+      "uri": "jbr:text-likuteymoharan-1-246",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "245",
       "rdfs:label": "ליקוטי מוהר''ן א רמו",
@@ -2697,9 +2697,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-247",
+      "uri": "jbr:text-likuteymoharan-1-247",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "246",
       "rdfs:label": "ליקוטי מוהר''ן א רמז",
@@ -2708,9 +2708,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-248",
+      "uri": "jbr:text-likuteymoharan-1-248",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "247",
       "rdfs:label": "ליקוטי מוהר''ן א רמח",
@@ -2719,9 +2719,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-249",
+      "uri": "jbr:text-likuteymoharan-1-249",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "248",
       "rdfs:label": "ליקוטי מוהר''ן א רמט",
@@ -2730,9 +2730,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-250",
+      "uri": "jbr:text-likuteymoharan-1-250",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "249",
       "rdfs:label": "ליקוטי מוהר''ן א רנ",
@@ -2741,9 +2741,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-251",
+      "uri": "jbr:text-likuteymoharan-1-251",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "250",
       "rdfs:label": "ליקוטי מוהר''ן א רנא",
@@ -2752,9 +2752,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-252",
+      "uri": "jbr:text-likuteymoharan-1-252",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "251",
       "rdfs:label": "ליקוטי מוהר''ן א רנב",
@@ -2763,9 +2763,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-253",
+      "uri": "jbr:text-likuteymoharan-1-253",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "252",
       "rdfs:label": "ליקוטי מוהר''ן א רנג",
@@ -2774,9 +2774,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-254",
+      "uri": "jbr:text-likuteymoharan-1-254",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "253",
       "rdfs:label": "ליקוטי מוהר''ן א רנד",
@@ -2785,9 +2785,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-255",
+      "uri": "jbr:text-likuteymoharan-1-255",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "254",
       "rdfs:label": "ליקוטי מוהר''ן א רנה",
@@ -2796,9 +2796,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-256",
+      "uri": "jbr:text-likuteymoharan-1-256",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "255",
       "rdfs:label": "ליקוטי מוהר''ן א רנו",
@@ -2807,9 +2807,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-257",
+      "uri": "jbr:text-likuteymoharan-1-257",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "256",
       "rdfs:label": "ליקוטי מוהר''ן א רנז",
@@ -2818,9 +2818,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-258",
+      "uri": "jbr:text-likuteymoharan-1-258",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "257",
       "rdfs:label": "ליקוטי מוהר''ן א רנח",
@@ -2829,9 +2829,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-259",
+      "uri": "jbr:text-likuteymoharan-1-259",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "258",
       "rdfs:label": "ליקוטי מוהר''ן א רנט",
@@ -2840,9 +2840,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-260",
+      "uri": "jbr:text-likuteymoharan-1-260",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "259",
       "rdfs:label": "ליקוטי מוהר''ן א רס",
@@ -2851,9 +2851,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-261",
+      "uri": "jbr:text-likuteymoharan-1-261",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "260",
       "rdfs:label": "ליקוטי מוהר''ן א רסא",
@@ -2862,9 +2862,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-262",
+      "uri": "jbr:text-likuteymoharan-1-262",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "261",
       "rdfs:label": "ליקוטי מוהר''ן א רסב",
@@ -2873,9 +2873,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-263",
+      "uri": "jbr:text-likuteymoharan-1-263",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "262",
       "rdfs:label": "ליקוטי מוהר''ן א רסג",
@@ -2884,9 +2884,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-264",
+      "uri": "jbr:text-likuteymoharan-1-264",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "263",
       "rdfs:label": "ליקוטי מוהר''ן א רסד",
@@ -2895,9 +2895,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-265",
+      "uri": "jbr:text-likuteymoharan-1-265",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "264",
       "rdfs:label": "ליקוטי מוהר''ן א רסה",
@@ -2906,9 +2906,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-266",
+      "uri": "jbr:text-likuteymoharan-1-266",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "265",
       "rdfs:label": "ליקוטי מוהר''ן א רסו",
@@ -2917,9 +2917,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-267",
+      "uri": "jbr:text-likuteymoharan-1-267",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "266",
       "rdfs:label": "ליקוטי מוהר''ן א רסז",
@@ -2928,9 +2928,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-268",
+      "uri": "jbr:text-likuteymoharan-1-268",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "267",
       "rdfs:label": "ליקוטי מוהר''ן א רסח",
@@ -2939,9 +2939,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-269",
+      "uri": "jbr:text-likuteymoharan-1-269",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "268",
       "rdfs:label": "ליקוטי מוהר''ן א רסט",
@@ -2950,9 +2950,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-272",
+      "uri": "jbr:text-likuteymoharan-1-272",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "269",
       "rdfs:label": "ליקוטי מוהר''ן א רעב",
@@ -2961,9 +2961,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-273",
+      "uri": "jbr:text-likuteymoharan-1-273",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "270",
       "rdfs:label": "ליקוטי מוהר''ן א רעג",
@@ -2972,9 +2972,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-274",
+      "uri": "jbr:text-likuteymoharan-1-274",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "271",
       "rdfs:label": "ליקוטי מוהר''ן א רעד",
@@ -2983,9 +2983,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-275",
+      "uri": "jbr:text-likuteymoharan-1-275",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "272",
       "rdfs:label": "ליקוטי מוהר''ן א רעה",
@@ -2994,9 +2994,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-276",
+      "uri": "jbr:text-likuteymoharan-1-276",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "273",
       "rdfs:label": "ליקוטי מוהר''ן א רעו",
@@ -3005,9 +3005,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-277",
+      "uri": "jbr:text-likuteymoharan-1-277",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "274",
       "rdfs:label": "ליקוטי מוהר''ן א רעז",
@@ -3016,9 +3016,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-278",
+      "uri": "jbr:text-likuteymoharan-1-278",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "275",
       "rdfs:label": "ליקוטי מוהר''ן א רעח",
@@ -3027,9 +3027,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-279",
+      "uri": "jbr:text-likuteymoharan-1-279",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "276",
       "rdfs:label": "ליקוטי מוהר''ן א רעט",
@@ -3038,9 +3038,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-280",
+      "uri": "jbr:text-likuteymoharan-1-280",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "277",
       "rdfs:label": "ליקוטי מוהר''ן א רפ",
@@ -3049,9 +3049,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-281",
+      "uri": "jbr:text-likuteymoharan-1-281",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "278",
       "rdfs:label": "ליקוטי מוהר''ן א רפא",
@@ -3060,9 +3060,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-282",
+      "uri": "jbr:text-likuteymoharan-1-282",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "279",
       "rdfs:label": "ליקוטי מוהר''ן א רפב",
@@ -3071,9 +3071,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-283",
+      "uri": "jbr:text-likuteymoharan-1-283",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "280",
       "rdfs:label": "ליקוטי מוהר''ן א רפג",
@@ -3082,9 +3082,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-284",
+      "uri": "jbr:text-likuteymoharan-1-284",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "281",
       "rdfs:label": "ליקוטי מוהר''ן א רפד",
@@ -3093,9 +3093,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-285",
+      "uri": "jbr:text-likuteymoharan-1-285",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "282",
       "rdfs:label": "ליקוטי מוהר''ן א רפה",
@@ -3104,9 +3104,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-1"
+        "jbr:section-likuteymoharan-1"
       ],
-      "uri": "jbr:likuteymoharan-1-286",
+      "uri": "jbr:text-likuteymoharan-1-286",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "283",
       "rdfs:label": "ליקוטי מוהר''ן א רפו",
@@ -3115,9 +3115,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-1",
+      "uri": "jbr:text-likuteymoharan-2-1",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "284",
       "rdfs:label": "ליקוטי מוהר''ן ב א",
@@ -3126,9 +3126,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-2",
+      "uri": "jbr:text-likuteymoharan-2-2",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "285",
       "rdfs:label": "ליקוטי מוהר''ן ב ב",
@@ -3137,9 +3137,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-3",
+      "uri": "jbr:text-likuteymoharan-2-3",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "286",
       "rdfs:label": "ליקוטי מוהר''ן ב ג",
@@ -3148,9 +3148,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-4",
+      "uri": "jbr:text-likuteymoharan-2-4",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "287",
       "rdfs:label": "ליקוטי מוהר''ן ב ד",
@@ -3159,9 +3159,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-5",
+      "uri": "jbr:text-likuteymoharan-2-5",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "288",
       "rdfs:label": "ליקוטי מוהר''ן ב ה",
@@ -3170,9 +3170,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-6",
+      "uri": "jbr:text-likuteymoharan-2-6",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "289",
       "rdfs:label": "ליקוטי מוהר''ן ב ו",
@@ -3181,9 +3181,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-7",
+      "uri": "jbr:text-likuteymoharan-2-7",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "290",
       "rdfs:label": "ליקוטי מוהר''ן ב ז",
@@ -3192,9 +3192,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-8",
+      "uri": "jbr:text-likuteymoharan-2-8",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "291",
       "rdfs:label": "ליקוטי מוהר''ן ב ח",
@@ -3203,9 +3203,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-9",
+      "uri": "jbr:text-likuteymoharan-2-9",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "292",
       "rdfs:label": "ליקוטי מוהר''ן ב ט",
@@ -3214,9 +3214,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-10",
+      "uri": "jbr:text-likuteymoharan-2-10",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "293",
       "rdfs:label": "ליקוטי מוהר''ן ב י",
@@ -3225,9 +3225,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-11",
+      "uri": "jbr:text-likuteymoharan-2-11",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "294",
       "rdfs:label": "ליקוטי מוהר''ן ב יא",
@@ -3236,9 +3236,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-12",
+      "uri": "jbr:text-likuteymoharan-2-12",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "295",
       "rdfs:label": "ליקוטי מוהר''ן ב יב",
@@ -3247,9 +3247,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-13",
+      "uri": "jbr:text-likuteymoharan-2-13",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "296",
       "rdfs:label": "ליקוטי מוהר''ן ב יג",
@@ -3258,9 +3258,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-14",
+      "uri": "jbr:text-likuteymoharan-2-14",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "297",
       "rdfs:label": "ליקוטי מוהר''ן ב יד",
@@ -3269,9 +3269,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-15",
+      "uri": "jbr:text-likuteymoharan-2-15",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "298",
       "rdfs:label": "ליקוטי מוהר''ן ב טו",
@@ -3280,9 +3280,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-16",
+      "uri": "jbr:text-likuteymoharan-2-16",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "299",
       "rdfs:label": "ליקוטי מוהר''ן ב טז",
@@ -3291,9 +3291,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-17",
+      "uri": "jbr:text-likuteymoharan-2-17",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "300",
       "rdfs:label": "ליקוטי מוהר''ן ב יז",
@@ -3302,9 +3302,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-18",
+      "uri": "jbr:text-likuteymoharan-2-18",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "301",
       "rdfs:label": "ליקוטי מוהר''ן ב יח",
@@ -3313,9 +3313,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-19",
+      "uri": "jbr:text-likuteymoharan-2-19",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "302",
       "rdfs:label": "ליקוטי מוהר''ן ב יט",
@@ -3324,9 +3324,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-20",
+      "uri": "jbr:text-likuteymoharan-2-20",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "303",
       "rdfs:label": "ליקוטי מוהר''ן ב כ",
@@ -3335,9 +3335,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-21",
+      "uri": "jbr:text-likuteymoharan-2-21",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "304",
       "rdfs:label": "ליקוטי מוהר''ן ב כא",
@@ -3346,9 +3346,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-22",
+      "uri": "jbr:text-likuteymoharan-2-22",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "305",
       "rdfs:label": "ליקוטי מוהר''ן ב כב",
@@ -3357,9 +3357,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-23",
+      "uri": "jbr:text-likuteymoharan-2-23",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "306",
       "rdfs:label": "ליקוטי מוהר''ן ב כג",
@@ -3368,9 +3368,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-24",
+      "uri": "jbr:text-likuteymoharan-2-24",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "307",
       "rdfs:label": "ליקוטי מוהר''ן ב כד",
@@ -3379,9 +3379,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-25",
+      "uri": "jbr:text-likuteymoharan-2-25",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "308",
       "rdfs:label": "ליקוטי מוהר''ן ב כה",
@@ -3390,9 +3390,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-26",
+      "uri": "jbr:text-likuteymoharan-2-26",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "309",
       "rdfs:label": "ליקוטי מוהר''ן ב כו",
@@ -3401,9 +3401,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-27",
+      "uri": "jbr:text-likuteymoharan-2-27",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "310",
       "rdfs:label": "ליקוטי מוהר''ן ב כז",
@@ -3412,9 +3412,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-28",
+      "uri": "jbr:text-likuteymoharan-2-28",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "311",
       "rdfs:label": "ליקוטי מוהר''ן ב כח",
@@ -3423,9 +3423,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-29",
+      "uri": "jbr:text-likuteymoharan-2-29",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "312",
       "rdfs:label": "ליקוטי מוהר''ן ב כט",
@@ -3434,9 +3434,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-30",
+      "uri": "jbr:text-likuteymoharan-2-30",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "313",
       "rdfs:label": "ליקוטי מוהר''ן ב ל",
@@ -3445,9 +3445,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-31",
+      "uri": "jbr:text-likuteymoharan-2-31",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "314",
       "rdfs:label": "ליקוטי מוהר''ן ב לא",
@@ -3456,9 +3456,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-32",
+      "uri": "jbr:text-likuteymoharan-2-32",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "315",
       "rdfs:label": "ליקוטי מוהר''ן ב לב",
@@ -3467,9 +3467,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-33",
+      "uri": "jbr:text-likuteymoharan-2-33",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "316",
       "rdfs:label": "ליקוטי מוהר''ן ב לג",
@@ -3478,9 +3478,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-34",
+      "uri": "jbr:text-likuteymoharan-2-34",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "317",
       "rdfs:label": "ליקוטי מוהר''ן ב לד",
@@ -3489,9 +3489,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-35",
+      "uri": "jbr:text-likuteymoharan-2-35",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "318",
       "rdfs:label": "ליקוטי מוהר''ן ב לה",
@@ -3500,9 +3500,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-36",
+      "uri": "jbr:text-likuteymoharan-2-36",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "319",
       "rdfs:label": "ליקוטי מוהר''ן ב לו",
@@ -3511,9 +3511,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-37",
+      "uri": "jbr:text-likuteymoharan-2-37",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "320",
       "rdfs:label": "ליקוטי מוהר''ן ב לז",
@@ -3522,9 +3522,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-38",
+      "uri": "jbr:text-likuteymoharan-2-38",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "321",
       "rdfs:label": "ליקוטי מוהר''ן ב לח",
@@ -3533,9 +3533,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-39",
+      "uri": "jbr:text-likuteymoharan-2-39",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "322",
       "rdfs:label": "ליקוטי מוהר''ן ב לט",
@@ -3544,9 +3544,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-40",
+      "uri": "jbr:text-likuteymoharan-2-40",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "323",
       "rdfs:label": "ליקוטי מוהר''ן ב מ",
@@ -3555,9 +3555,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-41",
+      "uri": "jbr:text-likuteymoharan-2-41",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "324",
       "rdfs:label": "ליקוטי מוהר''ן ב מא",
@@ -3566,9 +3566,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-42",
+      "uri": "jbr:text-likuteymoharan-2-42",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "325",
       "rdfs:label": "ליקוטי מוהר''ן ב מב",
@@ -3577,9 +3577,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-43",
+      "uri": "jbr:text-likuteymoharan-2-43",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "326",
       "rdfs:label": "ליקוטי מוהר''ן ב מג",
@@ -3588,9 +3588,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-44",
+      "uri": "jbr:text-likuteymoharan-2-44",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "327",
       "rdfs:label": "ליקוטי מוהר''ן ב מד",
@@ -3599,9 +3599,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-45",
+      "uri": "jbr:text-likuteymoharan-2-45",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "328",
       "rdfs:label": "ליקוטי מוהר''ן ב מה",
@@ -3610,9 +3610,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-46",
+      "uri": "jbr:text-likuteymoharan-2-46",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "329",
       "rdfs:label": "ליקוטי מוהר''ן ב מו",
@@ -3621,9 +3621,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-47",
+      "uri": "jbr:text-likuteymoharan-2-47",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "330",
       "rdfs:label": "ליקוטי מוהר''ן ב מז",
@@ -3632,9 +3632,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-48",
+      "uri": "jbr:text-likuteymoharan-2-48",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "331",
       "rdfs:label": "ליקוטי מוהר''ן ב מח",
@@ -3643,9 +3643,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-49",
+      "uri": "jbr:text-likuteymoharan-2-49",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "332",
       "rdfs:label": "ליקוטי מוהר''ן ב מט",
@@ -3654,9 +3654,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-50",
+      "uri": "jbr:text-likuteymoharan-2-50",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "333",
       "rdfs:label": "ליקוטי מוהר''ן ב נ",
@@ -3665,9 +3665,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-51",
+      "uri": "jbr:text-likuteymoharan-2-51",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "334",
       "rdfs:label": "ליקוטי מוהר''ן ב נא",
@@ -3676,9 +3676,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-52",
+      "uri": "jbr:text-likuteymoharan-2-52",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "335",
       "rdfs:label": "ליקוטי מוהר''ן ב נב",
@@ -3687,9 +3687,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-53",
+      "uri": "jbr:text-likuteymoharan-2-53",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "336",
       "rdfs:label": "ליקוטי מוהר''ן ב נג",
@@ -3698,9 +3698,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-54",
+      "uri": "jbr:text-likuteymoharan-2-54",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "337",
       "rdfs:label": "ליקוטי מוהר''ן ב נד",
@@ -3709,9 +3709,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-55",
+      "uri": "jbr:text-likuteymoharan-2-55",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "338",
       "rdfs:label": "ליקוטי מוהר''ן ב נה",
@@ -3720,9 +3720,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-56",
+      "uri": "jbr:text-likuteymoharan-2-56",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "339",
       "rdfs:label": "ליקוטי מוהר''ן ב נו",
@@ -3731,9 +3731,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-57",
+      "uri": "jbr:text-likuteymoharan-2-57",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "340",
       "rdfs:label": "ליקוטי מוהר''ן ב נז",
@@ -3742,9 +3742,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-58",
+      "uri": "jbr:text-likuteymoharan-2-58",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "341",
       "rdfs:label": "ליקוטי מוהר''ן ב נח",
@@ -3753,9 +3753,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-59",
+      "uri": "jbr:text-likuteymoharan-2-59",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "342",
       "rdfs:label": "ליקוטי מוהר''ן ב נט",
@@ -3764,9 +3764,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-60",
+      "uri": "jbr:text-likuteymoharan-2-60",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "343",
       "rdfs:label": "ליקוטי מוהר''ן ב ס",
@@ -3775,9 +3775,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-61",
+      "uri": "jbr:text-likuteymoharan-2-61",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "344",
       "rdfs:label": "ליקוטי מוהר''ן ב סא",
@@ -3786,9 +3786,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-62",
+      "uri": "jbr:text-likuteymoharan-2-62",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "345",
       "rdfs:label": "ליקוטי מוהר''ן ב סב",
@@ -3797,9 +3797,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-63",
+      "uri": "jbr:text-likuteymoharan-2-63",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "346",
       "rdfs:label": "ליקוטי מוהר''ן ב סג",
@@ -3808,9 +3808,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-64",
+      "uri": "jbr:text-likuteymoharan-2-64",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "347",
       "rdfs:label": "ליקוטי מוהר''ן ב סד",
@@ -3819,9 +3819,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-65",
+      "uri": "jbr:text-likuteymoharan-2-65",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "348",
       "rdfs:label": "ליקוטי מוהר''ן ב סה",
@@ -3830,9 +3830,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-66",
+      "uri": "jbr:text-likuteymoharan-2-66",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "349",
       "rdfs:label": "ליקוטי מוהר''ן ב סו",
@@ -3841,9 +3841,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-67",
+      "uri": "jbr:text-likuteymoharan-2-67",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "350",
       "rdfs:label": "ליקוטי מוהר''ן ב סז",
@@ -3852,9 +3852,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-68",
+      "uri": "jbr:text-likuteymoharan-2-68",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "351",
       "rdfs:label": "ליקוטי מוהר''ן ב סח",
@@ -3863,9 +3863,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-69",
+      "uri": "jbr:text-likuteymoharan-2-69",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "352",
       "rdfs:label": "ליקוטי מוהר''ן ב סט",
@@ -3874,9 +3874,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-70",
+      "uri": "jbr:text-likuteymoharan-2-70",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "353",
       "rdfs:label": "ליקוטי מוהר''ן ב ע",
@@ -3885,9 +3885,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-71",
+      "uri": "jbr:text-likuteymoharan-2-71",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "354",
       "rdfs:label": "ליקוטי מוהר''ן ב עא",
@@ -3896,9 +3896,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-72",
+      "uri": "jbr:text-likuteymoharan-2-72",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "355",
       "rdfs:label": "ליקוטי מוהר''ן ב עב",
@@ -3907,9 +3907,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-73",
+      "uri": "jbr:text-likuteymoharan-2-73",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "356",
       "rdfs:label": "ליקוטי מוהר''ן ב עג",
@@ -3918,9 +3918,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-74",
+      "uri": "jbr:text-likuteymoharan-2-74",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "357",
       "rdfs:label": "ליקוטי מוהר''ן ב עד",
@@ -3929,9 +3929,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-75",
+      "uri": "jbr:text-likuteymoharan-2-75",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "358",
       "rdfs:label": "ליקוטי מוהר''ן ב עה",
@@ -3940,9 +3940,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-76",
+      "uri": "jbr:text-likuteymoharan-2-76",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "359",
       "rdfs:label": "ליקוטי מוהר''ן ב עו",
@@ -3951,9 +3951,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-77",
+      "uri": "jbr:text-likuteymoharan-2-77",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "360",
       "rdfs:label": "ליקוטי מוהר''ן ב עז",
@@ -3962,9 +3962,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-78",
+      "uri": "jbr:text-likuteymoharan-2-78",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "361",
       "rdfs:label": "ליקוטי מוהר''ן ב עח",
@@ -3973,9 +3973,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-79",
+      "uri": "jbr:text-likuteymoharan-2-79",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "362",
       "rdfs:label": "ליקוטי מוהר''ן ב עט",
@@ -3984,9 +3984,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-80",
+      "uri": "jbr:text-likuteymoharan-2-80",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "363",
       "rdfs:label": "ליקוטי מוהר''ן ב פ",
@@ -3995,9 +3995,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-81",
+      "uri": "jbr:text-likuteymoharan-2-81",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "364",
       "rdfs:label": "ליקוטי מוהר''ן ב פא",
@@ -4006,9 +4006,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-82",
+      "uri": "jbr:text-likuteymoharan-2-82",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "365",
       "rdfs:label": "ליקוטי מוהר''ן ב פב",
@@ -4017,9 +4017,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-83",
+      "uri": "jbr:text-likuteymoharan-2-83",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "366",
       "rdfs:label": "ליקוטי מוהר''ן ב פג",
@@ -4028,9 +4028,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-84",
+      "uri": "jbr:text-likuteymoharan-2-84",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "367",
       "rdfs:label": "ליקוטי מוהר''ן ב פד",
@@ -4039,9 +4039,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-85",
+      "uri": "jbr:text-likuteymoharan-2-85",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "368",
       "rdfs:label": "ליקוטי מוהר''ן ב פה",
@@ -4050,9 +4050,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-86",
+      "uri": "jbr:text-likuteymoharan-2-86",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "369",
       "rdfs:label": "ליקוטי מוהר''ן ב פו",
@@ -4061,9 +4061,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-87",
+      "uri": "jbr:text-likuteymoharan-2-87",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "370",
       "rdfs:label": "ליקוטי מוהר''ן ב פז",
@@ -4072,9 +4072,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-88",
+      "uri": "jbr:text-likuteymoharan-2-88",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "371",
       "rdfs:label": "ליקוטי מוהר''ן ב פח",
@@ -4083,9 +4083,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-89",
+      "uri": "jbr:text-likuteymoharan-2-89",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "372",
       "rdfs:label": "ליקוטי מוהר''ן ב פט",
@@ -4094,9 +4094,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-90",
+      "uri": "jbr:text-likuteymoharan-2-90",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "373",
       "rdfs:label": "ליקוטי מוהר''ן ב צ",
@@ -4105,9 +4105,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-91",
+      "uri": "jbr:text-likuteymoharan-2-91",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "374",
       "rdfs:label": "ליקוטי מוהר''ן ב צא",
@@ -4116,9 +4116,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-92",
+      "uri": "jbr:text-likuteymoharan-2-92",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "375",
       "rdfs:label": "ליקוטי מוהר''ן ב צב",
@@ -4127,9 +4127,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-93",
+      "uri": "jbr:text-likuteymoharan-2-93",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "376",
       "rdfs:label": "ליקוטי מוהר''ן ב צג",
@@ -4138,9 +4138,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-94",
+      "uri": "jbr:text-likuteymoharan-2-94",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "377",
       "rdfs:label": "ליקוטי מוהר''ן ב צד",
@@ -4149,9 +4149,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-95",
+      "uri": "jbr:text-likuteymoharan-2-95",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "378",
       "rdfs:label": "ליקוטי מוהר''ן ב צה",
@@ -4160,9 +4160,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-96",
+      "uri": "jbr:text-likuteymoharan-2-96",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "379",
       "rdfs:label": "ליקוטי מוהר''ן ב צו",
@@ -4171,9 +4171,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-97",
+      "uri": "jbr:text-likuteymoharan-2-97",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "380",
       "rdfs:label": "ליקוטי מוהר''ן ב צז",
@@ -4182,9 +4182,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-98",
+      "uri": "jbr:text-likuteymoharan-2-98",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "381",
       "rdfs:label": "ליקוטי מוהר''ן ב צח",
@@ -4193,9 +4193,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-99",
+      "uri": "jbr:text-likuteymoharan-2-99",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "382",
       "rdfs:label": "ליקוטי מוהר''ן ב צט",
@@ -4204,9 +4204,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-100",
+      "uri": "jbr:text-likuteymoharan-2-100",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "383",
       "rdfs:label": "ליקוטי מוהר''ן ב ק",
@@ -4215,9 +4215,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-101",
+      "uri": "jbr:text-likuteymoharan-2-101",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "384",
       "rdfs:label": "ליקוטי מוהר''ן ב קא",
@@ -4226,9 +4226,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-103",
+      "uri": "jbr:text-likuteymoharan-2-103",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "385",
       "rdfs:label": "ליקוטי מוהר''ן ב קג",
@@ -4237,9 +4237,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-104",
+      "uri": "jbr:text-likuteymoharan-2-104",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "386",
       "rdfs:label": "ליקוטי מוהר''ן ב קד",
@@ -4248,9 +4248,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-105",
+      "uri": "jbr:text-likuteymoharan-2-105",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "387",
       "rdfs:label": "ליקוטי מוהר''ן ב קה",
@@ -4259,9 +4259,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-106",
+      "uri": "jbr:text-likuteymoharan-2-106",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "388",
       "rdfs:label": "ליקוטי מוהר''ן ב קו",
@@ -4270,9 +4270,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-107",
+      "uri": "jbr:text-likuteymoharan-2-107",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "389",
       "rdfs:label": "ליקוטי מוהר''ן ב קז",
@@ -4281,9 +4281,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-108",
+      "uri": "jbr:text-likuteymoharan-2-108",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "390",
       "rdfs:label": "ליקוטי מוהר''ן ב קח",
@@ -4292,9 +4292,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-109",
+      "uri": "jbr:text-likuteymoharan-2-109",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "391",
       "rdfs:label": "ליקוטי מוהר''ן ב קט",
@@ -4303,9 +4303,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-110",
+      "uri": "jbr:text-likuteymoharan-2-110",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "392",
       "rdfs:label": "ליקוטי מוהר''ן ב קי",
@@ -4314,9 +4314,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-111",
+      "uri": "jbr:text-likuteymoharan-2-111",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "393",
       "rdfs:label": "ליקוטי מוהר''ן ב קיא",
@@ -4325,9 +4325,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-112",
+      "uri": "jbr:text-likuteymoharan-2-112",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "394",
       "rdfs:label": "ליקוטי מוהר''ן ב קיב",
@@ -4336,9 +4336,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-113",
+      "uri": "jbr:text-likuteymoharan-2-113",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "395",
       "rdfs:label": "ליקוטי מוהר''ן ב קיג",
@@ -4347,9 +4347,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-114",
+      "uri": "jbr:text-likuteymoharan-2-114",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "396",
       "rdfs:label": "ליקוטי מוהר''ן ב קיד",
@@ -4358,9 +4358,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-115",
+      "uri": "jbr:text-likuteymoharan-2-115",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "397",
       "rdfs:label": "ליקוטי מוהר''ן ב קטו",
@@ -4369,9 +4369,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-116",
+      "uri": "jbr:text-likuteymoharan-2-116",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "398",
       "rdfs:label": "ליקוטי מוהר''ן ב קטז",
@@ -4380,9 +4380,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-117",
+      "uri": "jbr:text-likuteymoharan-2-117",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "399",
       "rdfs:label": "ליקוטי מוהר''ן ב קיז",
@@ -4391,9 +4391,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-118",
+      "uri": "jbr:text-likuteymoharan-2-118",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "400",
       "rdfs:label": "ליקוטי מוהר''ן ב קיח",
@@ -4402,9 +4402,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-119",
+      "uri": "jbr:text-likuteymoharan-2-119",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "401",
       "rdfs:label": "ליקוטי מוהר''ן ב קיט",
@@ -4413,9 +4413,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-120",
+      "uri": "jbr:text-likuteymoharan-2-120",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "402",
       "rdfs:label": "ליקוטי מוהר''ן ב קכ",
@@ -4424,9 +4424,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-121",
+      "uri": "jbr:text-likuteymoharan-2-121",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "403",
       "rdfs:label": "ליקוטי מוהר''ן ב קכא",
@@ -4435,9 +4435,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-122",
+      "uri": "jbr:text-likuteymoharan-2-122",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "404",
       "rdfs:label": "ליקוטי מוהר''ן ב קכב",
@@ -4446,9 +4446,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-123",
+      "uri": "jbr:text-likuteymoharan-2-123",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "405",
       "rdfs:label": "ליקוטי מוהר''ן ב קכג",
@@ -4457,9 +4457,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-124",
+      "uri": "jbr:text-likuteymoharan-2-124",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "406",
       "rdfs:label": "ליקוטי מוהר''ן ב קכד",
@@ -4468,9 +4468,9 @@
     },
     {
       "jbo:within": [
-        "jbr:likuteymoharan-2"
+        "jbr:section-likuteymoharan-2"
       ],
-      "uri": "jbr:likuteymoharan-2-125",
+      "uri": "jbr:text-likuteymoharan-2-125",
       "jbo:book": "jbr:book-likuteymoharan",
       "jbo:position": "407",
       "rdfs:label": "ליקוטי מוהר''ן ב קכה",

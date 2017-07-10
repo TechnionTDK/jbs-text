@@ -1,25 +1,25 @@
 {
   "subjects": [
     {
-      "uri": "jbr:tanach-16-1",
+      "uri": "jbr:section-tanach-16-1",
       "rdfs:label": "יואל פרק א",
       "jbo:position": "1",
       "jbo:book": "jbr:book-yoel"
     },
     {
-      "uri": "jbr:tanach-16-2",
+      "uri": "jbr:section-tanach-16-2",
       "rdfs:label": "יואל פרק ב",
       "jbo:position": "2",
       "jbo:book": "jbr:book-yoel"
     },
     {
-      "uri": "jbr:tanach-16-3",
+      "uri": "jbr:section-tanach-16-3",
       "rdfs:label": "יואל פרק ג",
       "jbo:position": "3",
       "jbo:book": "jbr:book-yoel"
     },
     {
-      "uri": "jbr:tanach-16-4",
+      "uri": "jbr:section-tanach-16-4",
       "rdfs:label": "יואל פרק ד",
       "jbo:position": "4",
       "jbo:book": "jbr:book-yoel"

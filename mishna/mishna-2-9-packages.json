@@ -1,56 +1,56 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna-2",
+      "uri": "jbr:section-mishna-2",
       "rdfs:label": "סדר מועד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2"
+        "jbr:section-mishna-2"
       ],
-      "uri": "jbr:mishna-2-9",
+      "uri": "jbr:section-mishna-2-9",
       "rdfs:label": "﻿משנה מסכת תענית",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "9"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-9"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-9"
       ],
-      "uri": "jbr:mishna-2-9-1",
+      "uri": "jbr:section-mishna-2-9-1",
       "rdfs:label": "משנה תענית פרק א",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-9"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-9"
       ],
-      "uri": "jbr:mishna-2-9-2",
+      "uri": "jbr:section-mishna-2-9-2",
       "rdfs:label": "משנה תענית פרק ב",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-9"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-9"
       ],
-      "uri": "jbr:mishna-2-9-3",
+      "uri": "jbr:section-mishna-2-9-3",
       "rdfs:label": "משנה תענית פרק ג",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-9"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-9"
       ],
-      "uri": "jbr:mishna-2-9-4",
+      "uri": "jbr:section-mishna-2-9-4",
       "rdfs:label": "משנה תענית פרק ד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"

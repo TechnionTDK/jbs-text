@@ -1,25 +1,25 @@
 {
   "subjects": [
     {
-      "uri": "jbr:tanach-31-1",
+      "uri": "jbr:section-tanach-31-1",
       "rdfs:label": "רות פרק א",
       "jbo:position": "1",
       "jbo:book": "jbr:book-rut"
     },
     {
-      "uri": "jbr:tanach-31-2",
+      "uri": "jbr:section-tanach-31-2",
       "rdfs:label": "רות פרק ב",
       "jbo:position": "2",
       "jbo:book": "jbr:book-rut"
     },
     {
-      "uri": "jbr:tanach-31-3",
+      "uri": "jbr:section-tanach-31-3",
       "rdfs:label": "רות פרק ג",
       "jbo:position": "3",
       "jbo:book": "jbr:book-rut"
     },
     {
-      "uri": "jbr:tanach-31-4",
+      "uri": "jbr:section-tanach-31-4",
       "rdfs:label": "רות פרק ד",
       "jbo:position": "4",
       "jbo:book": "jbr:book-rut"

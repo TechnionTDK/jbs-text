@@ -1,46 +1,46 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna-4",
+      "uri": "jbr:section-mishna-4",
       "rdfs:label": "סדר נזיקין",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
-        "jbr:mishna-4"
+        "jbr:section-mishna-4"
       ],
-      "uri": "jbr:mishna-4-5",
+      "uri": "jbr:section-mishna-4-5",
       "rdfs:label": "﻿משנה מסכת מכות",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:mishna-4",
-        "jbr:mishna-4-5"
+        "jbr:section-mishna-4",
+        "jbr:section-mishna-4-5"
       ],
-      "uri": "jbr:mishna-4-5-1",
+      "uri": "jbr:section-mishna-4-5-1",
       "rdfs:label": "משנה מכות פרק א",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:mishna-4",
-        "jbr:mishna-4-5"
+        "jbr:section-mishna-4",
+        "jbr:section-mishna-4-5"
       ],
-      "uri": "jbr:mishna-4-5-2",
+      "uri": "jbr:section-mishna-4-5-2",
       "rdfs:label": "משנה מכות פרק ב",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-4",
-        "jbr:mishna-4-5"
+        "jbr:section-mishna-4",
+        "jbr:section-mishna-4-5"
       ],
-      "uri": "jbr:mishna-4-5-3",
+      "uri": "jbr:section-mishna-4-5-3",
       "rdfs:label": "משנה מכות פרק ג",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"

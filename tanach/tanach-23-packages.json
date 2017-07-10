@@ -1,19 +1,19 @@
 {
   "subjects": [
     {
-      "uri": "jbr:tanach-23-1",
+      "uri": "jbr:section-tanach-23-1",
       "rdfs:label": "צפניה פרק א",
       "jbo:position": "1",
       "jbo:book": "jbr:book-tzefanya"
     },
     {
-      "uri": "jbr:tanach-23-2",
+      "uri": "jbr:section-tanach-23-2",
       "rdfs:label": "צפניה פרק ב",
       "jbo:position": "2",
       "jbo:book": "jbr:book-tzefanya"
     },
     {
-      "uri": "jbr:tanach-23-3",
+      "uri": "jbr:section-tanach-23-3",
       "rdfs:label": "צפניה פרק ג",
       "jbo:position": "3",
       "jbo:book": "jbr:book-tzefanya"

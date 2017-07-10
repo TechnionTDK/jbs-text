@@ -1,96 +1,96 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna-2",
+      "uri": "jbr:section-mishna-2",
       "rdfs:label": "סדר מועד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2"
+        "jbr:section-mishna-2"
       ],
-      "uri": "jbr:mishna-2-5",
+      "uri": "jbr:section-mishna-2-5",
       "rdfs:label": "﻿משנה מסכת יומא",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-5"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-5"
       ],
-      "uri": "jbr:mishna-2-5-1",
+      "uri": "jbr:section-mishna-2-5-1",
       "rdfs:label": "משנה יומא פרק א",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-5"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-5"
       ],
-      "uri": "jbr:mishna-2-5-2",
+      "uri": "jbr:section-mishna-2-5-2",
       "rdfs:label": "משנה יומא פרק ב",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-5"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-5"
       ],
-      "uri": "jbr:mishna-2-5-3",
+      "uri": "jbr:section-mishna-2-5-3",
       "rdfs:label": "משנה יומא פרק ג",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-5"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-5"
       ],
-      "uri": "jbr:mishna-2-5-4",
+      "uri": "jbr:section-mishna-2-5-4",
       "rdfs:label": "משנה יומא פרק ד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-5"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-5"
       ],
-      "uri": "jbr:mishna-2-5-5",
+      "uri": "jbr:section-mishna-2-5-5",
       "rdfs:label": "משנה יומא פרק ה",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-5"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-5"
       ],
-      "uri": "jbr:mishna-2-5-6",
+      "uri": "jbr:section-mishna-2-5-6",
       "rdfs:label": "משנה יומא פרק ו",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-5"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-5"
       ],
-      "uri": "jbr:mishna-2-5-7",
+      "uri": "jbr:section-mishna-2-5-7",
       "rdfs:label": "משנה יומא פרק ז",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "7"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-5"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-5"
       ],
-      "uri": "jbr:mishna-2-5-8",
+      "uri": "jbr:section-mishna-2-5-8",
       "rdfs:label": "משנה יומא פרק ח",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "8"

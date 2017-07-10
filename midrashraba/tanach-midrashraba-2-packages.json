@@ -1,479 +1,529 @@
 {
   "subjects": [
     {
-      "jbo:within": [
-        "jbr:tanach-midrashraba-2"
-      ],
-      "uri": "jbr:tanach-midrashraba-2",
+      "uri": "jbr:section-tanach-midrashraba-2",
       "jbo:text": "מדרש רבה - חומש שמות",
+      "jbo:book": "jbr:book-midrashraba",
       "rdfs:label": "מדרש רבה חומש שמות"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-1",
+      "uri": "jbr:section-tanach-midrashraba-2-1",
       "jbo:text": "פרשה א",
       "rdfs:label": "מדרש רבה חומש שמות א",
+      "jbo:book": "midrashraba",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-2",
+      "uri": "jbr:section-tanach-midrashraba-2-2",
       "jbo:text": "פרשה ב",
       "rdfs:label": "מדרש רבה חומש שמות ב",
+      "jbo:book": "midrashraba",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-3",
+      "uri": "jbr:section-tanach-midrashraba-2-3",
       "jbo:text": "פרשה ג",
       "rdfs:label": "מדרש רבה חומש שמות ג",
+      "jbo:book": "midrashraba",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-4",
+      "uri": "jbr:section-tanach-midrashraba-2-4",
       "jbo:text": "פרשה ד",
       "rdfs:label": "מדרש רבה חומש שמות ד",
+      "jbo:book": "midrashraba",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-5",
+      "uri": "jbr:section-tanach-midrashraba-2-5",
       "jbo:text": "פרשה ה",
       "rdfs:label": "מדרש רבה חומש שמות ה",
+      "jbo:book": "midrashraba",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-6",
+      "uri": "jbr:section-tanach-midrashraba-2-6",
       "jbo:text": "פרשה ו",
       "rdfs:label": "מדרש רבה חומש שמות ו",
+      "jbo:book": "midrashraba",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-7",
+      "uri": "jbr:section-tanach-midrashraba-2-7",
       "jbo:text": "פרשה ז",
       "rdfs:label": "מדרש רבה חומש שמות ז",
+      "jbo:book": "midrashraba",
       "jbo:position": "7"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-8",
+      "uri": "jbr:section-tanach-midrashraba-2-8",
       "jbo:text": "פרשה ח",
       "rdfs:label": "מדרש רבה חומש שמות ח",
+      "jbo:book": "midrashraba",
       "jbo:position": "8"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-9",
+      "uri": "jbr:section-tanach-midrashraba-2-9",
       "jbo:text": "פרשה ט",
       "rdfs:label": "מדרש רבה חומש שמות ט",
+      "jbo:book": "midrashraba",
       "jbo:position": "9"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-10",
+      "uri": "jbr:section-tanach-midrashraba-2-10",
       "jbo:text": "פרשה י",
       "rdfs:label": "מדרש רבה חומש שמות י",
+      "jbo:book": "midrashraba",
       "jbo:position": "10"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-11",
+      "uri": "jbr:section-tanach-midrashraba-2-11",
       "jbo:text": "פרשה יא",
       "rdfs:label": "מדרש רבה חומש שמות יא",
+      "jbo:book": "midrashraba",
       "jbo:position": "11"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-12",
+      "uri": "jbr:section-tanach-midrashraba-2-12",
       "jbo:text": "פרשה יב",
       "rdfs:label": "מדרש רבה חומש שמות יב",
+      "jbo:book": "midrashraba",
       "jbo:position": "12"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-13",
+      "uri": "jbr:section-tanach-midrashraba-2-13",
       "jbo:text": "פרשה יג",
       "rdfs:label": "מדרש רבה חומש שמות יג",
+      "jbo:book": "midrashraba",
       "jbo:position": "13"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-14",
+      "uri": "jbr:section-tanach-midrashraba-2-14",
       "jbo:text": "פרשה יד",
       "rdfs:label": "מדרש רבה חומש שמות יד",
+      "jbo:book": "midrashraba",
       "jbo:position": "14"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-15",
+      "uri": "jbr:section-tanach-midrashraba-2-15",
       "jbo:text": "פרשה טו",
       "rdfs:label": "מדרש רבה חומש שמות טו",
+      "jbo:book": "midrashraba",
       "jbo:position": "15"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-16",
+      "uri": "jbr:section-tanach-midrashraba-2-16",
       "jbo:text": "פרשה טז",
       "rdfs:label": "מדרש רבה חומש שמות טז",
+      "jbo:book": "midrashraba",
       "jbo:position": "16"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-17",
+      "uri": "jbr:section-tanach-midrashraba-2-17",
       "jbo:text": "פרשה יז",
       "rdfs:label": "מדרש רבה חומש שמות יז",
+      "jbo:book": "midrashraba",
       "jbo:position": "17"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-18",
+      "uri": "jbr:section-tanach-midrashraba-2-18",
       "jbo:text": "פרשה יח",
       "rdfs:label": "מדרש רבה חומש שמות יח",
+      "jbo:book": "midrashraba",
       "jbo:position": "18"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-19",
+      "uri": "jbr:section-tanach-midrashraba-2-19",
       "jbo:text": "פרשה יט",
       "rdfs:label": "מדרש רבה חומש שמות יט",
+      "jbo:book": "midrashraba",
       "jbo:position": "19"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-20",
+      "uri": "jbr:section-tanach-midrashraba-2-20",
       "jbo:text": "פרשה כ",
       "rdfs:label": "מדרש רבה חומש שמות כ",
+      "jbo:book": "midrashraba",
       "jbo:position": "20"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-21",
+      "uri": "jbr:section-tanach-midrashraba-2-21",
       "jbo:text": "פרשה כא",
       "rdfs:label": "מדרש רבה חומש שמות כא",
+      "jbo:book": "midrashraba",
       "jbo:position": "21"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-22",
+      "uri": "jbr:section-tanach-midrashraba-2-22",
       "jbo:text": "פרשה כב",
       "rdfs:label": "מדרש רבה חומש שמות כב",
+      "jbo:book": "midrashraba",
       "jbo:position": "22"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-23",
+      "uri": "jbr:section-tanach-midrashraba-2-23",
       "jbo:text": "פרשה כג",
       "rdfs:label": "מדרש רבה חומש שמות כג",
+      "jbo:book": "midrashraba",
       "jbo:position": "23"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-24",
+      "uri": "jbr:section-tanach-midrashraba-2-24",
       "jbo:text": "פרשה כד",
       "rdfs:label": "מדרש רבה חומש שמות כד",
+      "jbo:book": "midrashraba",
       "jbo:position": "24"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-25",
+      "uri": "jbr:section-tanach-midrashraba-2-25",
       "jbo:text": "פרשה כה",
       "rdfs:label": "מדרש רבה חומש שמות כה",
+      "jbo:book": "midrashraba",
       "jbo:position": "25"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-26",
+      "uri": "jbr:section-tanach-midrashraba-2-26",
       "jbo:text": "פרשה כו",
       "rdfs:label": "מדרש רבה חומש שמות כו",
+      "jbo:book": "midrashraba",
       "jbo:position": "26"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-27",
+      "uri": "jbr:section-tanach-midrashraba-2-27",
       "jbo:text": "פרשה כז",
       "rdfs:label": "מדרש רבה חומש שמות כז",
+      "jbo:book": "midrashraba",
       "jbo:position": "27"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-28",
+      "uri": "jbr:section-tanach-midrashraba-2-28",
       "jbo:text": "פרשה כח",
       "rdfs:label": "מדרש רבה חומש שמות כח",
+      "jbo:book": "midrashraba",
       "jbo:position": "28"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-29",
+      "uri": "jbr:section-tanach-midrashraba-2-29",
       "jbo:text": "פרשה כט",
       "rdfs:label": "מדרש רבה חומש שמות כט",
+      "jbo:book": "midrashraba",
       "jbo:position": "29"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-30",
+      "uri": "jbr:section-tanach-midrashraba-2-30",
       "jbo:text": "פרשה ל",
       "rdfs:label": "מדרש רבה חומש שמות ל",
+      "jbo:book": "midrashraba",
       "jbo:position": "30"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-31",
+      "uri": "jbr:section-tanach-midrashraba-2-31",
       "jbo:text": "פרשה לא",
       "rdfs:label": "מדרש רבה חומש שמות לא",
+      "jbo:book": "midrashraba",
       "jbo:position": "31"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-32",
+      "uri": "jbr:section-tanach-midrashraba-2-32",
       "jbo:text": "פרשה לב",
       "rdfs:label": "מדרש רבה חומש שמות לב",
+      "jbo:book": "midrashraba",
       "jbo:position": "32"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-33",
+      "uri": "jbr:section-tanach-midrashraba-2-33",
       "jbo:text": "פרשה לג",
       "rdfs:label": "מדרש רבה חומש שמות לג",
+      "jbo:book": "midrashraba",
       "jbo:position": "33"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-34",
+      "uri": "jbr:section-tanach-midrashraba-2-34",
       "jbo:text": "פרשה לד",
       "rdfs:label": "מדרש רבה חומש שמות לד",
+      "jbo:book": "midrashraba",
       "jbo:position": "34"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-35",
+      "uri": "jbr:section-tanach-midrashraba-2-35",
       "jbo:text": "פרשה לה",
       "rdfs:label": "מדרש רבה חומש שמות לה",
+      "jbo:book": "midrashraba",
       "jbo:position": "35"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-36",
+      "uri": "jbr:section-tanach-midrashraba-2-36",
       "jbo:text": "פרשה לו",
       "rdfs:label": "מדרש רבה חומש שמות לו",
+      "jbo:book": "midrashraba",
       "jbo:position": "36"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-37",
+      "uri": "jbr:section-tanach-midrashraba-2-37",
       "jbo:text": "פרשה לז",
       "rdfs:label": "מדרש רבה חומש שמות לז",
+      "jbo:book": "midrashraba",
       "jbo:position": "37"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-38",
+      "uri": "jbr:section-tanach-midrashraba-2-38",
       "jbo:text": "פרשה לח",
       "rdfs:label": "מדרש רבה חומש שמות לח",
+      "jbo:book": "midrashraba",
       "jbo:position": "38"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-39",
+      "uri": "jbr:section-tanach-midrashraba-2-39",
       "jbo:text": "פרשה לט",
       "rdfs:label": "מדרש רבה חומש שמות לט",
+      "jbo:book": "midrashraba",
       "jbo:position": "39"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-40",
+      "uri": "jbr:section-tanach-midrashraba-2-40",
       "jbo:text": "פרשה מ",
       "rdfs:label": "מדרש רבה חומש שמות מ",
+      "jbo:book": "midrashraba",
       "jbo:position": "40"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-41",
+      "uri": "jbr:section-tanach-midrashraba-2-41",
       "jbo:text": "פרשה מא",
       "rdfs:label": "מדרש רבה חומש שמות מא",
+      "jbo:book": "midrashraba",
       "jbo:position": "41"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-42",
+      "uri": "jbr:section-tanach-midrashraba-2-42",
       "jbo:text": "פרשה מב",
       "rdfs:label": "מדרש רבה חומש שמות מב",
+      "jbo:book": "midrashraba",
       "jbo:position": "42"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-43",
+      "uri": "jbr:section-tanach-midrashraba-2-43",
       "jbo:text": "פרשה מג",
       "rdfs:label": "מדרש רבה חומש שמות מג",
+      "jbo:book": "midrashraba",
       "jbo:position": "43"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-44",
+      "uri": "jbr:section-tanach-midrashraba-2-44",
       "jbo:text": "פרשה מד",
       "rdfs:label": "מדרש רבה חומש שמות מד",
+      "jbo:book": "midrashraba",
       "jbo:position": "44"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-45",
+      "uri": "jbr:section-tanach-midrashraba-2-45",
       "jbo:text": "פרשה מה",
       "rdfs:label": "מדרש רבה חומש שמות מה",
+      "jbo:book": "midrashraba",
       "jbo:position": "45"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-46",
+      "uri": "jbr:section-tanach-midrashraba-2-46",
       "jbo:text": "פרשה מו",
       "rdfs:label": "מדרש רבה חומש שמות מו",
+      "jbo:book": "midrashraba",
       "jbo:position": "46"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-47",
+      "uri": "jbr:section-tanach-midrashraba-2-47",
       "jbo:text": "פרשה מז",
       "rdfs:label": "מדרש רבה חומש שמות מז",
+      "jbo:book": "midrashraba",
       "jbo:position": "47"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-48",
+      "uri": "jbr:section-tanach-midrashraba-2-48",
       "jbo:text": "פרשה מח",
       "rdfs:label": "מדרש רבה חומש שמות מח",
+      "jbo:book": "midrashraba",
       "jbo:position": "48"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-49",
+      "uri": "jbr:section-tanach-midrashraba-2-49",
       "jbo:text": "פרשה מט",
       "rdfs:label": "מדרש רבה חומש שמות מט",
+      "jbo:book": "midrashraba",
       "jbo:position": "49"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-50",
+      "uri": "jbr:section-tanach-midrashraba-2-50",
       "jbo:text": "פרשה נ",
       "rdfs:label": "מדרש רבה חומש שמות נ",
+      "jbo:book": "midrashraba",
       "jbo:position": "50"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-51",
+      "uri": "jbr:section-tanach-midrashraba-2-51",
       "jbo:text": "פרשה נא",
       "rdfs:label": "מדרש רבה חומש שמות נא",
+      "jbo:book": "midrashraba",
       "jbo:position": "51"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-2"
+        "jbr:section-tanach-midrashraba-2"
       ],
-      "uri": "jbr:tanach-midrashraba-2-52",
+      "uri": "jbr:section-tanach-midrashraba-2-52",
       "jbo:text": "פרשה נב",
       "rdfs:label": "מדרש רבה חומש שמות נב",
+      "jbo:book": "midrashraba",
       "jbo:position": "52"
     }
   ]

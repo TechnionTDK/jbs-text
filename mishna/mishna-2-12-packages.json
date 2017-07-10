@@ -1,46 +1,46 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna-2",
+      "uri": "jbr:section-mishna-2",
       "rdfs:label": "סדר מועד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2"
+        "jbr:section-mishna-2"
       ],
-      "uri": "jbr:mishna-2-12",
+      "uri": "jbr:section-mishna-2-12",
       "rdfs:label": "﻿משנה מסכת חגיגה",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "12"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-12"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-12"
       ],
-      "uri": "jbr:mishna-2-12-1",
+      "uri": "jbr:section-mishna-2-12-1",
       "rdfs:label": "משנה חגיגה פרק א",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-12"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-12"
       ],
-      "uri": "jbr:mishna-2-12-2",
+      "uri": "jbr:section-mishna-2-12-2",
       "rdfs:label": "משנה חגיגה פרק ב",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-12"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-12"
       ],
-      "uri": "jbr:mishna-2-12-3",
+      "uri": "jbr:section-mishna-2-12-3",
       "rdfs:label": "משנה חגיגה פרק ג",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"

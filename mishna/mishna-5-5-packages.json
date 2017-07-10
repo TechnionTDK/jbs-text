@@ -1,106 +1,106 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna-5",
+      "uri": "jbr:section-mishna-5",
       "rdfs:label": "סדר קדשים",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:mishna-5"
+        "jbr:section-mishna-5"
       ],
-      "uri": "jbr:mishna-5-5",
+      "uri": "jbr:section-mishna-5-5",
       "rdfs:label": "﻿משנה מסכת ערכין",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:mishna-5",
-        "jbr:mishna-5-5"
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-5"
       ],
-      "uri": "jbr:mishna-5-5-1",
+      "uri": "jbr:section-mishna-5-5-1",
       "rdfs:label": "משנה ערכין פרק א",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:mishna-5",
-        "jbr:mishna-5-5"
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-5"
       ],
-      "uri": "jbr:mishna-5-5-2",
+      "uri": "jbr:section-mishna-5-5-2",
       "rdfs:label": "משנה ערכין פרק ב",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-5",
-        "jbr:mishna-5-5"
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-5"
       ],
-      "uri": "jbr:mishna-5-5-3",
+      "uri": "jbr:section-mishna-5-5-3",
       "rdfs:label": "משנה ערכין פרק ג",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
-        "jbr:mishna-5",
-        "jbr:mishna-5-5"
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-5"
       ],
-      "uri": "jbr:mishna-5-5-4",
+      "uri": "jbr:section-mishna-5-5-4",
       "rdfs:label": "משנה ערכין פרק ד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
-        "jbr:mishna-5",
-        "jbr:mishna-5-5"
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-5"
       ],
-      "uri": "jbr:mishna-5-5-5",
+      "uri": "jbr:section-mishna-5-5-5",
       "rdfs:label": "משנה ערכין פרק ה",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:mishna-5",
-        "jbr:mishna-5-5"
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-5"
       ],
-      "uri": "jbr:mishna-5-5-6",
+      "uri": "jbr:section-mishna-5-5-6",
       "rdfs:label": "משנה ערכין פרק ו",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
-        "jbr:mishna-5",
-        "jbr:mishna-5-5"
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-5"
       ],
-      "uri": "jbr:mishna-5-5-7",
+      "uri": "jbr:section-mishna-5-5-7",
       "rdfs:label": "משנה ערכין פרק ז",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "7"
     },
     {
       "jbo:within": [
-        "jbr:mishna-5",
-        "jbr:mishna-5-5"
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-5"
       ],
-      "uri": "jbr:mishna-5-5-8",
+      "uri": "jbr:section-mishna-5-5-8",
       "rdfs:label": "משנה ערכין פרק ח",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "8"
     },
     {
       "jbo:within": [
-        "jbr:mishna-5",
-        "jbr:mishna-5-5"
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-5"
       ],
-      "uri": "jbr:mishna-5-5-9",
+      "uri": "jbr:section-mishna-5-5-9",
       "rdfs:label": "משנה ערכין פרק ט",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "9"

@@ -1,56 +1,56 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna-3",
+      "uri": "jbr:section-mishna-3",
       "rdfs:label": "סדר נשים",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3"
+        "jbr:section-mishna-3"
       ],
-      "uri": "jbr:mishna-3-7",
+      "uri": "jbr:section-mishna-3-7",
       "rdfs:label": "﻿משנה מסכת קידושין",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "7"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-7"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-7"
       ],
-      "uri": "jbr:mishna-3-7-1",
+      "uri": "jbr:section-mishna-3-7-1",
       "rdfs:label": "משנה קידושין פרק א",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-7"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-7"
       ],
-      "uri": "jbr:mishna-3-7-2",
+      "uri": "jbr:section-mishna-3-7-2",
       "rdfs:label": "משנה קידושין פרק ב",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-7"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-7"
       ],
-      "uri": "jbr:mishna-3-7-3",
+      "uri": "jbr:section-mishna-3-7-3",
       "rdfs:label": "משנה קידושין פרק ג",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-7"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-7"
       ],
-      "uri": "jbr:mishna-3-7-4",
+      "uri": "jbr:section-mishna-3-7-4",
       "rdfs:label": "משנה קידושין פרק ד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"

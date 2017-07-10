@@ -1,13 +1,13 @@
 {
   "subjects": [
     {
-      "uri": "jbr:tanach-24-1",
+      "uri": "jbr:section-tanach-24-1",
       "rdfs:label": "חגי פרק א",
       "jbo:position": "1",
       "jbo:book": "jbr:book-chagay"
     },
     {
-      "uri": "jbr:tanach-24-2",
+      "uri": "jbr:section-tanach-24-2",
       "rdfs:label": "חגי פרק ב",
       "jbo:position": "2",
       "jbo:book": "jbr:book-chagay"

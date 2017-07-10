@@ -2,10 +2,10 @@
   "subjects": [
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-1"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-1"
       ],
-      "uri": "jbr:orot-1-1-1",
+      "uri": "jbr:text-orot-1-1-1",
       "jbo:position": "1",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ארץ ישראל א",
@@ -13,10 +13,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-1"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-1"
       ],
-      "uri": "jbr:orot-1-1-2",
+      "uri": "jbr:text-orot-1-1-2",
       "jbo:position": "2",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ארץ ישראל ב",
@@ -24,10 +24,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-1"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-1"
       ],
-      "uri": "jbr:orot-1-1-3",
+      "uri": "jbr:text-orot-1-1-3",
       "jbo:position": "3",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ארץ ישראל ג",
@@ -35,10 +35,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-1"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-1"
       ],
-      "uri": "jbr:orot-1-1-4",
+      "uri": "jbr:text-orot-1-1-4",
       "jbo:position": "4",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ארץ ישראל ד",
@@ -46,10 +46,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-1"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-1"
       ],
-      "uri": "jbr:orot-1-1-5",
+      "uri": "jbr:text-orot-1-1-5",
       "jbo:position": "5",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ארץ ישראל ה",
@@ -57,10 +57,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-1"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-1"
       ],
-      "uri": "jbr:orot-1-1-6",
+      "uri": "jbr:text-orot-1-1-6",
       "jbo:position": "6",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ארץ ישראל ו",
@@ -68,10 +68,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-1"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-1"
       ],
-      "uri": "jbr:orot-1-1-7",
+      "uri": "jbr:text-orot-1-1-7",
       "jbo:position": "7",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ארץ ישראל ז",
@@ -79,10 +79,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-1"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-1"
       ],
-      "uri": "jbr:orot-1-1-8",
+      "uri": "jbr:text-orot-1-1-8",
       "jbo:position": "8",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ארץ ישראל ח",
@@ -90,10 +90,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-2"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-2"
       ],
-      "uri": "jbr:orot-1-2-1",
+      "uri": "jbr:text-orot-1-2-1",
       "jbo:position": "9",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - המלחמה א",
@@ -101,10 +101,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-2"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-2"
       ],
-      "uri": "jbr:orot-1-2-2",
+      "uri": "jbr:text-orot-1-2-2",
       "jbo:position": "10",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - המלחמה ב",
@@ -112,10 +112,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-2"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-2"
       ],
-      "uri": "jbr:orot-1-2-3",
+      "uri": "jbr:text-orot-1-2-3",
       "jbo:position": "11",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - המלחמה ג",
@@ -123,10 +123,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-2"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-2"
       ],
-      "uri": "jbr:orot-1-2-4",
+      "uri": "jbr:text-orot-1-2-4",
       "jbo:position": "12",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - המלחמה ד",
@@ -134,10 +134,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-2"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-2"
       ],
-      "uri": "jbr:orot-1-2-5",
+      "uri": "jbr:text-orot-1-2-5",
       "jbo:position": "13",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - המלחמה ה",
@@ -145,10 +145,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-2"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-2"
       ],
-      "uri": "jbr:orot-1-2-6",
+      "uri": "jbr:text-orot-1-2-6",
       "jbo:position": "14",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - המלחמה ו",
@@ -156,10 +156,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-2"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-2"
       ],
-      "uri": "jbr:orot-1-2-7",
+      "uri": "jbr:text-orot-1-2-7",
       "jbo:position": "15",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - המלחמה ז",
@@ -167,10 +167,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-2"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-2"
       ],
-      "uri": "jbr:orot-1-2-8",
+      "uri": "jbr:text-orot-1-2-8",
       "jbo:position": "16",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - המלחמה ח",
@@ -178,10 +178,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-2"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-2"
       ],
-      "uri": "jbr:orot-1-2-9",
+      "uri": "jbr:text-orot-1-2-9",
       "jbo:position": "17",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - המלחמה ט",
@@ -189,10 +189,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-2"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-2"
       ],
-      "uri": "jbr:orot-1-2-10",
+      "uri": "jbr:text-orot-1-2-10",
       "jbo:position": "18",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - המלחמה י",
@@ -200,10 +200,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-1",
+      "uri": "jbr:text-orot-1-3-1",
       "jbo:position": "19",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו א",
@@ -211,10 +211,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-2",
+      "uri": "jbr:text-orot-1-3-2",
       "jbo:position": "20",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו ב",
@@ -222,10 +222,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-3",
+      "uri": "jbr:text-orot-1-3-3",
       "jbo:position": "21",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו ג",
@@ -233,10 +233,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-4",
+      "uri": "jbr:text-orot-1-3-4",
       "jbo:position": "22",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו ד",
@@ -244,10 +244,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-5",
+      "uri": "jbr:text-orot-1-3-5",
       "jbo:position": "23",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו ה",
@@ -255,10 +255,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-6",
+      "uri": "jbr:text-orot-1-3-6",
       "jbo:position": "24",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו ו",
@@ -266,10 +266,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-7",
+      "uri": "jbr:text-orot-1-3-7",
       "jbo:position": "25",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו ז",
@@ -277,10 +277,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-8",
+      "uri": "jbr:text-orot-1-3-8",
       "jbo:position": "26",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו ח",
@@ -288,10 +288,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-9",
+      "uri": "jbr:text-orot-1-3-9",
       "jbo:position": "27",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו ט",
@@ -299,10 +299,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-10",
+      "uri": "jbr:text-orot-1-3-10",
       "jbo:position": "28",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו י",
@@ -310,10 +310,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-11",
+      "uri": "jbr:text-orot-1-3-11",
       "jbo:position": "29",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו יא",
@@ -321,10 +321,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-12",
+      "uri": "jbr:text-orot-1-3-12",
       "jbo:position": "30",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו יב",
@@ -332,10 +332,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-13",
+      "uri": "jbr:text-orot-1-3-13",
       "jbo:position": "31",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו יג",
@@ -343,10 +343,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-14",
+      "uri": "jbr:text-orot-1-3-14",
       "jbo:position": "32",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו יד",
@@ -354,10 +354,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-15",
+      "uri": "jbr:text-orot-1-3-15",
       "jbo:position": "33",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו טו",
@@ -365,10 +365,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-16",
+      "uri": "jbr:text-orot-1-3-16",
       "jbo:position": "34",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו טז",
@@ -376,10 +376,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-17",
+      "uri": "jbr:text-orot-1-3-17",
       "jbo:position": "35",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו יז",
@@ -387,10 +387,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-18",
+      "uri": "jbr:text-orot-1-3-18",
       "jbo:position": "36",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו יח",
@@ -398,10 +398,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-19",
+      "uri": "jbr:text-orot-1-3-19",
       "jbo:position": "37",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו יט",
@@ -409,10 +409,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-20",
+      "uri": "jbr:text-orot-1-3-20",
       "jbo:position": "38",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו כ",
@@ -420,10 +420,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-21",
+      "uri": "jbr:text-orot-1-3-21",
       "jbo:position": "39",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו כא",
@@ -431,10 +431,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-22",
+      "uri": "jbr:text-orot-1-3-22",
       "jbo:position": "40",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו כב",
@@ -442,10 +442,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-23",
+      "uri": "jbr:text-orot-1-3-23",
       "jbo:position": "41",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו כג",
@@ -453,10 +453,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-24",
+      "uri": "jbr:text-orot-1-3-24",
       "jbo:position": "42",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו כד",
@@ -464,10 +464,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-25",
+      "uri": "jbr:text-orot-1-3-25",
       "jbo:position": "43",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו כה",
@@ -475,10 +475,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-26",
+      "uri": "jbr:text-orot-1-3-26",
       "jbo:position": "44",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו כו",
@@ -486,10 +486,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-27",
+      "uri": "jbr:text-orot-1-3-27",
       "jbo:position": "45",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו כז",
@@ -497,10 +497,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-28",
+      "uri": "jbr:text-orot-1-3-28",
       "jbo:position": "46",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו כח",
@@ -508,10 +508,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-29",
+      "uri": "jbr:text-orot-1-3-29",
       "jbo:position": "47",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו כט",
@@ -519,10 +519,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-30",
+      "uri": "jbr:text-orot-1-3-30",
       "jbo:position": "48",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו ל",
@@ -530,10 +530,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-31",
+      "uri": "jbr:text-orot-1-3-31",
       "jbo:position": "49",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו לא",
@@ -541,10 +541,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-3"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-3"
       ],
-      "uri": "jbr:orot-1-3-32",
+      "uri": "jbr:text-orot-1-3-32",
       "jbo:position": "50",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו לב",
@@ -552,10 +552,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-1",
+      "uri": "jbr:text-orot-1-4-1",
       "jbo:position": "51",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה א",
@@ -563,10 +563,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-2",
+      "uri": "jbr:text-orot-1-4-2",
       "jbo:position": "52",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה ב",
@@ -574,10 +574,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-3",
+      "uri": "jbr:text-orot-1-4-3",
       "jbo:position": "53",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה ג",
@@ -585,10 +585,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-4",
+      "uri": "jbr:text-orot-1-4-4",
       "jbo:position": "54",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה ד",
@@ -596,10 +596,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-5",
+      "uri": "jbr:text-orot-1-4-5",
       "jbo:position": "55",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה ה",
@@ -607,10 +607,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-6",
+      "uri": "jbr:text-orot-1-4-6",
       "jbo:position": "56",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה ו",
@@ -618,10 +618,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-7",
+      "uri": "jbr:text-orot-1-4-7",
       "jbo:position": "57",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה ז",
@@ -629,10 +629,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-8",
+      "uri": "jbr:text-orot-1-4-8",
       "jbo:position": "58",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה ח",
@@ -640,10 +640,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-9",
+      "uri": "jbr:text-orot-1-4-9",
       "jbo:position": "59",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה ט",
@@ -651,10 +651,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-10",
+      "uri": "jbr:text-orot-1-4-10",
       "jbo:position": "60",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה י",
@@ -662,10 +662,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-11",
+      "uri": "jbr:text-orot-1-4-11",
       "jbo:position": "61",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה יא",
@@ -673,10 +673,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-12",
+      "uri": "jbr:text-orot-1-4-12",
       "jbo:position": "62",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה יב",
@@ -684,10 +684,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-13",
+      "uri": "jbr:text-orot-1-4-13",
       "jbo:position": "63",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה יג",
@@ -695,10 +695,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-14",
+      "uri": "jbr:text-orot-1-4-14",
       "jbo:position": "64",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה יד",
@@ -706,10 +706,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-15",
+      "uri": "jbr:text-orot-1-4-15",
       "jbo:position": "65",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה טו",
@@ -717,10 +717,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-16",
+      "uri": "jbr:text-orot-1-4-16",
       "jbo:position": "66",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה טז",
@@ -728,10 +728,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-17",
+      "uri": "jbr:text-orot-1-4-17",
       "jbo:position": "67",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה יז",
@@ -739,10 +739,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-18",
+      "uri": "jbr:text-orot-1-4-18",
       "jbo:position": "68",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה יח",
@@ -750,10 +750,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-19",
+      "uri": "jbr:text-orot-1-4-19",
       "jbo:position": "69",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה יט",
@@ -761,10 +761,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-20",
+      "uri": "jbr:text-orot-1-4-20",
       "jbo:position": "70",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה כ",
@@ -772,10 +772,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-21",
+      "uri": "jbr:text-orot-1-4-21",
       "jbo:position": "71",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה כא",
@@ -783,10 +783,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-22",
+      "uri": "jbr:text-orot-1-4-22",
       "jbo:position": "72",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה כב",
@@ -794,10 +794,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-23",
+      "uri": "jbr:text-orot-1-4-23",
       "jbo:position": "73",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה כג",
@@ -805,10 +805,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-24",
+      "uri": "jbr:text-orot-1-4-24",
       "jbo:position": "74",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה כד",
@@ -816,10 +816,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-25",
+      "uri": "jbr:text-orot-1-4-25",
       "jbo:position": "75",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה כה",
@@ -827,10 +827,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-26",
+      "uri": "jbr:text-orot-1-4-26",
       "jbo:position": "76",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה כו",
@@ -838,10 +838,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-27",
+      "uri": "jbr:text-orot-1-4-27",
       "jbo:position": "77",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה כז",
@@ -849,10 +849,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-28",
+      "uri": "jbr:text-orot-1-4-28",
       "jbo:position": "78",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה כח",
@@ -860,10 +860,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-29",
+      "uri": "jbr:text-orot-1-4-29",
       "jbo:position": "79",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה כט",
@@ -871,10 +871,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-30",
+      "uri": "jbr:text-orot-1-4-30",
       "jbo:position": "80",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה ל",
@@ -882,10 +882,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-31",
+      "uri": "jbr:text-orot-1-4-31",
       "jbo:position": "81",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה לא",
@@ -893,10 +893,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-32",
+      "uri": "jbr:text-orot-1-4-32",
       "jbo:position": "82",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה לב",
@@ -904,10 +904,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-33",
+      "uri": "jbr:text-orot-1-4-33",
       "jbo:position": "83",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה לג",
@@ -915,10 +915,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-34",
+      "uri": "jbr:text-orot-1-4-34",
       "jbo:position": "84",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה לד",
@@ -926,10 +926,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-35",
+      "uri": "jbr:text-orot-1-4-35",
       "jbo:position": "85",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה לה",
@@ -937,10 +937,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-36",
+      "uri": "jbr:text-orot-1-4-36",
       "jbo:position": "86",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה לו",
@@ -948,10 +948,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-37",
+      "uri": "jbr:text-orot-1-4-37",
       "jbo:position": "87",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה לז",
@@ -959,10 +959,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-38",
+      "uri": "jbr:text-orot-1-4-38",
       "jbo:position": "88",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה לח",
@@ -970,10 +970,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-39",
+      "uri": "jbr:text-orot-1-4-39",
       "jbo:position": "89",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה לט",
@@ -981,10 +981,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-40",
+      "uri": "jbr:text-orot-1-4-40",
       "jbo:position": "90",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה מ",
@@ -992,10 +992,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-41",
+      "uri": "jbr:text-orot-1-4-41",
       "jbo:position": "91",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה מא",
@@ -1003,10 +1003,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-42",
+      "uri": "jbr:text-orot-1-4-42",
       "jbo:position": "92",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה מב",
@@ -1014,10 +1014,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-43",
+      "uri": "jbr:text-orot-1-4-43",
       "jbo:position": "93",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה מג",
@@ -1025,10 +1025,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-44",
+      "uri": "jbr:text-orot-1-4-44",
       "jbo:position": "94",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה מד",
@@ -1036,10 +1036,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-45",
+      "uri": "jbr:text-orot-1-4-45",
       "jbo:position": "95",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה מה",
@@ -1047,10 +1047,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-46",
+      "uri": "jbr:text-orot-1-4-46",
       "jbo:position": "96",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה מו",
@@ -1058,10 +1058,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-47",
+      "uri": "jbr:text-orot-1-4-47",
       "jbo:position": "97",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה מז",
@@ -1069,10 +1069,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-48",
+      "uri": "jbr:text-orot-1-4-48",
       "jbo:position": "98",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה מח",
@@ -1080,10 +1080,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-49",
+      "uri": "jbr:text-orot-1-4-49",
       "jbo:position": "99",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה מט",
@@ -1091,10 +1091,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-50",
+      "uri": "jbr:text-orot-1-4-50",
       "jbo:position": "100",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה נ",
@@ -1102,10 +1102,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-51",
+      "uri": "jbr:text-orot-1-4-51",
       "jbo:position": "101",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה נא",
@@ -1113,10 +1113,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-52",
+      "uri": "jbr:text-orot-1-4-52",
       "jbo:position": "102",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה נב",
@@ -1124,10 +1124,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-53",
+      "uri": "jbr:text-orot-1-4-53",
       "jbo:position": "103",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה נג",
@@ -1135,10 +1135,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-54",
+      "uri": "jbr:text-orot-1-4-54",
       "jbo:position": "104",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה נד",
@@ -1146,10 +1146,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-55",
+      "uri": "jbr:text-orot-1-4-55",
       "jbo:position": "105",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה נה",
@@ -1157,10 +1157,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-56",
+      "uri": "jbr:text-orot-1-4-56",
       "jbo:position": "106",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה נו",
@@ -1168,10 +1168,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-57",
+      "uri": "jbr:text-orot-1-4-57",
       "jbo:position": "107",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה נז",
@@ -1179,10 +1179,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-58",
+      "uri": "jbr:text-orot-1-4-58",
       "jbo:position": "108",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה נח",
@@ -1190,10 +1190,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-59",
+      "uri": "jbr:text-orot-1-4-59",
       "jbo:position": "109",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה נט",
@@ -1201,10 +1201,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-60",
+      "uri": "jbr:text-orot-1-4-60",
       "jbo:position": "110",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה ס",
@@ -1212,10 +1212,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-61",
+      "uri": "jbr:text-orot-1-4-61",
       "jbo:position": "111",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה סא",
@@ -1223,10 +1223,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-62",
+      "uri": "jbr:text-orot-1-4-62",
       "jbo:position": "112",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה סב",
@@ -1234,10 +1234,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-63",
+      "uri": "jbr:text-orot-1-4-63",
       "jbo:position": "113",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה סג",
@@ -1245,10 +1245,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-64",
+      "uri": "jbr:text-orot-1-4-64",
       "jbo:position": "114",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה סד",
@@ -1256,10 +1256,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-65",
+      "uri": "jbr:text-orot-1-4-65",
       "jbo:position": "115",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה סה",
@@ -1267,10 +1267,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-66",
+      "uri": "jbr:text-orot-1-4-66",
       "jbo:position": "116",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה סו",
@@ -1278,10 +1278,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-67",
+      "uri": "jbr:text-orot-1-4-67",
       "jbo:position": "117",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה סז",
@@ -1289,10 +1289,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-68",
+      "uri": "jbr:text-orot-1-4-68",
       "jbo:position": "118",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה סח",
@@ -1300,10 +1300,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-69",
+      "uri": "jbr:text-orot-1-4-69",
       "jbo:position": "119",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה סט",
@@ -1311,10 +1311,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-70",
+      "uri": "jbr:text-orot-1-4-70",
       "jbo:position": "120",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה ע",
@@ -1322,10 +1322,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-71",
+      "uri": "jbr:text-orot-1-4-71",
       "jbo:position": "121",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה עא",
@@ -1333,10 +1333,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-1",
-        "jbr:orot-1-4"
+        "jbr:section-orot-1",
+        "jbr:section-orot-1-4"
       ],
-      "uri": "jbr:orot-1-4-72",
+      "uri": "jbr:text-orot-1-4-72",
       "jbo:position": "122",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות - אורות מאופל - אורות התחיה עב",
@@ -1344,10 +1344,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-2",
-        "jbr:orot-2-0"
+        "jbr:section-orot-2",
+        "jbr:section-orot-2-0"
       ],
-      "uri": "jbr:orot-2-0-1",
+      "uri": "jbr:text-orot-2-0-1",
       "jbo:position": "123",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות למהלך האידיאות בישראל - האידיאה האלהית והאידיאה הלאומית באדם",
@@ -1355,10 +1355,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-2",
-        "jbr:orot-2-0"
+        "jbr:section-orot-2",
+        "jbr:section-orot-2-0"
       ],
-      "uri": "jbr:orot-2-0-2",
+      "uri": "jbr:text-orot-2-0-2",
       "jbo:position": "124",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות למהלך האידיאות בישראל - האידיאה האלהית והאידיאה הלאומית בישראל",
@@ -1366,10 +1366,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-2",
-        "jbr:orot-2-0"
+        "jbr:section-orot-2",
+        "jbr:section-orot-2-0"
       ],
-      "uri": "jbr:orot-2-0-3",
+      "uri": "jbr:text-orot-2-0-3",
       "jbo:position": "125",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות למהלך האידיאות בישראל - מצב הירידה והפרוד בין האידיאות",
@@ -1377,10 +1377,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-2",
-        "jbr:orot-2-0"
+        "jbr:section-orot-2",
+        "jbr:section-orot-2-0"
       ],
-      "uri": "jbr:orot-2-0-4",
+      "uri": "jbr:text-orot-2-0-4",
       "jbo:position": "126",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות למהלך האידיאות בישראל - המצב בגלות",
@@ -1388,10 +1388,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-3",
-        "jbr:orot-3-0"
+        "jbr:section-orot-3",
+        "jbr:section-orot-3-0"
       ],
-      "uri": "jbr:orot-3-0-1",
+      "uri": "jbr:text-orot-3-0-1",
       "jbo:position": "127",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות זרעונים - צמאון לאל חי",
@@ -1399,10 +1399,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-3",
-        "jbr:orot-3-0"
+        "jbr:section-orot-3",
+        "jbr:section-orot-3-0"
       ],
-      "uri": "jbr:orot-3-0-2",
+      "uri": "jbr:text-orot-3-0-2",
       "jbo:position": "128",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות זרעונים - חכם עדיף מנביא",
@@ -1410,10 +1410,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-3",
-        "jbr:orot-3-0"
+        "jbr:section-orot-3",
+        "jbr:section-orot-3-0"
       ],
-      "uri": "jbr:orot-3-0-3",
+      "uri": "jbr:text-orot-3-0-3",
       "jbo:position": "129",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות זרעונים - הנשמות של עולם התוהו",
@@ -1421,10 +1421,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-3",
-        "jbr:orot-3-0"
+        "jbr:section-orot-3",
+        "jbr:section-orot-3-0"
       ],
-      "uri": "jbr:orot-3-0-4",
+      "uri": "jbr:text-orot-3-0-4",
       "jbo:position": "130",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות זרעונים - מעשי יצירה",
@@ -1432,10 +1432,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-3",
-        "jbr:orot-3-0"
+        "jbr:section-orot-3",
+        "jbr:section-orot-3-0"
       ],
-      "uri": "jbr:orot-3-0-5",
+      "uri": "jbr:text-orot-3-0-5",
       "jbo:position": "131",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות זרעונים - יסורים ממרקים",
@@ -1443,10 +1443,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-3",
-        "jbr:orot-3-0"
+        "jbr:section-orot-3",
+        "jbr:section-orot-3-0"
       ],
-      "uri": "jbr:orot-3-0-6",
+      "uri": "jbr:text-orot-3-0-6",
       "jbo:position": "132",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות זרעונים - למלחמת הדעות והאמונות",
@@ -1454,10 +1454,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-3",
-        "jbr:orot-3-0"
+        "jbr:section-orot-3",
+        "jbr:section-orot-3-0"
       ],
-      "uri": "jbr:orot-3-0-7",
+      "uri": "jbr:text-orot-3-0-7",
       "jbo:position": "133",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות זרעונים - נשמת הלאומיות וגופה",
@@ -1465,10 +1465,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-3",
-        "jbr:orot-3-0"
+        "jbr:section-orot-3",
+        "jbr:section-orot-3-0"
       ],
-      "uri": "jbr:orot-3-0-8",
+      "uri": "jbr:text-orot-3-0-8",
       "jbo:position": "134",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות זרעונים - ערך התחיה",
@@ -1476,10 +1476,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-4",
-        "jbr:orot-4-0"
+        "jbr:section-orot-4",
+        "jbr:section-orot-4-0"
       ],
-      "uri": "jbr:orot-4-0-1",
+      "uri": "jbr:text-orot-4-0-1",
       "jbo:position": "135",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות אורות ישראל - מהות כנסת ישראל ותכונה חייה",
@@ -1487,10 +1487,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-4",
-        "jbr:orot-4-0"
+        "jbr:section-orot-4",
+        "jbr:section-orot-4-0"
       ],
-      "uri": "jbr:orot-4-0-2",
+      "uri": "jbr:text-orot-4-0-2",
       "jbo:position": "136",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות אורות ישראל - קשר היחיד והכלל בישראל",
@@ -1498,10 +1498,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-4",
-        "jbr:orot-4-0"
+        "jbr:section-orot-4",
+        "jbr:section-orot-4-0"
       ],
-      "uri": "jbr:orot-4-0-3",
+      "uri": "jbr:text-orot-4-0-3",
       "jbo:position": "137",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות אורות ישראל - התדבקות והתקשרות בכללות ישראל",
@@ -1509,10 +1509,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-4",
-        "jbr:orot-4-0"
+        "jbr:section-orot-4",
+        "jbr:section-orot-4-0"
       ],
-      "uri": "jbr:orot-4-0-4",
+      "uri": "jbr:text-orot-4-0-4",
       "jbo:position": "138",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות אורות ישראל - אהבת ישראל",
@@ -1520,10 +1520,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-4",
-        "jbr:orot-4-0"
+        "jbr:section-orot-4",
+        "jbr:section-orot-4-0"
       ],
-      "uri": "jbr:orot-4-0-5",
+      "uri": "jbr:text-orot-4-0-5",
       "jbo:position": "139",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות אורות ישראל - ישראל ואומות העולם",
@@ -1531,10 +1531,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-4",
-        "jbr:orot-4-0"
+        "jbr:section-orot-4",
+        "jbr:section-orot-4-0"
       ],
-      "uri": "jbr:orot-4-0-6",
+      "uri": "jbr:text-orot-4-0-6",
       "jbo:position": "140",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות אורות ישראל - לומיות ישראל",
@@ -1542,10 +1542,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-4",
-        "jbr:orot-4-0"
+        "jbr:section-orot-4",
+        "jbr:section-orot-4-0"
       ],
-      "uri": "jbr:orot-4-0-7",
+      "uri": "jbr:text-orot-4-0-7",
       "jbo:position": "141",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות אורות ישראל - שלמות נשמת ישראל ותחיתו",
@@ -1553,10 +1553,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-4",
-        "jbr:orot-4-0"
+        "jbr:section-orot-4",
+        "jbr:section-orot-4-0"
       ],
-      "uri": "jbr:orot-4-0-8",
+      "uri": "jbr:text-orot-4-0-8",
       "jbo:position": "142",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות אורות ישראל - סגולת ישראל",
@@ -1564,10 +1564,10 @@
     },
     {
       "jbo:within": [
-        "jbr:orot-4",
-        "jbr:orot-4-0"
+        "jbr:section-orot-4",
+        "jbr:section-orot-4-0"
       ],
-      "uri": "jbr:orot-4-0-9",
+      "uri": "jbr:text-orot-4-0-9",
       "jbo:position": "143",
       "jbo:book": "jbr:book-orot",
       "rdfs:label": "אורות אורות ישראל - קדושת ישראל",

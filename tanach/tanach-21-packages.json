@@ -1,19 +1,19 @@
 {
   "subjects": [
     {
-      "uri": "jbr:tanach-21-1",
+      "uri": "jbr:section-tanach-21-1",
       "rdfs:label": "נחום פרק א",
       "jbo:position": "1",
       "jbo:book": "jbr:book-nachum"
     },
     {
-      "uri": "jbr:tanach-21-2",
+      "uri": "jbr:section-tanach-21-2",
       "rdfs:label": "נחום פרק ב",
       "jbo:position": "2",
       "jbo:book": "jbr:book-nachum"
     },
     {
-      "uri": "jbr:tanach-21-3",
+      "uri": "jbr:section-tanach-21-3",
       "rdfs:label": "נחום פרק ג",
       "jbo:position": "3",
       "jbo:book": "jbr:book-nachum"

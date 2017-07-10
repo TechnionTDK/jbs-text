@@ -1,7 +1,7 @@
 {
   "subjects": [
     {
-      "uri": "jbr:tanach-18-1",
+      "uri": "jbr:section-tanach-18-1",
       "rdfs:label": "עובדיה פרק א",
       "jbo:position": "1",
       "jbo:book": "jbr:book-ovadya"

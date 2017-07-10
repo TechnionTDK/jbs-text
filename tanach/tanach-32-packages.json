@@ -1,31 +1,31 @@
 {
   "subjects": [
     {
-      "uri": "jbr:tanach-32-1",
+      "uri": "jbr:section-tanach-32-1",
       "rdfs:label": "איכה פרק א",
       "jbo:position": "1",
       "jbo:book": "jbr:book-eycha"
     },
     {
-      "uri": "jbr:tanach-32-2",
+      "uri": "jbr:section-tanach-32-2",
       "rdfs:label": "איכה פרק ב",
       "jbo:position": "2",
       "jbo:book": "jbr:book-eycha"
     },
     {
-      "uri": "jbr:tanach-32-3",
+      "uri": "jbr:section-tanach-32-3",
       "rdfs:label": "איכה פרק ג",
       "jbo:position": "3",
       "jbo:book": "jbr:book-eycha"
     },
     {
-      "uri": "jbr:tanach-32-4",
+      "uri": "jbr:section-tanach-32-4",
       "rdfs:label": "איכה פרק ד",
       "jbo:position": "4",
       "jbo:book": "jbr:book-eycha"
     },
     {
-      "uri": "jbr:tanach-32-5",
+      "uri": "jbr:section-tanach-32-5",
       "rdfs:label": "איכה פרק ה",
       "jbo:position": "5",
       "jbo:book": "jbr:book-eycha"

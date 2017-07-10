@@ -1,65 +1,69 @@
 {
   "subjects": [
     {
-      "jbo:within": [
-        "jbr:tanach-midrashraba-32"
-      ],
-      "uri": "jbr:tanach-midrashraba-32",
+      "uri": "jbr:section-tanach-midrashraba-32",
       "jbo:text": "﻿מדרש רבה - איכה רבתי",
+      "jbo:book": "jbr:book-midrashraba",
       "rdfs:label": "מדרש רבה איכה רבתי"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-32"
+        "jbr:section-tanach-midrashraba-32"
       ],
-      "uri": "jbr:tanach-midrashraba-32-0",
+      "uri": "jbr:section-tanach-midrashraba-32-0",
       "jbo:text": "פתיחתא דחכימי",
       "rdfs:label": "מדרש רבה איכה רבתי פתיחתא דחכימי",
+      "jbo:book": "midrashraba",
       "jbo:position": "0"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-32"
+        "jbr:section-tanach-midrashraba-32"
       ],
-      "uri": "jbr:tanach-midrashraba-32-1",
+      "uri": "jbr:section-tanach-midrashraba-32-1",
       "jbo:text": "פרשה א",
       "rdfs:label": "מדרש רבה איכה רבתי א",
+      "jbo:book": "midrashraba",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-32"
+        "jbr:section-tanach-midrashraba-32"
       ],
-      "uri": "jbr:tanach-midrashraba-32-2",
+      "uri": "jbr:section-tanach-midrashraba-32-2",
       "jbo:text": "פרשה ב",
       "rdfs:label": "מדרש רבה איכה רבתי ב",
+      "jbo:book": "midrashraba",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-32"
+        "jbr:section-tanach-midrashraba-32"
       ],
-      "uri": "jbr:tanach-midrashraba-32-3",
+      "uri": "jbr:section-tanach-midrashraba-32-3",
       "jbo:text": "פרשה ג",
       "rdfs:label": "מדרש רבה איכה רבתי ג",
+      "jbo:book": "midrashraba",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-32"
+        "jbr:section-tanach-midrashraba-32"
       ],
-      "uri": "jbr:tanach-midrashraba-32-4",
+      "uri": "jbr:section-tanach-midrashraba-32-4",
       "jbo:text": "פרשה ד",
       "rdfs:label": "מדרש רבה איכה רבתי ד",
+      "jbo:book": "midrashraba",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-32"
+        "jbr:section-tanach-midrashraba-32"
       ],
-      "uri": "jbr:tanach-midrashraba-32-5",
+      "uri": "jbr:section-tanach-midrashraba-32-5",
       "jbo:text": "פרשה ה",
       "rdfs:label": "מדרש רבה איכה רבתי ה",
+      "jbo:book": "midrashraba",
       "jbo:position": "5"
     }
   ]

@@ -2,9 +2,9 @@
   "subjects": [
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-1",
+      "uri": "jbr:text-orothakodesh-1-1",
       "jbo:position": "1",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א א",
@@ -12,9 +12,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-2",
+      "uri": "jbr:text-orothakodesh-1-2",
       "jbo:position": "2",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א ב",
@@ -22,9 +22,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-3",
+      "uri": "jbr:text-orothakodesh-1-3",
       "jbo:position": "3",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א ג",
@@ -32,9 +32,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-4",
+      "uri": "jbr:text-orothakodesh-1-4",
       "jbo:position": "4",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א ד",
@@ -42,9 +42,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-5",
+      "uri": "jbr:text-orothakodesh-1-5",
       "jbo:position": "5",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א ה",
@@ -52,9 +52,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-6",
+      "uri": "jbr:text-orothakodesh-1-6",
       "jbo:position": "6",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א ו",
@@ -62,9 +62,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-7",
+      "uri": "jbr:text-orothakodesh-1-7",
       "jbo:position": "7",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א ז",
@@ -72,9 +72,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-8",
+      "uri": "jbr:text-orothakodesh-1-8",
       "jbo:position": "8",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א ח",
@@ -82,9 +82,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-9",
+      "uri": "jbr:text-orothakodesh-1-9",
       "jbo:position": "9",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א ט",
@@ -92,9 +92,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-10",
+      "uri": "jbr:text-orothakodesh-1-10",
       "jbo:position": "10",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א י",
@@ -102,9 +102,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-11",
+      "uri": "jbr:text-orothakodesh-1-11",
       "jbo:position": "11",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א יא",
@@ -112,9 +112,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-12",
+      "uri": "jbr:text-orothakodesh-1-12",
       "jbo:position": "12",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א יב",
@@ -122,9 +122,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-13",
+      "uri": "jbr:text-orothakodesh-1-13",
       "jbo:position": "13",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א יג",
@@ -132,9 +132,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-14",
+      "uri": "jbr:text-orothakodesh-1-14",
       "jbo:position": "14",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א יד",
@@ -142,9 +142,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-15",
+      "uri": "jbr:text-orothakodesh-1-15",
       "jbo:position": "15",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א טו",
@@ -152,9 +152,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-16",
+      "uri": "jbr:text-orothakodesh-1-16",
       "jbo:position": "16",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א טז",
@@ -162,9 +162,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-17",
+      "uri": "jbr:text-orothakodesh-1-17",
       "jbo:position": "17",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א יז",
@@ -172,9 +172,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-18",
+      "uri": "jbr:text-orothakodesh-1-18",
       "jbo:position": "18",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א יח",
@@ -182,9 +182,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-19",
+      "uri": "jbr:text-orothakodesh-1-19",
       "jbo:position": "19",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א יט",
@@ -192,9 +192,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-1"
+        "jbr:section-orothakodesh-1"
       ],
-      "uri": "jbr:orothakodesh-1-20",
+      "uri": "jbr:text-orothakodesh-1-20",
       "jbo:position": "20",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש א כ",
@@ -202,9 +202,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-1",
+      "uri": "jbr:text-orothakodesh-2-1",
       "jbo:position": "21",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב א",
@@ -212,9 +212,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-2",
+      "uri": "jbr:text-orothakodesh-2-2",
       "jbo:position": "22",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב ב",
@@ -222,9 +222,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-3",
+      "uri": "jbr:text-orothakodesh-2-3",
       "jbo:position": "23",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב ג",
@@ -232,9 +232,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-4",
+      "uri": "jbr:text-orothakodesh-2-4",
       "jbo:position": "24",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב ד",
@@ -242,9 +242,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-5",
+      "uri": "jbr:text-orothakodesh-2-5",
       "jbo:position": "25",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב ה",
@@ -252,9 +252,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-6",
+      "uri": "jbr:text-orothakodesh-2-6",
       "jbo:position": "26",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב ו",
@@ -262,9 +262,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-7",
+      "uri": "jbr:text-orothakodesh-2-7",
       "jbo:position": "27",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב ז",
@@ -272,9 +272,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-8",
+      "uri": "jbr:text-orothakodesh-2-8",
       "jbo:position": "28",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב ח",
@@ -282,9 +282,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-9",
+      "uri": "jbr:text-orothakodesh-2-9",
       "jbo:position": "29",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב ט",
@@ -292,9 +292,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-10",
+      "uri": "jbr:text-orothakodesh-2-10",
       "jbo:position": "30",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב י",
@@ -302,9 +302,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-11",
+      "uri": "jbr:text-orothakodesh-2-11",
       "jbo:position": "31",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב יא",
@@ -312,9 +312,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-12",
+      "uri": "jbr:text-orothakodesh-2-12",
       "jbo:position": "32",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב יב",
@@ -322,9 +322,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-13",
+      "uri": "jbr:text-orothakodesh-2-13",
       "jbo:position": "33",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב יג",
@@ -332,9 +332,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-14",
+      "uri": "jbr:text-orothakodesh-2-14",
       "jbo:position": "34",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב יד",
@@ -342,9 +342,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-15",
+      "uri": "jbr:text-orothakodesh-2-15",
       "jbo:position": "35",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב טו",
@@ -352,9 +352,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-16",
+      "uri": "jbr:text-orothakodesh-2-16",
       "jbo:position": "36",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב טז",
@@ -362,9 +362,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-17",
+      "uri": "jbr:text-orothakodesh-2-17",
       "jbo:position": "37",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב יז",
@@ -372,9 +372,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-18",
+      "uri": "jbr:text-orothakodesh-2-18",
       "jbo:position": "38",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב יח",
@@ -382,9 +382,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-19",
+      "uri": "jbr:text-orothakodesh-2-19",
       "jbo:position": "39",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב יט",
@@ -392,9 +392,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-2"
+        "jbr:section-orothakodesh-2"
       ],
-      "uri": "jbr:orothakodesh-2-20",
+      "uri": "jbr:text-orothakodesh-2-20",
       "jbo:position": "40",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ב כ",
@@ -402,9 +402,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-1",
+      "uri": "jbr:text-orothakodesh-3-1",
       "jbo:position": "41",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג א",
@@ -412,9 +412,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-2",
+      "uri": "jbr:text-orothakodesh-3-2",
       "jbo:position": "42",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג ב",
@@ -422,9 +422,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-3",
+      "uri": "jbr:text-orothakodesh-3-3",
       "jbo:position": "43",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג ג",
@@ -432,9 +432,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-4",
+      "uri": "jbr:text-orothakodesh-3-4",
       "jbo:position": "44",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג ד",
@@ -442,9 +442,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-5",
+      "uri": "jbr:text-orothakodesh-3-5",
       "jbo:position": "45",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג ה",
@@ -452,9 +452,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-6",
+      "uri": "jbr:text-orothakodesh-3-6",
       "jbo:position": "46",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג ו",
@@ -462,9 +462,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-7",
+      "uri": "jbr:text-orothakodesh-3-7",
       "jbo:position": "47",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג ז",
@@ -472,9 +472,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-8",
+      "uri": "jbr:text-orothakodesh-3-8",
       "jbo:position": "48",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג ח",
@@ -482,9 +482,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-9",
+      "uri": "jbr:text-orothakodesh-3-9",
       "jbo:position": "49",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג ט",
@@ -492,9 +492,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-10",
+      "uri": "jbr:text-orothakodesh-3-10",
       "jbo:position": "50",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג י",
@@ -502,9 +502,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-11",
+      "uri": "jbr:text-orothakodesh-3-11",
       "jbo:position": "51",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג יא",
@@ -512,9 +512,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-12",
+      "uri": "jbr:text-orothakodesh-3-12",
       "jbo:position": "52",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג יב",
@@ -522,9 +522,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-13",
+      "uri": "jbr:text-orothakodesh-3-13",
       "jbo:position": "53",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג יג",
@@ -532,9 +532,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-14",
+      "uri": "jbr:text-orothakodesh-3-14",
       "jbo:position": "54",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג יד",
@@ -542,9 +542,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-15",
+      "uri": "jbr:text-orothakodesh-3-15",
       "jbo:position": "55",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג טו",
@@ -552,9 +552,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-16",
+      "uri": "jbr:text-orothakodesh-3-16",
       "jbo:position": "56",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג טז",
@@ -562,9 +562,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-17",
+      "uri": "jbr:text-orothakodesh-3-17",
       "jbo:position": "57",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג יז",
@@ -572,9 +572,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-18",
+      "uri": "jbr:text-orothakodesh-3-18",
       "jbo:position": "58",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג יח",
@@ -582,9 +582,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-19",
+      "uri": "jbr:text-orothakodesh-3-19",
       "jbo:position": "59",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג יט",
@@ -592,9 +592,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-3"
+        "jbr:section-orothakodesh-3"
       ],
-      "uri": "jbr:orothakodesh-3-20",
+      "uri": "jbr:text-orothakodesh-3-20",
       "jbo:position": "60",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ג כ",
@@ -602,9 +602,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-1",
+      "uri": "jbr:text-orothakodesh-4-1",
       "jbo:position": "61",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד א",
@@ -612,9 +612,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-2",
+      "uri": "jbr:text-orothakodesh-4-2",
       "jbo:position": "62",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד ב",
@@ -622,9 +622,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-3",
+      "uri": "jbr:text-orothakodesh-4-3",
       "jbo:position": "63",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד ג",
@@ -632,9 +632,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-4",
+      "uri": "jbr:text-orothakodesh-4-4",
       "jbo:position": "64",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד ד",
@@ -642,9 +642,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-5",
+      "uri": "jbr:text-orothakodesh-4-5",
       "jbo:position": "65",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד ה",
@@ -652,9 +652,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-6",
+      "uri": "jbr:text-orothakodesh-4-6",
       "jbo:position": "66",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד ו",
@@ -662,9 +662,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-7",
+      "uri": "jbr:text-orothakodesh-4-7",
       "jbo:position": "67",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד ז",
@@ -672,9 +672,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-8",
+      "uri": "jbr:text-orothakodesh-4-8",
       "jbo:position": "68",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד ח",
@@ -682,9 +682,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-9",
+      "uri": "jbr:text-orothakodesh-4-9",
       "jbo:position": "69",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד ט",
@@ -692,9 +692,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-10",
+      "uri": "jbr:text-orothakodesh-4-10",
       "jbo:position": "70",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד י",
@@ -702,9 +702,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-11",
+      "uri": "jbr:text-orothakodesh-4-11",
       "jbo:position": "71",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד יא",
@@ -712,9 +712,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-12",
+      "uri": "jbr:text-orothakodesh-4-12",
       "jbo:position": "72",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד יב",
@@ -722,9 +722,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-13",
+      "uri": "jbr:text-orothakodesh-4-13",
       "jbo:position": "73",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד יג",
@@ -732,9 +732,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-14",
+      "uri": "jbr:text-orothakodesh-4-14",
       "jbo:position": "74",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד יד",
@@ -742,9 +742,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-15",
+      "uri": "jbr:text-orothakodesh-4-15",
       "jbo:position": "75",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד טו",
@@ -752,9 +752,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-16",
+      "uri": "jbr:text-orothakodesh-4-16",
       "jbo:position": "76",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד טז",
@@ -762,9 +762,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-17",
+      "uri": "jbr:text-orothakodesh-4-17",
       "jbo:position": "77",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד יז",
@@ -772,9 +772,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-18",
+      "uri": "jbr:text-orothakodesh-4-18",
       "jbo:position": "78",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד יח",
@@ -782,9 +782,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-19",
+      "uri": "jbr:text-orothakodesh-4-19",
       "jbo:position": "79",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד יט",
@@ -792,9 +792,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-4"
+        "jbr:section-orothakodesh-4"
       ],
-      "uri": "jbr:orothakodesh-4-20",
+      "uri": "jbr:text-orothakodesh-4-20",
       "jbo:position": "80",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ד כ",
@@ -802,9 +802,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-1",
+      "uri": "jbr:text-orothakodesh-5-1",
       "jbo:position": "81",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה א",
@@ -812,9 +812,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-2",
+      "uri": "jbr:text-orothakodesh-5-2",
       "jbo:position": "82",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה ב",
@@ -822,9 +822,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-3",
+      "uri": "jbr:text-orothakodesh-5-3",
       "jbo:position": "83",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה ג",
@@ -832,9 +832,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-4",
+      "uri": "jbr:text-orothakodesh-5-4",
       "jbo:position": "84",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה ד",
@@ -842,9 +842,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-5",
+      "uri": "jbr:text-orothakodesh-5-5",
       "jbo:position": "85",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה ה",
@@ -852,9 +852,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-6",
+      "uri": "jbr:text-orothakodesh-5-6",
       "jbo:position": "86",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה ו",
@@ -862,9 +862,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-7",
+      "uri": "jbr:text-orothakodesh-5-7",
       "jbo:position": "87",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה ז",
@@ -872,9 +872,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-8",
+      "uri": "jbr:text-orothakodesh-5-8",
       "jbo:position": "88",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה ח",
@@ -882,9 +882,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-9",
+      "uri": "jbr:text-orothakodesh-5-9",
       "jbo:position": "89",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה ט",
@@ -892,9 +892,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-10",
+      "uri": "jbr:text-orothakodesh-5-10",
       "jbo:position": "90",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה י",
@@ -902,9 +902,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-11",
+      "uri": "jbr:text-orothakodesh-5-11",
       "jbo:position": "91",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה יא",
@@ -912,9 +912,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-12",
+      "uri": "jbr:text-orothakodesh-5-12",
       "jbo:position": "92",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה יב",
@@ -922,9 +922,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-13",
+      "uri": "jbr:text-orothakodesh-5-13",
       "jbo:position": "93",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה יג",
@@ -932,9 +932,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-14",
+      "uri": "jbr:text-orothakodesh-5-14",
       "jbo:position": "94",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה יד",
@@ -942,9 +942,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-15",
+      "uri": "jbr:text-orothakodesh-5-15",
       "jbo:position": "95",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה טו",
@@ -952,9 +952,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-16",
+      "uri": "jbr:text-orothakodesh-5-16",
       "jbo:position": "96",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה טז",
@@ -962,9 +962,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-17",
+      "uri": "jbr:text-orothakodesh-5-17",
       "jbo:position": "97",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה יז",
@@ -972,9 +972,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-18",
+      "uri": "jbr:text-orothakodesh-5-18",
       "jbo:position": "98",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה יח",
@@ -982,9 +982,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-19",
+      "uri": "jbr:text-orothakodesh-5-19",
       "jbo:position": "99",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה יט",
@@ -992,9 +992,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-5"
+        "jbr:section-orothakodesh-5"
       ],
-      "uri": "jbr:orothakodesh-5-20",
+      "uri": "jbr:text-orothakodesh-5-20",
       "jbo:position": "100",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ה כ",
@@ -1002,9 +1002,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-6"
+        "jbr:section-orothakodesh-6"
       ],
-      "uri": "jbr:orothakodesh-6-1",
+      "uri": "jbr:text-orothakodesh-6-1",
       "jbo:position": "101",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ו א",
@@ -1012,9 +1012,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-6"
+        "jbr:section-orothakodesh-6"
       ],
-      "uri": "jbr:orothakodesh-6-2",
+      "uri": "jbr:text-orothakodesh-6-2",
       "jbo:position": "102",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ו ב",
@@ -1022,9 +1022,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-6"
+        "jbr:section-orothakodesh-6"
       ],
-      "uri": "jbr:orothakodesh-6-3",
+      "uri": "jbr:text-orothakodesh-6-3",
       "jbo:position": "103",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ו ג",
@@ -1032,9 +1032,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-1",
+      "uri": "jbr:text-orothakodesh-7-1",
       "jbo:position": "104",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז א",
@@ -1042,9 +1042,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-2",
+      "uri": "jbr:text-orothakodesh-7-2",
       "jbo:position": "105",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז ב",
@@ -1052,9 +1052,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-3",
+      "uri": "jbr:text-orothakodesh-7-3",
       "jbo:position": "106",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז ג",
@@ -1062,9 +1062,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-4",
+      "uri": "jbr:text-orothakodesh-7-4",
       "jbo:position": "107",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז ד",
@@ -1072,9 +1072,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-5",
+      "uri": "jbr:text-orothakodesh-7-5",
       "jbo:position": "108",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז ה",
@@ -1082,9 +1082,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-6",
+      "uri": "jbr:text-orothakodesh-7-6",
       "jbo:position": "109",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז ו",
@@ -1092,9 +1092,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-7",
+      "uri": "jbr:text-orothakodesh-7-7",
       "jbo:position": "110",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז ז",
@@ -1102,9 +1102,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-8",
+      "uri": "jbr:text-orothakodesh-7-8",
       "jbo:position": "111",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז ח",
@@ -1112,9 +1112,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-9",
+      "uri": "jbr:text-orothakodesh-7-9",
       "jbo:position": "112",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז ט",
@@ -1122,9 +1122,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-10",
+      "uri": "jbr:text-orothakodesh-7-10",
       "jbo:position": "113",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז י",
@@ -1132,9 +1132,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-11",
+      "uri": "jbr:text-orothakodesh-7-11",
       "jbo:position": "114",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז יא",
@@ -1142,9 +1142,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-12",
+      "uri": "jbr:text-orothakodesh-7-12",
       "jbo:position": "115",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז יב",
@@ -1152,9 +1152,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-13",
+      "uri": "jbr:text-orothakodesh-7-13",
       "jbo:position": "116",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז יג",
@@ -1162,9 +1162,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-14",
+      "uri": "jbr:text-orothakodesh-7-14",
       "jbo:position": "117",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז יד",
@@ -1172,9 +1172,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-15",
+      "uri": "jbr:text-orothakodesh-7-15",
       "jbo:position": "118",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז טו",
@@ -1182,9 +1182,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-16",
+      "uri": "jbr:text-orothakodesh-7-16",
       "jbo:position": "119",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז טז",
@@ -1192,9 +1192,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-17",
+      "uri": "jbr:text-orothakodesh-7-17",
       "jbo:position": "120",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז יז",
@@ -1202,9 +1202,9 @@
     },
     {
       "jbo:within": [
-        "jbr:orothakodesh-7"
+        "jbr:section-orothakodesh-7"
       ],
-      "uri": "jbr:orothakodesh-7-18",
+      "uri": "jbr:text-orothakodesh-7-18",
       "jbo:position": "121",
       "jbo:book": "jbr:book-orothakodesh",
       "rdfs:label": "אורות הקודש ז יח",

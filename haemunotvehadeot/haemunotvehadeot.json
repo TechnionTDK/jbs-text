@@ -4,7 +4,7 @@
       "jbo:within": [
         "האמונות והדעות - הקדמה"
       ],
-      "uri": "jbr:haemunotvehadeot-0-1",
+      "uri": "jbr:text-haemunotvehadeot-0-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "1",
       "rdfs:label": "האמונות והדעות - הקדמה א",
@@ -14,7 +14,7 @@
       "jbo:within": [
         "האמונות והדעות - הקדמה"
       ],
-      "uri": "jbr:haemunotvehadeot-0-2",
+      "uri": "jbr:text-haemunotvehadeot-0-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "2",
       "rdfs:label": "האמונות והדעות - הקדמה ב",
@@ -24,7 +24,7 @@
       "jbo:within": [
         "האמונות והדעות - הקדמה"
       ],
-      "uri": "jbr:haemunotvehadeot-0-3",
+      "uri": "jbr:text-haemunotvehadeot-0-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "3",
       "rdfs:label": "האמונות והדעות - הקדמה ג",
@@ -34,7 +34,7 @@
       "jbo:within": [
         "האמונות והדעות - הקדמה"
       ],
-      "uri": "jbr:haemunotvehadeot-0-4",
+      "uri": "jbr:text-haemunotvehadeot-0-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "4",
       "rdfs:label": "האמונות והדעות - הקדמה ד",
@@ -44,7 +44,7 @@
       "jbo:within": [
         "האמונות והדעות - הקדמה"
       ],
-      "uri": "jbr:haemunotvehadeot-0-5",
+      "uri": "jbr:text-haemunotvehadeot-0-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "5",
       "rdfs:label": "האמונות והדעות - הקדמה ה",
@@ -54,7 +54,7 @@
       "jbo:within": [
         "האמונות והדעות - הקדמה"
       ],
-      "uri": "jbr:haemunotvehadeot-0-6",
+      "uri": "jbr:text-haemunotvehadeot-0-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "6",
       "rdfs:label": "האמונות והדעות - הקדמה ו",
@@ -64,7 +64,7 @@
       "jbo:within": [
         "האמונות והדעות - הקדמה"
       ],
-      "uri": "jbr:haemunotvehadeot-0-7",
+      "uri": "jbr:text-haemunotvehadeot-0-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "7",
       "rdfs:label": "האמונות והדעות - הקדמה ז",
@@ -74,7 +74,7 @@
       "jbo:within": [
         "האמונות והדעות - הקדמה"
       ],
-      "uri": "jbr:haemunotvehadeot-0-8",
+      "uri": "jbr:text-haemunotvehadeot-0-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "8",
       "rdfs:label": "האמונות והדעות - הקדמה ח",
@@ -84,7 +84,7 @@
       "jbo:within": [
         "מאמר הראשון חדוש"
       ],
-      "uri": "jbr:haemunotvehadeot-1-0",
+      "uri": "jbr:text-haemunotvehadeot-1-0",
       "jbo:position": "9",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "rdfs:label": "האמונות והדעות - פתיחה",
@@ -94,7 +94,7 @@
       "jbo:within": [
         "מאמר הראשון חדוש"
       ],
-      "uri": "jbr:haemunotvehadeot-1-1",
+      "uri": "jbr:text-haemunotvehadeot-1-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "10",
       "rdfs:label": "האמונות והדעות - מאמר הראשון חדוש א",
@@ -104,7 +104,7 @@
       "jbo:within": [
         "מאמר הראשון חדוש"
       ],
-      "uri": "jbr:haemunotvehadeot-1-2",
+      "uri": "jbr:text-haemunotvehadeot-1-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "11",
       "rdfs:label": "האמונות והדעות - מאמר הראשון חדוש ב",
@@ -114,7 +114,7 @@
       "jbo:within": [
         "מאמר הראשון חדוש"
       ],
-      "uri": "jbr:haemunotvehadeot-1-3",
+      "uri": "jbr:text-haemunotvehadeot-1-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "12",
       "rdfs:label": "האמונות והדעות - מאמר הראשון חדוש ג",
@@ -124,7 +124,7 @@
       "jbo:within": [
         "מאמר הראשון חדוש"
       ],
-      "uri": "jbr:haemunotvehadeot-1-4",
+      "uri": "jbr:text-haemunotvehadeot-1-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "13",
       "rdfs:label": "האמונות והדעות - מאמר הראשון חדוש ד",
@@ -134,7 +134,7 @@
       "jbo:within": [
         "מאמר הראשון חדוש"
       ],
-      "uri": "jbr:haemunotvehadeot-1-5",
+      "uri": "jbr:text-haemunotvehadeot-1-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "14",
       "rdfs:label": "האמונות והדעות - מאמר הראשון חדוש ה",
@@ -144,7 +144,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-0",
+      "uri": "jbr:text-haemunotvehadeot-2-0",
       "jbo:position": "15",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "rdfs:label": "האמונות והדעות - פתיחה",
@@ -154,7 +154,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-1",
+      "uri": "jbr:text-haemunotvehadeot-2-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "16",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות א",
@@ -164,7 +164,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-2",
+      "uri": "jbr:text-haemunotvehadeot-2-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "17",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות ב",
@@ -174,7 +174,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-3",
+      "uri": "jbr:text-haemunotvehadeot-2-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "18",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות ג",
@@ -184,7 +184,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-4",
+      "uri": "jbr:text-haemunotvehadeot-2-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "19",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות ד",
@@ -194,7 +194,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-5",
+      "uri": "jbr:text-haemunotvehadeot-2-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "20",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות ה",
@@ -204,7 +204,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-6",
+      "uri": "jbr:text-haemunotvehadeot-2-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "21",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות ו",
@@ -214,7 +214,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-7",
+      "uri": "jbr:text-haemunotvehadeot-2-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "22",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות ז",
@@ -224,7 +224,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-8",
+      "uri": "jbr:text-haemunotvehadeot-2-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "23",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות ח",
@@ -234,7 +234,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-9",
+      "uri": "jbr:text-haemunotvehadeot-2-9",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "24",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות ט",
@@ -244,7 +244,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-10",
+      "uri": "jbr:text-haemunotvehadeot-2-10",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "25",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות י",
@@ -254,7 +254,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-11",
+      "uri": "jbr:text-haemunotvehadeot-2-11",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "26",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות יא",
@@ -264,7 +264,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-12",
+      "uri": "jbr:text-haemunotvehadeot-2-12",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "27",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות יב",
@@ -274,7 +274,7 @@
       "jbo:within": [
         "מאמר השני אחדות"
       ],
-      "uri": "jbr:haemunotvehadeot-2-13",
+      "uri": "jbr:text-haemunotvehadeot-2-13",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "28",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות יג",
@@ -284,7 +284,7 @@
       "jbo:within": [
         "מאמר השלישי צווי ואזהרה"
       ],
-      "uri": "jbr:haemunotvehadeot-3-0",
+      "uri": "jbr:text-haemunotvehadeot-3-0",
       "jbo:position": "29",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "rdfs:label": "האמונות והדעות - פתיחה",
@@ -294,7 +294,7 @@
       "jbo:within": [
         "מאמר השלישי צווי ואזהרה"
       ],
-      "uri": "jbr:haemunotvehadeot-3-1",
+      "uri": "jbr:text-haemunotvehadeot-3-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "30",
       "rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה א",
@@ -304,7 +304,7 @@
       "jbo:within": [
         "מאמר השלישי צווי ואזהרה"
       ],
-      "uri": "jbr:haemunotvehadeot-3-2",
+      "uri": "jbr:text-haemunotvehadeot-3-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "31",
       "rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה ב",
@@ -314,7 +314,7 @@
       "jbo:within": [
         "מאמר השלישי צווי ואזהרה"
       ],
-      "uri": "jbr:haemunotvehadeot-3-3",
+      "uri": "jbr:text-haemunotvehadeot-3-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "32",
       "rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה ג",
@@ -324,7 +324,7 @@
       "jbo:within": [
         "מאמר השלישי צווי ואזהרה"
       ],
-      "uri": "jbr:haemunotvehadeot-3-4",
+      "uri": "jbr:text-haemunotvehadeot-3-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "33",
       "rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה ד",
@@ -334,7 +334,7 @@
       "jbo:within": [
         "מאמר השלישי צווי ואזהרה"
       ],
-      "uri": "jbr:haemunotvehadeot-3-5",
+      "uri": "jbr:text-haemunotvehadeot-3-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "34",
       "rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה ה",
@@ -344,7 +344,7 @@
       "jbo:within": [
         "מאמר השלישי צווי ואזהרה"
       ],
-      "uri": "jbr:haemunotvehadeot-3-6",
+      "uri": "jbr:text-haemunotvehadeot-3-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "35",
       "rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה ו",
@@ -354,7 +354,7 @@
       "jbo:within": [
         "מאמר השלישי צווי ואזהרה"
       ],
-      "uri": "jbr:haemunotvehadeot-3-7",
+      "uri": "jbr:text-haemunotvehadeot-3-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "36",
       "rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה ז",
@@ -364,7 +364,7 @@
       "jbo:within": [
         "מאמר השלישי צווי ואזהרה"
       ],
-      "uri": "jbr:haemunotvehadeot-3-8",
+      "uri": "jbr:text-haemunotvehadeot-3-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "37",
       "rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה ח",
@@ -374,7 +374,7 @@
       "jbo:within": [
         "מאמר השלישי צווי ואזהרה"
       ],
-      "uri": "jbr:haemunotvehadeot-3-9",
+      "uri": "jbr:text-haemunotvehadeot-3-9",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "38",
       "rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה ט",
@@ -384,7 +384,7 @@
       "jbo:within": [
         "מאמר השלישי צווי ואזהרה"
       ],
-      "uri": "jbr:haemunotvehadeot-3-10",
+      "uri": "jbr:text-haemunotvehadeot-3-10",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "39",
       "rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה י",
@@ -394,7 +394,7 @@
       "jbo:within": [
         "מאמר הרביעי עבודה ומרי"
       ],
-      "uri": "jbr:haemunotvehadeot-4-0",
+      "uri": "jbr:text-haemunotvehadeot-4-0",
       "jbo:position": "40",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "rdfs:label": "האמונות והדעות - פתיחה",
@@ -404,7 +404,7 @@
       "jbo:within": [
         "מאמר הרביעי עבודה ומרי"
       ],
-      "uri": "jbr:haemunotvehadeot-4-1",
+      "uri": "jbr:text-haemunotvehadeot-4-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "41",
       "rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי א",
@@ -414,7 +414,7 @@
       "jbo:within": [
         "מאמר הרביעי עבודה ומרי"
       ],
-      "uri": "jbr:haemunotvehadeot-4-2",
+      "uri": "jbr:text-haemunotvehadeot-4-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "42",
       "rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי ב",
@@ -424,7 +424,7 @@
       "jbo:within": [
         "מאמר הרביעי עבודה ומרי"
       ],
-      "uri": "jbr:haemunotvehadeot-4-3",
+      "uri": "jbr:text-haemunotvehadeot-4-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "43",
       "rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי ג",
@@ -434,7 +434,7 @@
       "jbo:within": [
         "מאמר הרביעי עבודה ומרי"
       ],
-      "uri": "jbr:haemunotvehadeot-4-4",
+      "uri": "jbr:text-haemunotvehadeot-4-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "44",
       "rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי ד",
@@ -444,7 +444,7 @@
       "jbo:within": [
         "מאמר הרביעי עבודה ומרי"
       ],
-      "uri": "jbr:haemunotvehadeot-4-5",
+      "uri": "jbr:text-haemunotvehadeot-4-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "45",
       "rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי ה",
@@ -454,7 +454,7 @@
       "jbo:within": [
         "מאמר הרביעי עבודה ומרי"
       ],
-      "uri": "jbr:haemunotvehadeot-4-6",
+      "uri": "jbr:text-haemunotvehadeot-4-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "46",
       "rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי ו",
@@ -464,7 +464,7 @@
       "jbo:within": [
         "מאמר החמישי זכיות וחובות"
       ],
-      "uri": "jbr:haemunotvehadeot-5-1",
+      "uri": "jbr:text-haemunotvehadeot-5-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "47",
       "rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות א",
@@ -474,7 +474,7 @@
       "jbo:within": [
         "מאמר החמישי זכיות וחובות"
       ],
-      "uri": "jbr:haemunotvehadeot-5-2",
+      "uri": "jbr:text-haemunotvehadeot-5-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "48",
       "rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות ב",
@@ -484,7 +484,7 @@
       "jbo:within": [
         "מאמר החמישי זכיות וחובות"
       ],
-      "uri": "jbr:haemunotvehadeot-5-3",
+      "uri": "jbr:text-haemunotvehadeot-5-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "49",
       "rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות ג",
@@ -494,7 +494,7 @@
       "jbo:within": [
         "מאמר החמישי זכיות וחובות"
       ],
-      "uri": "jbr:haemunotvehadeot-5-4",
+      "uri": "jbr:text-haemunotvehadeot-5-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "50",
       "rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות ד",
@@ -504,7 +504,7 @@
       "jbo:within": [
         "מאמר החמישי זכיות וחובות"
       ],
-      "uri": "jbr:haemunotvehadeot-5-5",
+      "uri": "jbr:text-haemunotvehadeot-5-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "51",
       "rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות ה",
@@ -514,7 +514,7 @@
       "jbo:within": [
         "מאמר החמישי זכיות וחובות"
       ],
-      "uri": "jbr:haemunotvehadeot-5-6",
+      "uri": "jbr:text-haemunotvehadeot-5-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "52",
       "rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות ו",
@@ -524,7 +524,7 @@
       "jbo:within": [
         "מאמר החמישי זכיות וחובות"
       ],
-      "uri": "jbr:haemunotvehadeot-5-7",
+      "uri": "jbr:text-haemunotvehadeot-5-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "53",
       "rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות ז",
@@ -534,7 +534,7 @@
       "jbo:within": [
         "מאמר החמישי זכיות וחובות"
       ],
-      "uri": "jbr:haemunotvehadeot-5-8",
+      "uri": "jbr:text-haemunotvehadeot-5-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "54",
       "rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות ח",
@@ -544,7 +544,7 @@
       "jbo:within": [
         "מאמר השישי מהות הנפש"
       ],
-      "uri": "jbr:haemunotvehadeot-6-1",
+      "uri": "jbr:text-haemunotvehadeot-6-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "55",
       "rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש א",
@@ -554,7 +554,7 @@
       "jbo:within": [
         "מאמר השישי מהות הנפש"
       ],
-      "uri": "jbr:haemunotvehadeot-6-2",
+      "uri": "jbr:text-haemunotvehadeot-6-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "56",
       "rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש ב",
@@ -564,7 +564,7 @@
       "jbo:within": [
         "מאמר השישי מהות הנפש"
       ],
-      "uri": "jbr:haemunotvehadeot-6-3",
+      "uri": "jbr:text-haemunotvehadeot-6-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "57",
       "rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש ג",
@@ -574,7 +574,7 @@
       "jbo:within": [
         "מאמר השישי מהות הנפש"
       ],
-      "uri": "jbr:haemunotvehadeot-6-4",
+      "uri": "jbr:text-haemunotvehadeot-6-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "58",
       "rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש ד",
@@ -584,7 +584,7 @@
       "jbo:within": [
         "מאמר השישי מהות הנפש"
       ],
-      "uri": "jbr:haemunotvehadeot-6-5",
+      "uri": "jbr:text-haemunotvehadeot-6-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "59",
       "rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש ה",
@@ -594,7 +594,7 @@
       "jbo:within": [
         "מאמר השישי מהות הנפש"
       ],
-      "uri": "jbr:haemunotvehadeot-6-6",
+      "uri": "jbr:text-haemunotvehadeot-6-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "60",
       "rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש ו",
@@ -604,7 +604,7 @@
       "jbo:within": [
         "מאמר השישי מהות הנפש"
       ],
-      "uri": "jbr:haemunotvehadeot-6-7",
+      "uri": "jbr:text-haemunotvehadeot-6-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "61",
       "rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש ז",
@@ -614,7 +614,7 @@
       "jbo:within": [
         "מאמר השישי מהות הנפש"
       ],
-      "uri": "jbr:haemunotvehadeot-6-8",
+      "uri": "jbr:text-haemunotvehadeot-6-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "62",
       "rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש ח",
@@ -624,7 +624,7 @@
       "jbo:within": [
         "מאמר השביעי תחיית המתיים"
       ],
-      "uri": "jbr:haemunotvehadeot-7-1",
+      "uri": "jbr:text-haemunotvehadeot-7-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "63",
       "rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים א",
@@ -634,7 +634,7 @@
       "jbo:within": [
         "מאמר השביעי תחיית המתיים"
       ],
-      "uri": "jbr:haemunotvehadeot-7-2",
+      "uri": "jbr:text-haemunotvehadeot-7-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "64",
       "rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים ב",
@@ -644,7 +644,7 @@
       "jbo:within": [
         "מאמר השביעי תחיית המתיים"
       ],
-      "uri": "jbr:haemunotvehadeot-7-3",
+      "uri": "jbr:text-haemunotvehadeot-7-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "65",
       "rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים ג",
@@ -654,7 +654,7 @@
       "jbo:within": [
         "מאמר השביעי תחיית המתיים"
       ],
-      "uri": "jbr:haemunotvehadeot-7-4",
+      "uri": "jbr:text-haemunotvehadeot-7-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "66",
       "rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים ד",
@@ -664,7 +664,7 @@
       "jbo:within": [
         "מאמר השביעי תחיית המתיים"
       ],
-      "uri": "jbr:haemunotvehadeot-7-5",
+      "uri": "jbr:text-haemunotvehadeot-7-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "67",
       "rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים ה",
@@ -674,7 +674,7 @@
       "jbo:within": [
         "מאמר השביעי תחיית המתיים"
       ],
-      "uri": "jbr:haemunotvehadeot-7-6",
+      "uri": "jbr:text-haemunotvehadeot-7-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "68",
       "rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים ו",
@@ -684,7 +684,7 @@
       "jbo:within": [
         "מאמר השביעי תחיית המתיים"
       ],
-      "uri": "jbr:haemunotvehadeot-7-7",
+      "uri": "jbr:text-haemunotvehadeot-7-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "69",
       "rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים ז",
@@ -694,7 +694,7 @@
       "jbo:within": [
         "מאמר השביעי תחיית המתיים"
       ],
-      "uri": "jbr:haemunotvehadeot-7-8",
+      "uri": "jbr:text-haemunotvehadeot-7-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "70",
       "rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים ח",
@@ -704,7 +704,7 @@
       "jbo:within": [
         "מאמר השמיני גאולה אחרונה"
       ],
-      "uri": "jbr:haemunotvehadeot-8-1",
+      "uri": "jbr:text-haemunotvehadeot-8-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "71",
       "rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה א",
@@ -714,7 +714,7 @@
       "jbo:within": [
         "מאמר השמיני גאולה אחרונה"
       ],
-      "uri": "jbr:haemunotvehadeot-8-2",
+      "uri": "jbr:text-haemunotvehadeot-8-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "72",
       "rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה ב",
@@ -724,7 +724,7 @@
       "jbo:within": [
         "מאמר השמיני גאולה אחרונה"
       ],
-      "uri": "jbr:haemunotvehadeot-8-3",
+      "uri": "jbr:text-haemunotvehadeot-8-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "73",
       "rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה ג",
@@ -734,7 +734,7 @@
       "jbo:within": [
         "מאמר השמיני גאולה אחרונה"
       ],
-      "uri": "jbr:haemunotvehadeot-8-4",
+      "uri": "jbr:text-haemunotvehadeot-8-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "74",
       "rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה ד",
@@ -744,7 +744,7 @@
       "jbo:within": [
         "מאמר השמיני גאולה אחרונה"
       ],
-      "uri": "jbr:haemunotvehadeot-8-5",
+      "uri": "jbr:text-haemunotvehadeot-8-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "75",
       "rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה ה",
@@ -754,7 +754,7 @@
       "jbo:within": [
         "מאמר השמיני גאולה אחרונה"
       ],
-      "uri": "jbr:haemunotvehadeot-8-6",
+      "uri": "jbr:text-haemunotvehadeot-8-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "76",
       "rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה ו",
@@ -764,7 +764,7 @@
       "jbo:within": [
         "מאמר השמיני גאולה אחרונה"
       ],
-      "uri": "jbr:haemunotvehadeot-8-7",
+      "uri": "jbr:text-haemunotvehadeot-8-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "77",
       "rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה ז",
@@ -774,7 +774,7 @@
       "jbo:within": [
         "מאמר השמיני גאולה אחרונה"
       ],
-      "uri": "jbr:haemunotvehadeot-8-8",
+      "uri": "jbr:text-haemunotvehadeot-8-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "78",
       "rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה ח",
@@ -784,7 +784,7 @@
       "jbo:within": [
         "מאמר השמיני גאולה אחרונה"
       ],
-      "uri": "jbr:haemunotvehadeot-8-9",
+      "uri": "jbr:text-haemunotvehadeot-8-9",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "79",
       "rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה ט",
@@ -794,7 +794,7 @@
       "jbo:within": [
         "מאמר התשיעי גמול ועונש"
       ],
-      "uri": "jbr:haemunotvehadeot-9-1",
+      "uri": "jbr:text-haemunotvehadeot-9-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "80",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש א",
@@ -804,7 +804,7 @@
       "jbo:within": [
         "מאמר התשיעי גמול ועונש"
       ],
-      "uri": "jbr:haemunotvehadeot-9-2",
+      "uri": "jbr:text-haemunotvehadeot-9-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "81",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש ב",
@@ -814,7 +814,7 @@
       "jbo:within": [
         "מאמר התשיעי גמול ועונש"
       ],
-      "uri": "jbr:haemunotvehadeot-9-3",
+      "uri": "jbr:text-haemunotvehadeot-9-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "82",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש ג",
@@ -824,7 +824,7 @@
       "jbo:within": [
         "מאמר התשיעי גמול ועונש"
       ],
-      "uri": "jbr:haemunotvehadeot-9-4",
+      "uri": "jbr:text-haemunotvehadeot-9-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "83",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש ד",
@@ -834,7 +834,7 @@
       "jbo:within": [
         "מאמר התשיעי גמול ועונש"
       ],
-      "uri": "jbr:haemunotvehadeot-9-5",
+      "uri": "jbr:text-haemunotvehadeot-9-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "84",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש ה",
@@ -844,7 +844,7 @@
       "jbo:within": [
         "מאמר התשיעי גמול ועונש"
       ],
-      "uri": "jbr:haemunotvehadeot-9-6",
+      "uri": "jbr:text-haemunotvehadeot-9-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "85",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש ו",
@@ -854,7 +854,7 @@
       "jbo:within": [
         "מאמר התשיעי גמול ועונש"
       ],
-      "uri": "jbr:haemunotvehadeot-9-7",
+      "uri": "jbr:text-haemunotvehadeot-9-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "86",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש ז",
@@ -864,7 +864,7 @@
       "jbo:within": [
         "מאמר התשיעי גמול ועונש"
       ],
-      "uri": "jbr:haemunotvehadeot-9-8",
+      "uri": "jbr:text-haemunotvehadeot-9-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "87",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש ח",
@@ -874,7 +874,7 @@
       "jbo:within": [
         "מאמר התשיעי גמול ועונש"
       ],
-      "uri": "jbr:haemunotvehadeot-9-9",
+      "uri": "jbr:text-haemunotvehadeot-9-9",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "88",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש ט",
@@ -884,7 +884,7 @@
       "jbo:within": [
         "מאמר התשיעי גמול ועונש"
       ],
-      "uri": "jbr:haemunotvehadeot-9-10",
+      "uri": "jbr:text-haemunotvehadeot-9-10",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "89",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש י",
@@ -894,7 +894,7 @@
       "jbo:within": [
         "מאמר התשיעי גמול ועונש"
       ],
-      "uri": "jbr:haemunotvehadeot-9-11",
+      "uri": "jbr:text-haemunotvehadeot-9-11",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "90",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש יא",
@@ -904,7 +904,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-0",
+      "uri": "jbr:text-haemunotvehadeot-10-0",
       "jbo:position": "91",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "rdfs:label": "האמונות והדעות - פתיחה",
@@ -914,7 +914,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-1",
+      "uri": "jbr:text-haemunotvehadeot-10-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "92",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם א",
@@ -924,7 +924,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-2",
+      "uri": "jbr:text-haemunotvehadeot-10-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "93",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם ב",
@@ -934,7 +934,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-3",
+      "uri": "jbr:text-haemunotvehadeot-10-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "94",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם ג",
@@ -944,7 +944,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-4",
+      "uri": "jbr:text-haemunotvehadeot-10-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "95",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם ד",
@@ -954,7 +954,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-5",
+      "uri": "jbr:text-haemunotvehadeot-10-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "96",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם ה",
@@ -964,7 +964,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-6",
+      "uri": "jbr:text-haemunotvehadeot-10-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "97",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם ו",
@@ -974,7 +974,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-7",
+      "uri": "jbr:text-haemunotvehadeot-10-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "98",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם ז",
@@ -984,7 +984,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-8",
+      "uri": "jbr:text-haemunotvehadeot-10-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "99",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם ח",
@@ -994,7 +994,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-9",
+      "uri": "jbr:text-haemunotvehadeot-10-9",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "100",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם ט",
@@ -1004,7 +1004,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-10",
+      "uri": "jbr:text-haemunotvehadeot-10-10",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "101",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם י",
@@ -1014,7 +1014,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-11",
+      "uri": "jbr:text-haemunotvehadeot-10-11",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "102",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם יא",
@@ -1024,7 +1024,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-12",
+      "uri": "jbr:text-haemunotvehadeot-10-12",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "103",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם יב",
@@ -1034,7 +1034,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-13",
+      "uri": "jbr:text-haemunotvehadeot-10-13",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "104",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם יג",
@@ -1044,7 +1044,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-14",
+      "uri": "jbr:text-haemunotvehadeot-10-14",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "105",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם יד",
@@ -1054,7 +1054,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-15",
+      "uri": "jbr:text-haemunotvehadeot-10-15",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "106",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם טו",
@@ -1064,7 +1064,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-16",
+      "uri": "jbr:text-haemunotvehadeot-10-16",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "107",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם טז",
@@ -1074,7 +1074,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-17",
+      "uri": "jbr:text-haemunotvehadeot-10-17",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "108",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם יז",
@@ -1084,7 +1084,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-18",
+      "uri": "jbr:text-haemunotvehadeot-10-18",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "109",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם יח",
@@ -1094,7 +1094,7 @@
       "jbo:within": [
         "מאמר העשירי הנהגת האדם"
       ],
-      "uri": "jbr:haemunotvehadeot-10-19",
+      "uri": "jbr:text-haemunotvehadeot-10-19",
       "jbo:book": "jbr:book-haemunotvehadeot",
       "jbo:position": "110",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם יט",

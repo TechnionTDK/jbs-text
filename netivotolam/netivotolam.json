@@ -1,7 +1,7 @@
 {
   "subjects": [
     {
-      "uri": "jbr:netivotolam-0-0",
+      "uri": "jbr:text-netivotolam-0-0",
       "jbo:book": "jbr:book-netivotolam",
       "jbo:position": "1",
       "rdfs:label": "נתיבות עולם - הקדמה",
@@ -9,9 +9,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-1",
+      "uri": "jbr:text-netivotolam-1-1",
       "jbo:position": "2",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה א",
@@ -19,9 +19,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-2",
+      "uri": "jbr:text-netivotolam-1-2",
       "jbo:position": "3",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה ב",
@@ -29,9 +29,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-3",
+      "uri": "jbr:text-netivotolam-1-3",
       "jbo:position": "4",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה ג",
@@ -39,9 +39,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-4",
+      "uri": "jbr:text-netivotolam-1-4",
       "jbo:position": "5",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה ד",
@@ -49,9 +49,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-5",
+      "uri": "jbr:text-netivotolam-1-5",
       "jbo:position": "6",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה ה",
@@ -59,9 +59,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-6",
+      "uri": "jbr:text-netivotolam-1-6",
       "jbo:position": "7",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה ו",
@@ -69,9 +69,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-7",
+      "uri": "jbr:text-netivotolam-1-7",
       "jbo:position": "8",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה ז",
@@ -79,9 +79,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-8",
+      "uri": "jbr:text-netivotolam-1-8",
       "jbo:position": "9",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה ח",
@@ -89,9 +89,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-9",
+      "uri": "jbr:text-netivotolam-1-9",
       "jbo:position": "10",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה ט",
@@ -99,9 +99,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-10",
+      "uri": "jbr:text-netivotolam-1-10",
       "jbo:position": "11",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה י",
@@ -109,9 +109,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-11",
+      "uri": "jbr:text-netivotolam-1-11",
       "jbo:position": "12",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה יא",
@@ -119,9 +119,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-12",
+      "uri": "jbr:text-netivotolam-1-12",
       "jbo:position": "13",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה יב",
@@ -129,9 +129,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-13",
+      "uri": "jbr:text-netivotolam-1-13",
       "jbo:position": "14",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה יג",
@@ -139,9 +139,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-14",
+      "uri": "jbr:text-netivotolam-1-14",
       "jbo:position": "15",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה יד",
@@ -149,9 +149,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-15",
+      "uri": "jbr:text-netivotolam-1-15",
       "jbo:position": "16",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה טו",
@@ -159,9 +159,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-16",
+      "uri": "jbr:text-netivotolam-1-16",
       "jbo:position": "17",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה טז",
@@ -169,9 +169,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-17",
+      "uri": "jbr:text-netivotolam-1-17",
       "jbo:position": "18",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה יז",
@@ -179,9 +179,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-1"
+        "jbr:section-netivotolam-1"
       ],
-      "uri": "jbr:netivotolam-1-18",
+      "uri": "jbr:text-netivotolam-1-18",
       "jbo:position": "19",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התורה יח",
@@ -189,9 +189,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-1",
+      "uri": "jbr:text-netivotolam-2-1",
       "jbo:position": "20",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה א",
@@ -199,9 +199,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-2",
+      "uri": "jbr:text-netivotolam-2-2",
       "jbo:position": "21",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה ב",
@@ -209,9 +209,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-3",
+      "uri": "jbr:text-netivotolam-2-3",
       "jbo:position": "22",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה ג",
@@ -219,9 +219,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-4",
+      "uri": "jbr:text-netivotolam-2-4",
       "jbo:position": "23",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה ד",
@@ -229,9 +229,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-5",
+      "uri": "jbr:text-netivotolam-2-5",
       "jbo:position": "24",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה ה",
@@ -239,9 +239,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-6",
+      "uri": "jbr:text-netivotolam-2-6",
       "jbo:position": "25",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה ו",
@@ -249,9 +249,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-7",
+      "uri": "jbr:text-netivotolam-2-7",
       "jbo:position": "26",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה ז",
@@ -259,9 +259,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-8",
+      "uri": "jbr:text-netivotolam-2-8",
       "jbo:position": "27",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה ח",
@@ -269,9 +269,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-9",
+      "uri": "jbr:text-netivotolam-2-9",
       "jbo:position": "28",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה ט",
@@ -279,9 +279,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-10",
+      "uri": "jbr:text-netivotolam-2-10",
       "jbo:position": "29",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה י",
@@ -289,9 +289,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-11",
+      "uri": "jbr:text-netivotolam-2-11",
       "jbo:position": "30",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה יא",
@@ -299,9 +299,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-12",
+      "uri": "jbr:text-netivotolam-2-12",
       "jbo:position": "31",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה יב",
@@ -309,9 +309,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-13",
+      "uri": "jbr:text-netivotolam-2-13",
       "jbo:position": "32",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה יג",
@@ -319,9 +319,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-14",
+      "uri": "jbr:text-netivotolam-2-14",
       "jbo:position": "33",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה יד",
@@ -329,9 +329,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-15",
+      "uri": "jbr:text-netivotolam-2-15",
       "jbo:position": "34",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה טו",
@@ -339,9 +339,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-16",
+      "uri": "jbr:text-netivotolam-2-16",
       "jbo:position": "35",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה טז",
@@ -349,9 +349,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-17",
+      "uri": "jbr:text-netivotolam-2-17",
       "jbo:position": "36",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה יז",
@@ -359,9 +359,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-18",
+      "uri": "jbr:text-netivotolam-2-18",
       "jbo:position": "37",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה יח",
@@ -369,9 +369,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-2"
+        "jbr:section-netivotolam-2"
       ],
-      "uri": "jbr:netivotolam-2-19",
+      "uri": "jbr:text-netivotolam-2-19",
       "jbo:position": "38",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העבודה יט",
@@ -379,9 +379,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-3"
+        "jbr:section-netivotolam-3"
       ],
-      "uri": "jbr:netivotolam-3-1",
+      "uri": "jbr:text-netivotolam-3-1",
       "jbo:position": "39",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב גמילות חסדים א",
@@ -389,9 +389,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-3"
+        "jbr:section-netivotolam-3"
       ],
-      "uri": "jbr:netivotolam-3-2",
+      "uri": "jbr:text-netivotolam-3-2",
       "jbo:position": "40",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב גמילות חסדים ב",
@@ -399,9 +399,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-3"
+        "jbr:section-netivotolam-3"
       ],
-      "uri": "jbr:netivotolam-3-3",
+      "uri": "jbr:text-netivotolam-3-3",
       "jbo:position": "41",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב גמילות חסדים ג",
@@ -409,9 +409,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-3"
+        "jbr:section-netivotolam-3"
       ],
-      "uri": "jbr:netivotolam-3-4",
+      "uri": "jbr:text-netivotolam-3-4",
       "jbo:position": "42",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב גמילות חסדים ד",
@@ -419,9 +419,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-3"
+        "jbr:section-netivotolam-3"
       ],
-      "uri": "jbr:netivotolam-3-5",
+      "uri": "jbr:text-netivotolam-3-5",
       "jbo:position": "43",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב גמילות חסדים ה",
@@ -429,9 +429,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-4"
+        "jbr:section-netivotolam-4"
       ],
-      "uri": "jbr:netivotolam-4-1",
+      "uri": "jbr:text-netivotolam-4-1",
       "jbo:position": "44",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצדקה א",
@@ -439,9 +439,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-4"
+        "jbr:section-netivotolam-4"
       ],
-      "uri": "jbr:netivotolam-4-2",
+      "uri": "jbr:text-netivotolam-4-2",
       "jbo:position": "45",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצדקה ב",
@@ -449,9 +449,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-4"
+        "jbr:section-netivotolam-4"
       ],
-      "uri": "jbr:netivotolam-4-3",
+      "uri": "jbr:text-netivotolam-4-3",
       "jbo:position": "46",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצדקה ג",
@@ -459,9 +459,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-4"
+        "jbr:section-netivotolam-4"
       ],
-      "uri": "jbr:netivotolam-4-4",
+      "uri": "jbr:text-netivotolam-4-4",
       "jbo:position": "47",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצדקה ד",
@@ -469,9 +469,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-4"
+        "jbr:section-netivotolam-4"
       ],
-      "uri": "jbr:netivotolam-4-5",
+      "uri": "jbr:text-netivotolam-4-5",
       "jbo:position": "48",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצדקה ה",
@@ -479,9 +479,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-4"
+        "jbr:section-netivotolam-4"
       ],
-      "uri": "jbr:netivotolam-4-6",
+      "uri": "jbr:text-netivotolam-4-6",
       "jbo:position": "49",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצדקה ו",
@@ -489,9 +489,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-5"
+        "jbr:section-netivotolam-5"
       ],
-      "uri": "jbr:netivotolam-5-1",
+      "uri": "jbr:text-netivotolam-5-1",
       "jbo:position": "50",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הדין א",
@@ -499,9 +499,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-5"
+        "jbr:section-netivotolam-5"
       ],
-      "uri": "jbr:netivotolam-5-2",
+      "uri": "jbr:text-netivotolam-5-2",
       "jbo:position": "51",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הדין ב",
@@ -509,9 +509,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-6"
+        "jbr:section-netivotolam-6"
       ],
-      "uri": "jbr:netivotolam-6-1",
+      "uri": "jbr:text-netivotolam-6-1",
       "jbo:position": "52",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב האמת א",
@@ -519,9 +519,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-6"
+        "jbr:section-netivotolam-6"
       ],
-      "uri": "jbr:netivotolam-6-2",
+      "uri": "jbr:text-netivotolam-6-2",
       "jbo:position": "53",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב האמת ב",
@@ -529,9 +529,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-6"
+        "jbr:section-netivotolam-6"
       ],
-      "uri": "jbr:netivotolam-6-3",
+      "uri": "jbr:text-netivotolam-6-3",
       "jbo:position": "54",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב האמת ג",
@@ -539,9 +539,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-7"
+        "jbr:section-netivotolam-7"
       ],
-      "uri": "jbr:netivotolam-7-1",
+      "uri": "jbr:text-netivotolam-7-1",
       "jbo:position": "55",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב האמונה א",
@@ -549,9 +549,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-7"
+        "jbr:section-netivotolam-7"
       ],
-      "uri": "jbr:netivotolam-7-2",
+      "uri": "jbr:text-netivotolam-7-2",
       "jbo:position": "56",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב האמונה ב",
@@ -559,9 +559,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-8"
+        "jbr:section-netivotolam-8"
       ],
-      "uri": "jbr:netivotolam-8-1",
+      "uri": "jbr:text-netivotolam-8-1",
       "jbo:position": "57",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב השלום א",
@@ -569,9 +569,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-8"
+        "jbr:section-netivotolam-8"
       ],
-      "uri": "jbr:netivotolam-8-2",
+      "uri": "jbr:text-netivotolam-8-2",
       "jbo:position": "58",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב השלום ב",
@@ -579,9 +579,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-8"
+        "jbr:section-netivotolam-8"
       ],
-      "uri": "jbr:netivotolam-8-3",
+      "uri": "jbr:text-netivotolam-8-3",
       "jbo:position": "59",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב השלום ג",
@@ -589,9 +589,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-9"
+        "jbr:section-netivotolam-9"
       ],
-      "uri": "jbr:netivotolam-9-1",
+      "uri": "jbr:text-netivotolam-9-1",
       "jbo:position": "60",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב אהבת ריע א",
@@ -599,9 +599,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-9"
+        "jbr:section-netivotolam-9"
       ],
-      "uri": "jbr:netivotolam-9-2",
+      "uri": "jbr:text-netivotolam-9-2",
       "jbo:position": "61",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב אהבת ריע ב",
@@ -609,9 +609,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-9"
+        "jbr:section-netivotolam-9"
       ],
-      "uri": "jbr:netivotolam-9-3",
+      "uri": "jbr:text-netivotolam-9-3",
       "jbo:position": "62",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב אהבת ריע ג",
@@ -619,9 +619,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-10"
+        "jbr:section-netivotolam-10"
       ],
-      "uri": "jbr:netivotolam-10-1",
+      "uri": "jbr:text-netivotolam-10-1",
       "jbo:position": "63",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הענוה א",
@@ -629,9 +629,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-10"
+        "jbr:section-netivotolam-10"
       ],
-      "uri": "jbr:netivotolam-10-2",
+      "uri": "jbr:text-netivotolam-10-2",
       "jbo:position": "64",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הענוה ב",
@@ -639,9 +639,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-10"
+        "jbr:section-netivotolam-10"
       ],
-      "uri": "jbr:netivotolam-10-3",
+      "uri": "jbr:text-netivotolam-10-3",
       "jbo:position": "65",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הענוה ג",
@@ -649,9 +649,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-10"
+        "jbr:section-netivotolam-10"
       ],
-      "uri": "jbr:netivotolam-10-4",
+      "uri": "jbr:text-netivotolam-10-4",
       "jbo:position": "66",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הענוה ד",
@@ -659,9 +659,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-10"
+        "jbr:section-netivotolam-10"
       ],
-      "uri": "jbr:netivotolam-10-5",
+      "uri": "jbr:text-netivotolam-10-5",
       "jbo:position": "67",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הענוה ה",
@@ -669,9 +669,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-10"
+        "jbr:section-netivotolam-10"
       ],
-      "uri": "jbr:netivotolam-10-6",
+      "uri": "jbr:text-netivotolam-10-6",
       "jbo:position": "68",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הענוה ו",
@@ -679,9 +679,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-10"
+        "jbr:section-netivotolam-10"
       ],
-      "uri": "jbr:netivotolam-10-7",
+      "uri": "jbr:text-netivotolam-10-7",
       "jbo:position": "69",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הענוה ז",
@@ -689,9 +689,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-10"
+        "jbr:section-netivotolam-10"
       ],
-      "uri": "jbr:netivotolam-10-8",
+      "uri": "jbr:text-netivotolam-10-8",
       "jbo:position": "70",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הענוה ח",
@@ -699,9 +699,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-11"
+        "jbr:section-netivotolam-11"
       ],
-      "uri": "jbr:netivotolam-11-1",
+      "uri": "jbr:text-netivotolam-11-1",
       "jbo:position": "71",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב יראת השם א",
@@ -709,9 +709,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-11"
+        "jbr:section-netivotolam-11"
       ],
-      "uri": "jbr:netivotolam-11-2",
+      "uri": "jbr:text-netivotolam-11-2",
       "jbo:position": "72",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב יראת השם ב",
@@ -719,9 +719,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-11"
+        "jbr:section-netivotolam-11"
       ],
-      "uri": "jbr:netivotolam-11-3",
+      "uri": "jbr:text-netivotolam-11-3",
       "jbo:position": "73",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב יראת השם ג",
@@ -729,9 +729,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-11"
+        "jbr:section-netivotolam-11"
       ],
-      "uri": "jbr:netivotolam-11-4",
+      "uri": "jbr:text-netivotolam-11-4",
       "jbo:position": "74",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב יראת השם ד",
@@ -739,9 +739,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-11"
+        "jbr:section-netivotolam-11"
       ],
-      "uri": "jbr:netivotolam-11-5",
+      "uri": "jbr:text-netivotolam-11-5",
       "jbo:position": "75",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב יראת השם ה",
@@ -749,9 +749,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-11"
+        "jbr:section-netivotolam-11"
       ],
-      "uri": "jbr:netivotolam-11-6",
+      "uri": "jbr:text-netivotolam-11-6",
       "jbo:position": "76",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב יראת השם ו",
@@ -759,9 +759,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-12"
+        "jbr:section-netivotolam-12"
       ],
-      "uri": "jbr:netivotolam-12-1",
+      "uri": "jbr:text-netivotolam-12-1",
       "jbo:position": "77",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הלשון א",
@@ -769,9 +769,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-12"
+        "jbr:section-netivotolam-12"
       ],
-      "uri": "jbr:netivotolam-12-2",
+      "uri": "jbr:text-netivotolam-12-2",
       "jbo:position": "78",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הלשון ב",
@@ -779,9 +779,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-12"
+        "jbr:section-netivotolam-12"
       ],
-      "uri": "jbr:netivotolam-12-3",
+      "uri": "jbr:text-netivotolam-12-3",
       "jbo:position": "79",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הלשון ג",
@@ -789,9 +789,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-12"
+        "jbr:section-netivotolam-12"
       ],
-      "uri": "jbr:netivotolam-12-4",
+      "uri": "jbr:text-netivotolam-12-4",
       "jbo:position": "80",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הלשון ד",
@@ -799,9 +799,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-12"
+        "jbr:section-netivotolam-12"
       ],
-      "uri": "jbr:netivotolam-12-5",
+      "uri": "jbr:text-netivotolam-12-5",
       "jbo:position": "81",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הלשון ה",
@@ -809,9 +809,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-12"
+        "jbr:section-netivotolam-12"
       ],
-      "uri": "jbr:netivotolam-12-6",
+      "uri": "jbr:text-netivotolam-12-6",
       "jbo:position": "82",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הלשון ו",
@@ -819,9 +819,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-12"
+        "jbr:section-netivotolam-12"
       ],
-      "uri": "jbr:netivotolam-12-7",
+      "uri": "jbr:text-netivotolam-12-7",
       "jbo:position": "83",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הלשון ז",
@@ -829,9 +829,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-12"
+        "jbr:section-netivotolam-12"
       ],
-      "uri": "jbr:netivotolam-12-8",
+      "uri": "jbr:text-netivotolam-12-8",
       "jbo:position": "84",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הלשון ח",
@@ -839,9 +839,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-12"
+        "jbr:section-netivotolam-12"
       ],
-      "uri": "jbr:netivotolam-12-9",
+      "uri": "jbr:text-netivotolam-12-9",
       "jbo:position": "85",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הלשון ט",
@@ -849,9 +849,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-12"
+        "jbr:section-netivotolam-12"
       ],
-      "uri": "jbr:netivotolam-12-10",
+      "uri": "jbr:text-netivotolam-12-10",
       "jbo:position": "86",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הלשון י",
@@ -859,9 +859,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-12"
+        "jbr:section-netivotolam-12"
       ],
-      "uri": "jbr:netivotolam-12-11",
+      "uri": "jbr:text-netivotolam-12-11",
       "jbo:position": "87",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הלשון יא",
@@ -869,9 +869,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-13"
+        "jbr:section-netivotolam-13"
       ],
-      "uri": "jbr:netivotolam-13-1",
+      "uri": "jbr:text-netivotolam-13-1",
       "jbo:position": "88",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב אהבת השם א",
@@ -879,9 +879,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-13"
+        "jbr:section-netivotolam-13"
       ],
-      "uri": "jbr:netivotolam-13-2",
+      "uri": "jbr:text-netivotolam-13-2",
       "jbo:position": "89",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב אהבת השם ב",
@@ -889,9 +889,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-14"
+        "jbr:section-netivotolam-14"
       ],
-      "uri": "jbr:netivotolam-14-1",
+      "uri": "jbr:text-netivotolam-14-1",
       "jbo:position": "90",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב השתיקה א",
@@ -899,9 +899,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-15"
+        "jbr:section-netivotolam-15"
       ],
-      "uri": "jbr:netivotolam-15-1",
+      "uri": "jbr:text-netivotolam-15-1",
       "jbo:position": "91",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הפּרישות א",
@@ -909,9 +909,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-15"
+        "jbr:section-netivotolam-15"
       ],
-      "uri": "jbr:netivotolam-15-2",
+      "uri": "jbr:text-netivotolam-15-2",
       "jbo:position": "92",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הפּרישות ב",
@@ -919,9 +919,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-15"
+        "jbr:section-netivotolam-15"
       ],
-      "uri": "jbr:netivotolam-15-3",
+      "uri": "jbr:text-netivotolam-15-3",
       "jbo:position": "93",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הפּרישות ג",
@@ -929,9 +929,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-16"
+        "jbr:section-netivotolam-16"
       ],
-      "uri": "jbr:netivotolam-16-1",
+      "uri": "jbr:text-netivotolam-16-1",
       "jbo:position": "94",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצניעות א",
@@ -939,9 +939,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-16"
+        "jbr:section-netivotolam-16"
       ],
-      "uri": "jbr:netivotolam-16-2",
+      "uri": "jbr:text-netivotolam-16-2",
       "jbo:position": "95",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצניעות ב",
@@ -949,9 +949,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-16"
+        "jbr:section-netivotolam-16"
       ],
-      "uri": "jbr:netivotolam-16-3",
+      "uri": "jbr:text-netivotolam-16-3",
       "jbo:position": "96",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצניעות ג",
@@ -959,9 +959,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-16"
+        "jbr:section-netivotolam-16"
       ],
-      "uri": "jbr:netivotolam-16-4",
+      "uri": "jbr:text-netivotolam-16-4",
       "jbo:position": "97",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצניעות ד",
@@ -969,9 +969,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-17"
+        "jbr:section-netivotolam-17"
       ],
-      "uri": "jbr:netivotolam-17-1",
+      "uri": "jbr:text-netivotolam-17-1",
       "jbo:position": "98",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב כח היצר א",
@@ -979,9 +979,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-17"
+        "jbr:section-netivotolam-17"
       ],
-      "uri": "jbr:netivotolam-17-2",
+      "uri": "jbr:text-netivotolam-17-2",
       "jbo:position": "99",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב כח היצר ב",
@@ -989,9 +989,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-17"
+        "jbr:section-netivotolam-17"
       ],
-      "uri": "jbr:netivotolam-17-3",
+      "uri": "jbr:text-netivotolam-17-3",
       "jbo:position": "100",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב כח היצר ג",
@@ -999,9 +999,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-17"
+        "jbr:section-netivotolam-17"
       ],
-      "uri": "jbr:netivotolam-17-4",
+      "uri": "jbr:text-netivotolam-17-4",
       "jbo:position": "101",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב כח היצר ד",
@@ -1009,9 +1009,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-18"
+        "jbr:section-netivotolam-18"
       ],
-      "uri": "jbr:netivotolam-18-1",
+      "uri": "jbr:text-netivotolam-18-1",
       "jbo:position": "102",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצדק א",
@@ -1019,9 +1019,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-18"
+        "jbr:section-netivotolam-18"
       ],
-      "uri": "jbr:netivotolam-18-2",
+      "uri": "jbr:text-netivotolam-18-2",
       "jbo:position": "103",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצדק ב",
@@ -1029,9 +1029,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-18"
+        "jbr:section-netivotolam-18"
       ],
-      "uri": "jbr:netivotolam-18-3",
+      "uri": "jbr:text-netivotolam-18-3",
       "jbo:position": "104",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הצדק ג",
@@ -1039,9 +1039,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-19"
+        "jbr:section-netivotolam-19"
       ],
-      "uri": "jbr:netivotolam-19-1",
+      "uri": "jbr:text-netivotolam-19-1",
       "jbo:position": "105",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התשובה א",
@@ -1049,9 +1049,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-19"
+        "jbr:section-netivotolam-19"
       ],
-      "uri": "jbr:netivotolam-19-2",
+      "uri": "jbr:text-netivotolam-19-2",
       "jbo:position": "106",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התשובה ב",
@@ -1059,9 +1059,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-19"
+        "jbr:section-netivotolam-19"
       ],
-      "uri": "jbr:netivotolam-19-3",
+      "uri": "jbr:text-netivotolam-19-3",
       "jbo:position": "107",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התשובה ג",
@@ -1069,9 +1069,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-19"
+        "jbr:section-netivotolam-19"
       ],
-      "uri": "jbr:netivotolam-19-4",
+      "uri": "jbr:text-netivotolam-19-4",
       "jbo:position": "108",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התשובה ד",
@@ -1079,9 +1079,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-19"
+        "jbr:section-netivotolam-19"
       ],
-      "uri": "jbr:netivotolam-19-5",
+      "uri": "jbr:text-netivotolam-19-5",
       "jbo:position": "109",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התשובה ה",
@@ -1089,9 +1089,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-19"
+        "jbr:section-netivotolam-19"
       ],
-      "uri": "jbr:netivotolam-19-6",
+      "uri": "jbr:text-netivotolam-19-6",
       "jbo:position": "110",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התשובה ו",
@@ -1099,9 +1099,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-19"
+        "jbr:section-netivotolam-19"
       ],
-      "uri": "jbr:netivotolam-19-7",
+      "uri": "jbr:text-netivotolam-19-7",
       "jbo:position": "111",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התשובה ז",
@@ -1109,9 +1109,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-19"
+        "jbr:section-netivotolam-19"
       ],
-      "uri": "jbr:netivotolam-19-8",
+      "uri": "jbr:text-netivotolam-19-8",
       "jbo:position": "112",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התשובה ח",
@@ -1119,9 +1119,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-20"
+        "jbr:section-netivotolam-20"
       ],
-      "uri": "jbr:netivotolam-20-1",
+      "uri": "jbr:text-netivotolam-20-1",
       "jbo:position": "113",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב היסורין א",
@@ -1129,9 +1129,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-20"
+        "jbr:section-netivotolam-20"
       ],
-      "uri": "jbr:netivotolam-20-2",
+      "uri": "jbr:text-netivotolam-20-2",
       "jbo:position": "114",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב היסורין ב",
@@ -1139,9 +1139,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-20"
+        "jbr:section-netivotolam-20"
       ],
-      "uri": "jbr:netivotolam-20-3",
+      "uri": "jbr:text-netivotolam-20-3",
       "jbo:position": "115",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב היסורין ג",
@@ -1149,9 +1149,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-21"
+        "jbr:section-netivotolam-21"
       ],
-      "uri": "jbr:netivotolam-21-1",
+      "uri": "jbr:text-netivotolam-21-1",
       "jbo:position": "116",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הזריזות א",
@@ -1159,9 +1159,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-21"
+        "jbr:section-netivotolam-21"
       ],
-      "uri": "jbr:netivotolam-21-2",
+      "uri": "jbr:text-netivotolam-21-2",
       "jbo:position": "117",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הזריזות ב",
@@ -1169,9 +1169,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-22"
+        "jbr:section-netivotolam-22"
       ],
-      "uri": "jbr:netivotolam-22-1",
+      "uri": "jbr:text-netivotolam-22-1",
       "jbo:position": "118",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התוכחה א",
@@ -1179,9 +1179,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-22"
+        "jbr:section-netivotolam-22"
       ],
-      "uri": "jbr:netivotolam-22-2",
+      "uri": "jbr:text-netivotolam-22-2",
       "jbo:position": "119",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התוכחה ב",
@@ -1189,9 +1189,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-22"
+        "jbr:section-netivotolam-22"
       ],
-      "uri": "jbr:netivotolam-22-3",
+      "uri": "jbr:text-netivotolam-22-3",
       "jbo:position": "120",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התוכחה ג",
@@ -1199,9 +1199,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-23"
+        "jbr:section-netivotolam-23"
       ],
-      "uri": "jbr:netivotolam-23-1",
+      "uri": "jbr:text-netivotolam-23-1",
       "jbo:position": "121",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הבושה א",
@@ -1209,9 +1209,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-23"
+        "jbr:section-netivotolam-23"
       ],
-      "uri": "jbr:netivotolam-23-2",
+      "uri": "jbr:text-netivotolam-23-2",
       "jbo:position": "122",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הבושה ב",
@@ -1219,9 +1219,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-24"
+        "jbr:section-netivotolam-24"
       ],
-      "uri": "jbr:netivotolam-24-1",
+      "uri": "jbr:text-netivotolam-24-1",
       "jbo:position": "123",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התמימות א",
@@ -1229,9 +1229,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-24"
+        "jbr:section-netivotolam-24"
       ],
-      "uri": "jbr:netivotolam-24-2",
+      "uri": "jbr:text-netivotolam-24-2",
       "jbo:position": "124",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב התמימות ב",
@@ -1239,9 +1239,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-25"
+        "jbr:section-netivotolam-25"
       ],
-      "uri": "jbr:netivotolam-25-1",
+      "uri": "jbr:text-netivotolam-25-1",
       "jbo:position": "125",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב לב טוב א",
@@ -1249,9 +1249,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-26"
+        "jbr:section-netivotolam-26"
       ],
-      "uri": "jbr:netivotolam-26-1",
+      "uri": "jbr:text-netivotolam-26-1",
       "jbo:position": "126",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב עין טוב א",
@@ -1259,9 +1259,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-27"
+        "jbr:section-netivotolam-27"
       ],
-      "uri": "jbr:netivotolam-27-1",
+      "uri": "jbr:text-netivotolam-27-1",
       "jbo:position": "127",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הליצנות א",
@@ -1269,9 +1269,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-27"
+        "jbr:section-netivotolam-27"
       ],
-      "uri": "jbr:netivotolam-27-2",
+      "uri": "jbr:text-netivotolam-27-2",
       "jbo:position": "128",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הליצנות ב",
@@ -1279,9 +1279,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-28"
+        "jbr:section-netivotolam-28"
       ],
-      "uri": "jbr:netivotolam-28-1",
+      "uri": "jbr:text-netivotolam-28-1",
       "jbo:position": "129",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העושר א",
@@ -1289,9 +1289,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-28"
+        "jbr:section-netivotolam-28"
       ],
-      "uri": "jbr:netivotolam-28-2",
+      "uri": "jbr:text-netivotolam-28-2",
       "jbo:position": "130",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב העושר ב",
@@ -1299,9 +1299,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-29"
+        "jbr:section-netivotolam-29"
       ],
-      "uri": "jbr:netivotolam-29-1",
+      "uri": "jbr:text-netivotolam-29-1",
       "jbo:position": "131",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הבטחון א",
@@ -1309,9 +1309,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-30"
+        "jbr:section-netivotolam-30"
       ],
-      "uri": "jbr:netivotolam-30-1",
+      "uri": "jbr:text-netivotolam-30-1",
       "jbo:position": "132",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הכעס א",
@@ -1319,9 +1319,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-30"
+        "jbr:section-netivotolam-30"
       ],
-      "uri": "jbr:netivotolam-30-2",
+      "uri": "jbr:text-netivotolam-30-2",
       "jbo:position": "133",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הכעס ב",
@@ -1329,9 +1329,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-31"
+        "jbr:section-netivotolam-31"
       ],
-      "uri": "jbr:netivotolam-31-1",
+      "uri": "jbr:text-netivotolam-31-1",
       "jbo:position": "134",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב הנדיבות א",
@@ -1339,9 +1339,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-32"
+        "jbr:section-netivotolam-32"
       ],
-      "uri": "jbr:netivotolam-32-1",
+      "uri": "jbr:text-netivotolam-32-1",
       "jbo:position": "135",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב שם טוב א",
@@ -1349,9 +1349,9 @@
     },
     {
       "jbo:within": [
-        "jbr:netivotolam-33"
+        "jbr:section-netivotolam-33"
       ],
-      "uri": "jbr:netivotolam-33-1",
+      "uri": "jbr:text-netivotolam-33-1",
       "jbo:position": "136",
       "jbo:book": "jbr:book-netivotolam",
       "rdfs:label": "נתיבות עולם - נתיב דרך ארץ א",

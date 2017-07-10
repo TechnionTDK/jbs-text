@@ -1,343 +1,343 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishnetorah-5",
+      "uri": "jbr:section-mishnetorah-5",
       "rdfs:label": "ספר קדושה",
       "jbo:position": "5",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1",
+      "uri": "jbr:section-mishnetorah-5-1",
       "rdfs:label": "הלכות איסורי ביאה",
       "jbo:position": "1",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-1",
+      "uri": "jbr:section-mishnetorah-5-1-1",
       "rdfs:label": "הלכות איסורי ביאה - פרק ראשון",
       "jbo:position": "1",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-2",
+      "uri": "jbr:section-mishnetorah-5-1-2",
       "rdfs:label": "הלכות איסורי ביאה - פרק שני",
       "jbo:position": "2",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-3",
+      "uri": "jbr:section-mishnetorah-5-1-3",
       "rdfs:label": "הלכות איסורי ביאה - פרק שלישי",
       "jbo:position": "3",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-4",
+      "uri": "jbr:section-mishnetorah-5-1-4",
       "rdfs:label": "הלכות איסורי ביאה - פרק רביעי",
       "jbo:position": "4",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-5",
+      "uri": "jbr:section-mishnetorah-5-1-5",
       "rdfs:label": "הלכות איסורי ביאה - פרק חמישי",
       "jbo:position": "5",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-6",
+      "uri": "jbr:section-mishnetorah-5-1-6",
       "rdfs:label": "הלכות איסורי ביאה - פרק ששי",
       "jbo:position": "6",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-7",
+      "uri": "jbr:section-mishnetorah-5-1-7",
       "rdfs:label": "הלכות איסורי ביאה - פרק שביעי",
       "jbo:position": "7",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-8",
+      "uri": "jbr:section-mishnetorah-5-1-8",
       "rdfs:label": "הלכות איסורי ביאה - פרק שמיני",
       "jbo:position": "8",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-9",
+      "uri": "jbr:section-mishnetorah-5-1-9",
       "rdfs:label": "הלכות איסורי ביאה - פרק תשיעי",
       "jbo:position": "9",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-10",
+      "uri": "jbr:section-mishnetorah-5-1-10",
       "rdfs:label": "הלכות איסורי ביאה - פרק עשירי",
       "jbo:position": "10",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-11",
+      "uri": "jbr:section-mishnetorah-5-1-11",
       "rdfs:label": "הלכות איסורי ביאה - פרק אחד עשר",
       "jbo:position": "11",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-12",
+      "uri": "jbr:section-mishnetorah-5-1-12",
       "rdfs:label": "הלכות איסורי ביאה - פרק שנים עשר",
       "jbo:position": "12",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-13",
+      "uri": "jbr:section-mishnetorah-5-1-13",
       "rdfs:label": "הלכות איסורי ביאה - פרק שלשה עשר",
       "jbo:position": "13",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-14",
+      "uri": "jbr:section-mishnetorah-5-1-14",
       "rdfs:label": "הלכות איסורי ביאה - פרק ארבעה עשר",
       "jbo:position": "14",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-15",
+      "uri": "jbr:section-mishnetorah-5-1-15",
       "rdfs:label": "הלכות איסורי ביאה - פרק חמשה עשר",
       "jbo:position": "15",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-16",
+      "uri": "jbr:section-mishnetorah-5-1-16",
       "rdfs:label": "הלכות איסורי ביאה - פרק ששה עשר",
       "jbo:position": "16",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-17",
+      "uri": "jbr:section-mishnetorah-5-1-17",
       "rdfs:label": "הלכות איסורי ביאה - פרק שבעה עשר",
       "jbo:position": "17",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-18",
+      "uri": "jbr:section-mishnetorah-5-1-18",
       "rdfs:label": "הלכות איסורי ביאה - פרק שמונה עשר",
       "jbo:position": "18",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-19",
+      "uri": "jbr:section-mishnetorah-5-1-19",
       "rdfs:label": "הלכות איסורי ביאה - פרק תשעה עשר",
       "jbo:position": "19",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-20",
+      "uri": "jbr:section-mishnetorah-5-1-20",
       "rdfs:label": "הלכות איסורי ביאה - פרק עשרים",
       "jbo:position": "20",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-21",
+      "uri": "jbr:section-mishnetorah-5-1-21",
       "rdfs:label": "הלכות איסורי ביאה - פרק אחד ועשרים",
       "jbo:position": "21",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-1-22",
+      "uri": "jbr:section-mishnetorah-5-1-22",
       "rdfs:label": "הלכות איסורי ביאה - פרק שנים ועשרים",
       "jbo:position": "22",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2",
+      "uri": "jbr:section-mishnetorah-5-2",
       "rdfs:label": "הלכות מאכלות אסורות",
       "jbo:position": "2",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-1",
+      "uri": "jbr:section-mishnetorah-5-2-1",
       "rdfs:label": "הלכות מאכלות אסורות - פרק ראשון",
       "jbo:position": "1",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-2",
+      "uri": "jbr:section-mishnetorah-5-2-2",
       "rdfs:label": "הלכות מאכלות אסורות - פרק שני",
       "jbo:position": "2",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-3",
+      "uri": "jbr:section-mishnetorah-5-2-3",
       "rdfs:label": "הלכות מאכלות אסורות - פרק שלישי",
       "jbo:position": "3",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-4",
+      "uri": "jbr:section-mishnetorah-5-2-4",
       "rdfs:label": "הלכות מאכלות אסורות - פרק רביעי",
       "jbo:position": "4",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-5",
+      "uri": "jbr:section-mishnetorah-5-2-5",
       "rdfs:label": "הלכות מאכלות אסורות - פרק חמישי",
       "jbo:position": "5",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-6",
+      "uri": "jbr:section-mishnetorah-5-2-6",
       "rdfs:label": "הלכות מאכלות אסורות - פרק ששי",
       "jbo:position": "6",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-7",
+      "uri": "jbr:section-mishnetorah-5-2-7",
       "rdfs:label": "הלכות מאכלות אסורות - פרק שביעי",
       "jbo:position": "7",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-8",
+      "uri": "jbr:section-mishnetorah-5-2-8",
       "rdfs:label": "הלכות מאכלות אסורות - פרק שמיני",
       "jbo:position": "8",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-9",
+      "uri": "jbr:section-mishnetorah-5-2-9",
       "rdfs:label": "הלכות מאכלות אסורות - פרק תשיעי",
       "jbo:position": "9",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-10",
+      "uri": "jbr:section-mishnetorah-5-2-10",
       "rdfs:label": "הלכות מאכלות אסורות - פרק עשירי",
       "jbo:position": "10",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-11",
+      "uri": "jbr:section-mishnetorah-5-2-11",
       "rdfs:label": "הלכות מאכלות אסורות - פרק אחד עשר",
       "jbo:position": "11",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-12",
+      "uri": "jbr:section-mishnetorah-5-2-12",
       "rdfs:label": "הלכות מאכלות אסורות - פרק שנים עשר",
       "jbo:position": "12",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-13",
+      "uri": "jbr:section-mishnetorah-5-2-13",
       "rdfs:label": "הלכות מאכלות אסורות - פרק שלשה עשר",
       "jbo:position": "13",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-14",
+      "uri": "jbr:section-mishnetorah-5-2-14",
       "rdfs:label": "הלכות מאכלות אסורות - פרק ארבעה עשר",
       "jbo:position": "14",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-15",
+      "uri": "jbr:section-mishnetorah-5-2-15",
       "rdfs:label": "הלכות מאכלות אסורות - פרק חמשה עשר",
       "jbo:position": "15",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-16",
+      "uri": "jbr:section-mishnetorah-5-2-16",
       "rdfs:label": "הלכות מאכלות אסורות - פרק ששה עשר",
       "jbo:position": "16",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-2-17",
+      "uri": "jbr:section-mishnetorah-5-2-17",
       "rdfs:label": "הלכות מאכלות אסורות - פרק שבעה עשר",
       "jbo:position": "17",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3",
+      "uri": "jbr:section-mishnetorah-5-3",
       "rdfs:label": "הלכות שחיטה",
       "jbo:position": "3",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-1",
+      "uri": "jbr:section-mishnetorah-5-3-1",
       "rdfs:label": "הלכות שחיטה - פרק ראשון",
       "jbo:position": "1",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-2",
+      "uri": "jbr:section-mishnetorah-5-3-2",
       "rdfs:label": "הלכות שחיטה - פרק שני",
       "jbo:position": "2",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-3",
+      "uri": "jbr:section-mishnetorah-5-3-3",
       "rdfs:label": "הלכות שחיטה - פרק שלישי",
       "jbo:position": "3",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-4",
+      "uri": "jbr:section-mishnetorah-5-3-4",
       "rdfs:label": "הלכות שחיטה - פרק רביעי",
       "jbo:position": "4",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-5",
+      "uri": "jbr:section-mishnetorah-5-3-5",
       "rdfs:label": "הלכות שחיטה - פרק חמישי",
       "jbo:position": "5",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-6",
+      "uri": "jbr:section-mishnetorah-5-3-6",
       "rdfs:label": "הלכות שחיטה - פרק ששי",
       "jbo:position": "6",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-7",
+      "uri": "jbr:section-mishnetorah-5-3-7",
       "rdfs:label": "הלכות שחיטה - פרק שביעי",
       "jbo:position": "7",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-8",
+      "uri": "jbr:section-mishnetorah-5-3-8",
       "rdfs:label": "הלכות שחיטה - פרק שמיני",
       "jbo:position": "8",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-9",
+      "uri": "jbr:section-mishnetorah-5-3-9",
       "rdfs:label": "הלכות שחיטה - פרק תשיעי",
       "jbo:position": "9",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-10",
+      "uri": "jbr:section-mishnetorah-5-3-10",
       "rdfs:label": "הלכות שחיטה - פרק עשירי",
       "jbo:position": "10",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-11",
+      "uri": "jbr:section-mishnetorah-5-3-11",
       "rdfs:label": "הלכות שחיטה - פרק אחד עשר",
       "jbo:position": "11",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-12",
+      "uri": "jbr:section-mishnetorah-5-3-12",
       "rdfs:label": "הלכות שחיטה - פרק שנים עשר",
       "jbo:position": "12",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-13",
+      "uri": "jbr:section-mishnetorah-5-3-13",
       "rdfs:label": "הלכות שחיטה - פרק שלשה עשר",
       "jbo:position": "13",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-5-3-14",
+      "uri": "jbr:section-mishnetorah-5-3-14",
       "rdfs:label": "הלכות שחיטה - פרק ארבעה עשר",
       "jbo:position": "14",
       "jbo:book": "jbr:book-mishnetorah"

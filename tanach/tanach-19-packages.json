@@ -1,25 +1,25 @@
 {
   "subjects": [
     {
-      "uri": "jbr:tanach-19-1",
+      "uri": "jbr:section-tanach-19-1",
       "rdfs:label": "יונה פרק א",
       "jbo:position": "1",
       "jbo:book": "jbr:book-yona"
     },
     {
-      "uri": "jbr:tanach-19-2",
+      "uri": "jbr:section-tanach-19-2",
       "rdfs:label": "יונה פרק ב",
       "jbo:position": "2",
       "jbo:book": "jbr:book-yona"
     },
     {
-      "uri": "jbr:tanach-19-3",
+      "uri": "jbr:section-tanach-19-3",
       "rdfs:label": "יונה פרק ג",
       "jbo:position": "3",
       "jbo:book": "jbr:book-yona"
     },
     {
-      "uri": "jbr:tanach-19-4",
+      "uri": "jbr:section-tanach-19-4",
       "rdfs:label": "יונה פרק ד",
       "jbo:position": "4",
       "jbo:book": "jbr:book-yona"

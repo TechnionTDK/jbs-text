@@ -1,116 +1,116 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna-2",
+      "uri": "jbr:section-mishna-2",
       "rdfs:label": "סדר מועד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2"
+        "jbr:section-mishna-2"
       ],
-      "uri": "jbr:mishna-2-2",
+      "uri": "jbr:section-mishna-2-2",
       "rdfs:label": "﻿משנה מסכת עירובין",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-2"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-2"
       ],
-      "uri": "jbr:mishna-2-2-1",
+      "uri": "jbr:section-mishna-2-2-1",
       "rdfs:label": "משנה עירובין פרק א",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-2"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-2"
       ],
-      "uri": "jbr:mishna-2-2-2",
+      "uri": "jbr:section-mishna-2-2-2",
       "rdfs:label": "משנה עירובין פרק ב",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-2"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-2"
       ],
-      "uri": "jbr:mishna-2-2-3",
+      "uri": "jbr:section-mishna-2-2-3",
       "rdfs:label": "משנה עירובין פרק ג",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-2"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-2"
       ],
-      "uri": "jbr:mishna-2-2-4",
+      "uri": "jbr:section-mishna-2-2-4",
       "rdfs:label": "משנה עירובין פרק ד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-2"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-2"
       ],
-      "uri": "jbr:mishna-2-2-5",
+      "uri": "jbr:section-mishna-2-2-5",
       "rdfs:label": "משנה עירובין פרק ה",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-2"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-2"
       ],
-      "uri": "jbr:mishna-2-2-6",
+      "uri": "jbr:section-mishna-2-2-6",
       "rdfs:label": "משנה עירובין פרק ו",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-2"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-2"
       ],
-      "uri": "jbr:mishna-2-2-7",
+      "uri": "jbr:section-mishna-2-2-7",
       "rdfs:label": "משנה עירובין פרק ז",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "7"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-2"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-2"
       ],
-      "uri": "jbr:mishna-2-2-8",
+      "uri": "jbr:section-mishna-2-2-8",
       "rdfs:label": "משנה עירובין פרק ח",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "8"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-2"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-2"
       ],
-      "uri": "jbr:mishna-2-2-9",
+      "uri": "jbr:section-mishna-2-2-9",
       "rdfs:label": "משנה עירובין פרק ט",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "9"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-2"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-2"
       ],
-      "uri": "jbr:mishna-2-2-10",
+      "uri": "jbr:section-mishna-2-2-10",
       "rdfs:label": "משנה עירובין פרק י",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "10"

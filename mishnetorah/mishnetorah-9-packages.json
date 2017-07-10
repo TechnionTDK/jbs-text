@@ -1,313 +1,313 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishnetorah-9",
+      "uri": "jbr:section-mishnetorah-9",
       "rdfs:label": "ספר קרבנות",
       "jbo:position": "9",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-1",
+      "uri": "jbr:section-mishnetorah-9-1",
       "rdfs:label": "הלכות קרבן פסח",
       "jbo:position": "1",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-1-1",
+      "uri": "jbr:section-mishnetorah-9-1-1",
       "rdfs:label": "הלכות קרבן פסח - פרק ראשון",
       "jbo:position": "1",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-1-2",
+      "uri": "jbr:section-mishnetorah-9-1-2",
       "rdfs:label": "הלכות קרבן פסח - פרק שני",
       "jbo:position": "2",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-1-3",
+      "uri": "jbr:section-mishnetorah-9-1-3",
       "rdfs:label": "הלכות קרבן פסח - פרק שלישי",
       "jbo:position": "3",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-1-4",
+      "uri": "jbr:section-mishnetorah-9-1-4",
       "rdfs:label": "הלכות קרבן פסח - פרק רביעי",
       "jbo:position": "4",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-1-5",
+      "uri": "jbr:section-mishnetorah-9-1-5",
       "rdfs:label": "הלכות קרבן פסח - פרק חמישי",
       "jbo:position": "5",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-1-6",
+      "uri": "jbr:section-mishnetorah-9-1-6",
       "rdfs:label": "הלכות קרבן פסח - פרק ששי",
       "jbo:position": "6",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-1-7",
+      "uri": "jbr:section-mishnetorah-9-1-7",
       "rdfs:label": "הלכות קרבן פסח - פרק שביעי",
       "jbo:position": "7",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-1-8",
+      "uri": "jbr:section-mishnetorah-9-1-8",
       "rdfs:label": "הלכות קרבן פסח - פרק שמיני",
       "jbo:position": "8",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-1-9",
+      "uri": "jbr:section-mishnetorah-9-1-9",
       "rdfs:label": "הלכות קרבן פסח - פרק תשיעי",
       "jbo:position": "9",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-1-10",
+      "uri": "jbr:section-mishnetorah-9-1-10",
       "rdfs:label": "הלכות קרבן פסח - פרק עשירי",
       "jbo:position": "10",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-2",
+      "uri": "jbr:section-mishnetorah-9-2",
       "rdfs:label": "הלכות חגיגה",
       "jbo:position": "2",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-2-1",
+      "uri": "jbr:section-mishnetorah-9-2-1",
       "rdfs:label": "הלכות חגיגה - פרק ראשון",
       "jbo:position": "1",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-2-2",
+      "uri": "jbr:section-mishnetorah-9-2-2",
       "rdfs:label": "הלכות חגיגה - פרק שני",
       "jbo:position": "2",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-2-3",
+      "uri": "jbr:section-mishnetorah-9-2-3",
       "rdfs:label": "הלכות חגיגה - פרק שלישי",
       "jbo:position": "3",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-3",
+      "uri": "jbr:section-mishnetorah-9-3",
       "rdfs:label": "הלכות בכורות",
       "jbo:position": "3",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-3-1",
+      "uri": "jbr:section-mishnetorah-9-3-1",
       "rdfs:label": "הלכות בכורות - פרק ראשון",
       "jbo:position": "1",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-3-2",
+      "uri": "jbr:section-mishnetorah-9-3-2",
       "rdfs:label": "הלכות בכורות - פרק שני",
       "jbo:position": "2",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-3-3",
+      "uri": "jbr:section-mishnetorah-9-3-3",
       "rdfs:label": "הלכות בכורות - פרק שלישי",
       "jbo:position": "3",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-3-4",
+      "uri": "jbr:section-mishnetorah-9-3-4",
       "rdfs:label": "הלכות בכורות - פרק רביעי",
       "jbo:position": "4",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-3-5",
+      "uri": "jbr:section-mishnetorah-9-3-5",
       "rdfs:label": "הלכות בכורות - פרק חמישי",
       "jbo:position": "5",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-3-6",
+      "uri": "jbr:section-mishnetorah-9-3-6",
       "rdfs:label": "הלכות בכורות - פרק ששי",
       "jbo:position": "6",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-3-7",
+      "uri": "jbr:section-mishnetorah-9-3-7",
       "rdfs:label": "הלכות בכורות - פרק שביעי",
       "jbo:position": "7",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-3-8",
+      "uri": "jbr:section-mishnetorah-9-3-8",
       "rdfs:label": "הלכות בכורות - פרק שמיני",
       "jbo:position": "8",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4",
+      "uri": "jbr:section-mishnetorah-9-4",
       "rdfs:label": "הלכות שגגות",
       "jbo:position": "4",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-1",
+      "uri": "jbr:section-mishnetorah-9-4-1",
       "rdfs:label": "הלכות שגגות - פרק ראשון",
       "jbo:position": "1",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-2",
+      "uri": "jbr:section-mishnetorah-9-4-2",
       "rdfs:label": "הלכות שגגות - פרק שני",
       "jbo:position": "2",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-3",
+      "uri": "jbr:section-mishnetorah-9-4-3",
       "rdfs:label": "הלכות שגגות - פרק שלישי",
       "jbo:position": "3",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-4",
+      "uri": "jbr:section-mishnetorah-9-4-4",
       "rdfs:label": "הלכות שגגות - פרק רביעי",
       "jbo:position": "4",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-5",
+      "uri": "jbr:section-mishnetorah-9-4-5",
       "rdfs:label": "הלכות שגגות - פרק חמישי",
       "jbo:position": "5",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-6",
+      "uri": "jbr:section-mishnetorah-9-4-6",
       "rdfs:label": "הלכות שגגות - פרק ששי",
       "jbo:position": "6",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-7",
+      "uri": "jbr:section-mishnetorah-9-4-7",
       "rdfs:label": "הלכות שגגות - פרק שביעי",
       "jbo:position": "7",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-8",
+      "uri": "jbr:section-mishnetorah-9-4-8",
       "rdfs:label": "הלכות שגגות - פרק שמיני",
       "jbo:position": "8",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-9",
+      "uri": "jbr:section-mishnetorah-9-4-9",
       "rdfs:label": "הלכות שגגות - פרק תשיעי",
       "jbo:position": "9",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-10",
+      "uri": "jbr:section-mishnetorah-9-4-10",
       "rdfs:label": "הלכות שגגות - פרק עשירי",
       "jbo:position": "10",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-11",
+      "uri": "jbr:section-mishnetorah-9-4-11",
       "rdfs:label": "הלכות שגגות - פרק אחד עשר",
       "jbo:position": "11",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-12",
+      "uri": "jbr:section-mishnetorah-9-4-12",
       "rdfs:label": "הלכות שגגות - פרק שנים עשר",
       "jbo:position": "12",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-13",
+      "uri": "jbr:section-mishnetorah-9-4-13",
       "rdfs:label": "הלכות שגגות - פרק שלשה עשר",
       "jbo:position": "13",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-14",
+      "uri": "jbr:section-mishnetorah-9-4-14",
       "rdfs:label": "הלכות שגגות - פרק ארבעה עשר",
       "jbo:position": "14",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-4-15",
+      "uri": "jbr:section-mishnetorah-9-4-15",
       "rdfs:label": "הלכות שגגות - פרק חמשה עשר",
       "jbo:position": "15",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-5",
+      "uri": "jbr:section-mishnetorah-9-5",
       "rdfs:label": "הלכות מחוסרי כפרה",
       "jbo:position": "5",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-5-1",
+      "uri": "jbr:section-mishnetorah-9-5-1",
       "rdfs:label": "הלכות מחוסרי כפרה - פרק ראשון",
       "jbo:position": "1",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-5-2",
+      "uri": "jbr:section-mishnetorah-9-5-2",
       "rdfs:label": "הלכות מחוסרי כפרה - פרק שני",
       "jbo:position": "2",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-5-3",
+      "uri": "jbr:section-mishnetorah-9-5-3",
       "rdfs:label": "הלכות מחוסרי כפרה - פרק שלישי",
       "jbo:position": "3",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-5-4",
+      "uri": "jbr:section-mishnetorah-9-5-4",
       "rdfs:label": "הלכות מחוסרי כפרה - פרק רביעי",
       "jbo:position": "4",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-5-5",
+      "uri": "jbr:section-mishnetorah-9-5-5",
       "rdfs:label": "הלכות מחוסרי כפרה - פרק חמישי",
       "jbo:position": "5",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-6",
+      "uri": "jbr:section-mishnetorah-9-6",
       "rdfs:label": "הלכות תמורה",
       "jbo:position": "6",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-6-1",
+      "uri": "jbr:section-mishnetorah-9-6-1",
       "rdfs:label": "הלכות תמורה - פרק ראשון",
       "jbo:position": "1",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-6-2",
+      "uri": "jbr:section-mishnetorah-9-6-2",
       "rdfs:label": "הלכות תמורה - פרק שני",
       "jbo:position": "2",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-6-3",
+      "uri": "jbr:section-mishnetorah-9-6-3",
       "rdfs:label": "הלכות תמורה - פרק שלישי",
       "jbo:position": "3",
       "jbo:book": "jbr:book-mishnetorah"
     },
     {
-      "uri": "jbr:mishnetorah-9-6-4",
+      "uri": "jbr:section-mishnetorah-9-6-4",
       "rdfs:label": "הלכות תמורה - פרק רביעי",
       "jbo:position": "4",
       "jbo:book": "jbr:book-mishnetorah"

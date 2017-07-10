@@ -1,106 +1,106 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna-3",
+      "uri": "jbr:section-mishna-3",
       "rdfs:label": "סדר נשים",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3"
+        "jbr:section-mishna-3"
       ],
-      "uri": "jbr:mishna-3-6",
+      "uri": "jbr:section-mishna-3-6",
       "rdfs:label": "﻿משנה מסכת גיטין",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-6"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-6"
       ],
-      "uri": "jbr:mishna-3-6-1",
+      "uri": "jbr:section-mishna-3-6-1",
       "rdfs:label": "משנה גיטין פרק א",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-6"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-6"
       ],
-      "uri": "jbr:mishna-3-6-2",
+      "uri": "jbr:section-mishna-3-6-2",
       "rdfs:label": "משנה גיטין פרק ב",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-6"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-6"
       ],
-      "uri": "jbr:mishna-3-6-3",
+      "uri": "jbr:section-mishna-3-6-3",
       "rdfs:label": "משנה גיטין פרק ג",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-6"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-6"
       ],
-      "uri": "jbr:mishna-3-6-4",
+      "uri": "jbr:section-mishna-3-6-4",
       "rdfs:label": "משנה גיטין פרק ד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-6"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-6"
       ],
-      "uri": "jbr:mishna-3-6-5",
+      "uri": "jbr:section-mishna-3-6-5",
       "rdfs:label": "משנה גיטין פרק ה",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-6"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-6"
       ],
-      "uri": "jbr:mishna-3-6-6",
+      "uri": "jbr:section-mishna-3-6-6",
       "rdfs:label": "משנה גיטין פרק ו",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-6"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-6"
       ],
-      "uri": "jbr:mishna-3-6-7",
+      "uri": "jbr:section-mishna-3-6-7",
       "rdfs:label": "משנה גיטין פרק ז",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "7"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-6"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-6"
       ],
-      "uri": "jbr:mishna-3-6-8",
+      "uri": "jbr:section-mishna-3-6-8",
       "rdfs:label": "משנה גיטין פרק ח",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "8"
     },
     {
       "jbo:within": [
-        "jbr:mishna-3",
-        "jbr:mishna-3-6"
+        "jbr:section-mishna-3",
+        "jbr:section-mishna-3-6"
       ],
-      "uri": "jbr:mishna-3-6-9",
+      "uri": "jbr:section-mishna-3-6-9",
       "rdfs:label": "משנה גיטין פרק ט",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "9"

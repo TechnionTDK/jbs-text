@@ -1,110 +1,119 @@
 {
   "subjects": [
     {
-      "jbo:within": [
-        "jbr:tanach-midrashraba-34"
-      ],
-      "uri": "jbr:tanach-midrashraba-34",
+      "uri": "jbr:section-tanach-midrashraba-34",
       "jbo:text": "﻿מדרש רבה - אסתר רבה",
+      "jbo:book": "jbr:book-midrashraba",
       "rdfs:label": "מדרש רבה אסתר רבה"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-34"
+        "jbr:section-tanach-midrashraba-34"
       ],
-      "uri": "jbr:tanach-midrashraba-34-0",
+      "uri": "jbr:section-tanach-midrashraba-34-0",
       "jbo:text": "פתיחתא דאסתר רבא",
       "rdfs:label": "מדרש רבה אסתר רבה פתיחתא דחכימי",
+      "jbo:book": "midrashraba",
       "jbo:position": "0"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-34"
+        "jbr:section-tanach-midrashraba-34"
       ],
-      "uri": "jbr:tanach-midrashraba-34-1",
+      "uri": "jbr:section-tanach-midrashraba-34-1",
       "jbo:text": "פרשה א",
       "rdfs:label": "מדרש רבה אסתר רבה א",
+      "jbo:book": "midrashraba",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-34"
+        "jbr:section-tanach-midrashraba-34"
       ],
-      "uri": "jbr:tanach-midrashraba-34-2",
+      "uri": "jbr:section-tanach-midrashraba-34-2",
       "jbo:text": "פרשה ב",
       "rdfs:label": "מדרש רבה אסתר רבה ב",
+      "jbo:book": "midrashraba",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-34"
+        "jbr:section-tanach-midrashraba-34"
       ],
-      "uri": "jbr:tanach-midrashraba-34-3",
+      "uri": "jbr:section-tanach-midrashraba-34-3",
       "jbo:text": "פרשה ג",
       "rdfs:label": "מדרש רבה אסתר רבה ג",
+      "jbo:book": "midrashraba",
       "jbo:position": "3"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-34"
+        "jbr:section-tanach-midrashraba-34"
       ],
-      "uri": "jbr:tanach-midrashraba-34-4",
+      "uri": "jbr:section-tanach-midrashraba-34-4",
       "jbo:text": "פרשה ד",
       "rdfs:label": "מדרש רבה אסתר רבה ד",
+      "jbo:book": "midrashraba",
       "jbo:position": "4"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-34"
+        "jbr:section-tanach-midrashraba-34"
       ],
-      "uri": "jbr:tanach-midrashraba-34-5",
+      "uri": "jbr:section-tanach-midrashraba-34-5",
       "jbo:text": "פרשה ה",
       "rdfs:label": "מדרש רבה אסתר רבה ה",
+      "jbo:book": "midrashraba",
       "jbo:position": "5"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-34"
+        "jbr:section-tanach-midrashraba-34"
       ],
-      "uri": "jbr:tanach-midrashraba-34-6",
+      "uri": "jbr:section-tanach-midrashraba-34-6",
       "jbo:text": "פרשה ו",
       "rdfs:label": "מדרש רבה אסתר רבה ו",
+      "jbo:book": "midrashraba",
       "jbo:position": "6"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-34"
+        "jbr:section-tanach-midrashraba-34"
       ],
-      "uri": "jbr:tanach-midrashraba-34-7",
+      "uri": "jbr:section-tanach-midrashraba-34-7",
       "jbo:text": "פרשה ז",
       "rdfs:label": "מדרש רבה אסתר רבה ז",
+      "jbo:book": "midrashraba",
       "jbo:position": "7"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-34"
+        "jbr:section-tanach-midrashraba-34"
       ],
-      "uri": "jbr:tanach-midrashraba-34-8",
+      "uri": "jbr:section-tanach-midrashraba-34-8",
       "jbo:text": "פרשה ח",
       "rdfs:label": "מדרש רבה אסתר רבה ח",
+      "jbo:book": "midrashraba",
       "jbo:position": "8"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-34"
+        "jbr:section-tanach-midrashraba-34"
       ],
-      "uri": "jbr:tanach-midrashraba-34-9",
+      "uri": "jbr:section-tanach-midrashraba-34-9",
       "jbo:text": "פרשה ט",
       "rdfs:label": "מדרש רבה אסתר רבה ט",
+      "jbo:book": "midrashraba",
       "jbo:position": "9"
     },
     {
       "jbo:within": [
-        "jbr:tanach-midrashraba-34"
+        "jbr:section-tanach-midrashraba-34"
       ],
-      "uri": "jbr:tanach-midrashraba-34-10",
+      "uri": "jbr:section-tanach-midrashraba-34-10",
       "jbo:text": "פרשה י",
       "rdfs:label": "מדרש רבה אסתר רבה י",
+      "jbo:book": "midrashraba",
       "jbo:position": "10"
     }
   ]

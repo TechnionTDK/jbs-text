@@ -1,46 +1,46 @@
 {
   "subjects": [
     {
-      "uri": "jbr:mishna-2",
+      "uri": "jbr:section-mishna-2",
       "rdfs:label": "סדר מועד",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2"
+        "jbr:section-mishna-2"
       ],
-      "uri": "jbr:mishna-2-11",
+      "uri": "jbr:section-mishna-2-11",
       "rdfs:label": "﻿משנה מסכת מועד קטן",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "11"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-11"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-11"
       ],
-      "uri": "jbr:mishna-2-11-1",
+      "uri": "jbr:section-mishna-2-11-1",
       "rdfs:label": "משנה מועד קטן פרק א",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "1"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-11"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-11"
       ],
-      "uri": "jbr:mishna-2-11-2",
+      "uri": "jbr:section-mishna-2-11-2",
       "rdfs:label": "משנה מועד קטן פרק ב",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "2"
     },
     {
       "jbo:within": [
-        "jbr:mishna-2",
-        "jbr:mishna-2-11"
+        "jbr:section-mishna-2",
+        "jbr:section-mishna-2-11"
       ],
-      "uri": "jbr:mishna-2-11-3",
+      "uri": "jbr:section-mishna-2-11-3",
       "rdfs:label": "משנה מועד קטן פרק ג",
       "jbo:book": "jbr:book-mishna",
       "jbo:position": "3"

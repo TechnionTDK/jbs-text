@@ -1,7 +1,7 @@
 {
   "subjects": [
     {
-      "uri": "jbr:chovothalevavot-0-0",
+      "uri": "jbr:text-chovothalevavot-0-0",
       "jbo:position": "1",
       "rdfs:label": "חובות הלבבות - הקדמת המחבר",
       "jbo:book": "jbr:book-chovothalevavot",
@@ -11,7 +11,7 @@
       "jbo:within": [
         "שער ראשון - שער ייחוד"
       ],
-      "uri": "jbr:chovothalevavot-1-0",
+      "uri": "jbr:text-chovothalevavot-1-0",
       "jbo:position": "2",
       "jbo:book": "jbr:book-chovothalevavot",
       "rdfs:label": "חובות הלבבות - שער ראשון - שער ייחודהקדמה",
@@ -21,7 +21,7 @@
       "jbo:within": [
         "שער ראשון - שער ייחוד"
       ],
-      "uri": "jbr:chovothalevavot-1-1",
+      "uri": "jbr:text-chovothalevavot-1-1",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "3",
       "rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - א",
@@ -31,7 +31,7 @@
       "jbo:within": [
         "שער ראשון - שער ייחוד"
       ],
-      "uri": "jbr:chovothalevavot-1-2",
+      "uri": "jbr:text-chovothalevavot-1-2",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "4",
       "rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - ב",
@@ -41,7 +41,7 @@
       "jbo:within": [
         "שער ראשון - שער ייחוד"
       ],
-      "uri": "jbr:chovothalevavot-1-3",
+      "uri": "jbr:text-chovothalevavot-1-3",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "5",
       "rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - ג",
@@ -51,7 +51,7 @@
       "jbo:within": [
         "שער ראשון - שער ייחוד"
       ],
-      "uri": "jbr:chovothalevavot-1-4",
+      "uri": "jbr:text-chovothalevavot-1-4",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "6",
       "rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - ד",
@@ -61,7 +61,7 @@
       "jbo:within": [
         "שער ראשון - שער ייחוד"
       ],
-      "uri": "jbr:chovothalevavot-1-5",
+      "uri": "jbr:text-chovothalevavot-1-5",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "7",
       "rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - ה",
@@ -71,7 +71,7 @@
       "jbo:within": [
         "שער ראשון - שער ייחוד"
       ],
-      "uri": "jbr:chovothalevavot-1-6",
+      "uri": "jbr:text-chovothalevavot-1-6",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "8",
       "rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - ו",
@@ -81,7 +81,7 @@
       "jbo:within": [
         "שער ראשון - שער ייחוד"
       ],
-      "uri": "jbr:chovothalevavot-1-7",
+      "uri": "jbr:text-chovothalevavot-1-7",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "9",
       "rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - ז",
@@ -91,7 +91,7 @@
       "jbo:within": [
         "שער ראשון - שער ייחוד"
       ],
-      "uri": "jbr:chovothalevavot-1-8",
+      "uri": "jbr:text-chovothalevavot-1-8",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "10",
       "rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - ח",
@@ -101,7 +101,7 @@
       "jbo:within": [
         "שער ראשון - שער ייחוד"
       ],
-      "uri": "jbr:chovothalevavot-1-9",
+      "uri": "jbr:text-chovothalevavot-1-9",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "11",
       "rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - ט",
@@ -111,7 +111,7 @@
       "jbo:within": [
         "שער ראשון - שער ייחוד"
       ],
-      "uri": "jbr:chovothalevavot-1-10",
+      "uri": "jbr:text-chovothalevavot-1-10",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "12",
       "rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד - י",
@@ -121,7 +121,7 @@
       "jbo:within": [
         "שער שני - שער הבחינה"
       ],
-      "uri": "jbr:chovothalevavot-2-0",
+      "uri": "jbr:text-chovothalevavot-2-0",
       "jbo:position": "13",
       "jbo:book": "jbr:book-chovothalevavot",
       "rdfs:label": "חובות הלבבות - שער שני - שער הבחינההקדמה",
@@ -131,7 +131,7 @@
       "jbo:within": [
         "שער שני - שער הבחינה"
       ],
-      "uri": "jbr:chovothalevavot-2-1",
+      "uri": "jbr:text-chovothalevavot-2-1",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "14",
       "rdfs:label": "חובות הלבבות - שער שני - שער הבחינה - א",
@@ -141,7 +141,7 @@
       "jbo:within": [
         "שער שני - שער הבחינה"
       ],
-      "uri": "jbr:chovothalevavot-2-2",
+      "uri": "jbr:text-chovothalevavot-2-2",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "15",
       "rdfs:label": "חובות הלבבות - שער שני - שער הבחינה - ב",
@@ -151,7 +151,7 @@
       "jbo:within": [
         "שער שני - שער הבחינה"
       ],
-      "uri": "jbr:chovothalevavot-2-3",
+      "uri": "jbr:text-chovothalevavot-2-3",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "16",
       "rdfs:label": "חובות הלבבות - שער שני - שער הבחינה - ג",
@@ -161,7 +161,7 @@
       "jbo:within": [
         "שער שני - שער הבחינה"
       ],
-      "uri": "jbr:chovothalevavot-2-4",
+      "uri": "jbr:text-chovothalevavot-2-4",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "17",
       "rdfs:label": "חובות הלבבות - שער שני - שער הבחינה - ד",
@@ -171,7 +171,7 @@
       "jbo:within": [
         "שער שני - שער הבחינה"
       ],
-      "uri": "jbr:chovothalevavot-2-5",
+      "uri": "jbr:text-chovothalevavot-2-5",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "18",
       "rdfs:label": "חובות הלבבות - שער שני - שער הבחינה - ה",
@@ -181,7 +181,7 @@
       "jbo:within": [
         "שער שני - שער הבחינה"
       ],
-      "uri": "jbr:chovothalevavot-2-6",
+      "uri": "jbr:text-chovothalevavot-2-6",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "19",
       "rdfs:label": "חובות הלבבות - שער שני - שער הבחינה - ו",
@@ -191,7 +191,7 @@
       "jbo:within": [
         "שער שלישי - שער עבודת האלוהים"
       ],
-      "uri": "jbr:chovothalevavot-3-0",
+      "uri": "jbr:text-chovothalevavot-3-0",
       "jbo:position": "20",
       "jbo:book": "jbr:book-chovothalevavot",
       "rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהיםהקדמה",
@@ -201,7 +201,7 @@
       "jbo:within": [
         "שער שלישי - שער עבודת האלוהים"
       ],
-      "uri": "jbr:chovothalevavot-3-1",
+      "uri": "jbr:text-chovothalevavot-3-1",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "21",
       "rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - א",
@@ -211,7 +211,7 @@
       "jbo:within": [
         "שער שלישי - שער עבודת האלוהים"
       ],
-      "uri": "jbr:chovothalevavot-3-2",
+      "uri": "jbr:text-chovothalevavot-3-2",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "22",
       "rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - ב",
@@ -221,7 +221,7 @@
       "jbo:within": [
         "שער שלישי - שער עבודת האלוהים"
       ],
-      "uri": "jbr:chovothalevavot-3-3",
+      "uri": "jbr:text-chovothalevavot-3-3",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "23",
       "rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - ג",
@@ -231,7 +231,7 @@
       "jbo:within": [
         "שער שלישי - שער עבודת האלוהים"
       ],
-      "uri": "jbr:chovothalevavot-3-4",
+      "uri": "jbr:text-chovothalevavot-3-4",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "24",
       "rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - ד",
@@ -241,7 +241,7 @@
       "jbo:within": [
         "שער שלישי - שער עבודת האלוהים"
       ],
-      "uri": "jbr:chovothalevavot-3-5",
+      "uri": "jbr:text-chovothalevavot-3-5",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "25",
       "rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - ה",
@@ -251,7 +251,7 @@
       "jbo:within": [
         "שער שלישי - שער עבודת האלוהים"
       ],
-      "uri": "jbr:chovothalevavot-3-6",
+      "uri": "jbr:text-chovothalevavot-3-6",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "26",
       "rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - ו",
@@ -261,7 +261,7 @@
       "jbo:within": [
         "שער שלישי - שער עבודת האלוהים"
       ],
-      "uri": "jbr:chovothalevavot-3-7",
+      "uri": "jbr:text-chovothalevavot-3-7",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "27",
       "rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - ז",
@@ -271,7 +271,7 @@
       "jbo:within": [
         "שער שלישי - שער עבודת האלוהים"
       ],
-      "uri": "jbr:chovothalevavot-3-8",
+      "uri": "jbr:text-chovothalevavot-3-8",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "28",
       "rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - ח",
@@ -281,7 +281,7 @@
       "jbo:within": [
         "שער שלישי - שער עבודת האלוהים"
       ],
-      "uri": "jbr:chovothalevavot-3-9",
+      "uri": "jbr:text-chovothalevavot-3-9",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "29",
       "rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - ט",
@@ -291,7 +291,7 @@
       "jbo:within": [
         "שער שלישי - שער עבודת האלוהים"
       ],
-      "uri": "jbr:chovothalevavot-3-10",
+      "uri": "jbr:text-chovothalevavot-3-10",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "30",
       "rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים - י",
@@ -301,7 +301,7 @@
       "jbo:within": [
         "שער רביעי - שער הביטחון"
       ],
-      "uri": "jbr:chovothalevavot-4-0",
+      "uri": "jbr:text-chovothalevavot-4-0",
       "jbo:position": "31",
       "jbo:book": "jbr:book-chovothalevavot",
       "rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחוןהקדמה",
@@ -311,7 +311,7 @@
       "jbo:within": [
         "שער רביעי - שער הביטחון"
       ],
-      "uri": "jbr:chovothalevavot-4-1",
+      "uri": "jbr:text-chovothalevavot-4-1",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "32",
       "rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - א",
@@ -321,7 +321,7 @@
       "jbo:within": [
         "שער רביעי - שער הביטחון"
       ],
-      "uri": "jbr:chovothalevavot-4-2",
+      "uri": "jbr:text-chovothalevavot-4-2",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "33",
       "rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - ב",
@@ -331,7 +331,7 @@
       "jbo:within": [
         "שער רביעי - שער הביטחון"
       ],
-      "uri": "jbr:chovothalevavot-4-3",
+      "uri": "jbr:text-chovothalevavot-4-3",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "34",
       "rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - ג",
@@ -341,7 +341,7 @@
       "jbo:within": [
         "שער רביעי - שער הביטחון"
       ],
-      "uri": "jbr:chovothalevavot-4-4",
+      "uri": "jbr:text-chovothalevavot-4-4",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "35",
       "rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - ד",
@@ -351,7 +351,7 @@
       "jbo:within": [
         "שער רביעי - שער הביטחון"
       ],
-      "uri": "jbr:chovothalevavot-4-5",
+      "uri": "jbr:text-chovothalevavot-4-5",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "36",
       "rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - ה",
@@ -361,7 +361,7 @@
       "jbo:within": [
         "שער רביעי - שער הביטחון"
       ],
-      "uri": "jbr:chovothalevavot-4-6",
+      "uri": "jbr:text-chovothalevavot-4-6",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "37",
       "rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - ו",
@@ -371,7 +371,7 @@
       "jbo:within": [
         "שער רביעי - שער הביטחון"
       ],
-      "uri": "jbr:chovothalevavot-4-7",
+      "uri": "jbr:text-chovothalevavot-4-7",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "38",
       "rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון - ז",
@@ -381,7 +381,7 @@
       "jbo:within": [
         "שער חמישי - שער ייחוד המעשה"
       ],
-      "uri": "jbr:chovothalevavot-5-0",
+      "uri": "jbr:text-chovothalevavot-5-0",
       "jbo:position": "39",
       "jbo:book": "jbr:book-chovothalevavot",
       "rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשההקדמה",
@@ -391,7 +391,7 @@
       "jbo:within": [
         "שער חמישי - שער ייחוד המעשה"
       ],
-      "uri": "jbr:chovothalevavot-5-1",
+      "uri": "jbr:text-chovothalevavot-5-1",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "40",
       "rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה - א",
@@ -401,7 +401,7 @@
       "jbo:within": [
         "שער חמישי - שער ייחוד המעשה"
       ],
-      "uri": "jbr:chovothalevavot-5-2",
+      "uri": "jbr:text-chovothalevavot-5-2",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "41",
       "rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה - ב",
@@ -411,7 +411,7 @@
       "jbo:within": [
         "שער חמישי - שער ייחוד המעשה"
       ],
-      "uri": "jbr:chovothalevavot-5-3",
+      "uri": "jbr:text-chovothalevavot-5-3",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "42",
       "rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה - ג",
@@ -421,7 +421,7 @@
       "jbo:within": [
         "שער חמישי - שער ייחוד המעשה"
       ],
-      "uri": "jbr:chovothalevavot-5-4",
+      "uri": "jbr:text-chovothalevavot-5-4",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "43",
       "rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה - ד",
@@ -431,7 +431,7 @@
       "jbo:within": [
         "שער חמישי - שער ייחוד המעשה"
       ],
-      "uri": "jbr:chovothalevavot-5-5",
+      "uri": "jbr:text-chovothalevavot-5-5",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "44",
       "rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה - ה",
@@ -441,7 +441,7 @@
       "jbo:within": [
         "שער חמישי - שער ייחוד המעשה"
       ],
-      "uri": "jbr:chovothalevavot-5-6",
+      "uri": "jbr:text-chovothalevavot-5-6",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "45",
       "rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה - ו",
@@ -451,7 +451,7 @@
       "jbo:within": [
         "שער שישי - שער הכניעה"
       ],
-      "uri": "jbr:chovothalevavot-6-0",
+      "uri": "jbr:text-chovothalevavot-6-0",
       "jbo:position": "46",
       "jbo:book": "jbr:book-chovothalevavot",
       "rdfs:label": "חובות הלבבות - שער שישי - שער הכניעההקדמה",
@@ -461,7 +461,7 @@
       "jbo:within": [
         "שער שישי - שער הכניעה"
       ],
-      "uri": "jbr:chovothalevavot-6-1",
+      "uri": "jbr:text-chovothalevavot-6-1",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "47",
       "rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - א",
@@ -471,7 +471,7 @@
       "jbo:within": [
         "שער שישי - שער הכניעה"
       ],
-      "uri": "jbr:chovothalevavot-6-2",
+      "uri": "jbr:text-chovothalevavot-6-2",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "48",
       "rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - ב",
@@ -481,7 +481,7 @@
       "jbo:within": [
         "שער שישי - שער הכניעה"
       ],
-      "uri": "jbr:chovothalevavot-6-3",
+      "uri": "jbr:text-chovothalevavot-6-3",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "49",
       "rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - ג",
@@ -491,7 +491,7 @@
       "jbo:within": [
         "שער שישי - שער הכניעה"
       ],
-      "uri": "jbr:chovothalevavot-6-4",
+      "uri": "jbr:text-chovothalevavot-6-4",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "50",
       "rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - ד",
@@ -501,7 +501,7 @@
       "jbo:within": [
         "שער שישי - שער הכניעה"
       ],
-      "uri": "jbr:chovothalevavot-6-5",
+      "uri": "jbr:text-chovothalevavot-6-5",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "51",
       "rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - ה",
@@ -511,7 +511,7 @@
       "jbo:within": [
         "שער שישי - שער הכניעה"
       ],
-      "uri": "jbr:chovothalevavot-6-6",
+      "uri": "jbr:text-chovothalevavot-6-6",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "52",
       "rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - ו",
@@ -521,7 +521,7 @@
       "jbo:within": [
         "שער שישי - שער הכניעה"
       ],
-      "uri": "jbr:chovothalevavot-6-7",
+      "uri": "jbr:text-chovothalevavot-6-7",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "53",
       "rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - ז",
@@ -531,7 +531,7 @@
       "jbo:within": [
         "שער שישי - שער הכניעה"
       ],
-      "uri": "jbr:chovothalevavot-6-8",
+      "uri": "jbr:text-chovothalevavot-6-8",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "54",
       "rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - ח",
@@ -541,7 +541,7 @@
       "jbo:within": [
         "שער שישי - שער הכניעה"
       ],
-      "uri": "jbr:chovothalevavot-6-9",
+      "uri": "jbr:text-chovothalevavot-6-9",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "55",
       "rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - ט",
@@ -551,7 +551,7 @@
       "jbo:within": [
         "שער שישי - שער הכניעה"
       ],
-      "uri": "jbr:chovothalevavot-6-10",
+      "uri": "jbr:text-chovothalevavot-6-10",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "56",
       "rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה - י",
@@ -561,7 +561,7 @@
       "jbo:within": [
         "שער שביעי - שער התשובה"
       ],
-      "uri": "jbr:chovothalevavot-7-0",
+      "uri": "jbr:text-chovothalevavot-7-0",
       "jbo:position": "57",
       "jbo:book": "jbr:book-chovothalevavot",
       "rdfs:label": "חובות הלבבות - שער שביעי - שער התשובההקדמה",
@@ -571,7 +571,7 @@
       "jbo:within": [
         "שער שביעי - שער התשובה"
       ],
-      "uri": "jbr:chovothalevavot-7-1",
+      "uri": "jbr:text-chovothalevavot-7-1",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "58",
       "rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - א",
@@ -581,7 +581,7 @@
       "jbo:within": [
         "שער שביעי - שער התשובה"
       ],
-      "uri": "jbr:chovothalevavot-7-2",
+      "uri": "jbr:text-chovothalevavot-7-2",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "59",
       "rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - ב",
@@ -591,7 +591,7 @@
       "jbo:within": [
         "שער שביעי - שער התשובה"
       ],
-      "uri": "jbr:chovothalevavot-7-3",
+      "uri": "jbr:text-chovothalevavot-7-3",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "60",
       "rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - ג",
@@ -601,7 +601,7 @@
       "jbo:within": [
         "שער שביעי - שער התשובה"
       ],
-      "uri": "jbr:chovothalevavot-7-4",
+      "uri": "jbr:text-chovothalevavot-7-4",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "61",
       "rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - ד",
@@ -611,7 +611,7 @@
       "jbo:within": [
         "שער שביעי - שער התשובה"
       ],
-      "uri": "jbr:chovothalevavot-7-5",
+      "uri": "jbr:text-chovothalevavot-7-5",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "62",
       "rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - ה",
@@ -621,7 +621,7 @@
       "jbo:within": [
         "שער שביעי - שער התשובה"
       ],
-      "uri": "jbr:chovothalevavot-7-6",
+      "uri": "jbr:text-chovothalevavot-7-6",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "63",
       "rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - ו",
@@ -631,7 +631,7 @@
       "jbo:within": [
         "שער שביעי - שער התשובה"
       ],
-      "uri": "jbr:chovothalevavot-7-7",
+      "uri": "jbr:text-chovothalevavot-7-7",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "64",
       "rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - ז",
@@ -641,7 +641,7 @@
       "jbo:within": [
         "שער שביעי - שער התשובה"
       ],
-      "uri": "jbr:chovothalevavot-7-8",
+      "uri": "jbr:text-chovothalevavot-7-8",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "65",
       "rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - ח",
@@ -651,7 +651,7 @@
       "jbo:within": [
         "שער שביעי - שער התשובה"
       ],
-      "uri": "jbr:chovothalevavot-7-9",
+      "uri": "jbr:text-chovothalevavot-7-9",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "66",
       "rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - ט",
@@ -661,7 +661,7 @@
       "jbo:within": [
         "שער שביעי - שער התשובה"
       ],
-      "uri": "jbr:chovothalevavot-7-10",
+      "uri": "jbr:text-chovothalevavot-7-10",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "67",
       "rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה - י",
@@ -671,7 +671,7 @@
       "jbo:within": [
         "שער שמיני - שער חשבון הנפש"
       ],
-      "uri": "jbr:chovothalevavot-8-0",
+      "uri": "jbr:text-chovothalevavot-8-0",
       "jbo:position": "68",
       "jbo:book": "jbr:book-chovothalevavot",
       "rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפשהקדמה",
@@ -681,7 +681,7 @@
       "jbo:within": [
         "שער שמיני - שער חשבון הנפש"
       ],
-      "uri": "jbr:chovothalevavot-8-1",
+      "uri": "jbr:text-chovothalevavot-8-1",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "69",
       "rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש - א",
@@ -691,7 +691,7 @@
       "jbo:within": [
         "שער שמיני - שער חשבון הנפש"
       ],
-      "uri": "jbr:chovothalevavot-8-2",
+      "uri": "jbr:text-chovothalevavot-8-2",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "70",
       "rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש - ב",
@@ -701,7 +701,7 @@
       "jbo:within": [
         "שער שמיני - שער חשבון הנפש"
       ],
-      "uri": "jbr:chovothalevavot-8-3",
+      "uri": "jbr:text-chovothalevavot-8-3",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "71",
       "rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש - ג",
@@ -711,7 +711,7 @@
       "jbo:within": [
         "שער שמיני - שער חשבון הנפש"
       ],
-      "uri": "jbr:chovothalevavot-8-4",
+      "uri": "jbr:text-chovothalevavot-8-4",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "72",
       "rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש - ד",
@@ -721,7 +721,7 @@
       "jbo:within": [
         "שער שמיני - שער חשבון הנפש"
       ],
-      "uri": "jbr:chovothalevavot-8-5",
+      "uri": "jbr:text-chovothalevavot-8-5",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "73",
       "rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש - ה",
@@ -731,7 +731,7 @@
       "jbo:within": [
         "שער שמיני - שער חשבון הנפש"
       ],
-      "uri": "jbr:chovothalevavot-8-6",
+      "uri": "jbr:text-chovothalevavot-8-6",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "74",
       "rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש - ו",
@@ -741,7 +741,7 @@
       "jbo:within": [
         "שער תשיעי - שער הפרישות"
       ],
-      "uri": "jbr:chovothalevavot-9-0",
+      "uri": "jbr:text-chovothalevavot-9-0",
       "jbo:position": "75",
       "jbo:book": "jbr:book-chovothalevavot",
       "rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישותהקדמה",
@@ -751,7 +751,7 @@
       "jbo:within": [
         "שער תשיעי - שער הפרישות"
       ],
-      "uri": "jbr:chovothalevavot-9-1",
+      "uri": "jbr:text-chovothalevavot-9-1",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "76",
       "rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - א",
@@ -761,7 +761,7 @@
       "jbo:within": [
         "שער תשיעי - שער הפרישות"
       ],
-      "uri": "jbr:chovothalevavot-9-2",
+      "uri": "jbr:text-chovothalevavot-9-2",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "77",
       "rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - ב",
@@ -771,7 +771,7 @@
       "jbo:within": [
         "שער תשיעי - שער הפרישות"
       ],
-      "uri": "jbr:chovothalevavot-9-3",
+      "uri": "jbr:text-chovothalevavot-9-3",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "78",
       "rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - ג",
@@ -781,7 +781,7 @@
       "jbo:within": [
         "שער תשיעי - שער הפרישות"
       ],
-      "uri": "jbr:chovothalevavot-9-4",
+      "uri": "jbr:text-chovothalevavot-9-4",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "79",
       "rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - ד",
@@ -791,7 +791,7 @@
       "jbo:within": [
         "שער תשיעי - שער הפרישות"
       ],
-      "uri": "jbr:chovothalevavot-9-5",
+      "uri": "jbr:text-chovothalevavot-9-5",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "80",
       "rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - ה",
@@ -801,7 +801,7 @@
       "jbo:within": [
         "שער תשיעי - שער הפרישות"
       ],
-      "uri": "jbr:chovothalevavot-9-6",
+      "uri": "jbr:text-chovothalevavot-9-6",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "81",
       "rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - ו",
@@ -811,7 +811,7 @@
       "jbo:within": [
         "שער תשיעי - שער הפרישות"
       ],
-      "uri": "jbr:chovothalevavot-9-7",
+      "uri": "jbr:text-chovothalevavot-9-7",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "82",
       "rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות - ז",
@@ -821,7 +821,7 @@
       "jbo:within": [
         "שער עשירי - שער אהבת ה'"
       ],
-      "uri": "jbr:chovothalevavot-10-0",
+      "uri": "jbr:text-chovothalevavot-10-0",
       "jbo:position": "83",
       "jbo:book": "jbr:book-chovothalevavot",
       "rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה'הקדמה",
@@ -831,7 +831,7 @@
       "jbo:within": [
         "שער עשירי - שער אהבת ה'"
       ],
-      "uri": "jbr:chovothalevavot-10-1",
+      "uri": "jbr:text-chovothalevavot-10-1",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "84",
       "rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - א",
@@ -841,7 +841,7 @@
       "jbo:within": [
         "שער עשירי - שער אהבת ה'"
       ],
-      "uri": "jbr:chovothalevavot-10-2",
+      "uri": "jbr:text-chovothalevavot-10-2",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "85",
       "rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - ב",
@@ -851,7 +851,7 @@
       "jbo:within": [
         "שער עשירי - שער אהבת ה'"
       ],
-      "uri": "jbr:chovothalevavot-10-3",
+      "uri": "jbr:text-chovothalevavot-10-3",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "86",
       "rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - ג",
@@ -861,7 +861,7 @@
       "jbo:within": [
         "שער עשירי - שער אהבת ה'"
       ],
-      "uri": "jbr:chovothalevavot-10-4",
+      "uri": "jbr:text-chovothalevavot-10-4",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "87",
       "rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - ד",
@@ -871,7 +871,7 @@
       "jbo:within": [
         "שער עשירי - שער אהבת ה'"
       ],
-      "uri": "jbr:chovothalevavot-10-5",
+      "uri": "jbr:text-chovothalevavot-10-5",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "88",
       "rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - ה",
@@ -881,7 +881,7 @@
       "jbo:within": [
         "שער עשירי - שער אהבת ה'"
       ],
-      "uri": "jbr:chovothalevavot-10-6",
+      "uri": "jbr:text-chovothalevavot-10-6",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "89",
       "rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - ו",
@@ -891,7 +891,7 @@
       "jbo:within": [
         "שער עשירי - שער אהבת ה'"
       ],
-      "uri": "jbr:chovothalevavot-10-7",
+      "uri": "jbr:text-chovothalevavot-10-7",
       "jbo:book": "jbr:book-chovothalevavot",
       "jbo:position": "90",
       "rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה' - ז",
