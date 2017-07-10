@@ -1,9 +1,6 @@
 {
   "subjects": [
     {
-      "jbo:text": "Tiferet Yisrael\nmerged\nhttps://www.sefaria.org/Tiferet_Yisrael\nThis file contains merged sections from the following text versions:\n-Tiferet Yisrael\n-http://mobile.tora.ws/"
-    },
-    {
       "uri": "jbr:text-tiferetisrael-0",
       "jbo:position": "1",
       "rdfs:label": "תפארת ישראל - הקדמה",
