@@ -1,6 +1,5 @@
 {
   "subjects": [
-    {},
     {
       "rdfs:label": "מחשבה",
       "uri": "jbr:category-מחשבה"
@@ -18,11 +17,11 @@
       "uri": "jbr:category-הרב_קוק"
     },
     {
-      "rdfs:label": "\"המהר\"\"ל מפראג\"",
+      "rdfs:label": "המהר\"ל מפראג",
       "uri": "jbr:category-מהרל"
     },
     {
-      "rdfs:label": "\"תנ\"\"ך\"",
+      "rdfs:label": "תנ\"ך",
       "uri": "jbr:category-תנך"
     },
     {
@@ -70,11 +69,11 @@
       "uri": "jbr:category-שולחן_ערוך"
     },
     {
-      "rdfs:label": "\"מפרשי התנ\"\"ך\"",
+      "rdfs:label": "מפרשי התנ\"ך",
       "uri": "jbr:category-מפרשי_התנך"
     },
     {
-      "rdfs:label": "\"מפרשי הרמב\"\"ם\"",
+      "rdfs:label": "מפרשי הרמב\"ם",
       "uri": "jbr:category-מפרשי_הרמבם"
     },
     {
@@ -94,7 +93,7 @@
       "uri": "jbr:category-מפרשי_אבות"
     },
     {
-      "rdfs:label": "\"הרמב\"\"ם\"",
+      "rdfs:label": "הרמב\"ם",
       "uri": "jbr:category-הרמבם"
     },
     {
