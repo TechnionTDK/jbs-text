@@ -1,26 +1,307 @@
-{"subjects":[
 {
-"uri" : "jbr:person-1",
-"rdfs:label" : "הרב קוק",
-"jbo:alias" :["הרב קוק", "הראי\"ה", "אברהם יצחק הכהן קוק"],
-"jbo:title" : "Rabbi",
-"jbo:birthYear" : "1865",
-"jbo:deathYear" : "1935"
-},
-{
-"uri" : "jbr:person-2",
-"rdfs:label" : "מהר\"ל",
-"jbo:alias" : ["מהר\"ל", "מהר\"ל מפראג", "יהודה ליווא בן בצלאל", "המהר\"ל"],
-"jbo:title" : "Rabbi",
-"jbo:birthYear" : "1520",
-"jbo:deathYear" : "1609"
-},
-{
-"uri" : "jbr:person-3",
-"rdfs:label" : "רבינו בחיי אבן פקודה",
-"jbo:alias" : ["רבינו בחיי אבן פקודה", "רבינו בחיי בן יוסף אבן פקודה", "רבינו בחיי"],
-"jbo:title" : "Rabbi",
-"jbo:birthYear" : "1050",
-"jbo:deathYear" : "1120"
+  "subjects": [
+    {},
+    {
+      "jbo:alias": [
+        "משה רבנו",
+        "משה"
+      ],
+      "rdfs:label": "משה רבנו",
+      "uri": "jbr:person-משה_רבנו",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1865",
+      "jbo:alias": [
+        "\"הרב קוק",
+        "הראי\"\"ה",
+        "אברהם יצחק הכהן קוק\""
+      ],
+      "rdfs:label": "הרב קוק",
+      "uri": "jbr:person-הרב_קוק",
+      "jbo:deathYear": "1935",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1520",
+      "jbo:alias": [
+        "\"מהר\"\"ל",
+        "מהר\"\"ל מפראג",
+        "יהודה ליווא בן בצלאל\""
+      ],
+      "rdfs:label": "\"מהר\"\"ל\"",
+      "uri": "jbr:person-מהרל",
+      "jbo:deathYear": "1609",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1050",
+      "jbo:alias": [
+        "רבינו בחיי אבן פקודה",
+        "רבינו בחיי בן יוסף אבן פקודה",
+        "רבינו בחיי"
+      ],
+      "rdfs:label": "רבינו בחיי אבן פקודה",
+      "uri": "jbr:person-רבינו_בחיי_אבן_פקודה",
+      "jbo:deathYear": "1120",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1772",
+      "jbo:alias": [
+        "\"רבי נחמן מברסלב",
+        "רבי נחמן",
+        "מוהר\"\"ן\""
+      ],
+      "rdfs:label": "רבי נחמן מברסלב",
+      "uri": "jbr:person-רבי_נחמן_מברסלב",
+      "jbo:deathYear": "1810",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "135",
+      "jbo:alias": [
+        "רבי יהודה הנשיא",
+        "רבי",
+        "רבנו הקדוש"
+      ],
+      "rdfs:label": "רבי יהודה הנשיא",
+      "uri": "jbr:person-רבי_יהודה_הנשיא",
+      "jbo:deathYear": "220",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1040",
+      "jbo:alias": [
+        "\"רבי שלמה יצחקי",
+        "רש\"\"י",
+        "רבי שלמה",
+        "פרשנדתא\""
+      ],
+      "rdfs:label": "\"רש\"\"י\"",
+      "uri": "jbr:person-רשי",
+      "jbo:deathYear": "1105",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1080",
+      "jbo:alias": [
+        "\"רבי שמואל בן מאיר",
+        "רשב\"\"ם\""
+      ],
+      "rdfs:label": "\"רשב\"\"ם\"",
+      "uri": "jbr:person-רשבם",
+      "jbo:deathYear": "1160",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1135",
+      "jbo:alias": [
+        "\"רבי משה בן מימון",
+        "הרמב\"\"ם",
+        "רמב\"\"ם",
+        "הנשר הגדול\""
+      ],
+      "rdfs:label": "\"הרמב\"\"ם\"",
+      "uri": "jbr:person-הרמבם",
+      "jbo:deathYear": "1204",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1488",
+      "jbo:alias": [
+        "רבי יוסף קארו",
+        "מרן"
+      ],
+      "rdfs:label": "רבי יוסף קארו",
+      "uri": "jbr:person-רבי_יוסף_קארו",
+      "jbo:deathYear": "1575",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1120",
+      "jbo:alias": [
+        "\"הראב\"\"ד",
+        "רבי אברהם בן דוד\""
+      ],
+      "rdfs:label": "\"הראב\"\"ד\"",
+      "uri": "jbr:person-הראבד",
+      "jbo:deathYear": "1198",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1315",
+      "jbo:alias": [
+        "\"הר\"\"ן",
+        "ניסים בן ראובן גירונדי",
+        "רבנו ניסים\""
+      ],
+      "rdfs:label": "\"הר\"\"ן\"",
+      "uri": "jbr:person-הרן",
+      "jbo:deathYear": "1376",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1194",
+      "jbo:alias": [
+        "\"הרמב\"\"ן",
+        "רמב\"\"ן",
+        "רבי משה בן נחמן\""
+      ],
+      "rdfs:label": "\"הרמב\"\"ן\"",
+      "uri": "jbr:person-הרמבן",
+      "jbo:deathYear": "1270",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:alias": "יונתן בן עוזיאל",
+      "rdfs:label": "יונתן בן עוזיאל",
+      "uri": "jbr:person-יונתן_בן_עוזיאל",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1696",
+      "jbo:alias": [
+        "אור החיים",
+        "אור החיים הקדוש",
+        "רבי חיים בן עטר"
+      ],
+      "rdfs:label": "אור החיים הקדוש",
+      "uri": "jbr:person-אור_החיים_הקדוש",
+      "jbo:deathYear": "1743",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1089",
+      "jbo:alias": [
+        "\"ראב\"\"ע",
+        "הראב\"\"ע",
+        "רבי אברהם",
+        "רבי אברהם אבן עזרא\""
+      ],
+      "rdfs:label": "רבי אברהם אבן עזרא",
+      "uri": "jbr:person-רבי_אברהם_אבן_עזרא",
+      "jbo:deathYear": "1164",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1269",
+      "jbo:alias": [
+        "בעל הטורים",
+        "יעקב בן אשר"
+      ],
+      "rdfs:label": "בעל הטורים",
+      "uri": "jbr:person-בעל_הטורים",
+      "jbo:deathYear": "1343",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:alias": "אונקלוס",
+      "rdfs:label": "אונקלוס",
+      "uri": "jbr:person-אונקלוס",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1468",
+      "jbo:alias": [
+        "ספורנו",
+        "הספורנו",
+        "עובדיה ספורנו"
+      ],
+      "rdfs:label": "ספורנו",
+      "uri": "jbr:person-ספורנו",
+      "jbo:deathYear": "1550",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1540",
+      "jbo:alias": [
+        "כלי יקר",
+        "שלמה אפרים מלונטשיץ"
+      ],
+      "rdfs:label": "כלי יקר",
+      "uri": "jbr:person-כלי_יקר",
+      "jbo:deathYear": "1619",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1687",
+      "jbo:alias": [
+        "\"רבי דוד אלטשולר",
+        "רד\"\"א\""
+      ],
+      "rdfs:label": "רבי דוד אלטשולר",
+      "uri": "jbr:person-רבי_דוד_אלטשולר",
+      "jbo:deathYear": "1769",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1288",
+      "jbo:alias": [
+        "\"רלב\"\"ג",
+        "רבי לוי בן גרשום\""
+      ],
+      "rdfs:label": "\"רלב\"\"ג\"",
+      "uri": "jbr:person-רלבג",
+      "jbo:deathYear": "1344",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1809",
+      "jbo:alias": [
+        "\"המלבי\"\"ם",
+        "מלבי\"\"ם",
+        "מאיר לייבוש וייזר\""
+      ],
+      "rdfs:label": "\"המלבי\"\"ם\"",
+      "uri": "jbr:person-המלבים",
+      "jbo:deathYear": "1879",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1707",
+      "jbo:alias": [
+        "\"רמח\"\"ל",
+        "משה חיים לוצאטו\""
+      ],
+      "rdfs:label": "\"הרמח\"\"ל\"",
+      "uri": "jbr:person-הרמחל",
+      "jbo:deathYear": "1746",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "882",
+      "jbo:alias": [
+        "\"רב סעדיה גאון",
+        "רס\"\"ג\""
+      ],
+      "rdfs:label": "רב סעדיה גאון",
+      "uri": "jbr:person-רב_סעדיה_גאון",
+      "jbo:deathYear": "942",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1847",
+      "jbo:alias": [
+        "\"שפת אמת",
+        "יהודה אריה לב אלתר",
+        "האדמו\"\"ר מגור\""
+      ],
+      "rdfs:label": "שפת אמת",
+      "uri": "jbr:person-שפת_אמת",
+      "jbo:deathYear": "1905",
+      "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1075",
+      "jbo:alias": [
+        "\"רבי יהודה הלוי",
+        "ריה\"\"ל\""
+      ],
+      "rdfs:label": "רבי יהודה הלוי",
+      "uri": "jbr:person-רבי_יהודה_הלוי",
+      "jbo:deathYear": "1141",
+      "jbo:title": "Rabbi"
+    }
+  ]
 }
-]}

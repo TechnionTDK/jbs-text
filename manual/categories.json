@@ -1,18 +1,109 @@
-{"subjects":[
 {
-"uri" : "jbr:category-machashava",
-"rdfs:label" : "מחשבה"
-},
-{
-"uri" : "jbr:category-haravkook",
-"rdfs:label" : "הרב קוק"
-},
-{
-"uri" : "jbr:category-maharal",
-"rdfs:label" : "המהר\"ל מפראג"
-},
-{
-"uri" : "jbr:category-musar",
-"rdfs:label" : "מוסר"
+  "subjects": [
+    {},
+    {
+      "rdfs:label": "מחשבה",
+      "uri": "jbr:category-מחשבה"
+    },
+    {
+      "rdfs:label": "אמונה",
+      "uri": "jbr:category-אמונה"
+    },
+    {
+      "rdfs:label": "מוסר",
+      "uri": "jbr:category-מוסר"
+    },
+    {
+      "rdfs:label": "כתבי הרב קוק",
+      "uri": "jbr:category-הרב_קוק"
+    },
+    {
+      "rdfs:label": "\"המהר\"\"ל מפראג\"",
+      "uri": "jbr:category-מהרל"
+    },
+    {
+      "rdfs:label": "\"תנ\"\"ך\"",
+      "uri": "jbr:category-תנך"
+    },
+    {
+      "rdfs:label": "תורה",
+      "uri": "jbr:category-תורה"
+    },
+    {
+      "rdfs:label": "נביאים",
+      "uri": "jbr:category-נביאים"
+    },
+    {
+      "rdfs:label": "כתובים",
+      "uri": "jbr:category-כתובים"
+    },
+    {
+      "rdfs:label": "הלכה",
+      "uri": "jbr:category-הלכה"
+    },
+    {
+      "rdfs:label": "חסידות",
+      "uri": "jbr:category-חסידות"
+    },
+    {
+      "rdfs:label": "משנה",
+      "uri": "jbr:category-משנה"
+    },
+    {
+      "rdfs:label": "תלמוד בבלי",
+      "uri": "jbr:category-תלמוד_בבלי"
+    },
+    {
+      "rdfs:label": "מפרשי התורה",
+      "uri": "jbr:category-מפרשי_התורה"
+    },
+    {
+      "rdfs:label": "משנה תורה",
+      "uri": "jbr:category-משנה_תורה"
+    },
+    {
+      "rdfs:label": "מצוות",
+      "uri": "jbr:category-מצוות"
+    },
+    {
+      "rdfs:label": "שולחן ערוך",
+      "uri": "jbr:category-שולחן_ערוך"
+    },
+    {
+      "rdfs:label": "\"מפרשי התנ\"\"ך\"",
+      "uri": "jbr:category-מפרשי_התנך"
+    },
+    {
+      "rdfs:label": "\"מפרשי הרמב\"\"ם\"",
+      "uri": "jbr:category-מפרשי_הרמבם"
+    },
+    {
+      "rdfs:label": "מפרשי התלמוד הבבלי",
+      "uri": "jbr:category-מפרשי_הבבלי"
+    },
+    {
+      "rdfs:label": "מדרשים",
+      "uri": "jbr:category-מדרשים"
+    },
+    {
+      "rdfs:label": "מדרשי אגדה",
+      "uri": "jbr:category-מדרשי_אגדה"
+    },
+    {
+      "rdfs:label": "מפרשי פרקי אבות",
+      "uri": "jbr:category-מפרשי_אבות"
+    },
+    {
+      "rdfs:label": "\"הרמב\"\"ם\"",
+      "uri": "jbr:category-הרמבם"
+    },
+    {
+      "rdfs:label": "מפרשי המשנה",
+      "uri": "jbr:category-מפרשי_המשנה"
+    },
+    {
+      "rdfs:label": "מפרשי שולחן ערוך",
+      "uri": "jbr:category-מפרשי_שולחן_ערוך"
+    }
+  ]
 }
-]}

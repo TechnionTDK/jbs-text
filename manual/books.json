@@ -1,27 +1,615 @@
-{"subjects":[
 {
-"uri" : "jbr:book-orot",
-"rdfs:label" : "אורות",
-"jbo:author" : "jbr:person-1",
-"dc:subject" : ["jbr:category-machashava", "jbr:category-haravkook"]
-},
-{
-"uri" : "jbr:book-orothakodesh",
-"rdfs:label" : "אורות הקודש",
-"jbo:author" : "jbr:person-1",
-"dc:subject" : ["jbr:category-machashava", "jbr:category-haravkook"]
-},
-{
-"uri" : "jbr:book-chovothalevavot",
-"rdfs:label" : "חובות הלבבות",
-"jbo:author" : "jbr:person-haravkook",
-"dc:subject" : ["jbr:category-machashava", "jbr:category-musar"]
-},
-{
-"uri" : "jbr:book-beerhagola",
-"rdfs:label" : "באר הגולה",
-"jbo:author" : "jbr:person-2",
-"dc:subject" : ["jbr:category-machashava", "jbr:category-maharal"]
-},
-
-]}
+  "subjects": [
+    {
+      "dc:subject": "jbr:category-tanach",
+      "rdfs:label": "\"תנ\"\"ך\"",
+      "uri": "jbr:book-tanach"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-torah"
+      ],
+      "rdfs:label": "תורה",
+      "jbo:author": "jbr:person-משה_רבנו",
+      "uri": "jbr:book-tanach"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-torah"
+      ],
+      "rdfs:label": "בראשית",
+      "jbo:author": "jbr:person-משה_רבנו",
+      "jbo:position": "1",
+      "uri": "jbr:book-bereshit"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-torah"
+      ],
+      "rdfs:label": "שמות",
+      "jbo:author": "jbr:person-משה_רבנו",
+      "jbo:position": "2",
+      "uri": "jbr:book-shemot"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-torah"
+      ],
+      "rdfs:label": "ויקרא",
+      "jbo:author": "jbr:person-משה_רבנו",
+      "jbo:position": "3",
+      "uri": "jbr:book-vayikra"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-torah"
+      ],
+      "rdfs:label": "במדבר",
+      "jbo:author": "jbr:person-משה_רבנו",
+      "jbo:position": "4",
+      "uri": "jbr:book-bamidbar"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-torah"
+      ],
+      "rdfs:label": "דברים",
+      "jbo:author": "jbr:person-משה_רבנו",
+      "jbo:position": "5",
+      "uri": "jbr:book-devarim"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "יהושע",
+      "jbo:position": "6",
+      "uri": "jbr:book-yehoshua"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "שופטים",
+      "jbo:position": "7",
+      "uri": "jbr:book-shoftim"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "שמואל א",
+      "jbo:position": "8",
+      "uri": "jbr:book-shemuelA"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "שמואל ב",
+      "jbo:position": "9",
+      "uri": "jbr:book-shemuelB"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "מלכים א",
+      "jbo:position": "10",
+      "uri": "jbr:book-melachimA"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "מלכים ב",
+      "jbo:position": "11",
+      "uri": "jbr:book-melachimB"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "ישעיה",
+      "jbo:position": "12",
+      "uri": "jbr:book-yeshaaya"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "ירמיה",
+      "jbo:position": "13",
+      "uri": "jbr:book-yirmiya"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "יחזקאל",
+      "jbo:position": "14",
+      "uri": "jbr:book-Yechezkel"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "הושע",
+      "jbo:position": "15",
+      "uri": "jbr:book-hoshea"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "יואל",
+      "jbo:position": "16",
+      "uri": "jbr:book-yoel"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "עמוס",
+      "jbo:position": "17",
+      "uri": "jbr:book-amos"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "עובדיה",
+      "jbo:position": "18",
+      "uri": "jbr:book-ovadya"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "יונה",
+      "jbo:position": "19",
+      "uri": "jbr:book-yona"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "מיכה",
+      "jbo:position": "20",
+      "uri": "jbr:book-micha"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "נחום",
+      "jbo:position": "21",
+      "uri": "jbr:book-nachum"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "חבקוק",
+      "jbo:position": "22",
+      "uri": "jbr:book-chavakuk"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "צפניה",
+      "jbo:position": "23",
+      "uri": "jbr:book-tzefanya"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "חגי",
+      "jbo:position": "24",
+      "uri": "jbr:book-chagay"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "זכריה",
+      "jbo:position": "25",
+      "uri": "jbr:book-zecharya"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-neviyim"
+      ],
+      "rdfs:label": "מלאכי",
+      "jbo:position": "26",
+      "uri": "jbr:book-malachi"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "תהילים",
+      "jbo:position": "27",
+      "uri": "jbr:book-tehilim"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "משלי",
+      "jbo:position": "28",
+      "uri": "jbr:book-mishley"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "איוב",
+      "jbo:position": "29",
+      "uri": "jbr:book-iyov"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "שיר השירים",
+      "jbo:position": "30",
+      "uri": "jbr:book-shirhashirim"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "רות",
+      "jbo:position": "31",
+      "uri": "jbr:book-rut"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "איכה",
+      "jbo:position": "32",
+      "uri": "jbr:book-eycha"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "קהלת",
+      "jbo:position": "33",
+      "uri": "jbr:book-kohelet"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "אסתר",
+      "jbo:position": "34",
+      "uri": "jbr:book-ester"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "דניאל",
+      "jbo:position": "35",
+      "uri": "jbr:book-daniel"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "עזרא",
+      "jbo:position": "36",
+      "uri": "jbr:book-ezra"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "נחמיה",
+      "jbo:position": "37",
+      "uri": "jbr:book-nechemya"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "דברי הימים א",
+      "jbo:position": "38",
+      "uri": "jbr:book-divreyhayamimA"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-ketuvim"
+      ],
+      "rdfs:label": "דברי הימים ב",
+      "jbo:position": "39",
+      "uri": "jbr:book-divreyhayamimB"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-machashava",
+        "jbr:category-haravkuk"
+      ],
+      "rdfs:label": "אורות",
+      "jbo:author": "jbr:person-הרב_קוק",
+      "uri": "jbr:book-orot"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-machashava",
+        "jbr:category-haravkuk"
+      ],
+      "rdfs:label": "אורות הקודש",
+      "jbo:author": "jbr:person-הרב_קוק",
+      "uri": "jbr:book-orothakodesh"
+    },
+    {
+      "dc:subject": "jbr:category-musar",
+      "rdfs:label": "חובות הלבבות",
+      "jbo:author": "jbr:person-רבינו_בחיי_אבן_פקודה",
+      "uri": "jbr:book-chovothalevavot"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-machashava",
+        "jbr:category-maharal"
+      ],
+      "rdfs:label": "באר הגולה",
+      "jbo:author": "jbr:person-מהרל",
+      "uri": "jbr:book-beerhagola"
+    },
+    {
+      "dc:subject": "jbr:category-chasidut",
+      "rdfs:label": "\"ליקוטי מוהר\"\"ן\"",
+      "jbo:author": "jbr:person-רבי_נחמן_מברסלב",
+      "uri": "jbr:book-likuteymoharan"
+    },
+    {
+      "dc:subject": "jbr:category-mishna",
+      "rdfs:label": "משנה",
+      "jbo:author": "jbr:person-רבי_יהודה_הנשיא",
+      "uri": "jbr:book-mishna"
+    },
+    {
+      "dc:subject": "jbr:category-talmudbavli",
+      "rdfs:label": "תלמוד בבלי",
+      "uri": "jbr:book-talmudbavli"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-talmudbavli",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "\"פירוש רש\"\"י בבלי\"",
+      "jbo:author": "jbr:person-רשי",
+      "uri": "jbr:book-rashibavli"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-talmudbavli",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "תוספות",
+      "uri": "jbr:book-tosafotbavli"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-talmudbavli",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "\"פירוש רשב\"\"ם בבלי\"",
+      "jbo:author": "jbr:person-רשבם",
+      "uri": "jbr:book-rashbambavli"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-mishnetorah",
+        "jbr:category-halacha"
+      ],
+      "rdfs:label": "משנה תורה",
+      "jbo:author": "jbr:person-הרמבם",
+      "uri": "jbr:book-mishnetorah"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-mishnetorah",
+        "jbr:category-mitzvot"
+      ],
+      "rdfs:label": "ספר המצוות",
+      "jbo:author": "jbr:person-הרמבם",
+      "uri": "jbr:book-seferhamitzvot"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-mishnetorah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "פירוש פירוש",
+      "uri": "jbr:book-perushperush"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-mishnetorah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "כסף משנה",
+      "jbo:author": "jbr:person-רבי_יוסף_קארו",
+      "uri": "jbr:book-kesefmishne"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-mishnetorah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "לחם משנה",
+      "uri": "jbr:book-lechemmishne"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-mishnetorah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "\"השגות הראב\"\"ד\"",
+      "jbo:author": "jbr:person-הראבד",
+      "uri": "jbr:book-raabad"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-mishnetorah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "מגיד משנה",
+      "uri": "jbr:book-magidmishne"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-shulchanaruch",
+        "jbr:category-halacha"
+      ],
+      "rdfs:label": "שולחן ערוך",
+      "jbo:author": "jbr:person-רבי_יוסף_קארו",
+      "uri": "jbr:book-shulchanaruch"
+    },
+    {
+      "dc:subject": "jbr:category-machashava",
+      "rdfs:label": "\"דרשות הר\"\"ן\"",
+      "jbo:author": "jbr:person-הרן",
+      "uri": "jbr:book-derashotharan"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-tanach",
+        "jbr:category-torah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "\"פירוש רש\"\"י\"",
+      "jbo:author": "jbr:person-רשי",
+      "uri": "jbr:book-rashitanach"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-torah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "שפתי חכמים",
+      "uri": "jbr:book-sifteychachamim"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-torah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "\"פירוש הרמב\"\"ן על התורה\"",
+      "jbo:author": "jbr:person-הרמבן",
+      "uri": "jbr:book-rambantorah"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-torah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "תרגום יונתן",
+      "jbo:author": "jbr:person-יונתן_בן_עוזיאל",
+      "uri": "jbr:book-targumyonatan"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-torah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "אור החיים על התורה",
+      "jbo:author": "jbr:person-אור_החיים_הקדוש",
+      "uri": "jbr:book-orhachayim"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-torah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "\"הראב\"\"ע\"",
+      "jbo:author": "jbr:person-רבי_אברהם_אבן_עזרא",
+      "uri": "jbr:book-ibnezra"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-torah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "בעל הטורים",
+      "jbo:author": "jbr:person-בעל_הטורים",
+      "uri": "jbr:book-baalhaturim"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-torah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "תרגום אונקלוס",
+      "jbo:author": "jbr:person-אונקלוס",
+      "uri": "jbr:book-onkelos"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-torah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "ספורנו",
+      "jbo:author": "jbr:person-ספורנו",
+      "uri": "jbr:book-seforno"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-torah",
+        "jbr:category-perush"
+      ],
+      "rdfs:label": "כלי יקר",
+      "jbo:author": "jbr:person-כלי_יקר",
+      "uri": "jbr:book-keliyekar"
+    }
+  ]
+}
