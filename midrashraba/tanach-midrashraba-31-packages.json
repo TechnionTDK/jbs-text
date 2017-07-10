@@ -2,7 +2,6 @@
   "subjects": [
     {
       "uri": "jbr:section-tanach-midrashraba-31",
-      "jbo:text": "﻿מדרש רבה - רות רבה",
       "jbo:book": "jbr:book-midrashraba",
       "rdfs:label": "מדרש רבה רות רבה"
     },
@@ -11,7 +10,6 @@
         "jbr:section-tanach-midrashraba-31"
       ],
       "uri": "jbr:section-tanach-midrashraba-31-0",
-      "jbo:text": "פתיחתא דרות רבה",
       "rdfs:label": "מדרש רבה רות רבה פתיחתא דחכימי",
       "jbo:book": "midrashraba",
       "jbo:position": "0"
@@ -21,7 +19,6 @@
         "jbr:section-tanach-midrashraba-31"
       ],
       "uri": "jbr:section-tanach-midrashraba-31-1",
-      "jbo:text": "פרשה א",
       "rdfs:label": "מדרש רבה רות רבה א",
       "jbo:book": "midrashraba",
       "jbo:position": "1"
@@ -31,7 +28,6 @@
         "jbr:section-tanach-midrashraba-31"
       ],
       "uri": "jbr:section-tanach-midrashraba-31-2",
-      "jbo:text": "פרשה ב",
       "rdfs:label": "מדרש רבה רות רבה ב",
       "jbo:book": "midrashraba",
       "jbo:position": "2"
@@ -41,7 +37,6 @@
         "jbr:section-tanach-midrashraba-31"
       ],
       "uri": "jbr:section-tanach-midrashraba-31-3",
-      "jbo:text": "פרשה ג",
       "rdfs:label": "מדרש רבה רות רבה ג",
       "jbo:book": "midrashraba",
       "jbo:position": "3"
@@ -51,7 +46,6 @@
         "jbr:section-tanach-midrashraba-31"
       ],
       "uri": "jbr:section-tanach-midrashraba-31-4",
-      "jbo:text": "פרשה ד",
       "rdfs:label": "מדרש רבה רות רבה ד",
       "jbo:book": "midrashraba",
       "jbo:position": "4"
@@ -61,7 +55,6 @@
         "jbr:section-tanach-midrashraba-31"
       ],
       "uri": "jbr:section-tanach-midrashraba-31-5",
-      "jbo:text": "פרשה ה",
       "rdfs:label": "מדרש רבה רות רבה ה",
       "jbo:book": "midrashraba",
       "jbo:position": "5"
@@ -71,7 +64,6 @@
         "jbr:section-tanach-midrashraba-31"
       ],
       "uri": "jbr:section-tanach-midrashraba-31-6",
-      "jbo:text": "פרשה ו",
       "rdfs:label": "מדרש רבה רות רבה ו",
       "jbo:book": "midrashraba",
       "jbo:position": "6"
@@ -81,7 +73,6 @@
         "jbr:section-tanach-midrashraba-31"
       ],
       "uri": "jbr:section-tanach-midrashraba-31-7",
-      "jbo:text": "פרשה ז",
       "rdfs:label": "מדרש רבה רות רבה ז",
       "jbo:book": "midrashraba",
       "jbo:position": "7"
@@ -91,7 +82,6 @@
         "jbr:section-tanach-midrashraba-31"
       ],
       "uri": "jbr:section-tanach-midrashraba-31-8",
-      "jbo:text": "פרשה ח",
       "rdfs:label": "מדרש רבה רות רבה ח",
       "jbo:book": "midrashraba",
       "jbo:position": "8"
