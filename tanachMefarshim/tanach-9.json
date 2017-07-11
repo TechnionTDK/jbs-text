@@ -14081,7 +14081,7 @@
         "jbr:section-tanach-9-17"
       ],
       "uri": "jbr:text-tanach-malbim-9-17-16",
-      "jbo:text": "מלבי\"ם   ועתה שלחו מהרה וכו', אל תלן אתה בתוך העם. ויותר מזה וגם עבור תעבור עם כל העם. ופירושו אל תלן פן יבולע למלך, וגם עבור תעבור, פן יבולע לכל העם:\n!",
+      "jbo:text": "מלבי\"ם   ועתה שלחו מהרה וכו', אל תלן אתה בתוך העם. ויותר מזה וגם עבור תעבור עם כל העם. ופירושו אל תלן פן יבולע למלך, וגם עבור תעבור, פן יבולע לכל העם:",
       "rdfs:label": "מלבי\"ם שמואל ב יז טז",
       "jbo:name": "מלבי\"ם",
       "jbo:book": "jbr:book-malbim",
@@ -14089,27 +14089,36 @@
       "jbo:positionInPerek": "16"
     },
     {
-      "jbo:text": "וירא אותם נער, היה בזה עין ה' אל יראיו, א. מה שהרגישו שראה אותם הנער וילכו מהרה, ב. מה שבאו בבית איש שלו באר: (מלבי\"ם)"
+      "jbo:within": [
+        "jbr:section-tanach-9-17"
+      ],
+      "uri": "jbr:text-tanach-rashi-9-17-17",
+      "jbo:text": "רש\"י  בעין רוגל. (תרגום:) בעין קצרא, כובסי בגדי צמר, שחובטין אותם שם, שבועטים אותם ברגל:",
+      "rdfs:label": "רש\"י שמואל ב יז יז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-9-17-17",
+      "jbo:positionInPerek": "17"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
-      "uri": "jbr:text-tanach-rashi-9-17-18",
-      "jbo:text": "רש\"י  בעין רוגל. (תרגום:) בעין קצרא, כובסי בגדי צמר, שחובטין אותם שם, שבועטים אותם ברגל:",
-      "rdfs:label": "רש\"י שמואל ב יז יז",
-      "jbo:name": "רש\"י",
-      "jbo:book": "jbr:book-rashi",
-      "jbo:interprets": "jbr:text-tanach-9-17-18",
-      "jbo:positionInPerek": "18"
+      "uri": "jbr:text-tanach-metzudatdavid-9-17-17",
+      "jbo:text": "מצודת דוד  והם ילכו. בכדי שהם ילכו וגו' : כי לא יוכלו. יהונתן ואחימעץ לא יוכלו להראות עצמם לבוא העיר, פן ירגישו בהם :",
+      "rdfs:label": "מצודת דוד שמואל ב יז יז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-9-17-17",
+      "jbo:positionInPerek": "17"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
       "uri": "jbr:text-tanach-metzudatdavid-9-17-18",
-      "jbo:text": "מצודת דוד  והם ילכו. בכדי שהם ילכו וגו' : כי לא יוכלו. יהונתן ואחימעץ לא יוכלו להראות עצמם לבוא העיר, פן ירגישו בהם :",
-      "rdfs:label": "מצודת דוד שמואל ב יז יז",
+      "jbo:text": "מצודת דוד  וירא אותם. בעין רוגל : וילכו. כי הרגישו אשר הנער ראה אותם, ולזה הלכו מעין רוגל אל מאהבם אשר בבחורים :",
+      "rdfs:label": "מצודת דוד שמואל ב יז יח",
       "jbo:name": "מצודת דוד",
       "jbo:book": "jbr:book-metzudatdavid",
       "jbo:interprets": "jbr:text-tanach-9-17-18",
@@ -14119,9 +14128,33 @@
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
+      "uri": "jbr:text-tanach-malbim-9-17-18",
+      "jbo:text": "מלבי\"ם וירא אותם נער, היה בזה עין ה' אל יראיו, א. מה שהרגישו שראה אותם הנער וילכו מהרה, ב. מה שבאו בבית איש שלו באר:",
+      "rdfs:label": "מלבי\"ם שמואל ב יז יח",
+      "jbo:name": "מלבי\"ם",
+      "jbo:book": "jbr:book-malbim",
+      "jbo:interprets": "jbr:text-tanach-9-17-18",
+      "jbo:positionInPerek": "18"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-9-17"
+      ],
+      "uri": "jbr:text-tanach-rashi-9-17-19",
+      "jbo:text": "רש\"י  את המסך. וילון: הרפות. חטין כתושות, כמו (משלי כז כב): בתוך הריפות:",
+      "rdfs:label": "רש\"י שמואל ב יז יט",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-9-17-19",
+      "jbo:positionInPerek": "19"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-9-17"
+      ],
       "uri": "jbr:text-tanach-metzudatdavid-9-17-19",
-      "jbo:text": "מצודת דוד  וירא אותם. בעין רוגל : וילכו. כי הרגישו אשר הנער ראה אותם, ולזה הלכו מעין רוגל אל מאהבם אשר בבחורים :",
-      "rdfs:label": "מצודת דוד שמואל ב יז יח",
+      "jbo:text": "מצודת דוד  האשה. אשת האיש : עליו. על המסך : ולא נודע דבר. לא היה ניכר מהבאר, שמתחת להמסך :",
+      "rdfs:label": "מצודת דוד שמואל ב יז יט",
       "jbo:name": "מצודת דוד",
       "jbo:book": "jbr:book-metzudatdavid",
       "jbo:interprets": "jbr:text-tanach-9-17-19",
@@ -14131,9 +14164,45 @@
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
+      "uri": "jbr:text-tanach-metzudattzion-9-17-19",
+      "jbo:text": "מצודת ציון  המסך. וילון, כמו (שמות כו לו) : ועשית מסך : ותשטח. ופרשה, כמו (יחזקאל כו יד) : משטח חרמים : הרפות. חטים כתושים ונקלפים, כמו (משלי כז כב) : בתוך הרפות בעלי, והוא מלשון רפיון, כי נרפו ונקלפו מקליפותיהם :",
+      "rdfs:label": "מצודת ציון שמואל ב יז יט",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-9-17-19",
+      "jbo:positionInPerek": "19"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-9-17"
+      ],
+      "uri": "jbr:text-tanach-ralbag-9-17-19",
+      "jbo:text": "רלב\"ג  ותשטח עליו הרפות. היא חטה הנכתשת במכתש וישטחוה תחלה כדי שתיבש :",
+      "rdfs:label": "רלב\"ג שמואל ב יז יט",
+      "jbo:name": "רלב\"ג",
+      "jbo:book": "jbr:book-ralbag",
+      "jbo:interprets": "jbr:text-tanach-9-17-19",
+      "jbo:positionInPerek": "19"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-9-17"
+      ],
+      "uri": "jbr:text-tanach-malbim-9-17-19",
+      "jbo:text": "מלבי\"ם  ג. שחמלה האשה עליהם, ומה שהיה מעצתה לשטוח הריפות, ד. מה שהיה מעצתה לאמר שהיו פה ושעברו את מיכל המים, כמו שהיתה עצת רחב לאמר כן באו אלי האנשים כמש''פ שם:",
+      "rdfs:label": "מלבי\"ם שמואל ב יז יט",
+      "jbo:name": "מלבי\"ם",
+      "jbo:book": "jbr:book-malbim",
+      "jbo:interprets": "jbr:text-tanach-9-17-19",
+      "jbo:positionInPerek": "19"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-9-17"
+      ],
       "uri": "jbr:text-tanach-rashi-9-17-20",
-      "jbo:text": "רש\"י  את המסך. וילון: הרפות. חטין כתושות, כמו (משלי כז כב): בתוך הריפות:",
-      "rdfs:label": "רש\"י שמואל ב יז יט",
+      "jbo:text": "רש\"י  מיכל המים. איני יודע לו פתרון במחברת כל, ופתרונו לפי ענינו, כמו שבולת הנהר:",
+      "rdfs:label": "רש\"י שמואל ב יז כ",
       "jbo:name": "רש\"י",
       "jbo:book": "jbr:book-rashi",
       "jbo:interprets": "jbr:text-tanach-9-17-20",
@@ -14144,8 +14213,8 @@
         "jbr:section-tanach-9-17"
       ],
       "uri": "jbr:text-tanach-metzudatdavid-9-17-20",
-      "jbo:text": "מצודת דוד  האשה. אשת האיש : עליו. על המסך : ולא נודע דבר. לא היה ניכר מהבאר, שמתחת להמסך :",
-      "rdfs:label": "מצודת דוד שמואל ב יז יט",
+      "jbo:text": "מצודת דוד  איה. כי הוגד להם שבאו הביתה : ויבקשו. בבית האשה. או עברו מיכל המים לבקשם :",
+      "rdfs:label": "מצודת דוד שמואל ב יז כ",
       "jbo:name": "מצודת דוד",
       "jbo:book": "jbr:book-metzudatdavid",
       "jbo:interprets": "jbr:text-tanach-9-17-20",
@@ -14156,8 +14225,8 @@
         "jbr:section-tanach-9-17"
       ],
       "uri": "jbr:text-tanach-metzudattzion-9-17-20",
-      "jbo:text": "מצודת ציון  המסך. וילון, כמו (שמות כו לו) : ועשית מסך : ותשטח. ופרשה, כמו (יחזקאל כו יד) : משטח חרמים : הרפות. חטים כתושים ונקלפים, כמו (משלי כז כב) : בתוך הרפות בעלי, והוא מלשון רפיון, כי נרפו ונקלפו מקליפותיהם :",
-      "rdfs:label": "מצודת ציון שמואל ב יז יט",
+      "jbo:text": "מצודת ציון  מיכל המים. ענינו פלג המים, ואין לו חבר :",
+      "rdfs:label": "מצודת ציון שמואל ב יז כ",
       "jbo:name": "מצודת ציון",
       "jbo:book": "jbr:book-metzudattzion",
       "jbo:interprets": "jbr:text-tanach-9-17-20",
@@ -14168,80 +14237,44 @@
         "jbr:section-tanach-9-17"
       ],
       "uri": "jbr:text-tanach-ralbag-9-17-20",
-      "jbo:text": "רלב\"ג  ותשטח עליו הרפות. היא חטה הנכתשת במכתש וישטחוה תחלה כדי שתיבש :",
-      "rdfs:label": "רלב\"ג שמואל ב יז יט",
-      "jbo:name": "רלב\"ג",
-      "jbo:book": "jbr:book-ralbag",
-      "jbo:interprets": "jbr:text-tanach-9-17-20",
-      "jbo:positionInPerek": "20"
-    },
-    {
-      "jbo:within": [
-        "jbr:section-tanach-9-17"
-      ],
-      "uri": "jbr:text-tanach-malbim-9-17-20",
-      "jbo:text": "מלבי\"ם  ג. שחמלה האשה עליהם, ומה שהיה מעצתה לשטוח הריפות, ד. מה שהיה מעצתה לאמר שהיו פה ושעברו את מיכל המים, כמו שהיתה עצת רחב לאמר כן באו אלי האנשים כמש''פ שם:",
-      "rdfs:label": "מלבי\"ם שמואל ב יז יט",
-      "jbo:name": "מלבי\"ם",
-      "jbo:book": "jbr:book-malbim",
-      "jbo:interprets": "jbr:text-tanach-9-17-20",
-      "jbo:positionInPerek": "20"
-    },
-    {
-      "jbo:within": [
-        "jbr:section-tanach-9-17"
-      ],
-      "uri": "jbr:text-tanach-rashi-9-17-21",
-      "jbo:text": "רש\"י  מיכל המים. איני יודע לו פתרון במחברת כל, ופתרונו לפי ענינו, כמו שבולת הנהר:",
-      "rdfs:label": "רש\"י שמואל ב יז כ",
-      "jbo:name": "רש\"י",
-      "jbo:book": "jbr:book-rashi",
-      "jbo:interprets": "jbr:text-tanach-9-17-21",
-      "jbo:positionInPerek": "21"
-    },
-    {
-      "jbo:within": [
-        "jbr:section-tanach-9-17"
-      ],
-      "uri": "jbr:text-tanach-metzudatdavid-9-17-21",
-      "jbo:text": "מצודת דוד  איה. כי הוגד להם שבאו הביתה : ויבקשו. בבית האשה. או עברו מיכל המים לבקשם :",
-      "rdfs:label": "מצודת דוד שמואל ב יז כ",
-      "jbo:name": "מצודת דוד",
-      "jbo:book": "jbr:book-metzudatdavid",
-      "jbo:interprets": "jbr:text-tanach-9-17-21",
-      "jbo:positionInPerek": "21"
-    },
-    {
-      "jbo:within": [
-        "jbr:section-tanach-9-17"
-      ],
-      "uri": "jbr:text-tanach-metzudattzion-9-17-21",
-      "jbo:text": "מצודת ציון  מיכל המים. ענינו פלג המים, ואין לו חבר :",
-      "rdfs:label": "מצודת ציון שמואל ב יז כ",
-      "jbo:name": "מצודת ציון",
-      "jbo:book": "jbr:book-metzudattzion",
-      "jbo:interprets": "jbr:text-tanach-9-17-21",
-      "jbo:positionInPerek": "21"
-    },
-    {
-      "jbo:within": [
-        "jbr:section-tanach-9-17"
-      ],
-      "uri": "jbr:text-tanach-ralbag-9-17-21",
       "jbo:text": "רלב\"ג  מיכל המים. רוצה לומר פלג המים :",
       "rdfs:label": "רלב\"ג שמואל ב יז כ",
       "jbo:name": "רלב\"ג",
       "jbo:book": "jbr:book-ralbag",
-      "jbo:interprets": "jbr:text-tanach-9-17-21",
-      "jbo:positionInPerek": "21"
+      "jbo:interprets": "jbr:text-tanach-9-17-20",
+      "jbo:positionInPerek": "20"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-9-17"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-9-17-22",
+      "jbo:text": "מצודת דוד  עד אחד וגו'. רוצה לומר : כשבא אור הבוקר, אפילו אחד לא היה נעדר אשר וגו' :",
+      "rdfs:label": "מצודת דוד שמואל ב יז כב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-9-17-22",
+      "jbo:positionInPerek": "22"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-9-17"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-9-17-22",
+      "jbo:text": "מצודת ציון  נעדר. נחסר, כמו (ישעיהו מ כו) : איש לא נעדר :",
+      "rdfs:label": "מצודת ציון שמואל ב יז כב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-9-17-22",
+      "jbo:positionInPerek": "22"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
       "uri": "jbr:text-tanach-metzudatdavid-9-17-23",
-      "jbo:text": "מצודת דוד  עד אחד וגו'. רוצה לומר : כשבא אור הבוקר, אפילו אחד לא היה נעדר אשר וגו' :",
-      "rdfs:label": "מצודת דוד שמואל ב יז כב",
+      "jbo:text": "מצודת דוד  אל עירו. רוצה לומר : אל ביתו אשר בעירו, לא לבית מלונו אשר בירושלים : ויצו. עשה צואה אל ביתו : ויחנק. חנק את עצמו, כי האמין מעתה שדוד יחזור למלכותו, ויהרגו כמורד במלכות, ויהיו עוד נכסיו למלך כדין מורד במלכות, ולזה חנק עצמו, להציל נכסיו ליורשיו :",
+      "rdfs:label": "מצודת דוד שמואל ב יז כג",
       "jbo:name": "מצודת דוד",
       "jbo:book": "jbr:book-metzudatdavid",
       "jbo:interprets": "jbr:text-tanach-9-17-23",
@@ -14252,8 +14285,8 @@
         "jbr:section-tanach-9-17"
       ],
       "uri": "jbr:text-tanach-metzudattzion-9-17-23",
-      "jbo:text": "מצודת ציון  נעדר. נחסר, כמו (ישעיהו מ כו) : איש לא נעדר :",
-      "rdfs:label": "מצודת ציון שמואל ב יז כב",
+      "jbo:text": "מצודת ציון  ויחבוש. חגר האוכף :",
+      "rdfs:label": "מצודת ציון שמואל ב יז כג",
       "jbo:name": "מצודת ציון",
       "jbo:book": "jbr:book-metzudattzion",
       "jbo:interprets": "jbr:text-tanach-9-17-23",
@@ -14263,105 +14296,117 @@
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
-      "uri": "jbr:text-tanach-metzudatdavid-9-17-24",
-      "jbo:text": "מצודת דוד  אל עירו. רוצה לומר : אל ביתו אשר בעירו, לא לבית מלונו אשר בירושלים : ויצו. עשה צואה אל ביתו : ויחנק. חנק את עצמו, כי האמין מעתה שדוד יחזור למלכותו, ויהרגו כמורד במלכות, ויהיו עוד נכסיו למלך כדין מורד במלכות, ולזה חנק עצמו, להציל נכסיו ליורשיו :",
-      "rdfs:label": "מצודת דוד שמואל ב יז כג",
-      "jbo:name": "מצודת דוד",
-      "jbo:book": "jbr:book-metzudatdavid",
-      "jbo:interprets": "jbr:text-tanach-9-17-24",
-      "jbo:positionInPerek": "24"
-    },
-    {
-      "jbo:within": [
-        "jbr:section-tanach-9-17"
-      ],
-      "uri": "jbr:text-tanach-metzudattzion-9-17-24",
-      "jbo:text": "מצודת ציון  ויחבוש. חגר האוכף :",
-      "rdfs:label": "מצודת ציון שמואל ב יז כג",
-      "jbo:name": "מצודת ציון",
-      "jbo:book": "jbr:book-metzudattzion",
-      "jbo:interprets": "jbr:text-tanach-9-17-24",
-      "jbo:positionInPerek": "24"
-    },
-    {
-      "jbo:within": [
-        "jbr:section-tanach-9-17"
-      ],
-      "uri": "jbr:text-tanach-ralbag-9-17-24",
+      "uri": "jbr:text-tanach-ralbag-9-17-23",
       "jbo:text": "רלב\"ג  ויצו אל ביתו ויחנק. יתכן שחנק את עצמו כי ראה הרע שיקרה מזה לאבשלום והיה ירא מדוד שתתפרסם לו זאת העצה שיעץ עליו :",
       "rdfs:label": "רלב\"ג שמואל ב יז כג",
       "jbo:name": "רלב\"ג",
       "jbo:book": "jbr:book-ralbag",
-      "jbo:interprets": "jbr:text-tanach-9-17-24",
-      "jbo:positionInPerek": "24"
+      "jbo:interprets": "jbr:text-tanach-9-17-23",
+      "jbo:positionInPerek": "23"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
-      "uri": "jbr:text-tanach-malbim-9-17-24",
+      "uri": "jbr:text-tanach-malbim-9-17-23",
       "jbo:text": "מלבי\"ם  ואחיתופל ראה כי עד עתה השתדל שיעשו כעצתו, וכאשר שמע שעבר דוד את הירדן. ידע שהוא מה', שהפיר את עצתו, ושישוב דוד למלכותו, ואז יהרגנו ויקח נכסיו כי הרוגי מלך נכסיהם למלך לכן חנק את עצמו, ועל ידי כן ויצו אל ביתו, כי ידע שלא יוכל לקחת נכסיו, וגם נקבר בקבר אביו ולא כן אם היה המלך הורגו:",
       "rdfs:label": "מלבי\"ם שמואל ב יז כג",
       "jbo:name": "מלבי\"ם",
       "jbo:book": "jbr:book-malbim",
-      "jbo:interprets": "jbr:text-tanach-9-17-24",
-      "jbo:positionInPerek": "24"
+      "jbo:interprets": "jbr:text-tanach-9-17-23",
+      "jbo:positionInPerek": "23"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
-      "uri": "jbr:text-tanach-rashi-9-17-26",
+      "uri": "jbr:text-tanach-rashi-9-17-25",
       "jbo:text": "רש\"י  בת נחש. הוא ישי אבי דוד, רבותינו אמרו (בבא בתרא יז א): שמת בלא עון, בעטיו של נחש:",
       "rdfs:label": "רש\"י שמואל ב יז כה",
       "jbo:name": "רש\"י",
       "jbo:book": "jbr:book-rashi",
-      "jbo:interprets": "jbr:text-tanach-9-17-26",
-      "jbo:positionInPerek": "26"
+      "jbo:interprets": "jbr:text-tanach-9-17-25",
+      "jbo:positionInPerek": "25"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
-      "uri": "jbr:text-tanach-metzudatdavid-9-17-26",
+      "uri": "jbr:text-tanach-metzudatdavid-9-17-25",
       "jbo:text": "מצודת דוד  על הצבא. לשר על הצבא : בן איש. רצה לומר : בן אדם חשוב ומעולה, כמו (שמואל א כו טו) : הלא איש אתה : הישראלי. ובדברי הימים (א ב יז) אמר הישמעאלי, לפי שהתגורר בארץ ישמעאל : נחש. אמרו רבותינו ז''ל (שבת נה ב) : הוא ישי, ונקרא נחש, על שמת בעטיו של נחש ומבלי עון. (ויתכן לומר, שנולדה מאשת ישי מבעלה הראשון, ושמו נחש, ולזה אמר אחות צרויה, ולא אמר אחות דוד, כי צרויה היתה אחותה גם מן האב, וכאשר אמרנו בשמואל א טז י) :",
       "rdfs:label": "מצודת דוד שמואל ב יז כה",
       "jbo:name": "מצודת דוד",
       "jbo:book": "jbr:book-metzudatdavid",
-      "jbo:interprets": "jbr:text-tanach-9-17-26",
-      "jbo:positionInPerek": "26"
+      "jbo:interprets": "jbr:text-tanach-9-17-25",
+      "jbo:positionInPerek": "25"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
-      "uri": "jbr:text-tanach-ralbag-9-17-26",
+      "uri": "jbr:text-tanach-ralbag-9-17-25",
       "jbo:text": "רלב\"ג  אשר בא אל אביגל בת נחש. ידמה שהיו לישי שני שמות והנה אמר שהיא אחות צרויה אם יואב להודיע שעמשא ויואב היו קרובים בני שתי אחיות ועם כל זה הרג יואב את עמשא כדי שישאר שר צבא כמו שהיה :",
       "rdfs:label": "רלב\"ג שמואל ב יז כה",
       "jbo:name": "רלב\"ג",
       "jbo:book": "jbr:book-ralbag",
-      "jbo:interprets": "jbr:text-tanach-9-17-26",
-      "jbo:positionInPerek": "26"
+      "jbo:interprets": "jbr:text-tanach-9-17-25",
+      "jbo:positionInPerek": "25"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
-      "uri": "jbr:text-tanach-malbim-9-17-26",
+      "uri": "jbr:text-tanach-malbim-9-17-25",
       "jbo:text": "מלבי\"ם  ואת עמשא, וספר שאם עמשא, ואם יואב היו אחיות, שתיהן בנות ישי, והיה לעמשא יתרון על יואב, מצד אביו, כי יואב נקרא אחר אמו בן צרויה, כי אביו לא נודע בשם, ועמשא בן איש לא בן אשה, רצה לומר נקרא ע''ש אביו שהיה שמו יתרא הישראלי, ובד''ה קראו הישמעאלי ודרשוהו חכמינו זכרונם לברכה, והיה גדול בתורה:",
       "rdfs:label": "מלבי\"ם שמואל ב יז כה",
       "jbo:name": "מלבי\"ם",
       "jbo:book": "jbr:book-malbim",
-      "jbo:interprets": "jbr:text-tanach-9-17-26",
-      "jbo:positionInPerek": "26"
+      "jbo:interprets": "jbr:text-tanach-9-17-25",
+      "jbo:positionInPerek": "25"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-9-17"
+      ],
+      "uri": "jbr:text-tanach-rashi-9-17-27",
+      "jbo:text": "רש\"י  ושבי בן נחש. הוא חנון בן נחש:",
+      "rdfs:label": "רש\"י שמואל ב יז כז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-9-17-27",
+      "jbo:positionInPerek": "27"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-9-17"
+      ],
+      "uri": "jbr:text-tanach-ralbag-9-17-27",
+      "jbo:text": "רלב\"ג  והנה זכר כי בבא דוד מחנימה הגישו לו שובי בן נחש ומכי' בן עמיאל וברזלי הגלעדי המצטרך לו מכל משכב וספות והם כלי בית קבול ממתכת וכלי יוצר להשתמש בהם בכל צרכיהם והביאו להם למזון חטים ושעורים וקמח וקלי מהחטים ומן השעורים כדי שיוכלו לאכול תכף מהקלי והביאו להם ממיני קטניות פול ועדשים וגם הביאו להם מהם קלי לאכלו תכף והביאו להם עוד דבש וחמאה ללפת בו את הפת ולשתות וצאן לאכל וחריצין חלב בקר לאכל לפי שהם יותר חשובים משאר החריצים והנה הסכימו אלו השלשה ממקומותיהם לשלח זאת המנחה לדוד :",
+      "rdfs:label": "רלב\"ג שמואל ב יז כז",
+      "jbo:name": "רלב\"ג",
+      "jbo:book": "jbr:book-ralbag",
+      "jbo:interprets": "jbr:text-tanach-9-17-27",
+      "jbo:positionInPerek": "27"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-9-17"
+      ],
+      "uri": "jbr:text-tanach-malbim-9-17-27",
+      "jbo:text": "מלבי\"ם  ויהי כבוא דוד מחנימה. הנה עד עתה לא מצא תומך וסועד כנ''ל. ועתה התעוררו רבים לתמכו, כי אחר שבא אבשלום אל פלגשי אביו ודוד ברח מן הארץ קבל ענשו, וכאור בקר יזרח שמש:",
+      "rdfs:label": "מלבי\"ם שמואל ב יז כז",
+      "jbo:name": "מלבי\"ם",
+      "jbo:book": "jbr:book-malbim",
+      "jbo:interprets": "jbr:text-tanach-9-17-27",
+      "jbo:positionInPerek": "27"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
       "uri": "jbr:text-tanach-rashi-9-17-28",
-      "jbo:text": "רש\"י  ושבי בן נחש. הוא חנון בן נחש:",
-      "rdfs:label": "רש\"י שמואל ב יז כז",
+      "jbo:text": "רש\"י  משכב. מצעות: וספות. כלי תשמיש הם, כמו (מלכים.. ב יב יד): ספות כסף: וקלי. מיני קליות, אמרו רבותינו (עבודה זרה לח ב): שני מיני שתיתא הקריב ברזילי לדוד, אחד של חטים, ואחד של עדשים, כענין האמור כאן; 'קמח וקלי', הוא של דגן, 'ופול ועדשים וקלי', ממינים של קטניות שמייבשין אותן בתנור כשהן לחין, והם מתוקין לעולם, וטוחנין אותן, ועושין מהם מאכל שקורין שתיתא:",
+      "rdfs:label": "רש\"י שמואל ב יז כח",
       "jbo:name": "רש\"י",
       "jbo:book": "jbr:book-rashi",
       "jbo:interprets": "jbr:text-tanach-9-17-28",
@@ -14371,23 +14416,11 @@
       "jbo:within": [
         "jbr:section-tanach-9-17"
       ],
-      "uri": "jbr:text-tanach-ralbag-9-17-28",
-      "jbo:text": "רלב\"ג  והנה זכר כי בבא דוד מחנימה הגישו לו שובי בן נחש ומכי' בן עמיאל וברזלי הגלעדי המצטרך לו מכל משכב וספות והם כלי בית קבול ממתכת וכלי יוצר להשתמש בהם בכל צרכיהם והביאו להם למזון חטים ושעורים וקמח וקלי מהחטים ומן השעורים כדי שיוכלו לאכול תכף מהקלי והביאו להם ממיני קטניות פול ועדשים וגם הביאו להם מהם קלי לאכלו תכף והביאו להם עוד דבש וחמאה ללפת בו את הפת ולשתות וצאן לאכל וחריצין חלב בקר לאכל לפי שהם יותר חשובים משאר החריצים והנה הסכימו אלו השלשה ממקומותיהם לשלח זאת המנחה לדוד :",
-      "rdfs:label": "רלב\"ג שמואל ב יז כז",
-      "jbo:name": "רלב\"ג",
-      "jbo:book": "jbr:book-ralbag",
-      "jbo:interprets": "jbr:text-tanach-9-17-28",
-      "jbo:positionInPerek": "28"
-    },
-    {
-      "jbo:within": [
-        "jbr:section-tanach-9-17"
-      ],
-      "uri": "jbr:text-tanach-malbim-9-17-28",
-      "jbo:text": "מלבי\"ם  ויהי כבוא דוד מחנימה. הנה עד עתה לא מצא תומך וסועד כנ''ל. ועתה התעוררו רבים לתמכו, כי אחר שבא אבשלום אל פלגשי אביו ודוד ברח מן הארץ קבל ענשו, וכאור בקר יזרח שמש:",
-      "rdfs:label": "מלבי\"ם שמואל ב יז כז",
-      "jbo:name": "מלבי\"ם",
-      "jbo:book": "jbr:book-malbim",
+      "uri": "jbr:text-tanach-metzudattzion-9-17-28",
+      "jbo:text": "מצודת ציון  משכב. מצעות לשכב עליהם : וספות. מזרקים, כמו (שמות יב כב) : בדם אשר בסף : וכלי יוצר. כלים מיוצר חרס : וקלי. קמח משבלים צלוים : ופול ועדשים. הם מיני קטניות : וקלי. הוא קמח מקטניות צלוים :",
+      "rdfs:label": "מצודת ציון שמואל ב יז כח",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
       "jbo:interprets": "jbr:text-tanach-9-17-28",
       "jbo:positionInPerek": "28"
     },
@@ -14396,10 +14429,22 @@
         "jbr:section-tanach-9-17"
       ],
       "uri": "jbr:text-tanach-rashi-9-17-29",
-      "jbo:text": "רש\"י  משכב. מצעות: וספות. כלי תשמיש הם, כמו (מלכים.. ב יב יד): ספות כסף: וקלי. מיני קליות, אמרו רבותינו (עבודה זרה לח ב): שני מיני שתיתא הקריב ברזילי לדוד, אחד של חטים, ואחד של עדשים, כענין האמור כאן; 'קמח וקלי', הוא של דגן, 'ופול ועדשים וקלי', ממינים של קטניות שמייבשין אותן בתנור כשהן לחין, והם מתוקין לעולם, וטוחנין אותן, ועושין מהם מאכל שקורין שתיתא:",
-      "rdfs:label": "רש\"י שמואל ב יז כח",
+      "jbo:text": "רש\"י  ושפות בקר. (תרגום:) וגובנין דחלב:",
+      "rdfs:label": "רש\"י שמואל ב יז כט",
       "jbo:name": "רש\"י",
       "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-9-17-29",
+      "jbo:positionInPerek": "29"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-9-17"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-9-17-29",
+      "jbo:text": "מצודת דוד  הגישו. שלשת האנשים ההם, הגישו משכב וגו' דבש וגר : במדבר. בעבור שהלכו במדבר, לא מצאו לא לאכול ולא לשתות, ונתיגעו מטורח הדרך :",
+      "rdfs:label": "מצודת דוד שמואל ב יז כט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
       "jbo:interprets": "jbr:text-tanach-9-17-29",
       "jbo:positionInPerek": "29"
     },
@@ -14408,48 +14453,12 @@
         "jbr:section-tanach-9-17"
       ],
       "uri": "jbr:text-tanach-metzudattzion-9-17-29",
-      "jbo:text": "מצודת ציון  משכב. מצעות לשכב עליהם : וספות. מזרקים, כמו (שמות יב כב) : בדם אשר בסף : וכלי יוצר. כלים מיוצר חרס : וקלי. קמח משבלים צלוים : ופול ועדשים. הם מיני קטניות : וקלי. הוא קמח מקטניות צלוים :",
-      "rdfs:label": "מצודת ציון שמואל ב יז כח",
-      "jbo:name": "מצודת ציון",
-      "jbo:book": "jbr:book-metzudattzion",
-      "jbo:interprets": "jbr:text-tanach-9-17-29",
-      "jbo:positionInPerek": "29"
-    },
-    {
-      "jbo:within": [
-        "jbr:section-tanach-9-17"
-      ],
-      "uri": "jbr:text-tanach-rashi-9-17-30",
-      "jbo:text": "רש\"י  ושפות בקר. (תרגום:) וגובנין דחלב:",
-      "rdfs:label": "רש\"י שמואל ב יז כט",
-      "jbo:name": "רש\"י",
-      "jbo:book": "jbr:book-rashi",
-      "jbo:interprets": "jbr:text-tanach-9-17-30",
-      "jbo:positionInPerek": "30"
-    },
-    {
-      "jbo:within": [
-        "jbr:section-tanach-9-17"
-      ],
-      "uri": "jbr:text-tanach-metzudatdavid-9-17-30",
-      "jbo:text": "מצודת דוד  הגישו. שלשת האנשים ההם, הגישו משכב וגו' דבש וגר : במדבר. בעבור שהלכו במדבר, לא מצאו לא לאכול ולא לשתות, ונתיגעו מטורח הדרך :",
-      "rdfs:label": "מצודת דוד שמואל ב יז כט",
-      "jbo:name": "מצודת דוד",
-      "jbo:book": "jbr:book-metzudatdavid",
-      "jbo:interprets": "jbr:text-tanach-9-17-30",
-      "jbo:positionInPerek": "30"
-    },
-    {
-      "jbo:within": [
-        "jbr:section-tanach-9-17"
-      ],
-      "uri": "jbr:text-tanach-metzudattzion-9-17-30",
       "jbo:text": "מצודת ציון  ושפות בקר. גבינות העשויות מחלב הבקר, ועל כי נעשית על ידי עשוי וכתישה, נקראו שפות, והוא מלשון (איוב לב כא) : ושופו עצמותיו :",
       "rdfs:label": "מצודת ציון שמואל ב יז כט",
       "jbo:name": "מצודת ציון",
       "jbo:book": "jbr:book-metzudattzion",
-      "jbo:interprets": "jbr:text-tanach-9-17-30",
-      "jbo:positionInPerek": "30"
+      "jbo:interprets": "jbr:text-tanach-9-17-29",
+      "jbo:positionInPerek": "29"
     },
     {
       "jbo:within": [
