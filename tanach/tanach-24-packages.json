@@ -4,13 +4,13 @@
       "uri": "jbr:section-tanach-24-1",
       "rdfs:label": "חגי פרק א",
       "jbo:position": "1",
-      "jbo:book": "jbr:book-chagay"
+      "jbo:book": "jbr:book-tanach-chagay"
     },
     {
       "uri": "jbr:section-tanach-24-2",
       "rdfs:label": "חגי פרק ב",
       "jbo:position": "2",
-      "jbo:book": "jbr:book-chagay"
+      "jbo:book": "jbr:book-tanach-chagay"
     }
   ]
 }
