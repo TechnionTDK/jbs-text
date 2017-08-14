@@ -1,20 +1,6 @@
 {
   "subjects": [
     {
-      "dc:subject": "jbr:category-תנך",
-      "rdfs:label": "תנ\"ך",
-      "uri": "jbr:book-tanach"
-    },
-    {
-      "dc:subject": [
-        "jbr:category-תנך",
-        "jbr:category-תורה"
-      ],
-      "rdfs:label": "תורה",
-      "jbo:author": "jbr:person-משה_רבנו",
-      "uri": "jbr:book-tanach"
-    },
-    {
       "dc:subject": [
         "jbr:category-תנך",
         "jbr:category-תורה"
@@ -22,7 +8,7 @@
       "rdfs:label": "בראשית",
       "jbo:author": "jbr:person-משה_רבנו",
       "jbo:position": "1",
-      "uri": "jbr:book-bereshit"
+      "uri": "jbr:book-tanach-bereshit"
     },
     {
       "dc:subject": [
@@ -32,7 +18,7 @@
       "rdfs:label": "שמות",
       "jbo:author": "jbr:person-משה_רבנו",
       "jbo:position": "2",
-      "uri": "jbr:book-shemot"
+      "uri": "jbr:book-tanach-shemot"
     },
     {
       "dc:subject": [
@@ -42,7 +28,7 @@
       "rdfs:label": "ויקרא",
       "jbo:author": "jbr:person-משה_רבנו",
       "jbo:position": "3",
-      "uri": "jbr:book-vayikra"
+      "uri": "jbr:book-tanach-vayikra"
     },
     {
       "dc:subject": [
@@ -52,7 +38,7 @@
       "rdfs:label": "במדבר",
       "jbo:author": "jbr:person-משה_רבנו",
       "jbo:position": "4",
-      "uri": "jbr:book-bamidbar"
+      "uri": "jbr:book-tanach-bamidbar"
     },
     {
       "dc:subject": [
@@ -62,7 +48,7 @@
       "rdfs:label": "דברים",
       "jbo:author": "jbr:person-משה_רבנו",
       "jbo:position": "5",
-      "uri": "jbr:book-devarim"
+      "uri": "jbr:book-tanach-devarim"
     },
     {
       "dc:subject": [
@@ -71,7 +57,7 @@
       ],
       "rdfs:label": "יהושע",
       "jbo:position": "6",
-      "uri": "jbr:book-yehoshua"
+      "uri": "jbr:book-tanach-yehoshua"
     },
     {
       "dc:subject": [
@@ -80,7 +66,7 @@
       ],
       "rdfs:label": "שופטים",
       "jbo:position": "7",
-      "uri": "jbr:book-shoftim"
+      "uri": "jbr:book-tanach-shoftim"
     },
     {
       "dc:subject": [
@@ -89,7 +75,7 @@
       ],
       "rdfs:label": "שמואל א",
       "jbo:position": "8",
-      "uri": "jbr:book-shemuelA"
+      "uri": "jbr:book-tanach-shemuelA"
     },
     {
       "dc:subject": [
@@ -98,7 +84,7 @@
       ],
       "rdfs:label": "שמואל ב",
       "jbo:position": "9",
-      "uri": "jbr:book-shemuelB"
+      "uri": "jbr:book-tanach-shemuelB"
     },
     {
       "dc:subject": [
@@ -107,7 +93,7 @@
       ],
       "rdfs:label": "מלכים א",
       "jbo:position": "10",
-      "uri": "jbr:book-melachimA"
+      "uri": "jbr:book-tanach-melachimA"
     },
     {
       "dc:subject": [
@@ -116,7 +102,7 @@
       ],
       "rdfs:label": "מלכים ב",
       "jbo:position": "11",
-      "uri": "jbr:book-melachimB"
+      "uri": "jbr:book-tanach-melachimB"
     },
     {
       "dc:subject": [
@@ -125,7 +111,7 @@
       ],
       "rdfs:label": "ישעיה",
       "jbo:position": "12",
-      "uri": "jbr:book-yeshaaya"
+      "uri": "jbr:book-tanach-yeshaaya"
     },
     {
       "dc:subject": [
@@ -134,7 +120,7 @@
       ],
       "rdfs:label": "ירמיה",
       "jbo:position": "13",
-      "uri": "jbr:book-yirmiya"
+      "uri": "jbr:book-tanach-yirmiya"
     },
     {
       "dc:subject": [
@@ -143,7 +129,7 @@
       ],
       "rdfs:label": "יחזקאל",
       "jbo:position": "14",
-      "uri": "jbr:book-yechezkel"
+      "uri": "jbr:book-tanach-yechezkel"
     },
     {
       "dc:subject": [
@@ -152,7 +138,7 @@
       ],
       "rdfs:label": "הושע",
       "jbo:position": "15",
-      "uri": "jbr:book-hoshea"
+      "uri": "jbr:book-tanach-hoshea"
     },
     {
       "dc:subject": [
@@ -161,7 +147,7 @@
       ],
       "rdfs:label": "יואל",
       "jbo:position": "16",
-      "uri": "jbr:book-yoel"
+      "uri": "jbr:book-tanach-yoel"
     },
     {
       "dc:subject": [
@@ -170,7 +156,7 @@
       ],
       "rdfs:label": "עמוס",
       "jbo:position": "17",
-      "uri": "jbr:book-amos"
+      "uri": "jbr:book-tanach-amos"
     },
     {
       "dc:subject": [
@@ -179,7 +165,7 @@
       ],
       "rdfs:label": "עובדיה",
       "jbo:position": "18",
-      "uri": "jbr:book-ovadya"
+      "uri": "jbr:book-tanach-ovadya"
     },
     {
       "dc:subject": [
@@ -188,7 +174,7 @@
       ],
       "rdfs:label": "יונה",
       "jbo:position": "19",
-      "uri": "jbr:book-yona"
+      "uri": "jbr:book-tanach-yona"
     },
     {
       "dc:subject": [
@@ -197,7 +183,7 @@
       ],
       "rdfs:label": "מיכה",
       "jbo:position": "20",
-      "uri": "jbr:book-micha"
+      "uri": "jbr:book-tanach-micha"
     },
     {
       "dc:subject": [
@@ -206,7 +192,7 @@
       ],
       "rdfs:label": "נחום",
       "jbo:position": "21",
-      "uri": "jbr:book-nachum"
+      "uri": "jbr:book-tanach-nachum"
     },
     {
       "dc:subject": [
@@ -215,7 +201,7 @@
       ],
       "rdfs:label": "חבקוק",
       "jbo:position": "22",
-      "uri": "jbr:book-chavakuk"
+      "uri": "jbr:book-tanach-chavakuk"
     },
     {
       "dc:subject": [
@@ -224,7 +210,7 @@
       ],
       "rdfs:label": "צפניה",
       "jbo:position": "23",
-      "uri": "jbr:book-tzefanya"
+      "uri": "jbr:book-tanach-tzefanya"
     },
     {
       "dc:subject": [
@@ -233,7 +219,7 @@
       ],
       "rdfs:label": "חגי",
       "jbo:position": "24",
-      "uri": "jbr:book-chagay"
+      "uri": "jbr:book-tanach-chagay"
     },
     {
       "dc:subject": [
@@ -242,7 +228,7 @@
       ],
       "rdfs:label": "זכריה",
       "jbo:position": "25",
-      "uri": "jbr:book-zecharya"
+      "uri": "jbr:book-tanach-zecharya"
     },
     {
       "dc:subject": [
@@ -251,7 +237,7 @@
       ],
       "rdfs:label": "מלאכי",
       "jbo:position": "26",
-      "uri": "jbr:book-malachi"
+      "uri": "jbr:book-tanach-malachi"
     },
     {
       "dc:subject": [
@@ -260,7 +246,7 @@
       ],
       "rdfs:label": "תהילים",
       "jbo:position": "27",
-      "uri": "jbr:book-tehilim"
+      "uri": "jbr:book-tanach-tehilim"
     },
     {
       "dc:subject": [
@@ -269,7 +255,7 @@
       ],
       "rdfs:label": "משלי",
       "jbo:position": "28",
-      "uri": "jbr:book-mishley"
+      "uri": "jbr:book-tanach-mishley"
     },
     {
       "dc:subject": [
@@ -278,7 +264,7 @@
       ],
       "rdfs:label": "איוב",
       "jbo:position": "29",
-      "uri": "jbr:book-iyov"
+      "uri": "jbr:book-tanach-iyov"
     },
     {
       "dc:subject": [
@@ -287,7 +273,7 @@
       ],
       "rdfs:label": "שיר השירים",
       "jbo:position": "30",
-      "uri": "jbr:book-shirhashirim"
+      "uri": "jbr:book-tanach-shirhashirim"
     },
     {
       "dc:subject": [
@@ -296,7 +282,7 @@
       ],
       "rdfs:label": "רות",
       "jbo:position": "31",
-      "uri": "jbr:book-rut"
+      "uri": "jbr:book-tanach-rut"
     },
     {
       "dc:subject": [
@@ -305,7 +291,7 @@
       ],
       "rdfs:label": "איכה",
       "jbo:position": "32",
-      "uri": "jbr:book-eycha"
+      "uri": "jbr:book-tanach-eycha"
     },
     {
       "dc:subject": [
@@ -314,7 +300,7 @@
       ],
       "rdfs:label": "קהלת",
       "jbo:position": "33",
-      "uri": "jbr:book-kohelet"
+      "uri": "jbr:book-tanach-kohelet"
     },
     {
       "dc:subject": [
@@ -323,7 +309,7 @@
       ],
       "rdfs:label": "אסתר",
       "jbo:position": "34",
-      "uri": "jbr:book-ester"
+      "uri": "jbr:book-tanach-ester"
     },
     {
       "dc:subject": [
@@ -332,7 +318,7 @@
       ],
       "rdfs:label": "דניאל",
       "jbo:position": "35",
-      "uri": "jbr:book-daniel"
+      "uri": "jbr:book-tanach-daniel"
     },
     {
       "dc:subject": [
@@ -341,7 +327,7 @@
       ],
       "rdfs:label": "עזרא",
       "jbo:position": "36",
-      "uri": "jbr:book-ezra"
+      "uri": "jbr:book-tanach-ezra"
     },
     {
       "dc:subject": [
@@ -350,7 +336,7 @@
       ],
       "rdfs:label": "נחמיה",
       "jbo:position": "37",
-      "uri": "jbr:book-nechemya"
+      "uri": "jbr:book-tanach-nechemya"
     },
     {
       "dc:subject": [
@@ -359,7 +345,7 @@
       ],
       "rdfs:label": "דברי הימים א",
       "jbo:position": "38",
-      "uri": "jbr:book-divreyhayamimA"
+      "uri": "jbr:book-tanach-divreyhayamimA"
     },
     {
       "dc:subject": [
@@ -368,7 +354,7 @@
       ],
       "rdfs:label": "דברי הימים ב",
       "jbo:position": "39",
-      "uri": "jbr:book-divreyhayamimB"
+      "uri": "jbr:book-tanach-divreyhayamimB"
     },
     {
       "dc:subject": [
