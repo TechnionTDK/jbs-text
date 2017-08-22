@@ -153,7 +153,9 @@
       "jbo:title": "Rabbi"
     },
     {
-      "jbo:alias": "יונתן בן עוזיאל",
+      "jbo:alias": [
+        "יונתן בן עוזיאל"
+      ],
       "rdfs:label": "יונתן בן עוזיאל",
       "uri": "jbr:person-יונתן_בן_עוזיאל",
       "jbo:title": "Rabbi"
@@ -195,7 +197,9 @@
       "jbo:title": "Rabbi"
     },
     {
-      "jbo:alias": "אונקלוס",
+      "jbo:alias": [
+        "אונקלוס"
+      ],
       "rdfs:label": "אונקלוס",
       "uri": "jbr:person-אונקלוס",
       "jbo:title": "Rabbi"
