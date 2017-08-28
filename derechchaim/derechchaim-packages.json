@@ -2,22 +2,27 @@
   "subjects": [
     {
       "uri": "jbr:section-derechchaim-1",
+      "jbo:position": "1",
       "rdfs:label": "דרך חיים א"
     },
     {
       "uri": "jbr:section-derechchaim-2",
+      "jbo:position": "2",
       "rdfs:label": "דרך חיים ב"
     },
     {
       "uri": "jbr:section-derechchaim-3",
+      "jbo:position": "3",
       "rdfs:label": "דרך חיים ג"
     },
     {
       "uri": "jbr:section-derechchaim-4",
+      "jbo:position": "4",
       "rdfs:label": "דרך חיים ד"
     },
     {
       "uri": "jbr:section-derechchaim-5",
+      "jbo:position": "5",
       "rdfs:label": "דרך חיים ה"
     }
   ]

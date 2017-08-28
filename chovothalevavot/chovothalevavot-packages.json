@@ -1,47 +1,58 @@
 {
   "subjects": [
     {
-      "uri": "jbr:section-chovothalevavot - hakdamat hamehaber",
+      "uri": "jbr:section-chovothalevavot-0-0",
+      "jbo:position": "0",
       "rdfs:label": "חובות הלבבות - הקדמת המחבר"
     },
     {
-      "uri": "jbr:section-chovothalevavot - 1",
+      "uri": "jbr:section-chovothalevavot-1",
+      "jbo:position": "1",
       "rdfs:label": "חובות הלבבות - שער ראשון - שער ייחוד"
     },
     {
-      "uri": "jbr:section-chovothalevavot - 2",
+      "uri": "jbr:section-chovothalevavot-2",
+      "jbo:position": "2",
       "rdfs:label": "חובות הלבבות - שער שני - שער הבחינה"
     },
     {
-      "uri": "jbr:section-chovothalevavot - 3",
+      "uri": "jbr:section-chovothalevavot-3",
+      "jbo:position": "3",
       "rdfs:label": "חובות הלבבות - שער שלישי - שער עבודת האלוהים"
     },
     {
-      "uri": "jbr:section-chovothalevavot - 4",
+      "uri": "jbr:section-chovothalevavot-4",
+      "jbo:position": "4",
       "rdfs:label": "חובות הלבבות - שער רביעי - שער הביטחון"
     },
     {
-      "uri": "jbr:section-chovothalevavot - 5",
+      "uri": "jbr:section-chovothalevavot-5",
+      "jbo:position": "5",
       "rdfs:label": "חובות הלבבות - שער חמישי - שער ייחוד המעשה"
     },
     {
-      "uri": "jbr:section-chovothalevavot - 6",
+      "uri": "jbr:section-chovothalevavot-6",
+      "jbo:position": "6",
       "rdfs:label": "חובות הלבבות - שער שישי - שער הכניעה"
     },
     {
-      "uri": "jbr:section-chovothalevavot - 7",
+      "uri": "jbr:section-chovothalevavot-7",
+      "jbo:position": "7",
       "rdfs:label": "חובות הלבבות - שער שביעי - שער התשובה"
     },
     {
-      "uri": "jbr:section-chovothalevavot - 8",
+      "uri": "jbr:section-chovothalevavot-8",
+      "jbo:position": "8",
       "rdfs:label": "חובות הלבבות - שער שמיני - שער חשבון הנפש"
     },
     {
-      "uri": "jbr:section-chovothalevavot - 9",
+      "uri": "jbr:section-chovothalevavot-9",
+      "jbo:position": "9",
       "rdfs:label": "חובות הלבבות - שער תשיעי - שער הפרישות"
     },
     {
-      "uri": "jbr:section-chovothalevavot - 10",
+      "uri": "jbr:section-chovothalevavot-10",
+      "jbo:position": "10",
       "rdfs:label": "חובות הלבבות - שער עשירי - שער אהבת ה'"
     }
   ]

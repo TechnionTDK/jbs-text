@@ -1,26 +1,31 @@
 {
   "subjects": [
     {
-      "uri": "jbr:section-morenevochim 0 1",
+      "uri": "jbr:section-morenevochim-0-1",
+      "jbo:position": "1",
       "rdfs:label": "מורה נבוכים - הקדמות המתרגמים פתיחת אבן תיבון"
     },
     {
-      "uri": "jbr:section-morenevochim 0 2",
+      "uri": "jbr:section-morenevochim-0-2",
+      "jbo:position": "2",
       "rdfs:label": "מורה נבוכים - הקדמות המתרגמים פתיחת הרמב\"ם"
     },
     {
-      "uri": "jbr:section-morenevochim - 1",
+      "uri": "jbr:section-morenevochim-1",
       "jbo:book": "jbr:book-morenevochim",
+      "jbo:position": "3",
       "rdfs:label": "מורה נבוכים א"
     },
     {
-      "uri": "jbr:section-morenevochim - 2",
+      "uri": "jbr:section-morenevochim-2",
       "jbo:book": "jbr:book-morenevochim",
+      "jbo:position": "4",
       "rdfs:label": "מורה נבוכים ב"
     },
     {
-      "uri": "jbr:section-morenevochim - 3",
+      "uri": "jbr:section-morenevochim-3",
       "jbo:book": "jbr:book-morenevochim",
+      "jbo:position": "5",
       "rdfs:label": "מורה נבוכים ג"
     }
   ]

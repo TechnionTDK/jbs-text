@@ -2,7 +2,7 @@
   "subjects": [
     {
       "jbo:within": [
-        "האמונות והדעות - הקדמה"
+        "jbr:section-haemunotvehadeot-0"
       ],
       "uri": "jbr:text-haemunotvehadeot-0-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -12,7 +12,7 @@
     },
     {
       "jbo:within": [
-        "האמונות והדעות - הקדמה"
+        "jbr:section-haemunotvehadeot-0"
       ],
       "uri": "jbr:text-haemunotvehadeot-0-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -22,7 +22,7 @@
     },
     {
       "jbo:within": [
-        "האמונות והדעות - הקדמה"
+        "jbr:section-haemunotvehadeot-0"
       ],
       "uri": "jbr:text-haemunotvehadeot-0-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -32,7 +32,7 @@
     },
     {
       "jbo:within": [
-        "האמונות והדעות - הקדמה"
+        "jbr:section-haemunotvehadeot-0"
       ],
       "uri": "jbr:text-haemunotvehadeot-0-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -42,7 +42,7 @@
     },
     {
       "jbo:within": [
-        "האמונות והדעות - הקדמה"
+        "jbr:section-haemunotvehadeot-0"
       ],
       "uri": "jbr:text-haemunotvehadeot-0-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -52,7 +52,7 @@
     },
     {
       "jbo:within": [
-        "האמונות והדעות - הקדמה"
+        "jbr:section-haemunotvehadeot-0"
       ],
       "uri": "jbr:text-haemunotvehadeot-0-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -62,7 +62,7 @@
     },
     {
       "jbo:within": [
-        "האמונות והדעות - הקדמה"
+        "jbr:section-haemunotvehadeot-0"
       ],
       "uri": "jbr:text-haemunotvehadeot-0-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -72,7 +72,7 @@
     },
     {
       "jbo:within": [
-        "האמונות והדעות - הקדמה"
+        "jbr:section-haemunotvehadeot-0"
       ],
       "uri": "jbr:text-haemunotvehadeot-0-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -82,7 +82,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הראשון חדוש"
+        "jbr:section-haemunotvehadeot-1"
       ],
       "uri": "jbr:text-haemunotvehadeot-1-0",
       "jbo:position": "9",
@@ -92,7 +92,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הראשון חדוש"
+        "jbr:section-haemunotvehadeot-1"
       ],
       "uri": "jbr:text-haemunotvehadeot-1-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -102,7 +102,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הראשון חדוש"
+        "jbr:section-haemunotvehadeot-1"
       ],
       "uri": "jbr:text-haemunotvehadeot-1-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -112,7 +112,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הראשון חדוש"
+        "jbr:section-haemunotvehadeot-1"
       ],
       "uri": "jbr:text-haemunotvehadeot-1-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -122,7 +122,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הראשון חדוש"
+        "jbr:section-haemunotvehadeot-1"
       ],
       "uri": "jbr:text-haemunotvehadeot-1-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -132,7 +132,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הראשון חדוש"
+        "jbr:section-haemunotvehadeot-1"
       ],
       "uri": "jbr:text-haemunotvehadeot-1-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -142,7 +142,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-0",
       "jbo:position": "15",
@@ -152,7 +152,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -162,7 +162,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -172,7 +172,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -182,7 +182,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -192,7 +192,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -202,7 +202,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -212,7 +212,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -222,7 +222,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -232,7 +232,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-9",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -242,7 +242,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-10",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -252,7 +252,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-11",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -262,7 +262,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-12",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -272,7 +272,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השני אחדות"
+        "jbr:section-haemunotvehadeot-2"
       ],
       "uri": "jbr:text-haemunotvehadeot-2-13",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -282,7 +282,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השלישי צווי ואזהרה"
+        "jbr:section-haemunotvehadeot-3"
       ],
       "uri": "jbr:text-haemunotvehadeot-3-0",
       "jbo:position": "29",
@@ -292,7 +292,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השלישי צווי ואזהרה"
+        "jbr:section-haemunotvehadeot-3"
       ],
       "uri": "jbr:text-haemunotvehadeot-3-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -302,7 +302,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השלישי צווי ואזהרה"
+        "jbr:section-haemunotvehadeot-3"
       ],
       "uri": "jbr:text-haemunotvehadeot-3-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -312,7 +312,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השלישי צווי ואזהרה"
+        "jbr:section-haemunotvehadeot-3"
       ],
       "uri": "jbr:text-haemunotvehadeot-3-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -322,7 +322,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השלישי צווי ואזהרה"
+        "jbr:section-haemunotvehadeot-3"
       ],
       "uri": "jbr:text-haemunotvehadeot-3-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -332,7 +332,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השלישי צווי ואזהרה"
+        "jbr:section-haemunotvehadeot-3"
       ],
       "uri": "jbr:text-haemunotvehadeot-3-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -342,7 +342,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השלישי צווי ואזהרה"
+        "jbr:section-haemunotvehadeot-3"
       ],
       "uri": "jbr:text-haemunotvehadeot-3-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -352,7 +352,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השלישי צווי ואזהרה"
+        "jbr:section-haemunotvehadeot-3"
       ],
       "uri": "jbr:text-haemunotvehadeot-3-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -362,7 +362,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השלישי צווי ואזהרה"
+        "jbr:section-haemunotvehadeot-3"
       ],
       "uri": "jbr:text-haemunotvehadeot-3-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -372,7 +372,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השלישי צווי ואזהרה"
+        "jbr:section-haemunotvehadeot-3"
       ],
       "uri": "jbr:text-haemunotvehadeot-3-9",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -382,7 +382,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השלישי צווי ואזהרה"
+        "jbr:section-haemunotvehadeot-3"
       ],
       "uri": "jbr:text-haemunotvehadeot-3-10",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -392,7 +392,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הרביעי עבודה ומרי"
+        "jbr:section-haemunotvehadeot-4"
       ],
       "uri": "jbr:text-haemunotvehadeot-4-0",
       "jbo:position": "40",
@@ -402,7 +402,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הרביעי עבודה ומרי"
+        "jbr:section-haemunotvehadeot-4"
       ],
       "uri": "jbr:text-haemunotvehadeot-4-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -412,7 +412,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הרביעי עבודה ומרי"
+        "jbr:section-haemunotvehadeot-4"
       ],
       "uri": "jbr:text-haemunotvehadeot-4-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -422,7 +422,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הרביעי עבודה ומרי"
+        "jbr:section-haemunotvehadeot-4"
       ],
       "uri": "jbr:text-haemunotvehadeot-4-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -432,7 +432,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הרביעי עבודה ומרי"
+        "jbr:section-haemunotvehadeot-4"
       ],
       "uri": "jbr:text-haemunotvehadeot-4-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -442,7 +442,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הרביעי עבודה ומרי"
+        "jbr:section-haemunotvehadeot-4"
       ],
       "uri": "jbr:text-haemunotvehadeot-4-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -452,7 +452,7 @@
     },
     {
       "jbo:within": [
-        "מאמר הרביעי עבודה ומרי"
+        "jbr:section-haemunotvehadeot-4"
       ],
       "uri": "jbr:text-haemunotvehadeot-4-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -462,7 +462,7 @@
     },
     {
       "jbo:within": [
-        "מאמר החמישי זכיות וחובות"
+        "jbr:section-haemunotvehadeot-5"
       ],
       "uri": "jbr:text-haemunotvehadeot-5-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -472,7 +472,7 @@
     },
     {
       "jbo:within": [
-        "מאמר החמישי זכיות וחובות"
+        "jbr:section-haemunotvehadeot-5"
       ],
       "uri": "jbr:text-haemunotvehadeot-5-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -482,7 +482,7 @@
     },
     {
       "jbo:within": [
-        "מאמר החמישי זכיות וחובות"
+        "jbr:section-haemunotvehadeot-5"
       ],
       "uri": "jbr:text-haemunotvehadeot-5-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -492,7 +492,7 @@
     },
     {
       "jbo:within": [
-        "מאמר החמישי זכיות וחובות"
+        "jbr:section-haemunotvehadeot-5"
       ],
       "uri": "jbr:text-haemunotvehadeot-5-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -502,7 +502,7 @@
     },
     {
       "jbo:within": [
-        "מאמר החמישי זכיות וחובות"
+        "jbr:section-haemunotvehadeot-5"
       ],
       "uri": "jbr:text-haemunotvehadeot-5-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -512,7 +512,7 @@
     },
     {
       "jbo:within": [
-        "מאמר החמישי זכיות וחובות"
+        "jbr:section-haemunotvehadeot-5"
       ],
       "uri": "jbr:text-haemunotvehadeot-5-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -522,7 +522,7 @@
     },
     {
       "jbo:within": [
-        "מאמר החמישי זכיות וחובות"
+        "jbr:section-haemunotvehadeot-5"
       ],
       "uri": "jbr:text-haemunotvehadeot-5-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -532,7 +532,7 @@
     },
     {
       "jbo:within": [
-        "מאמר החמישי זכיות וחובות"
+        "jbr:section-haemunotvehadeot-5"
       ],
       "uri": "jbr:text-haemunotvehadeot-5-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -542,7 +542,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השישי מהות הנפש"
+        "jbr:section-haemunotvehadeot-6"
       ],
       "uri": "jbr:text-haemunotvehadeot-6-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -552,7 +552,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השישי מהות הנפש"
+        "jbr:section-haemunotvehadeot-6"
       ],
       "uri": "jbr:text-haemunotvehadeot-6-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -562,7 +562,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השישי מהות הנפש"
+        "jbr:section-haemunotvehadeot-6"
       ],
       "uri": "jbr:text-haemunotvehadeot-6-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -572,7 +572,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השישי מהות הנפש"
+        "jbr:section-haemunotvehadeot-6"
       ],
       "uri": "jbr:text-haemunotvehadeot-6-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -582,7 +582,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השישי מהות הנפש"
+        "jbr:section-haemunotvehadeot-6"
       ],
       "uri": "jbr:text-haemunotvehadeot-6-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -592,7 +592,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השישי מהות הנפש"
+        "jbr:section-haemunotvehadeot-6"
       ],
       "uri": "jbr:text-haemunotvehadeot-6-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -602,7 +602,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השישי מהות הנפש"
+        "jbr:section-haemunotvehadeot-6"
       ],
       "uri": "jbr:text-haemunotvehadeot-6-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -612,7 +612,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השישי מהות הנפש"
+        "jbr:section-haemunotvehadeot-6"
       ],
       "uri": "jbr:text-haemunotvehadeot-6-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -622,7 +622,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השביעי תחיית המתיים"
+        "jbr:section-haemunotvehadeot-7"
       ],
       "uri": "jbr:text-haemunotvehadeot-7-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -632,7 +632,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השביעי תחיית המתיים"
+        "jbr:section-haemunotvehadeot-7"
       ],
       "uri": "jbr:text-haemunotvehadeot-7-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -642,7 +642,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השביעי תחיית המתיים"
+        "jbr:section-haemunotvehadeot-7"
       ],
       "uri": "jbr:text-haemunotvehadeot-7-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -652,7 +652,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השביעי תחיית המתיים"
+        "jbr:section-haemunotvehadeot-7"
       ],
       "uri": "jbr:text-haemunotvehadeot-7-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -662,7 +662,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השביעי תחיית המתיים"
+        "jbr:section-haemunotvehadeot-7"
       ],
       "uri": "jbr:text-haemunotvehadeot-7-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -672,7 +672,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השביעי תחיית המתיים"
+        "jbr:section-haemunotvehadeot-7"
       ],
       "uri": "jbr:text-haemunotvehadeot-7-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -682,7 +682,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השביעי תחיית המתיים"
+        "jbr:section-haemunotvehadeot-7"
       ],
       "uri": "jbr:text-haemunotvehadeot-7-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -692,7 +692,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השביעי תחיית המתיים"
+        "jbr:section-haemunotvehadeot-7"
       ],
       "uri": "jbr:text-haemunotvehadeot-7-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -702,7 +702,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השמיני גאולה אחרונה"
+        "jbr:section-haemunotvehadeot-8"
       ],
       "uri": "jbr:text-haemunotvehadeot-8-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -712,7 +712,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השמיני גאולה אחרונה"
+        "jbr:section-haemunotvehadeot-8"
       ],
       "uri": "jbr:text-haemunotvehadeot-8-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -722,7 +722,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השמיני גאולה אחרונה"
+        "jbr:section-haemunotvehadeot-8"
       ],
       "uri": "jbr:text-haemunotvehadeot-8-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -732,7 +732,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השמיני גאולה אחרונה"
+        "jbr:section-haemunotvehadeot-8"
       ],
       "uri": "jbr:text-haemunotvehadeot-8-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -742,7 +742,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השמיני גאולה אחרונה"
+        "jbr:section-haemunotvehadeot-8"
       ],
       "uri": "jbr:text-haemunotvehadeot-8-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -752,7 +752,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השמיני גאולה אחרונה"
+        "jbr:section-haemunotvehadeot-8"
       ],
       "uri": "jbr:text-haemunotvehadeot-8-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -762,7 +762,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השמיני גאולה אחרונה"
+        "jbr:section-haemunotvehadeot-8"
       ],
       "uri": "jbr:text-haemunotvehadeot-8-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -772,7 +772,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השמיני גאולה אחרונה"
+        "jbr:section-haemunotvehadeot-8"
       ],
       "uri": "jbr:text-haemunotvehadeot-8-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -782,7 +782,7 @@
     },
     {
       "jbo:within": [
-        "מאמר השמיני גאולה אחרונה"
+        "jbr:section-haemunotvehadeot-8"
       ],
       "uri": "jbr:text-haemunotvehadeot-8-9",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -792,7 +792,7 @@
     },
     {
       "jbo:within": [
-        "מאמר התשיעי גמול ועונש"
+        "jbr:section-haemunotvehadeot-9"
       ],
       "uri": "jbr:text-haemunotvehadeot-9-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -802,7 +802,7 @@
     },
     {
       "jbo:within": [
-        "מאמר התשיעי גמול ועונש"
+        "jbr:section-haemunotvehadeot-9"
       ],
       "uri": "jbr:text-haemunotvehadeot-9-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -812,7 +812,7 @@
     },
     {
       "jbo:within": [
-        "מאמר התשיעי גמול ועונש"
+        "jbr:section-haemunotvehadeot-9"
       ],
       "uri": "jbr:text-haemunotvehadeot-9-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -822,7 +822,7 @@
     },
     {
       "jbo:within": [
-        "מאמר התשיעי גמול ועונש"
+        "jbr:section-haemunotvehadeot-9"
       ],
       "uri": "jbr:text-haemunotvehadeot-9-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -832,7 +832,7 @@
     },
     {
       "jbo:within": [
-        "מאמר התשיעי גמול ועונש"
+        "jbr:section-haemunotvehadeot-9"
       ],
       "uri": "jbr:text-haemunotvehadeot-9-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -842,7 +842,7 @@
     },
     {
       "jbo:within": [
-        "מאמר התשיעי גמול ועונש"
+        "jbr:section-haemunotvehadeot-9"
       ],
       "uri": "jbr:text-haemunotvehadeot-9-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -852,7 +852,7 @@
     },
     {
       "jbo:within": [
-        "מאמר התשיעי גמול ועונש"
+        "jbr:section-haemunotvehadeot-9"
       ],
       "uri": "jbr:text-haemunotvehadeot-9-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -862,7 +862,7 @@
     },
     {
       "jbo:within": [
-        "מאמר התשיעי גמול ועונש"
+        "jbr:section-haemunotvehadeot-9"
       ],
       "uri": "jbr:text-haemunotvehadeot-9-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -872,7 +872,7 @@
     },
     {
       "jbo:within": [
-        "מאמר התשיעי גמול ועונש"
+        "jbr:section-haemunotvehadeot-9"
       ],
       "uri": "jbr:text-haemunotvehadeot-9-9",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -882,7 +882,7 @@
     },
     {
       "jbo:within": [
-        "מאמר התשיעי גמול ועונש"
+        "jbr:section-haemunotvehadeot-9"
       ],
       "uri": "jbr:text-haemunotvehadeot-9-10",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -892,7 +892,7 @@
     },
     {
       "jbo:within": [
-        "מאמר התשיעי גמול ועונש"
+        "jbr:section-haemunotvehadeot-9"
       ],
       "uri": "jbr:text-haemunotvehadeot-9-11",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -902,7 +902,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-0",
       "jbo:position": "91",
@@ -912,7 +912,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-1",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -922,7 +922,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-2",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -932,7 +932,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-3",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -942,7 +942,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-4",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -952,7 +952,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-5",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -962,7 +962,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-6",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -972,7 +972,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-7",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -982,7 +982,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-8",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -992,7 +992,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-9",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -1002,7 +1002,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-10",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -1012,7 +1012,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-11",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -1022,7 +1022,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-12",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -1032,7 +1032,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-13",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -1042,7 +1042,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-14",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -1052,7 +1052,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-15",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -1062,7 +1062,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-16",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -1072,7 +1072,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-17",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -1082,7 +1082,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-18",
       "jbo:book": "jbr:book-haemunotvehadeot",
@@ -1092,7 +1092,7 @@
     },
     {
       "jbo:within": [
-        "מאמר העשירי הנהגת האדם"
+        "jbr:section-haemunotvehadeot-10"
       ],
       "uri": "jbr:text-haemunotvehadeot-10-19",
       "jbo:book": "jbr:book-haemunotvehadeot",

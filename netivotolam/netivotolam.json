@@ -1,7 +1,7 @@
 {
   "subjects": [
     {
-      "uri": "jbr:text-netivotolam-0-0",
+      "uri": "jbr:text-netivotolam-0",
       "jbo:book": "jbr:book-netivotolam",
       "jbo:position": "1",
       "rdfs:label": "נתיבות עולם - הקדמה",

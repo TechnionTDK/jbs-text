@@ -1,47 +1,58 @@
 {
   "subjects": [
     {
-      "uri": "jbr:section-haemunotvehadeot - hakdama",
+      "uri": "jbr:section-haemunotvehadeot-0",
+      "jbo:position": "0",
       "rdfs:label": "האמונות והדעות - הקדמה"
     },
     {
-      "uri": "jbr:section-haemunotvehadeot - 1",
+      "uri": "jbr:section-haemunotvehadeot-1",
+      "jbo:position": "1",
       "rdfs:label": "האמונות והדעות - מאמר הראשון חדוש"
     },
     {
-      "uri": "jbr:section-haemunotvehadeot - 2",
+      "uri": "jbr:section-haemunotvehadeot-2",
+      "jbo:position": "2",
       "rdfs:label": "האמונות והדעות - מאמר השני אחדות"
     },
     {
-      "uri": "jbr:section-haemunotvehadeot - 3",
+      "uri": "jbr:section-haemunotvehadeot-3",
+      "jbo:position": "3",
       "rdfs:label": "האמונות והדעות - מאמר השלישי צווי ואזהרה"
     },
     {
-      "uri": "jbr:section-haemunotvehadeot - 4",
+      "uri": "jbr:section-haemunotvehadeot-4",
+      "jbo:position": "4",
       "rdfs:label": "האמונות והדעות - מאמר הרביעי עבודה ומרי"
     },
     {
-      "uri": "jbr:section-haemunotvehadeot - 5",
+      "uri": "jbr:section-haemunotvehadeot-5",
+      "jbo:position": "5",
       "rdfs:label": "האמונות והדעות - מאמר החמישי זכיות וחובות"
     },
     {
-      "uri": "jbr:section-haemunotvehadeot - 6",
+      "uri": "jbr:section-haemunotvehadeot-6",
+      "jbo:position": "6",
       "rdfs:label": "האמונות והדעות - מאמר השישי מהות הנפש"
     },
     {
-      "uri": "jbr:section-haemunotvehadeot - 7",
+      "uri": "jbr:section-haemunotvehadeot-7",
+      "jbo:position": "7",
       "rdfs:label": "האמונות והדעות - מאמר השביעי תחיית המתיים"
     },
     {
-      "uri": "jbr:section-haemunotvehadeot - 8",
+      "uri": "jbr:section-haemunotvehadeot-8",
+      "jbo:position": "8",
       "rdfs:label": "האמונות והדעות - מאמר השמיני גאולה אחרונה"
     },
     {
-      "uri": "jbr:section-haemunotvehadeot - 9",
+      "uri": "jbr:section-haemunotvehadeot-9",
+      "jbo:position": "9",
       "rdfs:label": "האמונות והדעות - מאמר התשיעי גמול ועונש"
     },
     {
-      "uri": "jbr:section-haemunotvehadeot - 10",
+      "uri": "jbr:section-haemunotvehadeot-10",
+      "jbo:position": "10",
       "rdfs:label": "האמונות והדעות - מאמר העשירי הנהגת האדם"
     }
   ]
