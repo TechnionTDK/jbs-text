@@ -1,0 +1,3352 @@
+{
+  "subjects": [
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-1",
+      "jbo:text": "רש\"י  דבר. המורשתי. מעיר מורישה :",
+      "rdfs:label": "רש\"י מיכה א א",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-1",
+      "jbo:text": "מצודת דוד  על שמרון. ועכ''ז לא זכר לתלות הנבואה לימי מלכי ישראל כדרך שאמר בהושע ובעמוס וזהו לפי שהיה מארץ יהודה ולא ניבא בארצות מלכי ישראל כדרך שנבאו הושע ועמוס :",
+      "rdfs:label": "מצודת דוד מיכה א א",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-1",
+      "jbo:text": "מצודת ציון  המורשתי. מן מורישה והיא מערי יהודה :",
+      "rdfs:label": "מצודת ציון מיכה א א",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-2",
+      "jbo:text": "רש\"י  ויהי, בכם לעד. שנבאתי לכם בשמו והתריתי בכם :",
+      "rdfs:label": "רש\"י מיכה א ב",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-2",
+      "jbo:text": "מצודת דוד  שמעו עמים כולם. ר''ל כל השבטים כי כל שבט קרוי עם : ומלואה. הבריות הממלאים אותה : ויהי וגו' לעד. שנבאתי לכם בשמו והתריתי בכם : מהיכל קדשו. ר''ל מן השמים יביט לראות להיות לעד :",
+      "rdfs:label": "מצודת דוד מיכה א ב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-2",
+      "jbo:text": "מצודת ציון  הקשיבי. ענין שמיעה :",
+      "rdfs:label": "מצודת ציון מיכה א ב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-3",
+      "jbo:text": "רש\"י  יוצא ממקומו. מכסא רחמים לכסא הדין : ודרך על במותי ארץ. על הרמים וגסי הרוח :",
+      "rdfs:label": "רש\"י מיכה א ג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-3",
+      "jbo:text": "מצודת דוד  כי הנה. ר''ל וזהו אמרי דעו אשר הנה ה' יוצא ממקומו מכסא הרחמים : וירד. משם ירד וירמוס על במתי ארץ ר''ל ישפיל הרמי' וגסי הרוח :",
+      "rdfs:label": "מצודת דוד מיכה א ג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-3",
+      "jbo:text": "מצודת ציון  ודרך. מלשון דריכה ורמיסה : במתי. ענין גובה כמו ועל במותי ידריכני (חבקוק ג) :",
+      "rdfs:label": "מצודת ציון מיכה א ג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-4",
+      "jbo:text": "רש\"י  כדונג. שעוה : מוגרים במורד. ת''י דאשידין במודרון מוגרים לשון זיבת מים וכן (איכה ג) עיני נגרה נגרות ביום אפו (איוב כ) פרץ נחל מעם גר (שם כח) ויגר מזה (תלי' עה) :",
+      "rdfs:label": "רש\"י מיכה א ד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-4",
+      "jbo:text": "מצודת דוד  ונמסו ההרים. הוא משל על השפלת השרים : והעמקים יתבקעו. הוא משל על אבדן המון העם : כדונג. כמו שהדונג נמס מפני האש כן ימסו הם וכמו המים הנגרים ונזחלין במקום מדרון שמתפזרים אנה ואנה כן יפוזרו בארצות העכו''ם :",
+      "rdfs:label": "מצודת דוד מיכה א ד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-4",
+      "jbo:text": "מצודת ציון  ונמסו. ענין המגה והמסה : יתבקעו. מל' בקיעה : כדונג. הוא השעוה וכן היה לבי כדונג (תהלים כד) : מוגרים. ענין הזלה ושפיכה כמו וכמים הנגרים (ש''ב יד) : במורד. במקום מדרון והוא מלשון ירידה וכן ויכום במורד (יהושע ז) :",
+      "rdfs:label": "מצודת ציון מיכה א ד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-5",
+      "jbo:text": "מצודת דוד  בפשע. בגמול פשע יעקב יהיה כל זאת : ובחטאת בית ישראל. הוא כפל ענין במ''ש : מי פשע יעקב. מי הוא הסבה שפשע יעקב הלא שומרון ראש המלכות ושם היה מקור העבוד' כוכבים ונביאי הבעל המדיחי' את ישראל מאחרי ה' : ומי במות יהודה. מי הוא הסבה שהעמיד יהודה במות לעכו''ם הלא ירושלים ראש המלכות כי שמה הרבו מזבחות לעכו''ם וממנה למדו שאר ערי יהודה :",
+      "rdfs:label": "מצודת דוד מיכה א ה",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-5",
+      "jbo:text": "מצודת ציון  במות. מזבחות של עכו''ם :",
+      "rdfs:label": "מצודת ציון מיכה א ה",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-6",
+      "jbo:text": "רש\"י  לעי השדה. ליגרי חקלן לשון גלים כמו יגר שהדותא : והגרתי לגי אבניה. והסחבתי כמו המוגרי' במורד :",
+      "rdfs:label": "רש\"י מיכה א ו",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-6",
+      "jbo:text": "מצודת דוד  ושמתי שומרון. על כי היא היתה סבה לפשע יעקב לכן תחרב ותהיה מלאה גלי אבנים מהפלת הבתים כדרך השדה המלאה עיים שאין מי עוסק להשוות העיים הנעשים שם ולכן היא מלאה מהם : למטעי כרם. תהיה מקום מוכן לטעת שם כרמים כי שומרון עמדה בהר מקום הנאות על הכרמים : והגרתי. אפיל אבניה אל הגי וגם היסודות שבתוך הקרקע אגלה אותם כי יוציאום ממקומם מה שהיו נסתרים בתוך הקרקע :",
+      "rdfs:label": "מצודת דוד מיכה א ו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-6",
+      "jbo:text": "מצודת ציון  לעי. ענין תל וגל כמו שמו את ירושלים לעיים (תהלים עט) : למטעי. מלשון נטיעה : והגרתי. ענין הזלה ושפיכה ואמר בלשון שאלה על ההפלה : לגי. לעמק :",
+      "rdfs:label": "מצודת ציון מיכה א ו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-7",
+      "jbo:text": "רש\"י  כי מאתנן זונה קבצה. כל ההון הזה : ועד אתנן זונה ישובו. ולטמיון כשאר אתנני זונה ישובו כל קבוציה ויונתן תרגם ולבית פלחי טעותא יתמסרון כל קבוציה :",
+      "rdfs:label": "רש\"י מיכה א ז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-7",
+      "jbo:text": "מצודת דוד  יכתו. העכו''ם הבאים ישברו הפסילים לקחת לעצמם ציפוי הכסף והזהב אשר עליהם : וכל אתנניה. הדורונות שנתנו לעכו''ם מכלים ומלבושים שלא יהיו ראוי להוליך עמהם ישרפו באש (ולפי שהעכו''ם נקראה בלשון המקרא בשם זונה לכן קרא הדורונו' אתנן שכן נקרא מתן הזונה) : וכל עצביה. ר''ל כל בתי העצבי' : כי מאתנן זונה קבצה. ר''ל העושר הנמצא בבתי הפסילים הנה נתקבץ ממה שהביאו להזונה אתנן ר''ל מהדורונו' שהביאו לעכו''ם : ועד אתנן זונה ישובו. וכמו כן ישובו להיות אתנן ודורון לזונה ר''ל האויב יתנוה לדורון להעכו''ם שלו :",
+      "rdfs:label": "מצודת דוד מיכה א ז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-7",
+      "jbo:text": "מצודת ציון  יכתו. מל' כתיתה ושבירה : אתנניה. מל' אתנן : עצביה. העכו''ם תקרא כן על כי מעצבת לב עובדיה קורא ואינו נענה :",
+      "rdfs:label": "מצודת ציון מיכה א ז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-8",
+      "jbo:text": "רש\"י  שולל. משתגע כשוטה בתמהון לב כמו (תהלים עו) אשתוללו אבירי לב (ישעיה נט) וסר מרע משתולל והתי''ו היא באה לשמש בתיבה בלשון מתפעל ונתפעל וכן הילוך תיבה שתחילת יסודה שי''ן או סמ''ך כשבאו עליו תי''ו בלשון מתפעל ונתפעל נכנסת תוך התיבה כמו משתולל אומר אני שהוא מלשון שוגג כמו (מלכים ב ד) לא תשלה אותי (שמואל ב י) על השל די יאמר שלו (דניאל ג) :",
+      "rdfs:label": "רש\"י מיכה א ח",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-8",
+      "jbo:text": "מצודת דוד  על זאת. עתה חזר להתאונן על יהודה וירושלים הנזכר במקרא שלאחריו ואמר על זאת אעשה הספד ואיילל במר נפש ואלך משתגע כשוטה וערום מבלי לבוש והוא ענין גוזמא והפלגה לפי רוב הצער והאבל : כתנים וגו'. דרכם לצעוק תמיד בקול מר :",
+      "rdfs:label": "מצודת דוד מיכה א ח",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-8",
+      "jbo:text": "מצודת ציון  ואילילה. מל' יללה : שולל. ענין שטות וטרוף הדעת וכן מוליך יועצים שולל (איוב יב) : כתנים. מין נחש : כבנות יענה. שם עוף בת היענה :",
+      "rdfs:label": "מצודת ציון מיכה א ח",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-9",
+      "jbo:text": "רש\"י  כי אנושה מכותיה. כי חולה היא במכותיה כמו ויאנש (שמואל ב יב) :",
+      "rdfs:label": "רש\"י מיכה א ט",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-9",
+      "jbo:text": "מצודת דוד  כי אנושה מכותיה. ר''ל כי כ''א ממכות שומרון היתה כאובה ביותר עד אשר התהלכה ובאה עד יהודה כי בראות נ''נ שסנחרב הרג ואבד וכלה את מלכות אפרים וה' לא עזרם לזה ערב לבו לגשת לבוא על יהודה : נגע. הפורעניות והחרבן נגעה עד עיר המיוחדת על עמי וחוזר ומפרש עד ירושלים (ולפי שמיכה היה משבט יהודה לכן אמר שער עמי) :",
+      "rdfs:label": "מצודת דוד מיכה א ט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-9",
+      "jbo:text": "מצודת ציון  אנושה. כאובה ביותר כמו אנוש חצי (שם לד) : שער עמי. עיר עמי וכן באחד שעריך (דברים יז) :",
+      "rdfs:label": "מצודת ציון מיכה א ט",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-10",
+      "jbo:text": "רש\"י  בגת אל תגידו. פן ישמחו לנו פלשתים : בבית לעפרה. עפרת אבי העזרי : עפר התפלשי. ל' נופל על הלשון וכן יושבת שפיר עריה בשת וכן לא יצאה יושבת צאנן כולם לפי שם העיר לשון הקינה התפלשי התגלגלי פתרונו לפי עניינו התעפרי :",
+      "rdfs:label": "רש\"י מיכה א י",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-10",
+      "jbo:text": "מצודת דוד  בגת אל תגידו. גת היא מערי פלשתים ואמר אל תגידו שמה מגודל החורבן ואל תבכו בהיותכם שמה כי ישמחו על החורבן ועל הבכיה (ועם כי בודאי ידעו בגת בלא הם אמר כן למליצת הקינה) וכן אל תגידו בגת (ש''ב א) : בבית לעפרה. בכל בית מבתי עיר עפרה התגלגלי בעפר דרך אבילות והוא לשון הנופל על לשון עפרה שמה ובעפר התגלגלי :",
+      "rdfs:label": "מצודת דוד מיכה א י",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-10",
+      "jbo:text": "מצודת ציון  התפלשי. ענין הגלגול והלכלוך וכן והתפלשו אדירי הצאן (ירמיה כה) :",
+      "rdfs:label": "מצודת ציון מיכה א י",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-11",
+      "jbo:text": "רש\"י  עברי לכם. התחיל בלשון יחידות נקבה כמדבר אל כנסיה העיר כמו שנאמר יושבת שפיר כולם בשם כנסיה אחת ואמר לכם כמדבר אל הרבים שהרי לרבים הוא אומר : יושבת שפיר. שם העיר : עריה בשת. גלויה בית הבשת כאשר נקראת שפיר שהוא שם נפל היוצא מרחמה של אשה : לא יצאה יושבת צאנן. לא יפקון משזבין יתבי צאנן : מספד בית האצל יקח מכם עמדתו. המספד שגרמתם לנגזלים שאתם גוזלים נחלתו כדי להגיש בית בבית שדה בשדה זה אצל זה הוא יקח מכם עמדתו מעמד הבניינים שבנית' והעמדתם על נחלתם, בית האצל איוטמנ''ט בלע''ז :",
+      "rdfs:label": "רש\"י מיכה א יא",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-11",
+      "jbo:text": "מצודת דוד  עברי לכם. אתה העדה היושבת בעיר שפיר עברי לכם בגולה בגלוי בית הבושת כדרך הגולים וגם הוא לשון נופל על לשון כי שפיר הוא ענין שליא היוצא מרחם האשה בעת הלידה : לא יצאה וגו'. בתחלה גלו אנשי בית האצל ועברו דרך צאנן בקול מספד ויושבי צאנן לא יצאו למספד בית האצל לנחמם כי בטוחים היו שגם הם יגלו אחריהם וגם זה לשון הנופל על לשון כי יצאה וצאנן קרובים בלשון : יקח מכם עמדתו. הנה הם עמדו במקומם ולא יצאו לנחם והאויב יבוא ויקח מכם את העמידה של כל אחד ואחד כי תהיו נעים ללכת גולה :",
+      "rdfs:label": "מצודת דוד מיכה א יא",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-11",
+      "jbo:text": "מצודת ציון  עריה. ענין גלוי כמו ואת ערום ועריה (יחזקאל טז) : בשת. הוא כנוי לערוה וכן והחזיקה במבושיו (דברים כה) :",
+      "rdfs:label": "מצודת ציון מיכה א יא",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-12",
+      "jbo:text": "רש\"י  כי חלה לטוב. כי קיותה לטובה אותה היושבת בשלוותה וממרה ע''פ הנביאים : כי ירד רע. הרי כי זה משמש בל' אלא היא חלה לטוב אבל מפני מרותה ירד לה רע :",
+      "rdfs:label": "רש\"י מיכה א יב",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-12",
+      "jbo:text": "מצודת דוד  כי חלה לטוב. אשר העיר מרות נתמלאה חלחלה על הטוב שהיה לה מאז שנאבדה ממנה : כי ירד וגו'. ר''ל כי הרע הבא לשער ירושלים הנה ירד מאת ה' ולא בא במקרה ולכן נלקו עמה כל המקומות :",
+      "rdfs:label": "מצודת דוד מיכה א יב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-12",
+      "jbo:text": "מצודת ציון  חלה. מל' חיל וחלחלה :",
+      "rdfs:label": "מצודת ציון מיכה א יב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-13",
+      "jbo:text": "רש\"י  רתום המרכבה לרכש. אסרו המרכבה לרכש שהוא קל לרוץ ותברחו ואמר דונש שהוא ל' ערבי :",
+      "rdfs:label": "רש\"י מיכה א יג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-13",
+      "jbo:text": "מצודת דוד  רתום וגו'. אתה עדת לכיש קשור את המרכבה אל הרכש שהם קלי המרוץ לרכוב בה לברוח מפני האויב וגם הוא לשון הנופל על לשון כי רכש ולכיש קרובים בלשון : ראשית חטאת. כי היא ראשית חטאת : לבת ציון. ר''ל היא למדה תחלה העכו''ם לאנשי ציון כי בלכיש נמצאו פסילי עשרת השבטים :",
+      "rdfs:label": "מצודת דוד מיכה א יג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-13",
+      "jbo:text": "מצודת ציון  רתום. הוא ענין אסור וקשירה והוא לשון ערבי : לרכש. שם מין בהמה הקלה לרוץ כמו רכבי הרכש (אסתר ח) : לבת ציון. לעדת ציון : פשעי. כן יקראו הפסילים כי מפשעת אנשים וכן והפשע שומם (דניאל ח) :",
+      "rdfs:label": "מצודת ציון מיכה א יג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-14",
+      "jbo:text": "רש\"י  לכן תתני שלוחים על מורשת גת. על אשר תתני שלוחים על מלכות דוד אשר הוריש אתכם גת כענין שנאמר (ד''ה א יח) ויקח דוד את גת מיד פלשתים ואתם מואסים בו כמו שנאמר (ישעיה ח) יען אשר מאס העם הזה את מי השלוח וגומר לפיכך בתי אכזיב שהיתה מארץ יהודה ונמשכו אחר פקח בן רמליהו סופן להיות לאכזב למלכי ישראל שיהרג פקח בן רמליהו ויכזבו הנסמכים עליו ובימי אחז נתנבאת נבואה זו : לכן תתני שלוחים. פי' לכן כמו על אשר כמו (שם יז) על כן תטעי נטעי נעמנים על אשר נטעתיך נטעי נעמנים ואת נהפכת לזמורות זר : בתי אכזיב לאכזב. ל' נופל על הלשון מאגדת חלק למדתי מדרש מקרא זה כך :",
+      "rdfs:label": "רש\"י מיכה א יד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-14",
+      "jbo:text": "מצודת דוד  לכן. בעבור רוע מעשיך תתני מתנות ודורונות אל מורשת גת הם אנשי פלשתים כי גת היא משל פלשתים ובימי דוד לקחו ישראל מידם ובעון ישראל חזרו פלשתים לקחת את גת להיות להם למורשה וכאומר הנה מאז ירשת ארצו ועתה חזר ולקח ועתה תהיה נכנעת לו ותחלה פניו במנחה : בתי אכזיב. היא מערי יהודה ומרדה במלכה והיתה נמשכת אחר פקח בן רמליהו מלך ישראל ולכן אמר הנה בבוא האויב יחריב בתי אכזיב ותהיה נעזב ונפסק ממלכי ישראל כי לא תהיה עוד להם (ואמרה כן דרך מליצת הקינה כי בעת שגלו ערי יהודה ע''י נ''נ כבר בטלה מלכות ישראל) וגם זהו לשון הנופל על לשון כי אכזיב שמה ולאכזב תהיה :",
+      "rdfs:label": "מצודת דוד מיכה א יד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-14",
+      "jbo:text": "מצודת ציון  שלוחים. כן יקרא מתן גדול וכן ויתנה שלוחים לבתו (מ''א ט) : על. כמו אל : מורשת. מל' ירושה : לאכזב. ענין עזיבה והפסק כמו כי תכזבי (ישעיה נז) :",
+      "rdfs:label": "מצודת ציון מיכה א יד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-15",
+      "jbo:text": "רש\"י  עוד היורש אביא לך. אויבים שיורישו אותך את היושבת במרשה, יורש למרשה לשון נופל על הלשון : עד עדולם. שהוא לפני' מן הגבול יסוג אחור ויבא כבוד ישראל שיכבשו העכו''ם מגבול' עד עדולם כן ת''י עד עדולם ייתון בתחום ארעא דישראל, ומדרש אגדה שמעתיו משמו של רבי מנחם עוד היורש אביא לך ראוים היו בני עילם לירש את ארץ ישראל שהוא היה בכור לבני שם ובשביל אהבת אבותיכ' הסיבותיה לבני ארפכשד עתה אביא את כשדים ואת בני עילם עליהם :",
+      "rdfs:label": "רש\"י מיכה א טו",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-15",
+      "jbo:positionInPerek": "15"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-15",
+      "jbo:text": "מצודת דוד  עוד היורש. עוד עליך מורשה אביא היורש את הארץ והוא נ''נ כי גם אותך יירש וגם הוא לשון הנופל על לשון מורשה שמה ואת היורש יביא : עד עדולם יבוא כבוד ישראל. מלת היורש משמשת בשתים ור''ל עד עיר עדולם יביא היורש את כבוד ישראל כי את כל הארץ יקח עם כבוד העושר והממשלה :",
+      "rdfs:label": "מצודת דוד מיכה א טו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-15",
+      "jbo:positionInPerek": "15"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-15",
+      "jbo:text": "מצודת ציון  אבי. כמו אביא באלף וכן אל יני ראשי (תהלים קמא) ומשפטו יניא באל''ף :",
+      "rdfs:label": "מצודת ציון מיכה א טו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-15",
+      "jbo:positionInPerek": "15"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-1-16",
+      "jbo:text": "רש\"י  קרחי. ראשך : וגוזי. שערך כמו (איוב א) ויגז את ראשו לשון תלישת שער : כנשר. כתרגומו כנשרא דנתרו גדפוהי דרך הנשר למרט רוב כנפיו :",
+      "rdfs:label": "רש\"י מיכה א טז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-1-16",
+      "jbo:positionInPerek": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-1-16",
+      "jbo:text": "מצודת דוד  קרחי וגוזי. תלשי שער ראשך וגוזזי אותם במספרים דרך צער ואבל על בניך המפונקים אשר גלו ממך : הרחיבי קרחתך כנשר. עשי לך קרחה רחבה כנשר הזה אשר אחת לעשר שנים יגביה לעוף עד האויר העליון סמוך לגלגל האש ומרוב החום ימרטו כנפיו ותפול נוצתו וישאר קרח קרחות רחבות : כי גלו ממך. בני תענוגיך :",
+      "rdfs:label": "מצודת דוד מיכה א טז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-1-16",
+      "jbo:positionInPerek": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-1-16",
+      "jbo:text": "מצודת ציון  קרחי. ענין מריטת השער וכן והקריחי עליך (יחזקאל כז) : וגוזי. מל' גזיזה וחתוך וכן גזי נזרך (ירמיה ז) : תענוגיך. מל' עונג ותפנוק :",
+      "rdfs:label": "מצודת ציון מיכה א טז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-1-16",
+      "jbo:positionInPerek": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-1",
+      "jbo:text": "רש\"י  ופעולי רע על משכבותם. כל הלילה גומרים בלבם איך יעשו הרעה לבקר :",
+      "rdfs:label": "רש\"י מיכה ב א",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-1",
+      "jbo:text": "מצודת דוד  הוי חושבי און. יש להתאונן על אלו אשר בלילה עודם על משכבותם חושבים לעשות און ובזה פועלים רע כי אינה מחשבה לבד כי באה לידי מעשה : באור הבקר. מיד כשיאיר הבוקר ימהרו לעשות מחשבתם כי יש הכח בידם לעשות מה שרוצים כי לא ימצא מי מוחה בידם :",
+      "rdfs:label": "מצודת דוד מיכה ב א",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-2-1",
+      "jbo:text": "מצודת ציון  לאל. ענין כח ואומץ כמו יש לאל ידי (בראשית לא) :",
+      "rdfs:label": "מצודת ציון מיכה ב א",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-2-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-2",
+      "jbo:text": "רש\"י  ובתים ונשאו. מוסב על וחמדו חומדים בתים : ונשאו. כמו ולקחו :",
+      "rdfs:label": "רש\"י מיכה ב ב",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-2",
+      "jbo:text": "מצודת דוד  וחמדו שדות. וכאשר יחמדו שדות אחרים עומדים עליהם וגוזלים מהם וכאשר יחמדו בתי רעיהם ילקחום לעצמם כי אין משפט ואין מוחה : ועשקו גבר וביתו. עושקים האיש עם ביתו כי כשבעל הבית עומד נגדו רודהו ומכהו ועושק א''כ את הגוף ואת הממון : ואיש ונחלתו. הוא כפל ענין במ''ש :",
+      "rdfs:label": "מצודת דוד מיכה ב ב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-2-2",
+      "jbo:text": "מצודת ציון  ונשאו. לקחו כמו ישא ברכה (תהלים כד) :",
+      "rdfs:label": "מצודת ציון מיכה ב ב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-2-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-3",
+      "jbo:text": "רש\"י  ולא תלכו רומה. ולא תהכון בקומה זקופה :",
+      "rdfs:label": "רש\"י מיכה ב ג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-3",
+      "jbo:text": "מצודת דוד  על המשפחה הזאת. קרא כל ישראל בשם משפחה וכן על כל המשפחה וגו' (עמוס ג) : אשר לא תמישו. לא תוכלו להסיר צוארותיכם מעול הרעה ההיא : ולא תלכו רומה. לא תלכו ברוממות וקומה זקופה כי העת תהיה עת רעה :",
+      "rdfs:label": "מצודת דוד מיכה ב ג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-2-3",
+      "jbo:text": "מצודת ציון  תמישו. ענין הסרה כמו לא ימיש עמוד הענן (שמות יג) : רומה. מלשון התרוממות :",
+      "rdfs:label": "מצודת ציון מיכה ב ג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-2-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-4",
+      "jbo:text": "רש\"י  ונהה נהי נהיה. ונהה ל' עתיד כמו ועשה ופנה ונהה המקונן ואמר נהי נהיה בעולם ומהו הנהי אשר נהיה אמר שדוד נשדונו אויבינו שדדונו ולשון נשדנו שכתב בו נו''ן בתחילה ולא כתב שדונו מפני שבא לשמש שני לשונות ל' נפעלנו ולשון פעלנו אילו כתב נשדנו היה הל' מוסב על הנשדדים ולא אל השודדים ואם כתב שדונו היה מוסב אל השודדים ולא לנשדדים עכשיו מוסב לשניהם נתננו ביד אשר שדונו ובלע''ז שומי''ר דימשטיור''א נשו''ט, ד''א נשדונו אנחנו גרמנו לעצמינו ששדדונו : חלק עמי ימיר. נחלת חלק עמי נחלף לעכו''ם : איך ימיש לי לשובב שדינו יחלק. איך יסור אלי עוד להשיב לנו שדותינו אשר יחלק אותם העכו''ם הזה לו איך אפשר לשובב' עוד לי כל אלה דברי המקונן ונושא המשל איך ימיש לי קומ''א שדיטורנר''א אמו''י כמו סורה אלי ויסור אליו :",
+      "rdfs:label": "רש\"י מיכה ב ד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-4",
+      "jbo:text": "מצודת דוד  ישא עליכם משל. ר''ל הממשיל משלים ישא משל על הרעות הקורות : ונהה נהי נהיה. הנוהה ר''ל המקונן יקונן קינה : אמר שדוד נשדנו. ר''ל כן יאמר בקינתו הנה נעשינו שדודים ונעשקים : חלק עמי ימיר. אחוזת נחלת עמי ימיר האל באדון אחר הוא העכו''ם : איך ימיש לי. איך יסיר אלי להשיב לנו שדותינו אשר יחלק אל העכו''ם לתת לו לנחלה וכאומר איך אפשר שיוחזר לנו מה שלקחו העכו''ם :",
+      "rdfs:label": "מצודת דוד מיכה ב ד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-2-4",
+      "jbo:text": "מצודת ציון  ישא. ענין הרמת קול : ונהה נהי נהיה. עניינו קינה ויללה כמו אשא בכי ונהי (ירמיה ט) : שדוד נשדונו. מלשון שדידה ועושק : חלק. אחוזת נחלה כמו חלקת יואב (ש''ב יד) : ימיר. מל' תמורה וחלוף : ימיש. ענין הסרה : לשובב. מל' השבה :",
+      "rdfs:label": "מצודת ציון מיכה ב ד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-2-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-5",
+      "jbo:text": "רש\"י  משליך חבל. חולק נחלה שכן דרך לחלק נחלה בחבל המדה :",
+      "rdfs:label": "רש\"י מיכה ב ה",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-5",
+      "jbo:text": "מצודת דוד  לכן. מוסב למעלה לומר הואיל וכן עשית לעשוק גבר וביתו לכן לא יהיה לך משליך וכו' ר''ל לא יהיה מי מזרעך שיקח חלק בארץ בתוך קהל ה' כשיקחו הם בשובם לארץ ואמר משליך חבל בגורל כי הדרך הוא כשחולקים קרקע בגורל משליכים חבל בארץ למדוד בה את החלקים :",
+      "rdfs:label": "מצודת דוד מיכה ב ה",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-2-5",
+      "jbo:text": "מצודת ציון  חבל. מל' קו המדה :",
+      "rdfs:label": "מצודת ציון מיכה ב ה",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-2-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-6",
+      "jbo:text": "רש\"י  אל תטיפו יטיפון. אל תנבאו להוכיחם לכם הנביאים אני אומר אשר תטיפו תמיד : לא יסג כלמות. פן ישיגון אתכם כלימות מאתם כענין שנאמר (משלי ט) אל תוכח לץ, כל טיף לשון נבואה כמו (עמוס ז) ולא תטיף על בית ישחק, (יחזקאל כא) והטף אל דרום :",
+      "rdfs:label": "רש\"י מיכה ב ו",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-6",
+      "jbo:text": "מצודת דוד  אל תטיפו יטיפון. אתם הנביאים המתנבאים אל תנבאו להם כי כאשר לא יטיפו לאלה לא ישיג כלימות כי רגילים הם להכלים את המתנבאים להם :",
+      "rdfs:label": "מצודת דוד מיכה ב ו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-2-6",
+      "jbo:text": "מצודת ציון  תטיפו יטיפון. הוא מל' נטיפה והזלה והושאל בענין הדבור של נבואה וכן והטף אל דרום (יחזקאל כא) : יסג. מל' השגה וקרוב ועם היא בסמ''ך וכן ותסג ולא תפליט (לקמן ו) : רוח. רצון : מעלליו. מעשיו :",
+      "rdfs:label": "מצודת ציון מיכה ב ו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-2-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-7",
+      "jbo:text": "רש\"י  האמור בית יעקב. הזאת יאמרו בית יעקב כששומעים את הרעה אשר נביאי מתנבאים להם : הקצר רוח ה'. שמא אין יכולת עתה לפניו להטיב ואין רוחו רחבה עליו לטוב כאשר היתה בימים הראשונים : אם אלה מעלליו. כלו' להרע : הלא דברי ייטיבו עם הישר הולך. אני לא קצרה רוחי ולא אלה מעללי זולתי לרשעים אך את הישר הולך היטב אטיב לו :",
+      "rdfs:label": "רש\"י מיכה ב ז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-7",
+      "jbo:text": "מצודת דוד  האמור בית יעקב. בה''א התימה ור''ל וכי יוכל בית יעקב לומר ואף אם יאמרו וכי אמת כן הוא וכי קצר רצון ה' לבל יוכל למלאותו להיטיב למי שירצה : אם אלה מעלליו. וכי דרכו לעשות רעה עם הבריות : הלא דברי ייטיבו. באמת דברי מטיבים המה עם ההולך בדרך ישר :",
+      "rdfs:label": "מצודת דוד מיכה ב ז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-8",
+      "jbo:text": "רש\"י  ואתמול עמי לאויב יקומם. המקרא מחובר לשל מעלה הימנו אני טוב ומטיב אני ואת הדבר אשר למולו ובעבורו עמי אותו יקומם לאויב לו : ממול שלמה אדר תפשיטון. כנגד אשר אתם גוזלים השלמה ולבוש תפארת ומפשיטים מעל כל העוברים עליכם בדרך : מעוברים בטח שובי מלחמה. ממה שהיו סבורין להיות עוברין בטח הם נהפכו להיות שובי מלחמה כבני אדם השבים מן המלחמה חסירי מבגדים ומזון שלקחו אויביהם מה שעליהם, שובי כמו (ירמיה ב) סורי הגפן נכריה (צפניה ג) נוגי ממועד :",
+      "rdfs:label": "רש\"י מיכה ב ח",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-8",
+      "jbo:text": "מצודת דוד  ואתמול עמי. אבל עמי זה יום אתמול ר''ל לא עברו עדיין ימים רבים ולא תוכלו א''כ להכחיש הדבר אשר הם קמים לאויב איש על אחיו : ממול שלמה. ר''ל אם תראו מי לבוש שלמה חשובה תעמדו ממול השלמה לתת בו עיניכם ותפשיטון ממנו את השלמה החשובה : מעוברים בטח. מן האנשים העוברים בטח תהפכו לעשותם שובי מלחמה כי תגזלו כל אשר להם כאלו ברחו ושבו מן המלחמה והניחו הכל להקל מעליהם המשא :",
+      "rdfs:label": "מצודת דוד מיכה ב ח",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-2-8",
+      "jbo:text": "מצודת ציון  ואתמול. ענינו כמו אתמול בחול''ם וכן כי ערוך מאתמול תפתה (ישעיה ל) : ממול. מנגד : שלמה. מלבוש : אדר. מלבוש יקר כמו ויעבר אדרתו (יונה ג) : תפשיטון. ענין הסרת המלבוש :",
+      "rdfs:label": "מצודת ציון מיכה ב ח",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-2-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-9",
+      "jbo:text": "רש\"י  נשי עמי תגרשון מבית תענוגיה. שאתם הורגים את בעליהן והן יושבות אלמנו' או לפי שאתם נוטלין את ממון בעליהם והם יושבים ומצירים ואין משמחין את נשותיהן : תקחו הדרי. הדר הוד ועושר שנתתי להם :",
+      "rdfs:label": "רש\"י מיכה ב ט",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-9",
+      "jbo:text": "מצודת דוד  תגרשון מבית תענוגיה. גוזלים בתי חמד ומגרשין הנשים כל אחת מביתה אשר ישבה ומתענגת בה כדרך אשה חשובה לשבת בית להתענג בצל ביתה : מעל עולליה וגו'. ר''ל הדר העושר שהשפעתי לה לקשט עולליה הנה תפשיטו מעליהם לקחת לעצמיכם עד עולם מבלי חזרה :",
+      "rdfs:label": "מצודת דוד מיכה ב ט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-2-9",
+      "jbo:text": "מצודת ציון  עולליה. בנים הקטנים : הדרי. מל' הדר ויופי ועל העושר יאמר :",
+      "rdfs:label": "מצודת ציון מיכה ב ט",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-2-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-10",
+      "jbo:text": "רש\"י  קומו ולכו כי לא זאת המנוחה. קומו וגלו מן הארץ כי לא כדרך זו נתתיה לכם למנוחה : בעבור טמאה תחבל וחבל נמרץ. כי למען טמא אותה היא עוש' חבורת חבלי רשעים, תחבל לשון אגודות כמו (שמואל א י) חבל נביאים (תהלים קיט) חבלי רשעים וכן ת''י מסתיעין עלה לשון סיעה : וחבל נמרץ. ובעת אגודתם כבר נועצו ביניהם ופירשו למה הם מתחברים : נמרץ. דבר מפורש באר היטב כמו (איוב ו) מה נמרצו אמרי מה ימריצך (שם טז) קללה נמרצת (מלכים א ב) :",
+      "rdfs:label": "רש\"י מיכה ב י",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-10",
+      "jbo:text": "מצודת דוד  קומו ולכו. לכן קומו מארצי ולכו לכם בגולה : כי לא זאת המנוחה. ר''ל לא על דרך זה נתתי לכם את הארץ לנחלת מנוחה : בעבור טמאה. בעבור שטמאתם את הארץ לעשות בה מעשים כאלה לכן היא תחבל ותשחית אתכם ותהיו כלים בה : וחבל נמרץ. ההשחתה תהיה חזקה מאד עד שלא ישאר שארית :",
+      "rdfs:label": "מצודת דוד מיכה ב י",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-2-10",
+      "jbo:text": "מצודת ציון  המנוחה. מקום מנוח ר''ל נחלה : תחבל וחבל. מל' חבלה והשחתה : נמרץ. ענין חוזק כמו קללה נמרצת (מ''א ב) :",
+      "rdfs:label": "מצודת ציון מיכה ב י",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-2-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-11",
+      "jbo:text": "רש\"י  לו איש הולך רוח. לו מוצאים איש הולך רוח איש שקר מתנבא להם שישתכרו ביין ובשכר הוא יהיה נביא מקובל לעם הזה :",
+      "rdfs:label": "רש\"י מיכה ב יא",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-11",
+      "jbo:text": "מצודת דוד  לו איש. אם מצאו איש שהולך אחר דברי הרוח והבל ומכזב לומר שקר היה אומר אנבא לך לשתות יין ושכר : והיה מטיף. איש כזה היה מקובל להם לנביא כי מאד היו שומעים אליו ולא כן ישמעו דברי נביא אמיתי ומוסב למקרא שלפניו לומר א''כ מהדין הוא שילכו גולה מארצי :",
+      "rdfs:label": "מצודת דוד מיכה ב יא",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-2-11",
+      "jbo:text": "מצודת ציון  לו. ענינו כמו אם וכן לו חיה רעה (יחזקאל יד) : אטיף. הושאל בענין הדבור של נבואה :",
+      "rdfs:label": "מצודת ציון מיכה ב יא",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-2-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-12",
+      "jbo:text": "רש\"י  אסוף אאסוף. עוד ימים באים ואקבץ אתכם : כצאן בצרה. כצאן רבה הנתונה במבצרי גדרות צאן : בתוך הדברו. ת''י כעדרא בגו דירא מקום שהוא מתנהג שם וכן (ישעיה ה) ורעו כבשים כדברם : תהימנה מאדם. תהיינה הערים הומיות מרוב אדם אשר בקרבה :",
+      "rdfs:label": "רש\"י מיכה ב יב",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-12",
+      "jbo:text": "מצודת דוד  אסוף אאסוף. עתה חזר לנחמם ואמר אולם לא לעולם אקצוף כי באחרית הימים אאסוף כל בית יעקב ממקום גלותם : קבץ וגו'. כפל הדבר במ''ש : יחד. את כולם יחד אשים אותם בארצי כצאן הנתונה בגדרות הצאן שהוא להם למבצר ולמעוז : כעדר. כמו העדר הנתונה במקום מנהגו הוא דיר הצאן כן יהיו כל ישראל נאספים בארצם : תהימנה. קול המייה תהיה נשמע בארצם מרוב בני אדם :",
+      "rdfs:label": "מצודת דוד מיכה ב יב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-2-12",
+      "jbo:text": "מצודת ציון  בצרה. בלשון שאלה אמר על דיר הצאן שהיא להם למבצר. הדברו. ענין הנהגה וכן ורעו כבשים כדברם (ישעיה ה) : תהימנה. מל' המייה ושאון :",
+      "rdfs:label": "מצודת ציון מיכה ב יב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-2-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-2-13",
+      "jbo:text": "רש\"י  עלה הפורץ. מושיעם הפורץ גדרת סירים ומסוכות חדקים ליישר לפניהם הדרך :",
+      "rdfs:label": "רש\"י מיכה ב יג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-2-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-2-13",
+      "jbo:text": "מצודת דוד  עלה הפורץ. עד לא יעלו הם יעלה לפניהם מי שיפרוץ גדרות סירים ומסוכת חדק ליישר את הדרך ועל אליהו הנביא יאמר שהוא יבוא קודם הגאולה ליישר לבות ישראל לאביהם שבשמים להיות מבוא אל הגאולה וכמ''ש הנה אנכי שולח לכם את אליה הנביא וגו' והשיב לב אבות וגו' (מלאכי ג) : פרצו. שבי הגולה יפרצו גם הם את הגדרות והמשוכות ויעבורו בפרצה כאלו היה שער ודרך בו יצאו מן הגולה ר''ל הם יוסיפו אומץ ליישר לבותם לפתוח בתשובה ובזכות זה יצאו מן הגולה : ויעבור מלכם לפניהם. בשובם יעבור לפניהם מלכם הוא מלך המשיח וה' יעבור בראש כולם כי אז יחזיר גם הוא שכינתו לציון :",
+      "rdfs:label": "מצודת דוד מיכה ב יג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-2-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-2-13",
+      "jbo:text": "מצודת ציון  הפורץ. מלשון פרצה ושבירה :",
+      "rdfs:label": "מצודת ציון מיכה ב יג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-2-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-3-1",
+      "jbo:text": "מצודת דוד  ואמר שמעו נא. אני אומר שמעו עתה ראשי וגו' : הלוא לכם. עליכם מוטל לדעת את המשפט אם נעשתה בארץ ועליכם להזהיר על הדבר :",
+      "rdfs:label": "מצודת דוד מיכה ג א",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-3-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-3-1",
+      "jbo:text": "מצודת ציון  נא. עתה : וקציני. ענין שררה :",
+      "rdfs:label": "מצודת ציון מיכה ג א",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-3-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-3-2",
+      "jbo:text": "רש\"י  גוזלי עורם. של בית ישראל שהם ראשים וקצינים עליהם כמו שאמר ראשי בית יעקב וקציני בית ישראל :",
+      "rdfs:label": "רש\"י מיכה ג ב",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-3-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-3-2",
+      "jbo:text": "מצודת דוד  שונאי טוב. אבל עוד הם עצמם שונאים את הטוב ואוהבים את הרע : גוזלי עורם מעליהם. הם עצמם גוזלים אלה מאלה את עורם ובשרם מעל עצמותם והוא ענין גוזמא והפלגה לפי מרבית הגזל :",
+      "rdfs:label": "מצודת דוד מיכה ג ב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-3-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-3-2",
+      "jbo:text": "מצודת ציון  ושארם. כן תקרא הבשר כמו אם יכין שאר לעמו (תהלים עח) :",
+      "rdfs:label": "מצודת ציון מיכה ג ב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-3-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-3-3",
+      "jbo:text": "רש\"י  שאר עמי. בשר עמי : ואת עצמותיהם פצחו. פתחו להוציא המוח כמו (שם יד) פצחו רנה פתחו פה ברנה : ופרשו כאשר בסיר. ומשברים האברים כאשר ישברו הנתחים הניתנים בסיר לבשל ופרשו לשון שבר כמו פרוש לרעב (שם נח) ולא יפרשו להם (ירמיה טז) פרשיה ציון (איכה א) : קלחת. קלדיי''רא בלע''ז :",
+      "rdfs:label": "רש\"י מיכה ג ג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-3-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-3-3",
+      "jbo:text": "מצודת דוד  ואשר אכלו. והם אשר אכלו בשר עמי הם הצדיקים : פצחו. פותחים עצמותיהם להריק את המוח וגם זה הוא ענין הפלגה : ופרשו. משברים אותם פרוסות כאשר יעשו את הבשר פרוסות להשימם בסיר ובתוך הקלחת לבשל אותם :",
+      "rdfs:label": "מצודת דוד מיכה ג ג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-3-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-3-3",
+      "jbo:text": "מצודת ציון  הפשיטו. ענין הסרה : פצחו. ענין פתיחה כמו פצחו ורננו וזמרו (שם צח) : יפרשו. מל' פרוסה ושבירה ועם היא בשי''ן וכן פורש אין להם (איכה ד) : בסיר. קדרה כמו שפות הסיר (מ''ב ד) : קלחת. גם הוא כלי בשול כמו או בקלחת או בפרור (ש''א ב) :",
+      "rdfs:label": "מצודת ציון מיכה ג ג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-3-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-3-4",
+      "jbo:text": "רש\"י  אז יזעקו אל ה'. אז בבא אותו העת האמור למעלה אסף אאסף יעקב יזעקו אל ה' להטיב להם ברצון עמו ושמחת גויו ולא יענה אותם :",
+      "rdfs:label": "רש\"י מיכה ג ד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-3-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-3-4",
+      "jbo:text": "מצודת דוד  אז יזעקו. לכן אז בבוא הפורעניות יזעקו אל ה' ולא יענה להם : ויסתר פניו. לבל ישגיח בצרתם : כאשר הרעו. כמו שהרעו מעשיהם שלא שמעו לזעקת הנעשקים והסתירו פנים מהם כן אעשה להם גם אני :",
+      "rdfs:label": "מצודת דוד מיכה ג ד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-3-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-3-4",
+      "jbo:text": "מצודת ציון  יענה. ענין השבה : הרעו. מל' רעה :",
+      "rdfs:label": "מצודת ציון מיכה ג ד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-3-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-3-5",
+      "jbo:text": "רש\"י  הנושכים בשיניהם. ואוכלים בשר בהמו' פטומות המאכילים אותם עמי הטועים אחריהם : וקראו שלום. וכאשר יאכילו יקראו ויתנבאו להם שלום : וקדשו עליו מלחמה. והזמינו עליו למלחמה :",
+      "rdfs:label": "רש\"י מיכה ג ה",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-3-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-3-5",
+      "jbo:text": "מצודת דוד  על הנביאים. נביאי השקר : המתעים. המוליכים את עמי בדרך מתעה : הנושכים. אמר למי שהמה נושכים אצלו בשיניהם לאכול משלו קוראים עליו נבואת שלום ולמי אשר לא יתן מאכל אל פיהם המה מזמינים עליו מלחמה ר''ל מתנבאים לו שמלחמה מזומנת לבוא עליו :",
+      "rdfs:label": "מצודת דוד מיכה ג ה",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-3-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-3-5",
+      "jbo:text": "מצודת ציון  המתעים. מל' תועה : הנושכים. חותכים לאכול וכן אם ישוך הנחש (קהלת י) : בשניהם. מל' שן : וקדשו. ענין הזמנה כמו קדשו קהל (יואל ב) :",
+      "rdfs:label": "מצודת ציון מיכה ג ה",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-3-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-3-6",
+      "jbo:text": "מצודת דוד  לילה לכם מחזון. חושך כלילה יבוא עליכם מחמת חזון השקר וקסום השוא : ובאה השמש. תשקע השמש על הנביאים ההם ויחשך עליהם מאור היום ר''ל יהיו בצרה עד שיהיה העולם חשך בעדם וכפל הדבר במ''ש להפלגת הענין :",
+      "rdfs:label": "מצודת דוד מיכה ג ו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-3-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-3-6",
+      "jbo:text": "מצודת ציון  מחזון. ענין נבואה : מקסום. מין כשוף : ובאה. ענין שקיעה כמו כי בא השמש (ברא' כח) : וקדר. ענין חשך ושחרות כמו שמש וירח קדרו (יואל ד) :",
+      "rdfs:label": "מצודת ציון מיכה ג ו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-3-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-3-7",
+      "jbo:text": "רש\"י  מענה אלהים. מענה נקוד קמץ (ר''ל ציר''י) לפי שהוא דבוק אל השם :",
+      "rdfs:label": "רש\"י מיכה ג ז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-3-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-3-7",
+      "jbo:text": "מצודת דוד  ובושו החוזים. בעת שיראו שלא נתקיימו אמריהם : ועטו וגו'. כל החוזים והקוסמים יעטו על שער השפתים כדרך האבל כי אז יתאבלו על רוע המקרה : כי אין מענה אלהים. כל דבריהם לא היה מענה אלהים כי מלבם בדאו שקר :",
+      "rdfs:label": "מצודת דוד מיכה ג ז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-3-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-3-7",
+      "jbo:text": "מצודת ציון  וחפרו. ענין כלימה כמו וחפרה הלבנה (ישעיה כד) : ועטו. ענין עטיפה : שפם. הוא שער השפתים כמו ועל שפם יעטה (ויקרא יג) : מענה. ענין אמירה וכן ומה' מענה לשון (משלי טז) :",
+      "rdfs:label": "מצודת ציון מיכה ג ז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-3-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-3-8",
+      "jbo:text": "מצודת דוד  ואולם. אבל אנכי מלאתי כח מן רוח ה' ר''ל כח כל אמרי בא מרוח ה' ואני מלא משפט והם דברים צודקים וגבורה והוא אמוץ הלב לא אפחד ממי ומגיד אני ליעקב פשעו וכו' כי אין דרכי להחליף כדרך נביאי השקר :",
+      "rdfs:label": "מצודת דוד מיכה ג ח",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-3-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-3-8",
+      "jbo:text": "מצודת ציון  את רוח. מן רוח וכן כצאתי את העיר (שמות ט) :",
+      "rdfs:label": "מצודת ציון מיכה ג ח",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-3-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-3-9",
+      "jbo:text": "מצודת דוד  המתעבים. הממאסים את המשפט ומעקשים את כל דבר הישר כי על היושר יאמרו שהוא מעוקם :",
+      "rdfs:label": "מצודת דוד מיכה ג ט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-3-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-3-9",
+      "jbo:text": "מצודת ציון  המתעבים. מל' תעוב ושקץ : יעקשו. ענין עקום ומעוקל כמו ועם עקש תתפל (ש''ב כב) :",
+      "rdfs:label": "מצודת ציון מיכה ג ט",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-3-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-3-10",
+      "jbo:text": "מצודת דוד  בונה ציון. כ''א בונה ביתו בציון בדמים כי שופכים דם אנשים לקחת עשרו לבנות בית : וירושלים בעולה. בונים בתי ירושלים בממון של עולה מעושק ואונאה :",
+      "rdfs:label": "מצודת דוד מיכה ג י",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-3-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-3-11",
+      "jbo:text": "מצודת דוד  בשוחד ישפטו. ע''פ השוחד שופטים לזכות את הנותן את השוחד : וכהניה. על הכהן להורות כמ''ש כי שפתי כהן וגומר ותורה יבקשו מפיהו (מלאכי ב) : במחיר יורו. ע''פ המחיר מורים את ההוראה כרצון הנותן : בכסף יקסומו. ע''פ הכסף קוסמים לבשר שלום הנותן : ועל ה' ישענו. עם היותם עושים כל המעשים הללו יעיזו פניהם להשען בה' לאמר הלא שכינתו בבה''מ ולכן לא תבוא עלינו רעה כי לא יחריב מקום משכנו :",
+      "rdfs:label": "מצודת דוד מיכה ג יא",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-3-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-3-11",
+      "jbo:text": "מצודת ציון  במחיר. עניינו דמי ערך השוי וכן יקנה מקנה במחיר (מ''א י) : יורו. מל' הוראה ולמוד : ישענו. מל' השענה ובטחון :",
+      "rdfs:label": "מצודת ציון מיכה ג יא",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-3-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-3-12",
+      "jbo:text": "רש\"י  עיין. דגורין :",
+      "rdfs:label": "רש\"י מיכה ג יב",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-3-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-3-12",
+      "jbo:text": "מצודת דוד  בגללכם. בעבור עוונותיכם : שדה תחרש. האויב יחריבה ותהיה נחרשת כשדה : עיין תהיה. תהיה מלאה מגלי אבנים מהמפלת הבניינים : לבמות יער. יהיה דומה לבמות יער ר''ל הרבה גלים ודגורין ימצא שם כמספר הבמות המצויות ביער והם תחתית האילנות שעל השרשים הנשארים אחר קציצת האילנות והמה דומות בגבהן לבמות :",
+      "rdfs:label": "מצודת דוד מיכה ג יב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-3-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-3-12",
+      "jbo:text": "מצודת ציון  בגללכם. בעבורכם וכן בגלל יוסף (בראשית לט) : שדה. כשדה : עיין. כמו עיים במ''ם וכן לקץ הימין (דניאל יב) ועיים הוא גלי אבנים וכן לעיי השדה (לעיל א) : לבמות. מל' במה :",
+      "rdfs:label": "מצודת ציון מיכה ג יב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-3-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-4-1",
+      "jbo:text": "רש\"י  ונהרו. ונקבצו שם יחד כנהרו' ההולכי' אל הים :",
+      "rdfs:label": "רש\"י מיכה ד א",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-4-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-1",
+      "jbo:text": "מצודת דוד  באחרית הימים. בימי המשיח : הר בית ה'. ההר שיעמוד עליו בה''מ : נכון. מתוקן יהיה בהר החשוב והראש שבכל ההרים : ונשא. ינשא במעלה וחשיבות : ונהרו. מן העכו''ם ימשכו ללכת אליו כנהר המושך והולך :",
+      "rdfs:label": "מצודת דוד מיכה ד א",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-1",
+      "jbo:text": "מצודת ציון  באחרית. בסוף : נכון. מוכן ומתוקן : ונהרו. ימשכו כנהר וכן ונהרו אל טוב ה' (ירמיה לא) :",
+      "rdfs:label": "מצודת ציון מיכה ד א",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-2",
+      "jbo:text": "מצודת דוד  והלכו. גוי אל גוי : ואמרו. אלו לאלו : ויורנו. המקום ילמד אותנו ע''י יודעי התורה : מדרכיו. מה מדרכיו : כי מציון. כי התורה האמיתית היא היוצאת מציון ואין זולתה בעולם :",
+      "rdfs:label": "מצודת דוד מיכה ד ב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-2",
+      "jbo:text": "מצודת ציון  לכו. הוא ענין ל' זרוז : ויורנו. ענין למוד :",
+      "rdfs:label": "מצודת ציון מיכה ד ב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-4-3",
+      "jbo:text": "רש\"י  ושפט. משפט זה לשון תוכחה הוא דשרימנ''ט בלע''ז :",
+      "rdfs:label": "רש\"י מיכה ד ג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-4-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-3",
+      "jbo:text": "מצודת דוד  ושפט. ר''ל וכאשר יבקשו כן יהיה כי השופט והוא מלך המשיח הוא ישפוט בין העכו''ם רבים בדברי ריבותם והוא יברר המשפט לעכו''ם עצומים היושבים ממרחק : וכתתו. ישברו כלי המלחמה לעשות מהם כלי עבודת אדמה כי לא יעשו עוד מלחמה ולא ילמדו אותה כי המשיח ישפוט בדברי ריבותם :",
+      "rdfs:label": "מצודת דוד מיכה ד ג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-3",
+      "jbo:text": "מצודת ציון  והוכיח. ענין ברור דברים : עצומים. חזקים : וכתתו. ענין כתישה : לאתים. שם כלי חפירה וכן את מחרשתו ואת אתו (ש''א י''ג) : למזמרות. שם הכלי שכורתין בו הומורות מל' וכרמך לא תזמור (ויקרא כה) :",
+      "rdfs:label": "מצודת ציון מיכה ד ג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-4-4",
+      "jbo:text": "רש\"י  כי פי ה' צבאות דבר. והיכן דבר ונתתי שלום בארץ (ויקרא כו) :",
+      "rdfs:label": "רש\"י מיכה ד ד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-4-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-4",
+      "jbo:text": "מצודת דוד  וישבו איש. כ''א ישב תחת גפנו וגו' ואין מי יחרידו ממקומו : כי פי וגו'. וכן יהיה :",
+      "rdfs:label": "מצודת דוד מיכה ד ד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-4",
+      "jbo:text": "מצודת ציון  מחריד. מל' חרדה :",
+      "rdfs:label": "מצודת ציון מיכה ד ד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-4-5",
+      "jbo:text": "רש\"י  ילכו איש בשם אלהיו. ילכו לאבדון על שעבדו עכו''ם כן תירגם יונתן :",
+      "rdfs:label": "רש\"י מיכה ד ה",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-4-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-5",
+      "jbo:text": "מצודת דוד  כי כל העמים וגו'. זהו מאמר הנביא שאמר כל הטובה הזאת יהיה לנו על כי כל העכו''ם כל אחד מהם הולך בשם אלהיו להאמין בהעכו''ם של בני עמו ואנחנו לא למדנו מהם לאחוז דרכם כי הולכים אנחנו בשם ה' להאמין בו וכן נאמין בו לעולם ועד ולכן ראוים אנו לטובה :",
+      "rdfs:label": "מצודת דוד מיכה ד ה",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-4-6",
+      "jbo:text": "רש\"י  אוספה הצולעה. אכניש מטלטליא וכן ת''י, ולי נראה לשון מרפא כמו ואספתי מצרעתו (מלכים ה) : ואשר הריעותי. ואותם שהריעותי להם בעוונם :",
+      "rdfs:label": "רש\"י מיכה ד ו",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-4-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-6",
+      "jbo:text": "מצודת דוד  אוספה הצולעה. אאסוף מבין העכו''ם את עדת ישראל שהיא כצולעה שאינה יכולה לזוז ממקומה : והנדחה. ישראל הנדחה מארצה לארצות העכו''ם הנה אקבץ אותה והוא כפל ענין במ''ש : ואשר הרעותי. ר''ל כשיעור אשר הרעותי לה כן איטיב עמה :",
+      "rdfs:label": "מצודת דוד מיכה ד ו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-6",
+      "jbo:text": "מצודת ציון  הצולעה. החגרת כמו והוא צולע על ירכו (בראשית לב) :",
+      "rdfs:label": "מצודת ציון מיכה ד ו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-7",
+      "jbo:text": "מצודת דוד  לשארית. להיות לה שארית בין העכו''ם ולא יכלו אותה : והנהלאה. העם אשר נתייגעה בגולה בשובה לארצה תשוב להיות גוי חזק : ומלך ה'. מאז לא ימשלו עוד הבבליים בהם כי ה' ימלוך עליהם ומלכותו תהיה בהר ציון כי שם ישרה שכינתו מהעת ההיא עד עולם ולא תזוז עוד משם :",
+      "rdfs:label": "מצודת דוד מיכה ד ז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-7",
+      "jbo:text": "מצודת ציון  והנהלאה. ענין יגיעה כמו נלאה מואב (ישעי' טז) :",
+      "rdfs:label": "מצודת ציון מיכה ד ז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-4-8",
+      "jbo:text": "רש\"י  ואתה מגדל עדר. ת''י ואת משיחא דישראל דטמיר מן קדם חובי כנישתא דציון פי' מגדל ל' מעוז ותרגום עדר כנסת ישראל ותירגם עופל ל' אופל ויש לפרש מגדל עדר בית המקדש ועופל לשון מגדל עוז וכן עופל ובחן (ישעיה לב) : עדיך תאתה. שארית הצולעה והנהלאה כולם יקבצו אליך : ובאה הממשלה הראשונה. תבא הממשלה שלימה כולה אל בית דוד בירושלים כאשר היתה בתחילה עד שלא נחלקה ומה היא הממשלה הראשונ' הממלכ' לבת ירושלים :",
+      "rdfs:label": "רש\"י מיכה ד ח",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-4-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-8",
+      "jbo:text": "מצודת דוד  ואתה מגדל עדר. על עיר ציון יאמר שהוא המגדל אשר יאספו שם ברגלים כל שבטי ישראל המכונים בהרבה מן המקומות בשם עדר ולתוספת ביאור אמר עופל בת ציון ור''ל אתה ציון הנה אליך תבוא קבוצת הצולעה והנדחה : ובאה. ואז תבוא הממשלה הראשונה וחוזר ומפרש הנה הממלכה ההיא תבוא לעדת ירושלים ר''ל שאז תמשול גם על עשרת השבטים כמו בימי דוד ושלמה לא יחצו עוד לשתי ממלכות :",
+      "rdfs:label": "מצודת דוד מיכה ד ח",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-8",
+      "jbo:text": "מצודת ציון  עופל. ענין מגדל ומבצר כמו עופל ובחן (שם לב) : עדיך. אליך כמו תגע עדיך (איוב ד') : תאתה. ענין ביאה כמו אתא בוקר (ישעיה כא) :",
+      "rdfs:label": "מצודת ציון מיכה ד ח",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-4-9",
+      "jbo:text": "רש\"י  עתה. שאת מורדת בי : למה תריעי רע. שיתי לבך למה את צריכה לבקש רעים ואהובים מלכי מצרים ומלכי אשור לעזור :",
+      "rdfs:label": "רש\"י מיכה ד ט",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-4-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-9",
+      "jbo:text": "מצודת דוד  עתה למה תריעי רע. למה תתחברי לרעים זרים לבקש עזר ממלכי המצרים וכי אין בך המלך ה' וכי נאבד יועצך ר''ל הלא יש לך נביאים המייעצים אותך לשוב לה' וכאשר כן תעשו הלא הוא יעזור לך : כי החזיקך. אשר אחז אותך חיל ורתת כיולדה מפחד הכשדים המעותד לבוא עליך ובעבור זה תבקש עזר ממלכי המצרים כאלו אין הכח בידי להצילך :",
+      "rdfs:label": "מצודת דוד מיכה ד ט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-9",
+      "jbo:text": "מצודת ציון  תריעי רע. ענין חבר ואוהב : החזיקך. ענין אחיזה : חיל. חלחלה ורתת :",
+      "rdfs:label": "מצודת ציון מיכה ד ט",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-4-10",
+      "jbo:text": "רש\"י  חולי. ל' חלחלה כמו (כאן) כי החזיקך חיל והלשון נופל על יולדת : וגוחי. כרעי ושחי על גחונך וכן בלשון משנה כותל הגוחה לרשות הרבים : תצאי מקריה. מירושלים ללכת בגולה : ושכנת בשדה. תהי שכינתך חרושה כשדה :",
+      "rdfs:label": "רש\"י מיכה ד י",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-4-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-10",
+      "jbo:text": "מצודת דוד  חולי וגוחי. ר''ל לכן הבל וריק יעזורו ואתם עדת ציון מלאי חלחלה והאנחי כיולדה כי אתה בזמן קרוב תצאי מן העיר ללכת גולה : ושכנת בשדה. כדרך הגולים ולא יכניסיך במלון ותבוא עד בבל : שם תנצלי וגו'. בבבל תתרוקני מכל הטובה ולא יועילו לך מלכי מצרים ובבבל יגאלך ה' וכו' כי בעת תבוא מפלת בבל תצאו חפשי ומבלי עזר ממלכי העכו''ם :",
+      "rdfs:label": "מצודת דוד מיכה ד י",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-10",
+      "jbo:text": "מצודת ציון  חולי. מל' חלחלה : וגוחי. ענין האנחה כי האנחה היא הוצאת הנשימה והוא מענין כי אתה גוחי מבטן (תהלים כב) שהוא ענין המשכה והוצאה וקרוב הוא אל לשון גניחה המוזכר בדרז''ל : מקריה. מעיר : תנצלי. ענין ריקות כמו ויתנצלו בני ישראל את עדים (שמות ל''ג) : מכף. מיד :",
+      "rdfs:label": "מצודת ציון מיכה ד י",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-4-11",
+      "jbo:text": "רש\"י  האומרים תחנף. עתה תתחייב ציון בחטאתיה ויפקד עליה עוונה : ותחז בציון עינינו. ותראינה בה עינינו מה שאוינו לראות בה :",
+      "rdfs:label": "רש\"י מיכה ד יא",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-4-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-11",
+      "jbo:text": "מצודת דוד  ועתה. ר''ל בזמן שאני מתנבא עליו באחרית הימים יהיה הגאולה יותר שלימה וזה כאשר יאספו עליך עכו''ם רבים והוא גוג ומגוג ועכו''ם רבים אשר אתו : האומרים. אשר יאמרו עתה תתחייב הארץ ללקות בעונה ועינינו תראנה בציון מה שקוינו :",
+      "rdfs:label": "מצודת דוד מיכה ד יא",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-11",
+      "jbo:text": "מצודת ציון  תחנף. תתחייב כמו ולא תחניפו את הארץ (במדבר ל''ה) : ותחז. כמו ותחזה והוא ענין ראיה והסתכלות כמו ואתה תחזה (שמות י''ח) :",
+      "rdfs:label": "מצודת ציון מיכה ד יא",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-4-12",
+      "jbo:text": "רש\"י  כי קבצם כעמיר גורנה. וסופו לקבצם אל עמק יהושפט וסביבו' ירושלים למלחמ' כמו שמקבצין עמיר כדי לדושם שם אף הם חיל גוג ומגוג לרעתם נאספו ויאמר הקב''ה לכנ''י קומי ודושי בת ציון :",
+      "rdfs:label": "רש\"י מיכה ד יב",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-4-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-12",
+      "jbo:text": "מצודת דוד  והמה. אבל המה לא ידעו מחשבות ה' בעבור מה שנתן בלבם להתאסף ולבוא על ציון כי לרעתם קבצם כמו שמקבצין עמירי התבואה אל הגורן לחבטם במקל ולדושם :",
+      "rdfs:label": "מצודת דוד מיכה ד יב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-12",
+      "jbo:text": "מצודת ציון  כעמיר. כן יקרא אגודת השבלים כמו וחצנו מעמר (תהלים קכ''ט) : גורנה. הוא המקום שמכניסין שם התבואה :",
+      "rdfs:label": "מצודת ציון מיכה ד יב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-4-13",
+      "jbo:text": "רש\"י  והחרמתי. לשון הקדש : בצעם. מה שכנסו מגזילה וחמס : וחילם. ונכסיהון :",
+      "rdfs:label": "רש\"י מיכה ד יג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-4-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-13",
+      "jbo:text": "מצודת דוד  קומי ודושי. לפי שהמשילם לעמיר אמר לשון הנופל בעמיר ור''ל הנה עתה שכולם נקבצו ובאו עמוד והרוג בהם עם כי נחלש כחך בהיותך בגולה הנה אני אחזק אותך ואשים קרנך ברזל לנגח בהם ואת פרסותיך אשים נחושה לרמוס אותם : והדיקות. תשחקם דק דק : והחרמתי. הוא מאמר הנביא בשם ישראל אז אחרים לה' חמדת עשרם : וחילם וגו'. כפל הדבר במ''ש :",
+      "rdfs:label": "מצודת דוד מיכה ד יג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-13",
+      "jbo:text": "מצודת ציון  ודושי. מלשון דישה : ופרסותיך. הם כעין מנעלים שברגלי הבהמות כמו בפרסות סוסיו (יחזקאל כ''ז) ואמר בדרך שאלה : נחושה. נחושת : והדקות. ענין שחיקה כמו אדיקם ארקעם (ש''ב כ''ב) : והחרמתי. ענין הקדש כמו כל חרם בישראל (במדבר י''ח) : בצעם. חמדת עשרם כמו בצע כסף (שופטים ה) : וחילם. גם הוא ענין עושר כמו ושללו חילך (יחזקאל כ''ו) :",
+      "rdfs:label": "מצודת ציון מיכה ד יג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-4-14",
+      "jbo:text": "רש\"י  עתה תתגודדי בת גדוד. עתה בעת גזרתה הרעה על העון כי גבר תתגודדי בת גדוד בת כשדים קבצי גדודין כי עתה הוא אשר תצלחי בגדוד אשר שם מצור עלינו. בשבט יכו על הלחי. מי גרם לך להצליח את אשר ישראל מלעיבי' על נביאיהם ושופטיה' ומכים אותם על הלחי כך היו עושים וכן מצינו בפסיקתא וכן ישעיה הוא אומר (ישעיה נ) גוי נתתי למכים :",
+      "rdfs:label": "רש\"י מיכה ד יד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-4-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-4-14",
+      "jbo:text": "מצודת דוד  עתה תתגודדי. ר''ל בזמן ההוא אתה בת גדוד רב תשרטי באבל ובצער ודרך צחות לשון נופל על לשון אמר תתגודדי בת גדוד : מצור שם עלינו. ר''ל וזהו בגמול ששם עלינו מצור בימי חרבן בית השני : בשבט וגו'. ובימי הגולה היינו נבזים בעיניהם ואפילו את שופט ישראל הכו בשבט על הלחי והוא מכת בזיון וכן נאמר יתן למכהו לחי ישבע בחרפה (איכה ג) :",
+      "rdfs:label": "מצודת דוד מיכה ד יד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-4-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-4-14",
+      "jbo:text": "מצודת ציון  תתגודדי. ענין שריטת הבשר כמו לא תתגודדו (דברים י''ד) : גדוד. ענין מחנה וכן פשט גדוד (הושע ו) : מצור. כן יקרא הקפת גייסות סביב העיר ללכדה : בשבט. בשרביט : הלחי. כן נקרא המקום שאצל העין :",
+      "rdfs:label": "מצודת ציון מיכה ד יד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-4-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-5-1",
+      "jbo:text": "רש\"י  ואתה בית לחם אפרתה. שיצא דוד משם שנאמר בו (שמואל א יז) עבדך ישי בית הלחמי ובית לחם קרוי אפרת שנאמר (בראשית מח) בדרך אפרת היא בית לחם : צעיר להיות באלפי יהודה. ראוי היית להיות צעיר במשפחות יהודה מפני פסולת רות המואביה שבך : ממך לי יצא. משיח בן דוד וכה''א (תהלים קיח) אבן מאסו הבונים : ומוצאותיו מקדם. לפני שמש ינון שמו (שם) :",
+      "rdfs:label": "רש\"י מיכה ה א",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-5-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-1",
+      "jbo:text": "מצודת דוד  ואתה בית לחם אפרתה. בית לחם שביהודה נקראת אפרת כמ''ש בדרך אפרת היא בית לחם (בראשית מח) ולא זהו בית לחם שבזבולון המוזכר ביהושע : צעיר להיות וגו'. ר''ל אתה משפחת בית דוד הבא מבית לחם מישי בית הלחמי מהראוי היה שתהיה הצעיר והנבזה בכל שרי יהודה וזהו לפי שבאת מרות המואביה : ממך לי יצא. ומ''מ יצא לי ממך מלך המשיח להיות מושל בישראל : ומוצאותיו מקדם. בזה יפרש אמריו שאין הכוונה לומר שהמלך המשיח בעצמו יולד בבית לחם אבל מוצאותיו מבית לחם מימים קדמונים מימי דוד המלך אבי המשפחה אם כן מקור מחצבת המשיח הוא מבית לחם ולא הוא בעצמו :",
+      "rdfs:label": "מצודת דוד מיכה ה א",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-5-1",
+      "jbo:text": "מצודת ציון  צעיר. קטן ונבזה : באלפי. ענין שררה כמו אל תבטחו באלוף (לקמן ז) :",
+      "rdfs:label": "מצודת ציון מיכה ה א",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-5-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-5-2",
+      "jbo:text": "רש\"י  לכן יתנם עד עת יולדה. יתנם ביד אויביהם עד בא העת אשר חלה וילדה ציון את בניה ציון אשר החזיקה עתה חיל כיולדה ועכשיו היא קרויה יולדת ורבותינו אמרו מכאן אין בן דוד בא עד שתפשוט המלכות הרשעה ט' חדשים על כל העולם כולו אך לפי פשוטו זהו הצעה שפירשתי : ויתר אחיו. של מלך יהודה כלומר שאר שבט יהודה : ישובון על בית ישראל. יתחברו עם שאר השבטי' והיו לממלכה אחת ולא יחצו עוד לשתי ממלכות :",
+      "rdfs:label": "רש\"י מיכה ה ב",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-5-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-2",
+      "jbo:text": "מצודת דוד  לכן יתנם. הואיל והגדלתי המשפחה ההיא אוסיף עוד לגדלם כי המושל הזה הוא מלך המשיח הוא יכלה את המון גוג שאמר למעלה קומי ודושי וגו' וז''ש יתנם עד עת וגו' ור''ל הוא יתנם בצרה גדולה עד שיהיו כמו העת אשר היולדה כורעת ללדת שהיא מצירה מאד : ויתר אחיו. ר''ל הנשארים מהמון גוג מאחיו ובני עמו הם ישובון על בית ישראל להיות נכנעים להם :",
+      "rdfs:label": "מצודת דוד מיכה ה ב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-5-3",
+      "jbo:text": "רש\"י  ורעה. ופרנס את ישראל : וישובו. מן הגליות : כי עתה יגדל. מלכם עד אפסי ארץ והביאום מנחה אליו בסוסים וברכב :",
+      "rdfs:label": "רש\"י מיכה ה ג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-5-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-3",
+      "jbo:text": "מצודת דוד  ועמד ורעה. מלך המשיח הוא ינהיג אותם בעוז ה' ר''ל ולא בעוצם ידו כי מה' היתה זאת : בגאון. ברוממות שם ה' אלהיו והוא כפל ענין במ''ש : וישבו. ישראל ישבו בארצם בהשקט ושאנן : כי עתה. ר''ל בזמן הזה יגדל שמו להתפרסם עד קצות הארץ :",
+      "rdfs:label": "מצודת דוד מיכה ה ג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-5-3",
+      "jbo:text": "מצודת ציון  ורעה. ר''ל ינהיג : בגאון. ענין רוממות : אפסי. קצות כי בקצוות הארץ היא אפס וכלה :",
+      "rdfs:label": "מצודת ציון מיכה ה ג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-5-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-5-4",
+      "jbo:text": "רש\"י  והיה זה שלום. גמור וקבוע באין הפסק עוד ולא ידמה לשאר התשועות שהיו צרות אחריהן : אשור כי יבא. הרי כי משמש בלשון אם, אם יבא בארצנו כאשר בא עתה : והקימונו עליו שבעה רועים. שבעה ושמונה. רבותינו פירשו שמותיהן במסכת סוכה ואיני יודע מהיכן למדו :",
+      "rdfs:label": "רש\"י מיכה ה ד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-5-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-4",
+      "jbo:text": "מצודת דוד  והיה זה שלום. פרסום שמו יהיה סבת השלום אף אשור כי יבוא בארצנו וגומר לא יהיה נעדר השלום כי לא יבא למלחמה כמו לשעבר כי בהכנעה יבוא : והקמונו עליו. אנחנו נמשול בארצו ונקים עליו נציבים מתחת ידינו : שבעה רועים. ר''ל מנהיגים את העם להורותם הדרך : נסיכי אדם. בני אדם מושלים על העם :",
+      "rdfs:label": "מצודת דוד מיכה ה ד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-5-4",
+      "jbo:text": "מצודת ציון  ידרוך. מלשון דריכה והלוך : בארמנותינו. מלשון ארמון והיכל : נסיכי. ענין שררה : אדם. רצה לומר חשובים :",
+      "rdfs:label": "מצודת ציון מיכה ה ד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-5-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-5-5",
+      "jbo:text": "רש\"י  ורעו את ארץ אשור. וירוצצו כמו (שם ב) תרועם בשבט ברזל : ואת ארץ נמרוד. היא בבל : בפתחיה. בשערי מדינותיה :",
+      "rdfs:label": "רש\"י מיכה ה ה",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-5-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-5",
+      "jbo:text": "מצודת דוד  ורעו. הם ינהיגו את ארץ אשור בחרב ר''ל יהרגו בחרב את המסרב על הנהגות'. ארץ נמרוד. היא בבל כמ''ש בנמרוד ותהי ראשית ממלכתו בבל וגומר (בראשית י) : בפתחיה. ר''ל ינהיגום בפרסום בפתחי שערי העיר : והציל מאשור וגו'. ר''ל במה שיעמיד מלך המשיח באשור נציבים מבני ישראל בזה יציל את ישראל מאשור אשר יבוא בארצינו כי לפי שיהיה אימת הנציבים עליהם לא יבואו למלחמה כ''א להראות הכנעה :",
+      "rdfs:label": "מצודת דוד מיכה ה ה",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-5-5",
+      "jbo:text": "מצודת ציון  ורעו. יגהיגו : בפתחיה. מלשון פתח :",
+      "rdfs:label": "מצודת ציון מיכה ה ה",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-5-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-5-6",
+      "jbo:text": "רש\"י  כטל מאת ה'. שאין בא לעולם ע''י אדם ולא יבקשו פני אדם עליו כך לא יקוה ישראל לעזרת איש כי אם בה' :",
+      "rdfs:label": "רש\"י מיכה ה ו",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-5-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-6",
+      "jbo:text": "מצודת דוד  בקרב עמים רבים. הוא גוג והמלכים אשר עמו : כטל מאת ה'. ר''ל אז לא יתלו בטחונם בעכו''ם אלא יתלו בטחונם בה' כמו בטחון ירידת הטל שהוא מה' לבד וכן בטחון הרביבים אשר המקוה להם לא יקוה לאיש שהוא יורידו לפי שאין ביד אדם כן אז לא יקוה למי רק לה' : ולא ייחל וגו'. הוא כפל ענין במ''ש :",
+      "rdfs:label": "מצודת דוד מיכה ה ו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-5-6",
+      "jbo:text": "מצודת ציון  כרביבים. הוא המטר החזק כמו וימנעו רביבים (ירמיה נ) : ייחל. מלשון תוחלת ותקוה :",
+      "rdfs:label": "מצודת ציון מיכה ה ו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-5-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-5-7",
+      "jbo:text": "רש\"י  כאריה בבהמות יער. כך יהי מלכם שליט בכל : ורמס וטרף. רמס היא דריסת הארי כשהוא רעב ואוכלו במקומו וטרף הוא כשנושא את הטרף למעונותיו בשביל גורותיו ולבאותיו :",
+      "rdfs:label": "רש\"י מיכה ה ז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-5-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-7",
+      "jbo:text": "מצודת דוד  והיה שארית יעקב. ר''ל לכן יגבר ידם ויהיו בקרב העכו''ם הרבים ההם כאריה בחית היער וככפיר בעדרי הצאן אשר אם מי מהם עבר דרך עליהם הוא רומס וטורף ואין מי מציל עצמו מידו כן הם יהרגו בחיל גוג ומגוג ההם ואין מי יעמוד נגדם :",
+      "rdfs:label": "מצודת דוד מיכה ה ז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-5-7",
+      "jbo:text": "מצודת ציון  בבהמות יער. ר''ל בחית יער וכן ושן בהמות (דברים ל''ב) : ככפיר. ארי בחור : ורמס. ענין דריסה ברגל :",
+      "rdfs:label": "מצודת ציון מיכה ה ז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-5-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-8",
+      "jbo:text": "מצודת דוד  תרום ידך. אז תרום ידך להתגבר על צריך ויכרתו כולם :",
+      "rdfs:label": "מצודת דוד מיכה ה ח",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-5-8",
+      "jbo:text": "מצודת ציון  תרום. מלשון רוממות : צריך. מלשון צר ואויב :",
+      "rdfs:label": "מצודת ציון מיכה ה ח",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-5-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-5-9",
+      "jbo:text": "רש\"י  והכרתי סוסיך. היא עזרת מצרים שאתם נשענים עליהם להמציאכם סוסים :",
+      "rdfs:label": "רש\"י מיכה ה ט",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-5-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-9",
+      "jbo:text": "מצודת דוד  והכרתי סוסיך. ר''ל לא תהיה נושע בגבורת הסוס ובמרכבות כ''א בעזר אלוה :",
+      "rdfs:label": "מצודת דוד מיכה ה ט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-5-10",
+      "jbo:text": "רש\"י  והכרתי ערי ארצך. ולא תצטרך לערי מבצר :",
+      "rdfs:label": "רש\"י מיכה ה י",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-5-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-10",
+      "jbo:text": "מצודת דוד  ערי ארצך. עיר המוקפת חומה נקראת בשם עיר לבד ואם היא מבלי חומה נקראת עיר פרוז ולזה אמר הנה אז לא יהיה לך ערים המוקפות חומה להשגב בה כי עוד לא יבא עליך מלחמה : והרסתי וגו'. הוא כפל ענין במ''ש :",
+      "rdfs:label": "מצודת דוד מיכה ה י",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-5-10",
+      "jbo:text": "מצודת ציון  והרסתי. ענין נתיצה ושבירה : מבצריך. ערי המבצר :",
+      "rdfs:label": "מצודת ציון מיכה ה י",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-5-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-11",
+      "jbo:text": "מצודת דוד  והכרתי כשפים. בראותך השגחתי בך לא תעסוק עוד בכשפים לדעת מה מהעתידות :",
+      "rdfs:label": "מצודת דוד מיכה ה יא",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-5-11",
+      "jbo:text": "מצודת ציון  ומעוננים. ענין כשוף כמו מעונן ומנחש (דברים י''ח) :",
+      "rdfs:label": "מצודת ציון מיכה ה יא",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-5-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-12",
+      "jbo:text": "מצודת דוד  והכרתי פסיליך. כי אז תכיר שאין אלוה מבלעדי : למעשה ידיך. הפסילים שהם מעשה ידי אדם :",
+      "rdfs:label": "מצודת דוד מיכה ה יב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-5-13",
+      "jbo:text": "רש\"י  והשמדתי עריך. ואשיצי בעלי דבבך וכן (ישעיה יד) ומלאו פני תבל ערים וכן (שמואל א כח) ויהי עריך :",
+      "rdfs:label": "רש\"י מיכה ה יג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-5-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-13",
+      "jbo:text": "מצודת דוד  ונתשתי. ר''ל עוד לא תשתחוה לאשרים : והשמדתי עריך. ואז אשמיד אני את שונאיך :",
+      "rdfs:label": "מצודת דוד מיכה ה יג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-5-13",
+      "jbo:text": "מצודת ציון  ונתשתי. ענין עקירה כמו לנתוש ולנתוץ (ירמיה א) : אשיריך. מלשון אשרה והוא אילן הנעבד : עריך. שונאך כמו ויהי ערך (ש''א ט''ז) :",
+      "rdfs:label": "מצודת ציון מיכה ה יג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-5-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-5"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-5-14",
+      "jbo:text": "מצודת דוד  ועשיתי וגו'. בחמה שפוכה אעשה נקם עם העכו''ם אשר לא שמעו מעולם נקמה מופלגת כזאת :",
+      "rdfs:label": "מצודת דוד מיכה ה יד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-5-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-6-1",
+      "jbo:text": "רש\"י  את ההרים. את האבות : הגבעות. האמהות :",
+      "rdfs:label": "רש\"י מיכה ו א",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-6-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-1",
+      "jbo:text": "מצודת דוד  קום ריב את ההרים. אל הנביא אמר התווכח עם ישראל אל ההרים ר''ל הרם קול להתווכח בפרסום רב וישמעו ההרים והוא ענין גוזמא והפלגה : ותשמענה וגו'. כפל הדבר במ''ש :",
+      "rdfs:label": "מצודת דוד מיכה ו א",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-1",
+      "jbo:text": "מצודת ציון  נא. עתה : קום. הוא ענין זרוז : ריב. ענין ויכוח : את ההרים. אל ההרים :",
+      "rdfs:label": "מצודת ציון מיכה ו א",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-2",
+      "jbo:text": "מצודת דוד  שמעו הרים. ר''ל וכה אמור שמעו הרים את ויכוח ה' : והאתנים מוסדי ארץ. הם ההרים שהם החזקים ומוסדי הארץ וכפל הדבר במ''ש : ועם ישראל יתוכח. כפל הדבר במ''ש :",
+      "rdfs:label": "מצודת דוד מיכה ו ב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-2",
+      "jbo:text": "מצודת ציון  והאיתנים. ענין חוזק כמו איתן מושבך (במדבר כ''ד) : מוסדי. מלשון יסוד : יתוכח. ענין ברור דברים :",
+      "rdfs:label": "מצודת ציון מיכה ו ב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-6-3",
+      "jbo:text": "רש\"י  מה עשיתי לך. תן לבך להכיר מה טוב עשיתי לך : ומה הלאתיך. בעבודתי : ענה בי. העד בי :",
+      "rdfs:label": "רש\"י מיכה ו ג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-6-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-3",
+      "jbo:text": "מצודת דוד  עמי מה עשיתי לך. זכור מה מאד רוב טוב עשיתי לך : ומה הלאתיך. ומהו הדבר אשר יגעתיך בו להכביד העול : ענה בי. העד בי לומר הנה בזה הגעתנו :",
+      "rdfs:label": "מצודת דוד מיכה ו ג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-3",
+      "jbo:text": "מצודת ציון  מה. המלה ההיא יורה על הפלגת הרבוי כמו מה רב טובך (תהלים ל''א) : הלאתיך. ענין יגיעה כמו ונלאו מצרים (שמות ז) : ענה. עדות כמו לא תענה (שם כ) :",
+      "rdfs:label": "מצודת ציון מיכה ו ג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-6-4",
+      "jbo:text": "רש\"י  כי העליתיך. אע''פ שעשיתי לך כל הטובה הזאת לא הלאתיך בעבודה גדולה ובקרבנות גדולים : את משה אהרן ומרים. ת''י משה לאלפא מסורת דינין ואהרן לכפרא על עמא ומרים לאוראה לנשיא :",
+      "rdfs:label": "רש\"י מיכה ו ד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-6-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-4",
+      "jbo:text": "מצודת דוד  כי העליתיך. עתה יפרש מהו רוב הטובה שעשה ואמר כי העליתיך וגו' : ומבית עבדים. ממקום שהייתם עבדים פדיתי אותך וכפל הדבר במ''ש : ואשלח. שלחתי לפניך מנהיגים הגונים והם משה ואהרן ומרים :",
+      "rdfs:label": "מצודת דוד מיכה ו ד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-6-5",
+      "jbo:text": "רש\"י  ומה ענה אותו בלעם בן בעור. מה אזעום לא זעם ה' (במדבר כג) שלא כעסתי כל אותן הימים : מן השטים. שחטאתם לי שם דעו צדקותי שלא מנעתי טובתי ועזרתי מכם עד הבאתי אתכם לגלגל וכבשתי לפניכם שם את הארץ :",
+      "rdfs:label": "רש\"י מיכה ו ה",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-6-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-5",
+      "jbo:text": "מצודת דוד  מה יעץ וגו'. כאמר הלא עצתו היה לכלותך מן העולם ע''י בלעם לקללך בעת הזעם : ומה ענה וגו'. ומה השיב לו בלעם מה אזעום לא זעם ה' (במדבר כג) : מן השטים. ר''ל זכרו הטובה שעשה לכם מן השטים עד שהביא אתכם לגלגל והוא בקצה עבר הירדן המערבי וכאומר עם כי עבדתם בשטים לבעל פעור מ''מ לא רפו ידיו מכם עד שהביא אתכם אל הארץ : למען דעת. כל הטובה הזאת עשה עמכם למען תדעו צדקות ה' שעושה לפנים משורת הדין :",
+      "rdfs:label": "מצודת דוד מיכה ו ה",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-5",
+      "jbo:text": "מצודת ציון  ענה. מלשון ענייה ותשובה :",
+      "rdfs:label": "מצודת ציון מיכה ו ה",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-6-6",
+      "jbo:text": "רש\"י  אכף. אהיה כפוף :",
+      "rdfs:label": "רש\"י מיכה ו ו",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-6-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-6",
+      "jbo:text": "מצודת דוד  במה אקדם ה'. הוא מאמר הנביא בשם ישראל לומר הנה באמת הרבה טובה עשית עמדי ובמה אתרצה לבוא לפני ה' ובמה אהיה כפוף ומוכנע לאלהי מרום ר''ל מהו התשורה שאביא לו : האקדמנו. וכי אבוא לפניו בעולות מן העגלים בני שנתם שהם היותר טובים ונבחרים וכאלו יאמרו וכי צריך הוא לתקרובות וכי תועלת יש לו בהם :",
+      "rdfs:label": "מצודת דוד מיכה ו ו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-6",
+      "jbo:text": "מצודת ציון  אקדם. אבוא לפניו וכן לא יקדמנה מגן (ישעיה ל''ז) : אכף. מלשון כפיפה והכנעה :",
+      "rdfs:label": "מצודת ציון מיכה ו ו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-6-7",
+      "jbo:text": "רש\"י  נחלי שמן. למנחות : האתן בכורי. קרבן לפשעי :",
+      "rdfs:label": "רש\"י מיכה ו ז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-6-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-7",
+      "jbo:text": "מצודת דוד  הירצה. וכי ירצה ה' בכמה אלפי אילים לקרבנות וברבבות נחלי שמן לצקת על המנחות : האתן. וכי אתן לו בכורי לקרבן על כי מחל פשעי וכי אתן פרי בטני מיתר בני על כי כפר חטאת נפשי וכאלו ישאלו אם כן מהו הגמול שאעשה לו :",
+      "rdfs:label": "מצודת דוד מיכה ו ז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-7",
+      "jbo:text": "מצודת ציון  הירצה. מלשון רצוי : ברבבות. רבבה הוא עשרת אלפים : פרי בטני. הם הבנים :",
+      "rdfs:label": "מצודת ציון מיכה ו ז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-6-8",
+      "jbo:text": "רש\"י  הגיד. הקב''ה לך אדם מה טוב לך לעשות : והצנע לכת. ת''י הוי צנוע למיהך בדחלא דאלהך, ד''א והצנע לכת לא כמדת הקב''ה מדת בשר ודם מדת בשר ודם אדם מבייש את חבירו ובא לפייסו ואומר לו איני מתרצה לך עד שיבא פלוני ופלוני שבזיתני לפניהם אבל הקב''ה אין חפץ אלא שישוב אליו בינו לבין עצמו :",
+      "rdfs:label": "רש\"י מיכה ו ח",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-6-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-8",
+      "jbo:text": "מצודת דוד  הגיד לך אדם. כאלו הנביא משיב אתה בן אדם הנה מאז הגיד לך ה' מה טוב בעיניו ומהו הדבר אשר הוא דורש ושואל ממך : כי אם. ר''ל אין שום דבר כ''א לעשות משפט ולאהוב את הצדק וללכת עם אלהיך בדרכי מצותיו בצנעה לא בפרסום רב ולהתייהר :",
+      "rdfs:label": "מצודת דוד מיכה ו ח",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-8",
+      "jbo:text": "מצודת ציון  והצנע. מלשון צניעות והסתר :",
+      "rdfs:label": "מצודת ציון מיכה ו ח",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-6-9",
+      "jbo:text": "רש\"י  קול ה' לעיר יקרא. קל נבייא דה' על קרתא מכריזין להם תשובה : ותושיה יראה שמך. ותושיה קורא להם הנביא אשר רואה את שמך אשר נותן לב להתבונן ולראות דרכיך ותושיה מוסב על מקרא שלמעלה הימנו : שמעו מטה ומי יעדה. הטו אזן ושמעו מטה הפורענות אשר תרדה אתכם שהנביאים מתרים בכם ושמעו מי הוא אשר ייעד אותו הפורענות אם יכולת בידו לקיים מה שגוזר ויונתן לא כן תירגם. (ותושיה יראה שמך. מכאן שכל מי שאומר בכל יום מקרא המתחיל ומסיים כמו שמתחיל ומסיים שמו התורה מצילו מגיהנם) :",
+      "rdfs:label": "רש\"י מיכה ו ט",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-6-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-9",
+      "jbo:text": "מצודת דוד  קול ה' לעיר יקרא. הנה קול ה' קורא להעיר המיוחדת היא ירושלים אליה יקרא לעורר אנשיה לתשובה : ותושיה יראה שמך. ר''ל הקול ההוא בא ע''י איש תושיה הרואה את שמך ומתבונן בך הוא הנביא המתבונן בשם ה' : שמעו מטה. וכה יאמר שמעו המטה המוכן להכות ר''ל הבינו גודל הפורעניות המוכן עליכם ומי הוא המייעד אותה הלא ה' שהיכולת בידו וכאומר הנה הנביא הוא הקור' הנאמן במאמרו והפורעניות המיועד' היא גדול' וחזקה והמייעד הוא בעל היכולת והיה א''כ מהראוי שמאד יחרדו וישובו אל ה' :",
+      "rdfs:label": "מצודת דוד מיכה ו ט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-9",
+      "jbo:text": "מצודת ציון  ותושיה. ר''ל ואיש תושיה כמו ואני תפלה (תהלים ק''ט) והראוי איש תפלה ותושיה הוא ענין חכמת התורה והוא מלשון יש כי ישנה לעולם ולא תשוב לאין כיתר הדברים וכן יצפון לישרים תושיה (משלי ב) : יראה. מלשון ראיה : יעדה. ענין הזמנה וקביעות כמו שם יעדה (ירמיה מ''ז) :",
+      "rdfs:label": "מצודת ציון מיכה ו ט",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-6-10",
+      "jbo:text": "רש\"י  עוד האש בית רשע אוצרות רשע. ה''א האש נקודה פתח לפי שהיא תמוה וכן פירושו עוד ל' אורך ימים הוא, האש כמו היש (ובד''ה א ב) מצינו אישי אבי דוד במקום ישי אף כאן אש במקום יש וכן (בשמואל ב יד) אם אש להמין ולהשמאיל אם יש להאמין ולהשמאיל, וי''ת כן האית שיעלה בלבבכם שיתקיים בית רשע לאורך ימי' ואוצרות רשע : ואיפת רזון זעומה. מדה קטנה שעשיריכם מרמים בה העניים ומביאין אותן לידי רזון והוא זעומה באפו של הקב''ה :",
+      "rdfs:label": "רש\"י מיכה ו י",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-6-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-10",
+      "jbo:text": "מצודת דוד  עוד האש. ר''ל עכ''ז ראו עוד האם יש בבית רשע אוצרות הרשע שאסף בגזל ועושק או אם החזיר לבעליו וכאומר הלא עם כל זה לא שב ולא החזיר העושק : ואיפת רזון זעומה. ר''ל ראו אם עדיין בביתו איפה כחושה וחסרה להונות בה הבריות המעלות זעם באפו של הקב''ה :",
+      "rdfs:label": "מצודת דוד מיכה ו י",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-10",
+      "jbo:text": "מצודת ציון  האש. היא כמו היש וכן אם אש להאמין (ש''ב י''ד) : בית רשע. כמו בבית : ואיפת. שם מדה : רזון. מלשון רזות וכחשות ואמר בדרך שאלה על החסרון : זעומה. מלשון זעם וכעס :",
+      "rdfs:label": "מצודת ציון מיכה ו י",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-11",
+      "jbo:text": "מצודת דוד  האזכה. ר''ל אשר היה ראוי להם לומר הנה הואיל וכן הוא שעדיין לא שבנו וכי אמצא זכות במאזני הרשע אשר עמדי ובכיס אבני המרמה ר''ל איך אוכל להצטדק במשפט אם עדיין העון שמור אצלינו :",
+      "rdfs:label": "מצודת דוד מיכה ו יא",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-11",
+      "jbo:text": "מצודת ציון  האזכה. מלשון זכות : במאזני. כף המאזנים : ובכיס. אמתחת ושק ישימו בו אבני המשקל :",
+      "rdfs:label": "מצודת ציון מיכה ו יא",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-12",
+      "jbo:text": "מצודת דוד  עשיריה. עשירי העיר ההיא : ולשונם רמיה בפיהם. לשונם תדבר רמיה בפיהם כי הלשון היא המדברת בתוך הפה :",
+      "rdfs:label": "מצודת דוד מיכה ו יב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-6-13",
+      "jbo:text": "רש\"י  החליתי הכותך. האנשתי מכותיך חזקות וחולות ואנושו' : השמם. להשמימך על חטאתיך :",
+      "rdfs:label": "רש\"י מיכה ו יג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-6-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-13",
+      "jbo:text": "מצודת דוד  וגם אני. ר''ל הואיל וכן עשו לכן גם אני מוכן להפליא אותך : הכותך. במה שאכה אותך מכה חזקה ולהשמים אותך בעבור חטאותיך :",
+      "rdfs:label": "מצודת דוד מיכה ו יג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-13",
+      "jbo:text": "מצודת ציון  החליתי. מלשון חולי : הכותך. מלשון הכאה : השמם. מלשון שממון :",
+      "rdfs:label": "מצודת ציון מיכה ו יג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-6-14",
+      "jbo:text": "רש\"י  וישחך בקרבך. המאכל שתאכל אכניס בו מארה בתוך המעים ויגרום לך חולי שתהא חולה והולך שחוח וכן מפרש אותו בספרי מניין אף בתוך המעים ת''ל וישחך בקרבך בפרשת והיה עקב במדרש תמיד עיני ה' אלהיך בה ואף יונתן תירגם כן ויהי לך למרע מתא במעיך : ותסג. את אויביך המוליכים בניך ובנותיך בשבי ולא תפלטם ואם תפלטם סופם לחרב ומשמו של ר' מנחם שמעתי ותסג לתאות תשמיש ולא תפליט לא יהי' לך כח לפלוט שכבת זרע ואם תפלטם סופה לחרב אתן אתכם וי''ת ל' הראשון :",
+      "rdfs:label": "רש\"י מיכה ו יד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-6-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-14",
+      "jbo:text": "מצודת דוד  ולא תשבע. כי תהיה המארה במעים : וישחך בקרבך. ותשאר א''כ הכנעתך בקרבך כי כשהאדם שבע רם לבבו אבל כשהוא רעב הוא שפל ומוכנע : ותסג. אף אם תשיג את האויב המוליכים את בניך בשבי עכ''ז לא תוכל להציל אותם מידו ומה אשר תציל מידו אתן לחרב כי יגבר יד האויב להכותם נפש אף אם לא יגבר ידו לקחתם בשבי :",
+      "rdfs:label": "מצודת דוד מיכה ו יד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-14",
+      "jbo:text": "מצודת ציון  וישחך. ענין שפלות והכנעה כמו וישח אדם (ישעיה ב') : ותסג. ענין השגה וקרוב וכן לא יסג כלימות (לעיל ב') : תפליט. ענין הצלה כמו רני פלט (תהלים ל''ב) :",
+      "rdfs:label": "מצודת ציון מיכה ו יד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-15",
+      "jbo:text": "מצודת דוד  ולא תקצור. כי האויב יקצרוהו לעצמו : ולא תסוך שמן. לא תסוך עם השמן כי העכו''ם יקחהו : ותירוש. תדרוך את ענבי היין :",
+      "rdfs:label": "מצודת דוד מיכה ו טו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-15",
+      "jbo:positionInPerek": "15"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-15",
+      "jbo:text": "מצודת ציון  תדרוך. הדרך לדרוך ברגל על הזתים להוציא השמן : תסוך. ענין משיחה : ותירוש. ענבי היין :",
+      "rdfs:label": "מצודת ציון מיכה ו טו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-15",
+      "jbo:positionInPerek": "15"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-6-16",
+      "jbo:text": "רש\"י  וישתמר חוקות עמרי. וידעתי כי לא תשמעו אלי כי ישתמר על ידיכם וביניכם כל חוקות עמרי ואחאב : וחרפת עמי תשאו. אתם תקבלון עון החרפה שהעכו''ם מחרפין את עמי שהעידה בהם תורה על כך (דברים כה) לא יהיה לך איפ' ואיפה והם אינם שומרים :",
+      "rdfs:label": "רש\"י מיכה ו טז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-6-16",
+      "jbo:positionInPerek": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-6-16",
+      "jbo:text": "מצודת דוד  וישתמר. ר''ל עם כל הייעודים הרעים ההם ידעתי שלא תשמעו לי ויהי נשמר על ידכם חקות עמרי וכל מעשה בית אחאב בנו שהיו מלכי ישראל והרשיעו לעשות בעבודת הפסילים והנה אתם לומדים מהם ושומרים את החקים והמעשים האלו : במועצותם. של עמרי ואחאב בנו : למען תתי. ר''ל שיהיה זה סבה שאתן אותך ירושלים לשמה הכל יתמהו על חרבנך ויושבי העיר יהיו לשרקה כי העכו''ם ישרקו על גודל האבדון : וחרפת עמי תשאו. גם אתם תשאו החרפה שסבלו עמי הם בני עשרת השבטים להיות גולים כמותם הואיל ואחזתם בדרכיהם :",
+      "rdfs:label": "מצודת דוד מיכה ו טז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-6-16",
+      "jbo:positionInPerek": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-6"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-6-16",
+      "jbo:text": "מצודת ציון  במועצותם. מלשון עצה : לשמה. ענין תמהון : לשרקה. הוא קול הבאה בקבוץ השפתים והדרך לעשותם כשרואים דבר חשוב שנחרב וכן לשמה ולשרקה (ירמיה יט) : תשאו. מלשון משא וסבל :",
+      "rdfs:label": "מצודת ציון מיכה ו טז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-6-16",
+      "jbo:positionInPerek": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-1",
+      "jbo:text": "רש\"י  אללי לי. הנביא מקונן על עצמו אוי לי שהועמדתי לנביא בעת הזאת שאין בנ''א צדיקים בדור : כאספי קיץ. נקוד חטף קמץ שאינו ל' פועל כמו יושב אומר אלא לשון מפעל כמו (ישעיה לג) אוסף החסיל כאסיפת קיץ והם סופי תאינים שהן רעות וכן תרגם יונתן כסיופי קייטא : כעוללות בציר. ת''י כעוללן בתר קטוף : אין אשכול לאכול. כתרגומו לית גבר דביה עובדין טבין : בכורה. תאינה טובה המתבשלת בעתה כתרגומו לטביא חמדת נפשי :",
+      "rdfs:label": "רש\"י מיכה ז א",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-1",
+      "jbo:text": "מצודת דוד  אללי לי. הנביא מקונן ואומר אללי לי כי הייתי אני כבזמן אסיפת פירות הקיץ כאלו כבר נאספו כולם ולא נמצא עוד בשדה ר''ל הועמדתי לנביא בזמן שנאספו צדיקי הדור : כעוללות בציר. כאלו כבר נאספו אף העוללות של הבציר הנלקט באחרונה ר''ל אף הבינוניים נאספו: אין אשכול לאכול. אין אני מוצא אשכול של ענבים לאכול ר''ל אין אני מוצא איש צדיק בדור: בכורה. נפשי מתאות תאנה בכורה אשר שנתבשלה בעתה הטובה למאכל וכאומר הנה נפשי אותה ואין לה והוא כפל ענין במ''ש:",
+      "rdfs:label": "מצודת דוד מיכה ז א",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-1",
+      "jbo:text": "מצודת ציון  אללי. מלשון יללה וכן אם רשעתי אללי לי (איוב י) : קיץ. ר''ל פירוח הקיץ. כעוללות. הם הענבים הגרועים הנלקטים בסוף : בציר. כן יקרא תלישת הענבים כמו כי תבצור כרמך (דברים כ''ד) : אשכול. כן יקרא הענף שהענבים תלוים בו כמו ואשכול ענבים (במדבר י''ג) : בכורה. כן יקרא פרי שנגמר בשולה כמו כבכורה בתאנה בראשיתה (הושע ט) : אותה. מלשון תאוה וחשק :",
+      "rdfs:label": "מצודת ציון מיכה ז א",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-2",
+      "jbo:text": "רש\"י  וישר באדם אין. אדם ישר בבני אדם אין : יצודו חרם. יצודו בחרמם ובמצודתם :",
+      "rdfs:label": "רש\"י מיכה ז ב",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-2",
+      "jbo:text": "מצודת דוד  אבד חסיד. עתה יפרש המשל ויאמר הנה אבד חסיד מן הארץ ואין איש ישר בין בני אדם: לדמים יארובו. מארבים לשפוך דם: יצודו חרם. יצוד אותו ברשתו:",
+      "rdfs:label": "מצודת דוד מיכה ז ב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-2",
+      "jbo:text": "מצודת ציון  יארבו. מלשון אורב : יצודו. מלשון צדייה : חרם. כמו בחרם והוא הרשת וכן משטח חרמים (יחזק' כו) :",
+      "rdfs:label": "מצודת ציון מיכה ז ב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-3",
+      "jbo:text": "רש\"י  על הרע כפים להטיב. על שכר הרעת כפיכם אתם מקוים שיטיב לכם : השר שואל. שוחד : והשופט. הדן את הדין גם הוא בשילום אומר לשופט חבירו כשהוא גזלן ומחויב בדין שלם לי גמולי בזה ואני אזכה אותך בדין אחר : והגדול דובר הות נפשו. המלך או הנשיא אומר בדין רצון נפשו הות נפשו דבר ההוה לרצונו ולנפשו כמו (ירמיה טו) אין נפשי אל העם הזה וכן ת''י תחמודי נפשיה : ויעבתוה. עשאוה קליעה של חטא בין שלשתן כעבותות העגלה חטאה שהעבות משולשת היא כך מצאתי בתרגו' ירושלמי עבדנוה כקליעה דחובין :",
+      "rdfs:label": "רש\"י מיכה ז ג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-3",
+      "jbo:text": "מצודת דוד  על הרע כפים להיטיב. ר''ל יתנו דעתם על הרע אשר בכפיהם להטיבו ולחזקו : השר שואל. ר''ל בזה יחזקו את הרע כי השר שביניהם שואל השוחד בפה מלא למען יטה המשפט : והשופט בשלום. ר''ל אין כוונת השופט להוציא הדין לאמיתו אבל כל כוונתו בעבור תשלום שכרו : והגדול. הוא אשר בידו לכוף על קיום המשפט : דובר הות נפשו הוא. עוד הוא מבזה ומדבר שברון נפש אל מול זה שהטו את משפטו לחייבו שלא כדין : ויעבתוה. השר והשופט והגדול שביניכם מחזקים את הרע כחבל עב :",
+      "rdfs:label": "מצודת דוד מיכה ז ג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-3",
+      "jbo:text": "מצודת ציון  להיטיב. ענין חוזק כמו ההיטיב חרה לך (יונה ד') : הות. ענין שברון נפש וכן הות לאביו בן כסיל (משלי י''ט) : ויעבתוה. ר''ל יחזקו כחבל עב :",
+      "rdfs:label": "מצודת ציון מיכה ז ג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-4",
+      "jbo:text": "רש\"י  טובם כחדק. טבא דאית בהון קשה למיפק מן ידיה כד מן חדקא קשה לצאת מידו כמו הקוצים הנסבכין בצמר : ישר ממסוכה. ישר שבהם רע ממסוכת קוצים ומסוכה כמו (ישעיה ה) הסר מסוכתו : יום מצפיך. יום שאתה מצפה בו לטובה תבוא פקודתך : מבוכתם. עירבוליהון כמו (שמות יד) נבוכין הם מהומתם :",
+      "rdfs:label": "רש\"י מיכה ז ד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-4",
+      "jbo:text": "מצודת דוד  טובם. הטוב שבהם הוא כקוץ מכאיב והישר שבהם הוא קשה מן המסוכה הוא גדר העשוי ע''פ רוב מן הקוצים : יום מצפיך. לכן יום שאתה מצפה בו לטובה באה זכרון עונותיך בקבלת הגמול והנה עתה בזמן קרוב תהי' מבוכתם ובלבול דעתם לבל ידעו מה לעשות :",
+      "rdfs:label": "מצודת דוד מיכה ז ד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-4",
+      "jbo:text": "מצודת ציון  כחדק. הוא מין קוץ כמו כמשוכת חדק (שם ט''ו) : ממסוכה. הוא הגדר ועם הוא בסמ''ך וכן ויסך אלוה בעדו (איוב ג') : מצפיך. ענין תוחלת ותקוה כמו אערך לך ואצפה (תהלים ה') : פקדתך. ענין זכרון : מבוכתם. ענין בלבול הדעת כמו נבוכים הם בארץ (שמות י''ד) :",
+      "rdfs:label": "מצודת ציון מיכה ז ד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-5",
+      "jbo:text": "רש\"י  אל תאמינו בריע. כמשמעו ורבותינו פירשו כלפי מעלה אל תחטאו ותאמרו הקב''ה אוהבינו והוא ימחול לנו : משוכבת חיקך. נשמתך היא תעיד בך : פתחי פיך. דברי פיך פתיחות פיך :",
+      "rdfs:label": "רש\"י מיכה ז ה",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-5",
+      "jbo:text": "מצודת דוד  אל תאמינו ברע. הנה בזמן הזה אל תאמינו איש ברעהו ואל תבטחו בהבטחת שר עם כי מעולם דרך השר הוא לקיים הבטחתו הנה עתה אל תבטחו בו : משוכבת חיקך. מאשתך השוכבת בחיקך שמור פתחי פיך לבל תדבר דבר שראוי להסתיר כי גם היא תגלה מצפוניך :",
+      "rdfs:label": "מצודת דוד מיכה ז ה",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-5",
+      "jbo:text": "מצודת ציון  באלוף. ענין שררה כמו אלופי אדום (שם ט''ו) : פתחי פיך. על השפתים יאמר בדרך שאלה :",
+      "rdfs:label": "מצודת ציון מיכה ז ה",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-6",
+      "jbo:text": "מצודת דוד  כי בן מנבל אב. הדור פרוץ כ''כ כי הבן מדבר באביו דברי נבלה וגנות והבת קמה באמה לחרפה ולגדפה וכן כלה קמה בחמותה : אויבי איש אנשי ביתו. אף אנשי ביתו של האיש המה לו לאויבים :",
+      "rdfs:label": "מצודת דוד מיכה ז ו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-6",
+      "jbo:text": "מצודת ציון  מנבל. ענין גנות וכעור כמו כי נבל נבלה ידבר (ישעיה ל''ב) : כלה. כן תקרא אשת הבן : בחמתה. כן תקרא אם הבעל :",
+      "rdfs:label": "מצודת ציון מיכה ז ו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-7",
+      "jbo:text": "רש\"י  ואני בה' אצפה. הנביא אומר כן :",
+      "rdfs:label": "רש\"י מיכה ז ז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-7",
+      "jbo:text": "מצודת דוד  ואני בה' אצפה. ר''ל אבל עכ''ז אצפה בהבטחת ה' ואקוה לאלהי ישעי אשר ישמעני אלהי בקראי אליו מצרתי :",
+      "rdfs:label": "מצודת דוד מיכה ז ז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-7",
+      "jbo:text": "מצודת ציון  אצפה. ענין תקוה : אוחילה. מלשון תוחלת ותקוה כמו יחל ישראל (תהלים ק''ל) :",
+      "rdfs:label": "מצודת ציון מיכה ז ז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-8",
+      "jbo:text": "רש\"י  אל תשמחי אויבתי. בבל ועיר החייבת רומי (ס''א בבל ופרס החייבת) :",
+      "rdfs:label": "רש\"י מיכה ז ח",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-8",
+      "jbo:text": "מצודת דוד  אל תשמחי. לכן אל תשמחי אויבתי עלי לחשוב שלא אוסיף לקום כי פעמים רבות נפלתי ואח''ז קמתי וכן עתה בגלות הזה עם כי אשב בחושך ה' יאיר לי :",
+      "rdfs:label": "מצודת דוד מיכה ז ח",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-9",
+      "jbo:text": "מצודת דוד  זעף ה' אשא. הן עתה אני סובל זעף ה' כי חטאתי לו וכן אסבול עד אשר ישלים לריב עמדי הריב הראוי לי בגמול החטא ויכלה לעשות בי משפט הראוי לי ואח''ז יוציאני לאור ואראה בצדקתו שיעשה לי ולא לעולם יריב :",
+      "rdfs:label": "מצודת דוד מיכה ז ט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-9",
+      "jbo:text": "מצודת ציון  זעף. כעס וחימה : אשא. אסבול :",
+      "rdfs:label": "מצודת ציון מיכה ז ט",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-10",
+      "jbo:text": "מצודת דוד  ותרא. וכאשר תראה אויבתי במרבית הצדקה הנעשה לי תהיה מכוסה בבושה אשר אמרה אלי בזמן הגלות אין ה' מדוע לא יגאלך : עיני תראינה בה וגו'. מה שחפצה לראות מן הנקם כי אז תהיה למרמס הרגל כטיט המושלך בחוצות :",
+      "rdfs:label": "מצודת דוד מיכה ז י",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-10",
+      "jbo:text": "מצודת ציון  למרמס. ענין דריסת הרגל : חוצות. שווקים :",
+      "rdfs:label": "מצודת ציון מיכה ז י",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-11",
+      "jbo:text": "רש\"י  יום לבנות גדריך. מוסב על האומרה אלי ועוד היא אומרת אלי יום לבנות גדריך שאת מצפה לו אותו היום ירחק חוקו זמנו יאריך ולא יבא לעולם :",
+      "rdfs:label": "רש\"י מיכה ז יא",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-11",
+      "jbo:text": "מצודת דוד  יום לבנות. ר''ל יבוא יום לבנות גדרי חרבותיך וביום ההוא ירחק ממך חוק העכו''ם אשר הטילו עליך מאז חוק המס והשעבוד :",
+      "rdfs:label": "מצודת דוד מיכה ז יא",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-11",
+      "jbo:text": "מצודת ציון  גדריך. מלשון גדר וכותל : חק. ענין דבר קבוע :",
+      "rdfs:label": "מצודת ציון מיכה ז יא",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-12",
+      "jbo:text": "רש\"י  יום הוא ועדיך יבא. הנביא אומר אותו היום שאתם מלעיגים עליו לאמר בטל והלך לו יום ההוא שמור ונצור ולא בטל עדיך יבא בבל להחריבך : למני אשור. אשר הוא ראש למרענו : וערי מצור. כלומר ועד ערי מצור ויונתן תרגם ודמן חורמיני רבתא : וים מים. והיושבים על ים האחרון אשר הוא במערב : והר ההר. כמו ויושבי ההר ויונתן לא כן תרגם : יום לבנות גדריך. הנביא מבשרו לישראל שיש יום כמוס ומוכן לבנות גדרות חרבותיהן יום ההוא ירחק ויבטל מעליכם חק גזירות הבבליים ופרסיים : יום הוא ועדיך יבא. בעידנא ההיא יתכנשון גלוותא דישראל דמן אתור וגו' :",
+      "rdfs:label": "רש\"י מיכה ז יב",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-12",
+      "jbo:text": "מצודת דוד  יום הוא. ר''ל אז יאיר לך הזמן כאור היום : ועדיך יבוא. כל העכו''ם יבואו אליך ירושלים להיות סרים למשמעתך : למני אשור. מן אשור ואף מערי המבצר שבה כי לא יתחזקו במשגב המבצר : ולמני מצור. מן ערי המבצר ועד נהר הוא נהר פרת העומד בגבול א''י ומשם והלאה הוא ארץ העמים : וים. מלת ועד משמשת בשתים כאילו אמר ועד ים מים ר''ל מקצה המערב ועד ים המערבי שהוא גבול א''י : והר ההר. ר''ל מקצה העולם ועד הר ההר העומד בגבול א''י כמ''ש תתאו לכם הר ההר (במדבר לד) :",
+      "rdfs:label": "מצודת דוד מיכה ז יב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-12",
+      "jbo:text": "מצודת ציון  ועדיך. אליך כמו תגע עדיך (איוב ד') : למני. כמו למן והיו''ד נוספת וכן מני אפרים (שופטים ה') : מצור. ענין מבצר :",
+      "rdfs:label": "מצודת ציון מיכה ז יב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-13",
+      "jbo:text": "רש\"י  והיתה הארץ. ארץ הבבליים ופרסיי' :",
+      "rdfs:label": "רש\"י מיכה ז יג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-13",
+      "jbo:text": "מצודת דוד  והיתה הארץ. ארץ הכשדים תהפך לשממה עם יושב בה מגמול מעשיהם מה שהרעו לישראל :",
+      "rdfs:label": "מצודת דוד מיכה ז יג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-13",
+      "jbo:text": "מצודת ציון  על יושביה. עם יושביה :",
+      "rdfs:label": "מצודת ציון מיכה ז יג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-14",
+      "jbo:text": "רש\"י  שוכני לבדד. שיהא שוכן בטח בדד : יער בתוך כרמל. ת''י דהוי צדין בחורשא יתיתבון ככרמלא אותן שהיו שוממים כיערות ישכנו לבדד בתוך כרמל שהוא מקום מיושב ויש לפרש שוכני לבדד ביערים לא יראו מחיות השדה כבתוך כרמל :",
+      "rdfs:label": "רש\"י מיכה ז יד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-14",
+      "jbo:text": "מצודת דוד  רעה עמך. חזר הנביא להתפלל לה' ואמר אתה ה' רעה והנהג את עמך בשבטך ולפי שהמשילו לרועה אמר לשון הנופל ברועה שמנהיג את הצאן ע''י השבט שבידו : צאן נחלתך. ישראל שהם צאן נחלתך שהנחלתו לך לעם יהיה שוכן לבדד ר''ל בטח כי המתפחדים ישכנו יחד למען איש אחיו יעזורו ולא כן השוכן בטח : יער בתוך כרמל. ר''ל ישכון בטח ביער שהוא מקום חיות רעות כמו בתוך הכרמל שהוא מקום מצוי שם מרבית אנשים ולא ילכו שם החיות וכענין שנאמר וישנו ביערים (יחזקאל לד) : ירעו בשן וגלעד. יהיו רועים בבשן ובגלעד במרעה שמן כמו בימי עולם הוא ימי משה שנחלו אז הארץ ההיא ונתנה לנחלה לראובני ולגדי ולחצי שבט מנשה :",
+      "rdfs:label": "מצודת דוד מיכה ז יד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-14",
+      "jbo:text": "מצודת ציון  רעה. ענין הנהגה : שוכני. היו''ד יתירה : לבדד. יחידי כמו לבדד לבטח תושיבני (תהלים ד') : כרמל. כן יקרא מקום שדות וכרמים :",
+      "rdfs:label": "מצודת ציון מיכה ז יד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-15",
+      "jbo:text": "מצודת דוד  כימי צאתך וגו'. כאלו הקב''ה משיבו לאמר שמעתי את תפלתך וכן אעשה וכמו ימי צאתך מארץ מצרים כן אראנו נפלאות :",
+      "rdfs:label": "מצודת דוד מיכה ז טו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-15",
+      "jbo:positionInPerek": "15"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-16",
+      "jbo:text": "מצודת דוד  מכל גבורתם. שלא עמדה להם להתחזק על ישראל : ישימו יד וגו'. ר''ל לא יוכלו לדבר מרוב תמהון : אזניהם תחרשנה. ר''ל לא יאבו לשמוע מרבית הצלחת ישראל שהיא להם לעגמת נפש וכאלו תחרשנה אזניהם לבל יוכלו לשמוע :",
+      "rdfs:label": "מצודת דוד מיכה ז טז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-16",
+      "jbo:positionInPerek": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-16",
+      "jbo:text": "מצודת ציון  תחרשנה. מלשון חרש שאינו שומע :",
+      "rdfs:label": "מצודת ציון מיכה ז טז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-16",
+      "jbo:positionInPerek": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-17",
+      "jbo:text": "רש\"י  כזוחלי ארץ. הם נחשים הזוחלי' על גחונם בעפר הארץ : ירגזו ממסגרותיהם. יחרדו מרוב דוחק איסוריהם ומסגר כלאם :",
+      "rdfs:label": "רש\"י מיכה ז יז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-17",
+      "jbo:positionInPerek": "17"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-17",
+      "jbo:text": "מצודת דוד  ילחכו עפר כנחש. ר''ל אפים ארץ ישתחוו לישראל ויהיה נראה כאלו מלחכים עפר רגליהם כנחש הזה שמלחך את העפר כי זהו לחמו : כזוחלי ארץ. הם הנחשים ההולכים על גחון ונראים כזוחלים וכפל הדבר במ''ש : ירגזו ממסגרותיהם. יחרדו ממה שסגרו את ישראל בבתי כלאים עוד משלו בהם כי ידאגו מן הנקם : אל ה' וגו'. יפחדו את ה' וגם יראו ממך אתה ישראל :",
+      "rdfs:label": "מצודת דוד מיכה ז יז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-17",
+      "jbo:positionInPerek": "17"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-17",
+      "jbo:text": "מצודת ציון  ילחכו. ענין לקיקה בלשון כמו ועפר רגליך ילחכו (ישעיה מ''ט) : כזוחלי. ענין נגירה והזלה בארץ ובדרז''ל כל הימים מטהרים בזוחלין (שבת ס''ט) ויקרא הנחש כן לפי שאין לו רגלים והלוכו נראה כזוחל ונגרר וכן חמת זוחלי עפר (דברים ל''ב) : ירגזו. ענין חרדה : ממסגרותיהם. מלשון סגירה : אל ה'. את ה' :",
+      "rdfs:label": "מצודת ציון מיכה ז יז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-17",
+      "jbo:positionInPerek": "17"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-18",
+      "jbo:text": "מצודת דוד  מי אל כמוך. חזר הנביא לשבח לה' על ייעוד הטובה ואמר מי אל כמוך נושא עון וגומר כאומר הנה משורת הדין אין אנו ראויים לכל הטובה ההיא כי אנו מלאי עון אבל מי הוא אל כמוך המוחל את העון : ועובר על פשע. ר''ל אינו עומד על הפשע להשגיח בו לשלם עליו גמול אלא עובר על הפשע והולך להלאה כאלו לא יראנה : לשארית נחלתו. לאותם שנשארו מחבלי משיח : לא החזיק וגו'. אף כשהוא כועס אינו אוחז אפו עד עולם כי הוא חפץ חסד ולכן יתרצה על הכעס :",
+      "rdfs:label": "מצודת דוד מיכה ז יח",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-18",
+      "jbo:positionInPerek": "18"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-18",
+      "jbo:text": "מצודת ציון  נושא. ענין מחילה כמו נשאת עון עמך (תהלים פ''ה) : החזיק. ענין אחוזה :",
+      "rdfs:label": "מצודת ציון מיכה ז יח",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-18",
+      "jbo:positionInPerek": "18"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-19",
+      "jbo:text": "מצודת דוד  ישוב ירחמנו. כאשר מאז : יכבוש. יתפוש בחזקה את עונותינו למען לא יהיו נפרעין מאתנו גמול העונש : ותשליך וגו'. ר''ל לא תזכור לענוש עליהם כאלו השלכתם בעומק הים שאינם נראים :",
+      "rdfs:label": "מצודת דוד מיכה ז יט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-19",
+      "jbo:positionInPerek": "19"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-20-7-19",
+      "jbo:text": "מצודת ציון  יכבוש. ענין תפישה בחזקה כמו ויכבשום לעבדים (ירמיה ל''ד) : במצלות. ענין עומק כמו ואת רודפיהם השלכת במצולות (שמות ט') :",
+      "rdfs:label": "מצודת ציון מיכה ז יט",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-20-7-19",
+      "jbo:positionInPerek": "19"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-rashi-20-7-20",
+      "jbo:text": "רש\"י  תתן אמת ליעקב. ת''י תתיהב קושטיה דיעקב לבנוהי כמה דקיימתא ליה בבית אל טבות אברהם לזרעיה בתרוהי כמה דקיימתא ליה בין בתריא תדכר לנא עקידת יצחק תתן לנו באמת אשר הבטחת ליעקב האמת לנו דבריך אשר הבטחת ליעקב כי לא אעזבך (בראשית כט) : חסד לאברהם. שכר חסד אשר לאברהם אשר צוה לבניו לשמור דרך ה' לעשו' צדקה ומשפט ולכך לא נאמר וחסד אלא חסד האמת שתאמת לנו את הבטחת יעקב היא תהיה תשלום גמול חסדו של אברהם : אשר נשבעת. בעקידתו של יצחק בי נשבעתי נאם ה' יען אשר עשית וגומר :",
+      "rdfs:label": "רש\"י מיכה ז כ",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-20-7-20",
+      "jbo:positionInPerek": "20"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-20-7"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-20-7-20",
+      "jbo:text": "מצודת דוד  תתן וגו'. ר''ל האמת לנו דברך אשר הבטחת ליעקב כמ''ש ופרצת ימה וקדמה וגו' (בראשית כח) : חסד לאברהם. ר''ל היא תהיה תשלום גמול חסדו של אברהם וכאשר נשבעת לאבותינו מימי קדם בעקידתו של יצחק כמ''ש בי נשבעתי וגו' וירש זרעך את שער אויביו (שם כב) :",
+      "rdfs:label": "מצודת דוד מיכה ז כ",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-20-7-20",
+      "jbo:positionInPerek": "20"
+    }
+  ]
+}
