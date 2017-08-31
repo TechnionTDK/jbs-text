@@ -1,0 +1,28 @@
+{
+  "subjects": [
+    {
+      "jbo:book": "jbr:book-beityosef",
+      "jbo:position": "1",
+      "uri": "jbr:section-beityosef-1",
+      "rdfs:label": "בית יוסף - טור אורח חיים"
+    },
+    {
+      "jbo:book": "jbr:book-beityosef",
+      "jbo:position": "2",
+      "uri": "jbr:section-beityosef-2",
+      "rdfs:label": "בית יוסף - טור יורה דעה"
+    },
+    {
+      "jbo:book": "jbr:book-beityosef",
+      "jbo:position": "3",
+      "uri": "jbr:section-beityosef-3",
+      "rdfs:label": "בית יוסף - טור אבן העזר"
+    },
+    {
+      "jbo:book": "jbr:book-beityosef",
+      "jbo:position": "4",
+      "uri": "jbr:section-beityosef-4",
+      "rdfs:label": "בית יוסף - טור חושן משפט"
+    }
+  ]
+}

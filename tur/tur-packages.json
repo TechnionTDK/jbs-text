@@ -1,0 +1,28 @@
+{
+  "subjects": [
+    {
+      "jbo:book": "jbr:book-tur",
+      "uri": "jbr:section-tur-1",
+      "jbo:position": "1",
+      "rdfs:label": "טור אורח חיים"
+    },
+    {
+      "jbo:book": "jbr:book-tur",
+      "uri": "jbr:section-tur-2",
+      "jbo:position": "2",
+      "rdfs:label": "טור יורה דעה"
+    },
+    {
+      "jbo:book": "jbr:book-tur",
+      "uri": "jbr:section-tur-3",
+      "jbo:position": "3",
+      "rdfs:label": "טור אבן העזר"
+    },
+    {
+      "jbo:book": "jbr:book-tur",
+      "uri": "jbr:section-tur-4",
+      "jbo:position": "4",
+      "rdfs:label": "טור חושן משפט"
+    }
+  ]
+}
