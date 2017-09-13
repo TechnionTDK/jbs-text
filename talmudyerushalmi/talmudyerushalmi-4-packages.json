@@ -1,0 +1,10 @@
+{
+  "subjects": [
+    {
+      "jbo:book": "jbr:book-yerushalmi",
+      "jbo:position": "1",
+      "uri": "jbr:section-yerushalmi-4",
+      "rdfs:label": "תלמוד ירושלמי - מסכת כלאים"
+    }
+  ]
+}

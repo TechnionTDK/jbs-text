@@ -1,0 +1,10 @@
+{
+  "subjects": [
+    {
+      "jbo:book": "jbr:book-yerushalmi",
+      "jbo:position": "1",
+      "uri": "jbr:section-yerushalmi-7",
+      "rdfs:label": "תלמוד ירושלמי - מסכת מעשרות"
+    }
+  ]
+}

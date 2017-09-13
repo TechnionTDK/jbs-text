@@ -1,0 +1,10 @@
+{
+  "subjects": [
+    {
+      "jbo:book": "jbr:book-yerushalmi",
+      "jbo:position": "1",
+      "uri": "jbr:section-yerushalmi-32",
+      "rdfs:label": "תלמוד ירושלמי - מסכת בבא מציעא"
+    }
+  ]
+}
