@@ -1,0 +1,214 @@
+{
+  "subjects": [
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-1",
+      "jbo:position": "1",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק א"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-2",
+      "jbo:position": "2",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק ב"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-3",
+      "jbo:position": "3",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק ג"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-4",
+      "jbo:position": "4",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק ד"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-5",
+      "jbo:position": "5",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק ה"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-6",
+      "jbo:position": "6",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק ו"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-7",
+      "jbo:position": "7",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק ז"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-8",
+      "jbo:position": "8",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק ח"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-9",
+      "jbo:position": "9",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק ט"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-10",
+      "jbo:position": "10",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק י"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-11",
+      "jbo:position": "11",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק יא"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-12",
+      "jbo:position": "12",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק יב"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-13",
+      "jbo:position": "13",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק יג"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-14",
+      "jbo:position": "14",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק יד"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-15",
+      "jbo:position": "15",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק טו"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-16",
+      "jbo:position": "16",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק טז"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-17",
+      "jbo:position": "17",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק יז"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-18",
+      "jbo:position": "18",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק יח"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-19",
+      "jbo:position": "19",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק יט"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-20",
+      "jbo:position": "20",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק כ"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-21",
+      "jbo:position": "21",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק כא"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-22",
+      "jbo:position": "22",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק כב"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-23",
+      "jbo:position": "23",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק כג"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-24",
+      "jbo:position": "24",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק כד"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-25",
+      "jbo:position": "25",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק כה"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-26",
+      "jbo:position": "26",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק כו"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-27",
+      "jbo:position": "27",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק כז"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-28",
+      "jbo:position": "28",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק כח"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-29",
+      "jbo:position": "29",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק כט"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-30",
+      "jbo:position": "30",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק ל"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-31",
+      "jbo:position": "31",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק לא"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-32",
+      "jbo:position": "32",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק לב"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-33",
+      "jbo:position": "33",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק לג"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-34",
+      "jbo:position": "34",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק לד"
+    },
+    {
+      "jbo:book": "jbr:book-mekhiltaderabbiyishmael",
+      "uri": "jbr:section-mekhiltaderabbiyishmael-35",
+      "jbo:position": "35",
+      "rdfs:label": "מכילתא דרבי ישמעאל פרק לה"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "subjects": [
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-1",
+      "jbo:position": "1",
+      "rdfs:label": "מדרש תנחומא פרשת בראשית"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-2",
+      "jbo:position": "2",
+      "rdfs:label": "מדרש תנחומא פרשת נח"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-3",
+      "jbo:position": "3",
+      "rdfs:label": "מדרש תנחומא פרשת לך לך"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-4",
+      "jbo:position": "4",
+      "rdfs:label": "מדרש תנחומא פרשת וירא"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-5",
+      "jbo:position": "5",
+      "rdfs:label": "מדרש תנחומא פרשת חיי שרה"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-6",
+      "jbo:position": "6",
+      "rdfs:label": "מדרש תנחומא פרשת תולדות"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-7",
+      "jbo:position": "7",
+      "rdfs:label": "מדרש תנחומא פרשת פרשת ויצא"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-8",
+      "jbo:position": "8",
+      "rdfs:label": "מדרש תנחומא פרשת וישלח"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-9",
+      "jbo:position": "9",
+      "rdfs:label": "מדרש תנחומא פרשת וישב"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-10",
+      "jbo:position": "10",
+      "rdfs:label": "מדרש תנחומא פרשת מקץ"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-11",
+      "jbo:position": "11",
+      "rdfs:label": "מדרש תנחומא פרשת ויגש"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-12",
+      "jbo:position": "12",
+      "rdfs:label": "מדרש תנחומא פרשת ויחי"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-13",
+      "jbo:position": "13",
+      "rdfs:label": "מדרש תנחומא פרשת שמות"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-14",
+      "jbo:position": "14",
+      "rdfs:label": "מדרש תנחומא פרשת וארא"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-15",
+      "jbo:position": "15",
+      "rdfs:label": "מדרש תנחומא פרשת בא"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-16",
+      "jbo:position": "16",
+      "rdfs:label": "מדרש תנחומא פרשת בשלח"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-17",
+      "jbo:position": "17",
+      "rdfs:label": "מדרש תנחומא פרשת יתרו"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-18",
+      "jbo:position": "18",
+      "rdfs:label": "מדרש תנחומא פרשת משפטים"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-19",
+      "jbo:position": "19",
+      "rdfs:label": "מדרש תנחומא פרשת תרומה"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-20",
+      "jbo:position": "20",
+      "rdfs:label": "מדרש תנחומא פרשת תצוה"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-21",
+      "jbo:position": "21",
+      "rdfs:label": "מדרש תנחומא פרשת כי תשא"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-22",
+      "jbo:position": "22",
+      "rdfs:label": "מדרש תנחומא פרשת ויקהל"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-23",
+      "jbo:position": "23",
+      "rdfs:label": "מדרש תנחומא פרשת פקודי"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-24",
+      "jbo:position": "24",
+      "rdfs:label": "מדרש תנחומא פרשת ויקרא"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-25",
+      "jbo:position": "25",
+      "rdfs:label": "מדרש תנחומא פרשת צו"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-26",
+      "jbo:position": "26",
+      "rdfs:label": "מדרש תנחומא פרשת שמיני"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-27",
+      "jbo:position": "27",
+      "rdfs:label": "מדרש תנחומא פרשת תזריע"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-28",
+      "jbo:position": "28",
+      "rdfs:label": "מדרש תנחומא פרשת מצורע"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-29",
+      "jbo:position": "29",
+      "rdfs:label": "מדרש תנחומא פרשת אחרי מות"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-30",
+      "jbo:position": "30",
+      "rdfs:label": "מדרש תנחומא פרשת קדושים"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-31",
+      "jbo:position": "31",
+      "rdfs:label": "מדרש תנחומא פרשת אמור"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-32",
+      "jbo:position": "32",
+      "rdfs:label": "מדרש תנחומא פרשת בהר"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-33",
+      "jbo:position": "33",
+      "rdfs:label": "מדרש תנחומא פרשת בחוקתי"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-34",
+      "jbo:position": "34",
+      "rdfs:label": "מדרש תנחומא פרשת במדבר"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-35",
+      "jbo:position": "35",
+      "rdfs:label": "מדרש תנחומא פרשת נשא"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-36",
+      "jbo:position": "36",
+      "rdfs:label": "מדרש תנחומא פרשת בהעלותך"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-37",
+      "jbo:position": "37",
+      "rdfs:label": "מדרש תנחומא פרשת שלח"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-38",
+      "jbo:position": "38",
+      "rdfs:label": "מדרש תנחומא פרשת קרח"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-39",
+      "jbo:position": "39",
+      "rdfs:label": "מדרש תנחומא פרשת חקת"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-40",
+      "jbo:position": "40",
+      "rdfs:label": "מדרש תנחומא פרשת בלק"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-41",
+      "jbo:position": "41",
+      "rdfs:label": "מדרש תנחומא פרשת פנחס"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-42",
+      "jbo:position": "42",
+      "rdfs:label": "מדרש תנחומא פרשת מטות"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-43",
+      "jbo:position": "43",
+      "rdfs:label": "מדרש תנחומא פרשת מסעי"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-44",
+      "jbo:position": "44",
+      "rdfs:label": "מדרש תנחומא פרשת דברים"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-45",
+      "jbo:position": "45",
+      "rdfs:label": "מדרש תנחומא פרשת ואתחנן"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-46",
+      "jbo:position": "46",
+      "rdfs:label": "מדרש תנחומא פרשת עקב"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-47",
+      "jbo:position": "47",
+      "rdfs:label": "מדרש תנחומא פרשת ראה"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-48",
+      "jbo:position": "48",
+      "rdfs:label": "מדרש תנחומא פרשת שופטים"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-49",
+      "jbo:position": "49",
+      "rdfs:label": "מדרש תנחומא פרשת כי תצא"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-50",
+      "jbo:position": "50",
+      "rdfs:label": "מדרש תנחומא פרשת כי תבוא"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-51",
+      "jbo:position": "51",
+      "rdfs:label": "מדרש תנחומא פרשת נצבים"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-52",
+      "jbo:position": "52",
+      "rdfs:label": "מדרש תנחומא פרשת וילך"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-53",
+      "jbo:position": "53",
+      "rdfs:label": "מדרש תנחומא פרשת האזינו"
+    },
+    {
+      "jbo:book": "jbr:book-midrashtanchuma",
+      "uri": "jbr:section-midrashtanchuma-54",
+      "jbo:position": "54",
+      "rdfs:label": "מדרש תנחומא פרשת וזאת הברכה"
+    }
+  ]
+}

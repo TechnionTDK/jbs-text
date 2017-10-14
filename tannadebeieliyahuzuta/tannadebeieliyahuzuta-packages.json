@@ -1,0 +1,22 @@
+{
+  "subjects": [
+    {
+      "jbo:book": "jbr:book-tannadebeieliyahuzuta",
+      "uri": "jbr:section-tannadebeieliyahuzuta-1",
+      "jbo:position": "1",
+      "rdfs:label": "תנא דבי אליהו זוטא חלק א - סדר אליהו זוטא"
+    },
+    {
+      "jbo:book": "jbr:book-tannadebeieliyahuzuta",
+      "uri": "jbr:section-tannadebeieliyahuzuta-2",
+      "jbo:position": "2",
+      "rdfs:label": "תנא דבי אליהו זוטא חלק ב - נספחים לסדר אליהו זוטא"
+    },
+    {
+      "jbo:book": "jbr:book-tannadebeieliyahuzuta",
+      "uri": "jbr:section-tannadebeieliyahuzuta-3",
+      "jbo:position": "3",
+      "rdfs:label": "תנא דבי אליהו זוטא חלק ג - הירידות"
+    }
+  ]
+}

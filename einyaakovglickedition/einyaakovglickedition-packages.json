@@ -1,0 +1,190 @@
+{
+  "subjects": [
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-1",
+      "jbo:position": "1",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת ברכות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-2",
+      "jbo:position": "2",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת שבת"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-3",
+      "jbo:position": "3",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת עירובין"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-4",
+      "jbo:position": "4",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת פסחים"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-5",
+      "jbo:position": "5",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת יומא"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-6",
+      "jbo:position": "6",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת סוכה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-7",
+      "jbo:position": "7",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת ביצה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-8",
+      "jbo:position": "8",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת ראש השנה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-9",
+      "jbo:position": "9",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת תענית"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-10",
+      "jbo:position": "10",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת מגילה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-11",
+      "jbo:position": "11",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת מועד קטן"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-12",
+      "jbo:position": "12",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת חגיגה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-13",
+      "jbo:position": "13",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת יבמות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-14",
+      "jbo:position": "14",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת כתובות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-15",
+      "jbo:position": "15",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת נדרים"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-16",
+      "jbo:position": "16",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת נזיר"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-17",
+      "jbo:position": "17",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת גיטין"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-18",
+      "jbo:position": "18",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת סוטה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-19",
+      "jbo:position": "19",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת קידושין"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-20",
+      "jbo:position": "20",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת בבא קמא"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-21",
+      "jbo:position": "21",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת בבא מציעא"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-22",
+      "jbo:position": "22",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת בבא בתרא"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-23",
+      "jbo:position": "23",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת סנהדרין"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-24",
+      "jbo:position": "24",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת מכות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-25",
+      "jbo:position": "25",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת שבועות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-26",
+      "jbo:position": "26",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת עדיות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-27",
+      "jbo:position": "27",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת עבודה זרה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-28",
+      "jbo:position": "28",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת הוריות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-29",
+      "jbo:position": "29",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת זבחים"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-30",
+      "jbo:position": "30",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת מנחות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakovglickedition",
+      "uri": "jbr:section-einyaakovglickedition-31",
+      "jbo:position": "31",
+      "rdfs:label": "עין יעקב (מאת שמואל צבי גליק) - מסכת חולין"
+    }
+  ]
+}

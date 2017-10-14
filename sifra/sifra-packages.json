@@ -1,0 +1,82 @@
+{
+  "subjects": [
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-1",
+      "jbo:position": "1",
+      "rdfs:label": "ספרא פרשת ויקרא דבורא דנדבה"
+    },
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-2",
+      "jbo:position": "2",
+      "rdfs:label": "ספרא פרשת ויקרא דבורא דחובה"
+    },
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-3",
+      "jbo:position": "3",
+      "rdfs:label": "ספרא פרשת צו"
+    },
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-4",
+      "jbo:position": "4",
+      "rdfs:label": "ספרא פרשת שמיני"
+    },
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-5",
+      "jbo:position": "5",
+      "rdfs:label": "ספרא פרשת תזריע - יולדת"
+    },
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-6",
+      "jbo:position": "6",
+      "rdfs:label": "ספרא פרשת תזריע - נגעים"
+    },
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-7",
+      "jbo:position": "7",
+      "rdfs:label": "ספרא פרשת מצורע"
+    },
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-8",
+      "jbo:position": "8",
+      "rdfs:label": "ספרא פרשת מצורע - זבים"
+    },
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-9",
+      "jbo:position": "9",
+      "rdfs:label": "ספרא פרשת אחרי מות"
+    },
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-10",
+      "jbo:position": "10",
+      "rdfs:label": "ספרא פרשת קדושים"
+    },
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-11",
+      "jbo:position": "11",
+      "rdfs:label": "ספרא פרשת אמור"
+    },
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-12",
+      "jbo:position": "12",
+      "rdfs:label": "ספרא פרשת בהר"
+    },
+    {
+      "jbo:book": "jbr:book-sifra",
+      "uri": "jbr:section-sifra-13",
+      "jbo:position": "13",
+      "rdfs:label": "ספרא פרשת בחוקתי"
+    }
+  ]
+}

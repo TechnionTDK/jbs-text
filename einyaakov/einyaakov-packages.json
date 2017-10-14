@@ -1,0 +1,232 @@
+{
+  "subjects": [
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-1",
+      "jbo:position": "1",
+      "rdfs:label": "עין יעקב - מסכת ברכות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-2",
+      "jbo:position": "2",
+      "rdfs:label": "עין יעקב - מסכת שבת"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-3",
+      "jbo:position": "3",
+      "rdfs:label": "עין יעקב - מסכת עירובין"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-4",
+      "jbo:position": "4",
+      "rdfs:label": "עין יעקב - מסכת פסחים"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-5",
+      "jbo:position": "5",
+      "rdfs:label": "עין יעקב - מסכת יומא"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-6",
+      "jbo:position": "6",
+      "rdfs:label": "עין יעקב - מסכת סוכה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-7",
+      "jbo:position": "7",
+      "rdfs:label": "עין יעקב - מסכת ביצה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-8",
+      "jbo:position": "8",
+      "rdfs:label": "עין יעקב - מסכת מגילה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-9",
+      "jbo:position": "9",
+      "rdfs:label": "עין יעקב - מסכת תענית"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-10",
+      "jbo:position": "10",
+      "rdfs:label": "עין יעקב - מסכת חגיגה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-11",
+      "jbo:position": "11",
+      "rdfs:label": "עין יעקב - מסכת יבמות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-12",
+      "jbo:position": "12",
+      "rdfs:label": "עין יעקב - מסכת כתובות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-13",
+      "jbo:position": "13",
+      "rdfs:label": "עין יעקב - מסכת נדרים"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-14",
+      "jbo:position": "14",
+      "rdfs:label": "עין יעקב - מסכת נזיר"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-15",
+      "jbo:position": "15",
+      "rdfs:label": "עין יעקב - מסכת גיטין"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-16",
+      "jbo:position": "16",
+      "rdfs:label": "עין יעקב - מסכת סוטה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-17",
+      "jbo:position": "17",
+      "rdfs:label": "עין יעקב - מסכת קידושין"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-18",
+      "jbo:position": "18",
+      "rdfs:label": "עין יעקב - מסכת סנהדרין"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-19",
+      "jbo:position": "19",
+      "rdfs:label": "עין יעקב - מסכת מכות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-20",
+      "jbo:position": "20",
+      "rdfs:label": "עין יעקב - מסכת שבועות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-21",
+      "jbo:position": "21",
+      "rdfs:label": "עין יעקב - מסכת עדויות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-22",
+      "jbo:position": "22",
+      "rdfs:label": "עין יעקב - מסכת הוריות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-23",
+      "jbo:position": "23",
+      "rdfs:label": "עין יעקב - מסכת זבחים"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-24",
+      "jbo:position": "24",
+      "rdfs:label": "עין יעקב - מסכת מנחות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-25",
+      "jbo:position": "25",
+      "rdfs:label": "עין יעקב - מסכת חולין"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-26",
+      "jbo:position": "26",
+      "rdfs:label": "עין יעקב - מסכת בכורות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-27",
+      "jbo:position": "27",
+      "rdfs:label": "עין יעקב - מסכת ערכין"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-28",
+      "jbo:position": "28",
+      "rdfs:label": "עין יעקב - מסכת תמורה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-29",
+      "jbo:position": "29",
+      "rdfs:label": "עין יעקב - מסכת כריתות"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-30",
+      "jbo:position": "30",
+      "rdfs:label": "עין יעקב - מסכת מעילה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-31",
+      "jbo:position": "31",
+      "rdfs:label": "עין יעקב - מסכת תמיד"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-32",
+      "jbo:position": "32",
+      "rdfs:label": "עין יעקב - מסכת קינים"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-33",
+      "jbo:position": "33",
+      "rdfs:label": "עין יעקב - מסכת כלים"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-34",
+      "jbo:position": "34",
+      "rdfs:label": "עין יעקב - מסכת נגעים"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-35",
+      "jbo:position": "35",
+      "rdfs:label": "עין יעקב - מסכת נידה"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-36",
+      "jbo:position": "36",
+      "rdfs:label": "עין יעקב - מסכת ידיים"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-37",
+      "jbo:position": "37",
+      "rdfs:label": "עין יעקב - מסכת עוקצין"
+    },
+    {
+      "jbo:book": "jbr:book-einyaakov",
+      "uri": "jbr:section-einyaakov-38",
+      "jbo:position": "38",
+      "rdfs:label": "עין יעקב - מסכת מידות"
+    }
+  ]
+}
