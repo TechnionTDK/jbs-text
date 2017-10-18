@@ -4,25 +4,25 @@
       "jbo:book": "jbr:book-darcheimoshe",
       "jbo:position": "1",
       "uri": "jbr:section-darcheimoshe-1",
-      "rdfs:label": "דרכי משה - טור אורח חיים"
+      "rdfs:label": "דרכי משה טור אורח חיים"
     },
     {
       "jbo:book": "jbr:book-darcheimoshe",
       "jbo:position": "2",
       "uri": "jbr:section-darcheimoshe-2",
-      "rdfs:label": "דרכי משה - טור יורה דעה"
+      "rdfs:label": "דרכי משה טור יורה דעה"
     },
     {
       "jbo:book": "jbr:book-darcheimoshe",
       "jbo:position": "3",
       "uri": "jbr:section-darcheimoshe-3",
-      "rdfs:label": "דרכי משה - טור אבן העזר"
+      "rdfs:label": "דרכי משה טור אבן העזר"
     },
     {
       "jbo:book": "jbr:book-darcheimoshe",
       "jbo:position": "4",
       "uri": "jbr:section-darcheimoshe-4",
-      "rdfs:label": "דרכי משה - טור חושן משפט"
+      "rdfs:label": "דרכי משה טור חושן משפט"
     }
   ]
 }
