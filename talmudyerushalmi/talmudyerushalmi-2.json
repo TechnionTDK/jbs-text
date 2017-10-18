@@ -2,8 +2,7 @@
   "subjects": [
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-1"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-1-1",
       "jbo:position": "1",
@@ -13,8 +12,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-1"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-1-2",
       "jbo:position": "2",
@@ -24,8 +22,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-2"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-2-1",
       "jbo:position": "3",
@@ -35,8 +32,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-2"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-2-2",
       "jbo:position": "4",
@@ -46,8 +42,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-3"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-3-1",
       "jbo:position": "5",
@@ -57,8 +52,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-3"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-3-2",
       "jbo:position": "6",
@@ -68,8 +62,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-4"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-4-1",
       "jbo:position": "7",
@@ -79,8 +72,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-4"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-4-2",
       "jbo:position": "8",
@@ -90,8 +82,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-5"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-5-1",
       "jbo:position": "9",
@@ -101,8 +92,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-5"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-5-2",
       "jbo:position": "10",
@@ -112,8 +102,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-6"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-6-1",
       "jbo:position": "11",
@@ -123,8 +112,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-6"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-6-2",
       "jbo:position": "12",
@@ -134,8 +122,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-7"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-7-1",
       "jbo:position": "13",
@@ -145,8 +132,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-7"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-7-2",
       "jbo:position": "14",
@@ -156,8 +142,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-8"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-8-1",
       "jbo:position": "15",
@@ -167,8 +152,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-8"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-8-2",
       "jbo:position": "16",
@@ -178,8 +162,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-9"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-9-1",
       "jbo:position": "17",
@@ -189,8 +172,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-9"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-9-2",
       "jbo:position": "18",
@@ -200,8 +182,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-10"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-10-1",
       "jbo:position": "19",
@@ -210,8 +191,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-10"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-10-2",
       "jbo:position": "20",
@@ -221,8 +201,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-11"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-11-1",
       "jbo:position": "21",
@@ -232,8 +211,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-11"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-11-2",
       "jbo:position": "22",
@@ -243,8 +221,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-12"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-12-1",
       "jbo:position": "23",
@@ -254,8 +231,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-12"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-12-2",
       "jbo:position": "24",
@@ -265,8 +241,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-13"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-13-1",
       "jbo:position": "25",
@@ -276,8 +251,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-13"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-13-2",
       "jbo:position": "26",
@@ -287,8 +261,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-14"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-14-1",
       "jbo:position": "27",
@@ -298,8 +271,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-14"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-14-2",
       "jbo:position": "28",
@@ -309,8 +281,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-15"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-15-1",
       "jbo:position": "29",
@@ -320,8 +291,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-15"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-15-2",
       "jbo:position": "30",
@@ -331,8 +301,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-16"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-16-1",
       "jbo:position": "31",
@@ -342,8 +311,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-16"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-16-2",
       "jbo:position": "32",
@@ -353,8 +321,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-17"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-17-1",
       "jbo:position": "33",
@@ -364,8 +331,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-17"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-17-2",
       "jbo:position": "34",
@@ -375,8 +341,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-18"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-18-1",
       "jbo:position": "35",
@@ -386,8 +351,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-18"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-18-2",
       "jbo:position": "36",
@@ -397,8 +361,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-19"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-19-1",
       "jbo:position": "37",
@@ -407,8 +370,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-19"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-19-2",
       "jbo:position": "38",
@@ -418,8 +380,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-20"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-20-1",
       "jbo:position": "39",
@@ -429,8 +390,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-20"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-20-2",
       "jbo:position": "40",
@@ -440,8 +400,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-21"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-21-1",
       "jbo:position": "41",
@@ -451,8 +410,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-21"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-21-2",
       "jbo:position": "42",
@@ -462,8 +420,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-22"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-22-1",
       "jbo:position": "43",
@@ -473,8 +430,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-22"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-22-2",
       "jbo:position": "44",
@@ -484,8 +440,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-23"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-23-1",
       "jbo:position": "45",
@@ -495,8 +450,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-23"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-23-2",
       "jbo:position": "46",
@@ -506,8 +460,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-24"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-24-1",
       "jbo:position": "47",
@@ -517,8 +470,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-24"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-24-2",
       "jbo:position": "48",
@@ -528,8 +480,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-25"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-25-1",
       "jbo:position": "49",
@@ -539,8 +490,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-25"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-25-2",
       "jbo:position": "50",
@@ -550,8 +500,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-26"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-26-1",
       "jbo:position": "51",
@@ -561,8 +510,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-26"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-26-2",
       "jbo:position": "52",
@@ -572,8 +520,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-27"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-27-1",
       "jbo:position": "53",
@@ -583,8 +530,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-27"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-27-2",
       "jbo:position": "54",
@@ -594,8 +540,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-28"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-28-1",
       "jbo:position": "55",
@@ -605,8 +550,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-28"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-28-2",
       "jbo:position": "56",
@@ -616,8 +560,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-29"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-29-1",
       "jbo:position": "57",
@@ -627,8 +570,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-29"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-29-2",
       "jbo:position": "58",
@@ -638,8 +580,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-30"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-30-1",
       "jbo:position": "59",
@@ -649,8 +590,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-30"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-30-2",
       "jbo:position": "60",
@@ -660,8 +600,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-31"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-31-1",
       "jbo:position": "61",
@@ -671,8 +610,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-31"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-31-2",
       "jbo:position": "62",
@@ -682,8 +620,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-32"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-32-1",
       "jbo:position": "63",
@@ -693,8 +630,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-32"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-32-2",
       "jbo:position": "64",
@@ -704,8 +640,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-33"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-33-1",
       "jbo:position": "65",
@@ -715,8 +650,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-33"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-33-2",
       "jbo:position": "66",
@@ -726,8 +660,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-34"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-34-1",
       "jbo:position": "67",
@@ -737,8 +670,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-34"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-34-2",
       "jbo:position": "68",
@@ -748,8 +680,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-35"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-35-1",
       "jbo:position": "69",
@@ -759,8 +690,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-35"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-35-2",
       "jbo:position": "70",
@@ -770,8 +700,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-36"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-36-1",
       "jbo:position": "71",
@@ -781,8 +710,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-36"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-36-2",
       "jbo:position": "72",
@@ -792,8 +720,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-37"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-37-1",
       "jbo:position": "73",
@@ -803,8 +730,7 @@
     },
     {
       "jbo:within": [
-        "jbr:section-yerushalmi-2",
-        "jbr:section-yerushalmi-2-37"
+        "jbr:section-yerushalmi-2"
       ],
       "uri": "jbr:text-yerushalmi-2-37-2",
       "jbo:position": "74",

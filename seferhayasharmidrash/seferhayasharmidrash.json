@@ -1,9 +1,6 @@
 {
   "subjects": [
     {
-      "jbo:within": [
-        "jbr:section-seferhayasharmidrash"
-      ],
       "jbo:book": "jbr:book-seferhayasharmidrash",
       "uri": "jbr:text-seferhayasharmidrash-0",
       "jbo:position": "0",
@@ -12,7 +9,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-seferhayasharmidrash",
         "jbr:section-seferhayasharmidrash-1"
       ],
       "jbo:book": "jbr:book-seferhayasharmidrash",
@@ -23,7 +19,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-seferhayasharmidrash",
         "jbr:section-seferhayasharmidrash-1"
       ],
       "jbo:book": "jbr:book-seferhayasharmidrash",
@@ -34,7 +29,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-seferhayasharmidrash",
         "jbr:section-seferhayasharmidrash-1"
       ],
       "jbo:book": "jbr:book-seferhayasharmidrash",
@@ -45,7 +39,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-seferhayasharmidrash",
         "jbr:section-seferhayasharmidrash-1"
       ],
       "jbo:book": "jbr:book-seferhayasharmidrash",
@@ -56,7 +49,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-seferhayasharmidrash",
         "jbr:section-seferhayasharmidrash-1"
       ],
       "jbo:book": "jbr:book-seferhayasharmidrash",
@@ -67,7 +59,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-seferhayasharmidrash",
         "jbr:section-seferhayasharmidrash-1"
       ],
       "jbo:book": "jbr:book-seferhayasharmidrash",
@@ -78,7 +69,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-seferhayasharmidrash",
         "jbr:section-seferhayasharmidrash-1"
       ],
       "jbo:book": "jbr:book-seferhayasharmidrash",
@@ -89,7 +79,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-seferhayasharmidrash",
         "jbr:section-seferhayasharmidrash-1"
       ],
       "jbo:book": "jbr:book-seferhayasharmidrash",
@@ -100,7 +89,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-seferhayasharmidrash",
         "jbr:section-seferhayasharmidrash-1"
       ],
       "jbo:book": "jbr:book-seferhayasharmidrash",
@@ -111,7 +99,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-seferhayasharmidrash",
         "jbr:section-seferhayasharmidrash-1"
       ],
       "jbo:book": "jbr:book-seferhayasharmidrash",
@@ -122,7 +109,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-seferhayasharmidrash",
         "jbr:section-seferhayasharmidrash-1"
       ],
       "jbo:book": "jbr:book-seferhayasharmidrash",

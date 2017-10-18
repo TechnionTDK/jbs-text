@@ -3,49 +3,49 @@
     {
       "jbo:book": "jbr:book-orot",
       "jbo:position": "1",
-      "uri": "jbr:section-orot-maamar-1",
+      "uri": "jbr:section-orot-1",
       "rdfs:label": "אורות - אורות מאופל"
     },
     {
       "jbo:book": "jbr:book-orot",
       "jbo:position": "2",
-      "uri": "jbr:section-orot-maamar-1-submaamar-1",
-      "rdfs:label": "אורות - אורות מאופל - ארץ ישראל"
+      "uri": "jbr:section-orot-1-1",
+      "rdfs:label": "אורות אורות מאופל ארץ ישראל"
     },
     {
       "jbo:book": "jbr:book-orot",
       "jbo:position": "3",
-      "uri": "jbr:section-orot-maamar-1-submaamar-2",
-      "rdfs:label": "אורות - אורות מאופל - המלחמה"
+      "uri": "jbr:section-orot-1-2",
+      "rdfs:label": "אורות אורות מאופל המלחמה"
     },
     {
       "jbo:book": "jbr:book-orot",
       "jbo:position": "4",
-      "uri": "jbr:section-orot-maamar-1-submaamar-3",
-      "rdfs:label": "אורות - אורות מאופל - ישראל ותחיתו"
+      "uri": "jbr:section-orot-1-3",
+      "rdfs:label": "אורות אורות מאופל ישראל ותחיתו"
     },
     {
       "jbo:book": "jbr:book-orot",
       "jbo:position": "5",
-      "uri": "jbr:section-orot-maamar-1-submaamar-4",
-      "rdfs:label": "אורות - אורות מאופל - אורות התחיה"
+      "uri": "jbr:section-orot-1-4",
+      "rdfs:label": "אורות אורות מאופל אורות התחיה"
     },
     {
       "jbo:book": "jbr:book-orot",
       "jbo:position": "6",
-      "uri": "jbr:section-orot-maamar-2",
+      "uri": "jbr:section-orot-2",
       "rdfs:label": "אורות - למהלך האידיאות בישראל"
     },
     {
       "jbo:book": "jbr:book-orot",
       "jbo:position": "7",
-      "uri": "jbr:section-orot-maamar-3",
+      "uri": "jbr:section-orot-3",
       "rdfs:label": "אורות - זרעונים"
     },
     {
       "jbo:book": "jbr:book-orot",
       "jbo:position": "8",
-      "uri": "jbr:section-orot-maamar-4",
+      "uri": "jbr:section-orot-4",
       "rdfs:label": "אורות - אורות ישראל"
     }
   ]

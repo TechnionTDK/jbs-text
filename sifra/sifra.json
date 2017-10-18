@@ -1,9 +1,6 @@
 {
   "subjects": [
     {
-      "jbo:within": [
-        "jbr:section-sifra"
-      ],
       "jbo:book": "jbr:book-sifra",
       "uri": "jbr:text-sifra-0",
       "jbo:position": "0",
@@ -12,7 +9,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -23,7 +19,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -34,7 +29,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -45,7 +39,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -56,7 +49,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -67,7 +59,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -78,7 +69,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -89,7 +79,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -100,7 +89,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -111,7 +99,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -122,7 +109,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -133,7 +119,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -144,7 +129,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -155,7 +139,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -166,7 +149,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -177,7 +159,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -188,7 +169,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -199,7 +179,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -210,7 +189,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -221,7 +199,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -232,7 +209,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -243,7 +219,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -254,7 +229,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -265,7 +239,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -276,7 +249,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -287,7 +259,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -298,7 +269,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -309,7 +279,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -320,7 +289,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -331,7 +299,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -342,7 +309,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -353,7 +319,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -364,7 +329,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-1"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -375,7 +339,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -386,7 +349,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -397,7 +359,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -408,7 +369,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -419,7 +379,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -430,7 +389,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -441,7 +399,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -452,7 +409,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -463,7 +419,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -474,7 +429,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -485,7 +439,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -496,7 +449,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -507,7 +459,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -518,7 +469,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -529,7 +479,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -540,7 +489,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -551,7 +499,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -562,7 +509,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -573,7 +519,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -584,7 +529,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -595,7 +539,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -606,7 +549,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -617,7 +559,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -628,7 +569,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -639,7 +579,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -650,7 +589,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -661,7 +599,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -672,7 +609,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -683,7 +619,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -694,7 +629,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -705,7 +639,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -716,7 +649,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -727,7 +659,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -738,7 +669,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -749,7 +679,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -760,7 +689,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-2"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -771,7 +699,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -782,7 +709,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -793,7 +719,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -804,7 +729,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -815,7 +739,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -826,7 +749,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -837,7 +759,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -848,7 +769,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -859,7 +779,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -870,7 +789,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -881,7 +799,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -892,7 +809,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -903,7 +819,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -914,7 +829,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -925,7 +839,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -936,7 +849,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -947,7 +859,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -958,7 +869,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -969,7 +879,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -980,7 +889,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -991,7 +899,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1002,7 +909,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1013,7 +919,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1024,7 +929,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1035,7 +939,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1046,7 +949,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1057,7 +959,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1068,7 +969,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-3"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1079,7 +979,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1090,7 +989,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1101,7 +999,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1112,7 +1009,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1123,7 +1019,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1134,7 +1029,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1145,7 +1039,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1156,7 +1049,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1167,7 +1059,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1178,7 +1069,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1189,7 +1079,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1200,7 +1089,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1211,7 +1099,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1222,7 +1109,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1233,7 +1119,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1244,7 +1129,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1255,7 +1139,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1266,7 +1149,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1277,7 +1159,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1288,7 +1169,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1299,7 +1179,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1310,7 +1189,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1321,7 +1199,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-4"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1332,7 +1209,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-5"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1343,7 +1219,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-5"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1354,7 +1229,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-5"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1365,7 +1239,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-5"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1376,7 +1249,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-5"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1387,7 +1259,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1398,7 +1269,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1409,7 +1279,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1420,7 +1289,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1431,7 +1299,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1442,7 +1309,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1453,7 +1319,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1464,7 +1329,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1475,7 +1339,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1486,7 +1349,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1497,7 +1359,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1508,7 +1369,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1519,7 +1379,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1530,7 +1389,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1541,7 +1399,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1552,7 +1409,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1563,7 +1419,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1574,7 +1429,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1585,7 +1439,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1596,7 +1449,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1607,7 +1459,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-6"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1618,7 +1469,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-7"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1629,7 +1479,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-7"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1640,7 +1489,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-7"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1651,7 +1499,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-7"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1662,7 +1509,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-7"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1673,7 +1519,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-7"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1684,7 +1529,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-7"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1695,7 +1539,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-7"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1706,7 +1549,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-7"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1717,7 +1559,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-7"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1728,7 +1569,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-7"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1739,7 +1579,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-7"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1750,7 +1589,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1761,7 +1599,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1772,7 +1609,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1783,7 +1619,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1794,7 +1629,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1805,7 +1639,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1816,7 +1649,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1827,7 +1659,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1838,7 +1669,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1849,7 +1679,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1860,7 +1689,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1871,7 +1699,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1882,7 +1709,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1893,7 +1719,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-8"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1904,7 +1729,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1915,7 +1739,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1926,7 +1749,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1937,7 +1759,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1948,7 +1769,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1959,7 +1779,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1970,7 +1789,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1981,7 +1799,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -1992,7 +1809,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2003,7 +1819,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2014,7 +1829,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2025,7 +1839,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2036,7 +1849,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2047,7 +1859,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2058,7 +1869,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2069,7 +1879,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2080,7 +1889,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2091,7 +1899,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2102,7 +1909,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2113,7 +1919,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2124,7 +1929,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-9"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2135,7 +1939,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2146,7 +1949,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2157,7 +1959,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2168,7 +1969,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2179,7 +1979,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2190,7 +1989,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2201,7 +1999,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2212,7 +2009,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2223,7 +2019,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2234,7 +2029,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2245,7 +2039,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2256,7 +2049,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2267,7 +2059,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2278,7 +2069,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2289,7 +2079,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2300,7 +2089,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-10"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2311,7 +2099,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2322,7 +2109,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2333,7 +2119,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2344,7 +2129,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2355,7 +2139,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2366,7 +2149,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2377,7 +2159,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2388,7 +2169,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2399,7 +2179,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2410,7 +2189,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2421,7 +2199,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2432,7 +2209,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2443,7 +2219,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2454,7 +2229,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2465,7 +2239,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2476,7 +2249,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2487,7 +2259,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2498,7 +2269,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2509,7 +2279,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2520,7 +2289,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2531,7 +2299,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2542,7 +2309,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2553,7 +2319,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2564,7 +2329,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2575,7 +2339,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2586,7 +2349,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2597,7 +2359,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2608,7 +2369,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2619,7 +2379,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2630,7 +2389,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2641,7 +2399,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2652,7 +2409,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2663,7 +2419,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2674,7 +2429,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-11"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2685,7 +2439,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2696,7 +2449,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2707,7 +2459,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2718,7 +2469,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2729,7 +2479,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2740,7 +2489,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2751,7 +2499,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2762,7 +2509,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2773,7 +2519,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2784,7 +2529,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2795,7 +2539,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2806,7 +2549,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2817,7 +2559,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2828,7 +2569,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2839,7 +2579,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-12"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2850,7 +2589,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2861,7 +2599,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2872,7 +2609,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2883,7 +2619,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2894,7 +2629,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2905,7 +2639,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2916,7 +2649,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2927,7 +2659,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2938,7 +2669,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2949,7 +2679,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2960,7 +2689,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2971,7 +2699,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2982,7 +2709,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -2993,7 +2719,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -3004,7 +2729,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -3015,7 +2739,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -3025,7 +2748,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",
@@ -3036,7 +2758,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-sifra",
         "jbr:section-sifra-13"
       ],
       "jbo:book": "jbr:book-sifra",

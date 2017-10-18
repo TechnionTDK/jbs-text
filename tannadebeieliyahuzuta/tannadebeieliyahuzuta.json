@@ -2,7 +2,6 @@
   "subjects": [
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -13,7 +12,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -24,7 +22,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -35,7 +32,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -46,7 +42,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -57,7 +52,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -68,7 +62,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -79,7 +72,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -90,7 +82,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -101,7 +92,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -112,7 +102,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -123,7 +112,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -134,7 +122,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -145,7 +132,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -156,7 +142,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-1"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -167,7 +152,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-2"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -178,7 +162,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-2"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -189,7 +172,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-2"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -200,7 +182,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-2"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -211,7 +192,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-3"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -222,7 +202,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-3"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",
@@ -233,7 +212,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-tannadebeieliyahuzuta",
         "jbr:section-tannadebeieliyahuzuta-3"
       ],
       "jbo:book": "jbr:book-tannadebeieliyahuzuta",

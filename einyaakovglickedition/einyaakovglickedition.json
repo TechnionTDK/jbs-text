@@ -2,7 +2,6 @@
   "subjects": [
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-1"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -13,7 +12,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-1"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -24,7 +22,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-1"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -35,7 +32,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-1"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -46,7 +42,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-1"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -57,7 +52,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-1"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -68,7 +62,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-1"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -79,7 +72,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-1"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -89,7 +81,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-1"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -100,7 +91,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -111,7 +101,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -122,7 +111,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -133,7 +121,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -144,7 +131,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -155,7 +141,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -166,7 +151,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -177,7 +161,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -188,7 +171,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -199,7 +181,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -209,7 +190,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -220,7 +200,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -231,7 +210,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -242,7 +220,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -252,7 +229,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -263,7 +239,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -274,7 +249,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -284,7 +258,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -295,7 +268,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -306,7 +278,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -317,7 +288,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -327,7 +297,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -338,7 +307,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -349,7 +317,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-2"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -360,7 +327,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-3"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -371,7 +337,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-3"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -382,7 +347,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-3"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -393,7 +357,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-3"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -404,7 +367,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-3"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -415,7 +377,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-3"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -426,7 +387,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-4"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -437,7 +397,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-4"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -448,7 +407,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-4"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -459,7 +417,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-4"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -470,7 +427,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-4"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -481,7 +437,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-4"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -492,7 +447,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-4"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -503,7 +457,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-4"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -514,7 +467,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-4"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -525,7 +477,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-4"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -536,7 +487,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-5"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -547,7 +497,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-5"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -558,7 +507,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-5"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -569,7 +517,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-5"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -580,7 +527,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-5"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -591,7 +537,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-5"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -602,7 +547,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-5"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -613,7 +557,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-5"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -624,7 +567,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-6"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -635,7 +577,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-6"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -646,7 +587,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-6"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -657,7 +597,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-6"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -668,7 +607,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-6"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -679,7 +617,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-7"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -690,7 +627,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-7"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -701,7 +637,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-7"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -712,7 +647,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-7"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -723,7 +657,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-7"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -734,7 +667,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-8"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -745,7 +677,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-8"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -756,7 +687,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-8"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -767,7 +697,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-9"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -778,7 +707,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-9"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -789,7 +717,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-9"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -800,7 +727,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-9"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -811,7 +737,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-10"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -822,7 +747,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-10"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -833,7 +757,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-10"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -844,7 +767,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-10"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -855,7 +777,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-10"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -866,7 +787,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-11"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -876,7 +796,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-11"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -887,7 +806,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-12"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -898,7 +816,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-12"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -909,7 +826,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -920,7 +836,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -931,7 +846,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -941,7 +855,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -952,7 +865,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -962,7 +874,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -973,7 +884,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -983,7 +893,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -994,7 +903,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1005,7 +913,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1016,7 +923,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1027,7 +933,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1038,7 +943,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1049,7 +953,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1059,7 +962,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1069,7 +971,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-13"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1080,7 +981,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1091,7 +991,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1102,7 +1001,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1113,7 +1011,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1124,7 +1021,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1135,7 +1031,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1146,7 +1041,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1157,7 +1051,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1167,7 +1060,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1177,7 +1069,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1187,7 +1078,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1198,7 +1088,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1209,7 +1098,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-14"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1220,7 +1108,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-15"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1231,7 +1118,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-15"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1242,7 +1128,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-15"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1253,7 +1138,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-15"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1264,7 +1148,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-15"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1274,7 +1157,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-15"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1285,7 +1167,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-15"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1296,7 +1177,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-15"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1307,7 +1187,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-15"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1318,7 +1197,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-15"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1328,7 +1206,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-15"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1339,7 +1216,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-16"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1350,7 +1226,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-16"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1360,7 +1235,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-16"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1371,7 +1245,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-16"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1382,7 +1255,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-16"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1392,7 +1264,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-16"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1402,7 +1273,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-16"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1413,7 +1283,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-16"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1423,7 +1292,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-16"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1434,7 +1302,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-17"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1445,7 +1312,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-17"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1456,7 +1322,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-17"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1467,7 +1332,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-17"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1478,7 +1342,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-17"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1489,7 +1352,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-17"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1500,7 +1362,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-17"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1511,7 +1372,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-17"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1521,7 +1381,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-17"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1532,7 +1391,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-18"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1543,7 +1401,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-18"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1554,7 +1411,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-18"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1565,7 +1421,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-18"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1576,7 +1431,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-18"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1587,7 +1441,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-18"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1597,7 +1450,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-18"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1608,7 +1460,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-18"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1619,7 +1470,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-18"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1630,7 +1480,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-19"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1641,7 +1490,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-19"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1652,7 +1500,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-19"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1663,7 +1510,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-19"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1674,7 +1520,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-19"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1685,7 +1530,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-20"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1696,7 +1540,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-20"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1707,7 +1550,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-20"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1718,7 +1560,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-20"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1729,7 +1570,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-20"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1740,7 +1580,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-20"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1751,7 +1590,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-20"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1762,7 +1600,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-20"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1773,7 +1610,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-20"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1784,7 +1620,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-20"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1795,7 +1630,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-21"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1806,7 +1640,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-21"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1817,7 +1650,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-21"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1828,7 +1660,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-21"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1839,7 +1670,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-21"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1850,7 +1680,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-21"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1861,7 +1690,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-21"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1871,7 +1699,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-21"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1882,7 +1709,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-21"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1893,7 +1719,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-22"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1904,7 +1729,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-22"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1915,7 +1739,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-22"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1925,7 +1748,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-22"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1936,7 +1758,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-22"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1947,7 +1768,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-22"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1957,7 +1777,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-22"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1968,7 +1787,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-22"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1979,7 +1797,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-22"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -1990,7 +1807,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-23"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2001,7 +1817,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-23"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2012,7 +1827,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-23"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2023,7 +1837,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-23"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2034,7 +1847,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-23"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2045,7 +1857,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-23"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2056,7 +1867,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-23"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2067,7 +1877,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-23"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2078,7 +1887,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-23"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2089,7 +1897,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-23"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2100,7 +1907,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-23"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2111,7 +1917,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-24"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2122,7 +1927,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-24"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2133,7 +1937,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-24"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2144,7 +1947,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-25"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2154,7 +1956,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-25"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2165,7 +1966,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-25"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2176,7 +1976,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-25"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2187,7 +1986,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-25"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2197,7 +1995,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-25"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2208,7 +2005,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-26"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2219,7 +2015,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-26"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2230,7 +2025,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-26"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2240,7 +2034,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-26"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2250,7 +2043,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-26"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2261,7 +2053,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-26"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2271,7 +2062,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-26"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2281,7 +2071,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-26"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2292,7 +2081,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-26"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2303,7 +2091,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-27"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2314,7 +2101,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-27"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2325,7 +2111,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-27"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2336,7 +2121,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-28"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2347,7 +2131,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-28"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2358,7 +2141,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-28"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2369,7 +2151,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2379,7 +2160,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2389,7 +2169,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2399,7 +2178,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2410,7 +2188,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2421,7 +2198,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2431,7 +2207,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2441,7 +2216,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2451,7 +2225,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2462,7 +2235,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2472,7 +2244,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2482,7 +2253,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2493,7 +2263,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2503,7 +2272,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-29"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2514,7 +2282,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2524,7 +2291,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2534,7 +2300,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2545,7 +2310,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2556,7 +2320,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2567,7 +2330,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2577,7 +2339,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2587,7 +2348,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2597,7 +2357,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2608,7 +2367,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2618,7 +2376,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2628,7 +2385,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2639,7 +2395,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-30"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2650,7 +2405,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-31"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2661,7 +2415,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-31"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2672,7 +2425,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-31"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2683,7 +2435,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-31"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2693,7 +2444,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-31"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2703,7 +2453,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-31"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",
@@ -2714,7 +2463,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-einyaakovglickedition",
         "jbr:section-einyaakovglickedition-31"
       ],
       "jbo:book": "jbr:book-einyaakovglickedition",

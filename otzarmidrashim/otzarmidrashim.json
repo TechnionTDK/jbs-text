@@ -2,7 +2,6 @@
   "subjects": [
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-1"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -13,7 +12,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-1"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -24,7 +22,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-2"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -35,7 +32,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-3"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -46,7 +42,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-4"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -57,7 +52,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-5"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -68,7 +62,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-6"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -79,7 +72,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-6"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -90,7 +82,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-6"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -101,7 +92,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-7"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -112,7 +102,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-8"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -123,7 +112,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-8"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -134,7 +122,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-8"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -145,7 +132,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-9"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -156,7 +142,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-10"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -167,7 +152,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-10"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -178,7 +162,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-11"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -189,7 +172,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-12"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -200,7 +182,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-12"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -211,7 +192,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-13"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -222,7 +202,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-13"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -233,7 +212,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-14"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -244,7 +222,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-14"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -255,7 +232,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-15"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -266,7 +242,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-16"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -277,7 +252,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-16"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -288,7 +262,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-17"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -299,7 +272,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-17"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -310,7 +282,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-17"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -321,7 +292,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-18"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -332,7 +302,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-19"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -343,7 +312,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-19"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -354,7 +322,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-20"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -365,7 +332,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-21"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -376,7 +342,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-21"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -387,7 +352,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-22"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -398,7 +362,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-22"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -409,7 +372,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-23"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -420,7 +382,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-23"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -431,7 +392,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-23"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -442,7 +402,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-24"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -453,7 +412,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-25"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -464,7 +422,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-26"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -475,7 +432,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-26"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -486,7 +442,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-26"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -497,7 +452,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-26"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -508,7 +462,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-26"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -519,7 +472,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-26"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -530,7 +482,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-26"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -541,7 +492,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-26"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -552,7 +502,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-26"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -563,7 +512,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-27"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -574,7 +522,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-28"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -585,7 +532,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-28"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -596,7 +542,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-28"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -607,7 +552,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-28"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -618,7 +562,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-28"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -629,7 +572,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-28"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -640,7 +582,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-28"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -651,7 +592,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-28"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -662,7 +602,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-28"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -673,7 +612,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-28"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -684,7 +622,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-28"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -695,7 +632,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-29"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -706,7 +642,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-29"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -717,7 +652,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-30"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -728,7 +662,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-30"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -739,7 +672,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-31"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -750,7 +682,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-31"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -761,7 +692,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-31"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -772,7 +702,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-32"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -783,7 +712,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-33"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -794,7 +722,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-33"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -805,7 +732,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-34"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -816,7 +742,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-34"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -827,7 +752,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-34"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -838,7 +762,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-35"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -849,7 +772,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-36"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -860,7 +782,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-37"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -871,7 +792,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-37"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -882,7 +802,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-37"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -893,7 +812,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-38"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -904,7 +822,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-38"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -915,7 +832,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-39"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -926,7 +842,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-39"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -937,7 +852,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-40"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -948,7 +862,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-41"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -959,7 +872,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-41"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -970,7 +882,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-41"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -981,7 +892,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-42"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -992,7 +902,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-42"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1003,7 +912,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-43"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1014,7 +922,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-44"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1025,7 +932,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-45"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1036,7 +942,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-46"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1047,7 +952,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-46"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1058,7 +962,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-46"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1069,7 +972,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-46"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1080,7 +982,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-46"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1091,7 +992,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-46"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1102,7 +1002,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-46"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1113,7 +1012,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-47"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1124,7 +1022,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-47"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1135,7 +1032,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-47"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1146,7 +1042,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-48"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1157,7 +1052,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-49"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1168,7 +1062,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-49"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1179,7 +1072,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-50"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1190,7 +1082,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-50"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1201,7 +1092,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-51"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1212,7 +1102,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-51"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1223,7 +1112,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-52"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1234,7 +1122,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-53"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1245,7 +1132,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-53"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1256,7 +1142,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-53"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1267,7 +1152,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-53"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1278,7 +1162,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-54"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1289,7 +1172,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-54"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1300,7 +1182,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-55"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1311,7 +1192,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-55"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1322,7 +1202,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-56"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1333,7 +1212,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-56"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1344,7 +1222,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1355,7 +1232,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1366,7 +1242,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1377,7 +1252,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1388,7 +1262,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1399,7 +1272,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1410,7 +1282,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1421,7 +1292,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1432,7 +1302,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1443,7 +1312,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1454,7 +1322,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1465,7 +1332,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1476,7 +1342,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1487,7 +1352,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1498,7 +1362,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1509,7 +1372,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1520,7 +1382,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1531,7 +1392,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1542,7 +1402,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1553,7 +1412,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1564,7 +1422,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-57"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1575,7 +1432,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-58"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1586,7 +1442,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-58"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1597,7 +1452,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-58"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1608,7 +1462,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-58"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1619,7 +1472,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-59"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1630,7 +1482,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-59"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1641,7 +1492,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-60"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1652,7 +1502,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-60"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1663,7 +1512,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-60"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1674,7 +1522,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-61"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1685,7 +1532,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-62"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1696,7 +1542,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-62"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1707,7 +1552,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-63"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
@@ -1718,7 +1562,6 @@
     },
     {
       "jbo:within": [
-        "jbr:section-otzarmidrashim",
         "jbr:section-otzarmidrashim-63"
       ],
       "jbo:book": "jbr:book-otzarmidrashim",
