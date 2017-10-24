@@ -10,25 +10,25 @@
       "jbo:book": "jbr:book-orot",
       "jbo:position": "2",
       "uri": "jbr:section-orot-1-1",
-      "rdfs:label": "אורות אורות מאופל ארץ ישראל"
+      "rdfs:label": "אורות - ארץ ישראל"
     },
     {
       "jbo:book": "jbr:book-orot",
       "jbo:position": "3",
       "uri": "jbr:section-orot-1-2",
-      "rdfs:label": "אורות אורות מאופל המלחמה"
+      "rdfs:label": "אורות - המלחמה"
     },
     {
       "jbo:book": "jbr:book-orot",
       "jbo:position": "4",
       "uri": "jbr:section-orot-1-3",
-      "rdfs:label": "אורות אורות מאופל ישראל ותחיתו"
+      "rdfs:label": "אורות - ישראל ותחיתו"
     },
     {
       "jbo:book": "jbr:book-orot",
       "jbo:position": "5",
       "uri": "jbr:section-orot-1-4",
-      "rdfs:label": "אורות אורות מאופל אורות התחיה"
+      "rdfs:label": "אורות - אורות התחיה"
     },
     {
       "jbo:book": "jbr:book-orot",

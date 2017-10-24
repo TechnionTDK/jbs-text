@@ -8,52 +8,52 @@
     {
       "uri": "jbr:section-haemunotvehadeot-1",
       "jbo:position": "1",
-      "rdfs:label": "האמונות והדעות מאמר הראשון חדוש"
+      "rdfs:label": "האמונות והדעות חדוש"
     },
     {
       "uri": "jbr:section-haemunotvehadeot-2",
       "jbo:position": "2",
-      "rdfs:label": "האמונות והדעות מאמר השני אחדות"
+      "rdfs:label": "האמונות והדעות אחדות"
     },
     {
       "uri": "jbr:section-haemunotvehadeot-3",
       "jbo:position": "3",
-      "rdfs:label": "האמונות והדעות מאמר השלישי צווי ואזהרה"
+      "rdfs:label": "האמונות והדעות צווי ואזהרה"
     },
     {
       "uri": "jbr:section-haemunotvehadeot-4",
       "jbo:position": "4",
-      "rdfs:label": "האמונות והדעות מאמר הרביעי עבודה ומרי"
+      "rdfs:label": "האמונות והדעות עבודה ומרי"
     },
     {
       "uri": "jbr:section-haemunotvehadeot-5",
       "jbo:position": "5",
-      "rdfs:label": "האמונות והדעות מאמר החמישי זכיות וחובות"
+      "rdfs:label": "האמונות והדעות זכיות וחובות"
     },
     {
       "uri": "jbr:section-haemunotvehadeot-6",
       "jbo:position": "6",
-      "rdfs:label": "האמונות והדעות מאמר השישי מהות הנפש"
+      "rdfs:label": "האמונות והדעות מהות הנפש"
     },
     {
       "uri": "jbr:section-haemunotvehadeot-7",
       "jbo:position": "7",
-      "rdfs:label": "האמונות והדעות מאמר השביעי תחיית המתיים"
+      "rdfs:label": "האמונות והדעות תחיית המתיים"
     },
     {
       "uri": "jbr:section-haemunotvehadeot-8",
       "jbo:position": "8",
-      "rdfs:label": "האמונות והדעות מאמר השמיני גאולה אחרונה"
+      "rdfs:label": "האמונות והדעות גאולה אחרונה"
     },
     {
       "uri": "jbr:section-haemunotvehadeot-9",
       "jbo:position": "9",
-      "rdfs:label": "האמונות והדעות מאמר התשיעי גמול ועונש"
+      "rdfs:label": "האמונות והדעות בגמול ועונש"
     },
     {
       "uri": "jbr:section-haemunotvehadeot-10",
       "jbo:position": "10",
-      "rdfs:label": "האמונות והדעות מאמר העשירי הנהגת האדם"
+      "rdfs:label": "האמונות והדעות הנהגת האדם"
     }
   ]
 }
