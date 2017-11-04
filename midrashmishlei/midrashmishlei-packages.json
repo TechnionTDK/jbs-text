@@ -1,0 +1,184 @@
+{
+  "subjects": [
+    {
+      "uri": "jbr:section-midrashmishlei-1",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "1",
+      "rdfs:label": "מדרש משלי מדרש משלי  א"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-2",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "2",
+      "rdfs:label": "מדרש משלי מדרש משלי  ב"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-3",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "3",
+      "rdfs:label": "מדרש משלי מדרש משלי  ג"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-4",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "4",
+      "rdfs:label": "מדרש משלי מדרש משלי  ד"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-5",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "5",
+      "rdfs:label": "מדרש משלי מדרש משלי  ה"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-6",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "6",
+      "rdfs:label": "מדרש משלי מדרש משלי  ו"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-7",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "7",
+      "rdfs:label": "מדרש משלי מדרש משלי  ז"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-8",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "8",
+      "rdfs:label": "מדרש משלי מדרש משלי  ח"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-9",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "9",
+      "rdfs:label": "מדרש משלי מדרש משלי  ט"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-10",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "10",
+      "rdfs:label": "מדרש משלי מדרש משלי  י"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-11",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "11",
+      "rdfs:label": "מדרש משלי מדרש משלי  יא"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-12",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "12",
+      "rdfs:label": "מדרש משלי מדרש משלי  יב"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-13",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "13",
+      "rdfs:label": "מדרש משלי מדרש משלי  יג"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-14",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "14",
+      "rdfs:label": "מדרש משלי מדרש משלי  יד"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-15",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "15",
+      "rdfs:label": "מדרש משלי מדרש משלי  טו"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-16",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "16",
+      "rdfs:label": "מדרש משלי מדרש משלי  טז"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-17",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "17",
+      "rdfs:label": "מדרש משלי מדרש משלי  יז"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-18",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "18",
+      "rdfs:label": "מדרש משלי מדרש משלי  יח"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-19",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "19",
+      "rdfs:label": "מדרש משלי מדרש משלי  יט"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-20",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "20",
+      "rdfs:label": "מדרש משלי מדרש משלי  כ"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-21",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "21",
+      "rdfs:label": "מדרש משלי מדרש משלי  כא"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-22",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "22",
+      "rdfs:label": "מדרש משלי מדרש משלי  כב"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-23",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "23",
+      "rdfs:label": "מדרש משלי מדרש משלי  כג"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-24",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "24",
+      "rdfs:label": "מדרש משלי מדרש משלי  כד"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-25",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "25",
+      "rdfs:label": "מדרש משלי מדרש משלי  כה"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-26",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "26",
+      "rdfs:label": "מדרש משלי מדרש משלי  כו"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-27",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "27",
+      "rdfs:label": "מדרש משלי מדרש משלי  כז"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-28",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "28",
+      "rdfs:label": "מדרש משלי מדרש משלי  כח"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-29",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "29",
+      "rdfs:label": "מדרש משלי מדרש משלי  כט"
+    },
+    {
+      "uri": "jbr:section-midrashmishlei-30",
+      "jbo:book": "jbr:book-midrashmishlei",
+      "jbo:position": "30",
+      "rdfs:label": "מדרש משלי מדרש משלי  ל"
+    }
+  ]
+}
