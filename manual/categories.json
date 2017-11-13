@@ -5,10 +5,6 @@
       "uri": "jbr:category-מחשבה"
     },
     {
-      "rdfs:label": "אמונה",
-      "uri": "jbr:category-אמונה"
-    },
-    {
       "rdfs:label": "מוסר",
       "uri": "jbr:category-מוסר"
     },
@@ -85,6 +81,10 @@
       "uri": "jbr:category-מדרשים"
     },
     {
+      "rdfs:label": "מדרשי הלכה",
+      "uri": "jbr:category-מדרשי_הלכה"
+    },
+    {
       "rdfs:label": "מדרשי אגדה",
       "uri": "jbr:category-מדרשי_אגדה"
     },
@@ -103,6 +103,10 @@
     {
       "rdfs:label": "מפרשי שולחן ערוך",
       "uri": "jbr:category-מפרשי_שולחן_ערוך"
+    },
+    {
+      "rdfs:label": "תלמוד ירושלמי",
+      "uri": "jbr:category-תלמוד_ירושלמי"
     }
   ]
 }

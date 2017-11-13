@@ -8,6 +8,7 @@
       "rdfs:label": "בראשית",
       "jbo:author": "jbr:person-משה_רבנו",
       "jbo:position": "1",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-bereshit"
     },
     {
@@ -18,6 +19,7 @@
       "rdfs:label": "שמות",
       "jbo:author": "jbr:person-משה_רבנו",
       "jbo:position": "2",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-shemot"
     },
     {
@@ -28,6 +30,7 @@
       "rdfs:label": "ויקרא",
       "jbo:author": "jbr:person-משה_רבנו",
       "jbo:position": "3",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-vayikra"
     },
     {
@@ -38,6 +41,7 @@
       "rdfs:label": "במדבר",
       "jbo:author": "jbr:person-משה_רבנו",
       "jbo:position": "4",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-bamidbar"
     },
     {
@@ -48,6 +52,7 @@
       "rdfs:label": "דברים",
       "jbo:author": "jbr:person-משה_רבנו",
       "jbo:position": "5",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-devarim"
     },
     {
@@ -57,6 +62,7 @@
       ],
       "rdfs:label": "יהושע",
       "jbo:position": "6",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-yehoshua"
     },
     {
@@ -66,6 +72,7 @@
       ],
       "rdfs:label": "שופטים",
       "jbo:position": "7",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-shoftim"
     },
     {
@@ -75,6 +82,7 @@
       ],
       "rdfs:label": "שמואל א",
       "jbo:position": "8",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-shemuelA"
     },
     {
@@ -84,6 +92,7 @@
       ],
       "rdfs:label": "שמואל ב",
       "jbo:position": "9",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-shemuelB"
     },
     {
@@ -93,6 +102,7 @@
       ],
       "rdfs:label": "מלכים א",
       "jbo:position": "10",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-melachimA"
     },
     {
@@ -102,6 +112,7 @@
       ],
       "rdfs:label": "מלכים ב",
       "jbo:position": "11",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-melachimB"
     },
     {
@@ -111,6 +122,7 @@
       ],
       "rdfs:label": "ישעיה",
       "jbo:position": "12",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-yeshaaya"
     },
     {
@@ -120,6 +132,7 @@
       ],
       "rdfs:label": "ירמיה",
       "jbo:position": "13",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-yirmiya"
     },
     {
@@ -129,6 +142,7 @@
       ],
       "rdfs:label": "יחזקאל",
       "jbo:position": "14",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-yechezkel"
     },
     {
@@ -138,6 +152,7 @@
       ],
       "rdfs:label": "הושע",
       "jbo:position": "15",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-hoshea"
     },
     {
@@ -147,6 +162,7 @@
       ],
       "rdfs:label": "יואל",
       "jbo:position": "16",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-yoel"
     },
     {
@@ -156,6 +172,7 @@
       ],
       "rdfs:label": "עמוס",
       "jbo:position": "17",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-amos"
     },
     {
@@ -165,6 +182,7 @@
       ],
       "rdfs:label": "עובדיה",
       "jbo:position": "18",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-ovadya"
     },
     {
@@ -174,6 +192,7 @@
       ],
       "rdfs:label": "יונה",
       "jbo:position": "19",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-yona"
     },
     {
@@ -183,6 +202,7 @@
       ],
       "rdfs:label": "מיכה",
       "jbo:position": "20",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-micha"
     },
     {
@@ -192,6 +212,7 @@
       ],
       "rdfs:label": "נחום",
       "jbo:position": "21",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-nachum"
     },
     {
@@ -201,6 +222,7 @@
       ],
       "rdfs:label": "חבקוק",
       "jbo:position": "22",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-chavakuk"
     },
     {
@@ -210,6 +232,7 @@
       ],
       "rdfs:label": "צפניה",
       "jbo:position": "23",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-tzefanya"
     },
     {
@@ -219,6 +242,7 @@
       ],
       "rdfs:label": "חגי",
       "jbo:position": "24",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-chagay"
     },
     {
@@ -228,6 +252,7 @@
       ],
       "rdfs:label": "זכריה",
       "jbo:position": "25",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-zecharya"
     },
     {
@@ -237,6 +262,7 @@
       ],
       "rdfs:label": "מלאכי",
       "jbo:position": "26",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-malachi"
     },
     {
@@ -246,6 +272,7 @@
       ],
       "rdfs:label": "תהילים",
       "jbo:position": "27",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-tehilim"
     },
     {
@@ -255,6 +282,7 @@
       ],
       "rdfs:label": "משלי",
       "jbo:position": "28",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-mishley"
     },
     {
@@ -264,6 +292,7 @@
       ],
       "rdfs:label": "איוב",
       "jbo:position": "29",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-iyov"
     },
     {
@@ -273,6 +302,7 @@
       ],
       "rdfs:label": "שיר השירים",
       "jbo:position": "30",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-shirhashirim"
     },
     {
@@ -282,6 +312,7 @@
       ],
       "rdfs:label": "רות",
       "jbo:position": "31",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-rut"
     },
     {
@@ -291,6 +322,7 @@
       ],
       "rdfs:label": "איכה",
       "jbo:position": "32",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-eycha"
     },
     {
@@ -300,6 +332,7 @@
       ],
       "rdfs:label": "קהלת",
       "jbo:position": "33",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-kohelet"
     },
     {
@@ -309,6 +342,7 @@
       ],
       "rdfs:label": "אסתר",
       "jbo:position": "34",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-ester"
     },
     {
@@ -318,6 +352,7 @@
       ],
       "rdfs:label": "דניאל",
       "jbo:position": "35",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-daniel"
     },
     {
@@ -327,6 +362,7 @@
       ],
       "rdfs:label": "עזרא",
       "jbo:position": "36",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-ezra"
     },
     {
@@ -336,6 +372,7 @@
       ],
       "rdfs:label": "נחמיה",
       "jbo:position": "37",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-nechemya"
     },
     {
@@ -345,6 +382,7 @@
       ],
       "rdfs:label": "דברי הימים א",
       "jbo:position": "38",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-divreyhayamimA"
     },
     {
@@ -354,6 +392,7 @@
       ],
       "rdfs:label": "דברי הימים ב",
       "jbo:position": "39",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tanach-divreyhayamimB"
     },
     {
@@ -363,6 +402,7 @@
       ],
       "rdfs:label": "אורות",
       "jbo:author": "jbr:person-הרב_קוק",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-orot"
     },
     {
@@ -372,6 +412,7 @@
       ],
       "rdfs:label": "אורות הקודש",
       "jbo:author": "jbr:person-הרב_קוק",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-orothakodesh"
     },
     {
@@ -381,6 +422,7 @@
       ],
       "rdfs:label": "מדבר שור",
       "jbo:author": "jbr:person-הרב_קוק",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-midbarshur"
     },
     {
@@ -390,12 +432,14 @@
       ],
       "rdfs:label": "שמונה קבצים",
       "jbo:author": "jbr:person-הרב_קוק",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-shemonakevatzim"
     },
     {
       "dc:subject": "jbr:category-מוסר",
       "rdfs:label": "חובות הלבבות",
       "jbo:author": "jbr:person-רבינו_בחיי_אבן_פקודה",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-chovothalevavot"
     },
     {
@@ -405,6 +449,7 @@
       ],
       "rdfs:label": "דרשות מהר\"ל",
       "jbo:author": "jbr:person-מהרל",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-derashotmaharal"
     },
     {
@@ -414,6 +459,7 @@
       ],
       "rdfs:label": "באר הגולה",
       "jbo:author": "jbr:person-מהרל",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-beerhagola"
     },
     {
@@ -423,6 +469,7 @@
       ],
       "rdfs:label": "אור חדש",
       "jbo:author": "jbr:person-מהרל",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-orchadash"
     },
     {
@@ -432,6 +479,7 @@
       ],
       "rdfs:label": "נצח ישראל",
       "jbo:author": "jbr:person-מהרל",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-netzachisrael"
     },
     {
@@ -441,6 +489,7 @@
       ],
       "rdfs:label": "נתיבות עולם",
       "jbo:author": "jbr:person-מהרל",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-netivotolam"
     },
     {
@@ -450,6 +499,7 @@
       ],
       "rdfs:label": "תפארת ישראל",
       "jbo:author": "jbr:person-מהרל",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tiferetisrael"
     },
     {
@@ -459,6 +509,7 @@
       ],
       "rdfs:label": "גבורות השם",
       "jbo:author": "jbr:person-מהרל",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-gevurothashem"
     },
     {
@@ -469,50 +520,59 @@
       ],
       "rdfs:label": "דרך חיים",
       "jbo:author": "jbr:person-מהרל",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-derechchaim"
     },
     {
       "dc:subject": "jbr:category-חסידות",
       "rdfs:label": "ליקוטי מוהר\"ן",
       "jbo:author": "jbr:person-רבי_נחמן_מברסלב",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-likuteymoharan"
     },
     {
       "dc:subject": "jbr:category-משנה",
       "rdfs:label": "משנה",
       "jbo:author": "jbr:person-רבי_יהודה_הנשיא",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-mishna"
     },
     {
       "dc:subject": "jbr:category-מפרשי_המשנה",
       "rdfs:label": "ר\"ע מברטנורא",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-bartanura"
     },
     {
       "dc:subject": "jbr:category-מפרשי_המשנה",
       "rdfs:label": "תוספות יום טוב",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-yomtov"
     },
     {
       "dc:subject": "jbr:category-תלמוד_בבלי",
       "rdfs:label": "תלמוד בבלי",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-talmudbavli"
     },
     {
       "dc:subject": "jbr:category-מפרשי_הבבלי",
       "rdfs:label": "פירוש רש\"י בבלי",
       "jbo:author": "jbr:person-רשי",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-rashibavli"
     },
     {
       "dc:subject": "jbr:category-מפרשי_הבבלי",
       "rdfs:label": "תוספות",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-tosafotbavli"
     },
     {
       "dc:subject": "jbr:category-מפרשי_הבבלי",
       "rdfs:label": "פירוש רשב\"ם בבלי",
       "jbo:author": "jbr:person-רשבם",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-rashbambavli"
     },
     {
@@ -523,6 +583,7 @@
       ],
       "rdfs:label": "משנה תורה",
       "jbo:author": "jbr:person-הרמבם",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-mishnetorah"
     },
     {
@@ -533,38 +594,45 @@
       ],
       "rdfs:label": "ספר המצוות",
       "jbo:author": "jbr:person-הרמבם",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-seferhamitzvot"
     },
     {
       "dc:subject": "jbr:category-מפרשי_הרמבם",
-      "rdfs:label": "פירוש פירוש",
+      "rdfs:label": "פירוש משנה תורה",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-perushperush"
     },
     {
       "dc:subject": "jbr:category-מפרשי_הרמבם",
       "rdfs:label": "כסף משנה",
       "jbo:author": "jbr:person-רבי_יוסף_קארו",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-kesefmishne"
     },
     {
       "dc:subject": "jbr:category-מפרשי_הרמבם",
       "rdfs:label": "לחם משנה",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-lechemmishne"
     },
     {
       "dc:subject": "jbr:category-מפרשי_הרמבם",
       "rdfs:label": "השגות הראב\"ד",
       "jbo:author": "jbr:person-הראבד",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-raabad"
     },
     {
       "dc:subject": "jbr:category-מפרשי_הרמבם",
       "rdfs:label": "מגיד משנה",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-magidmishne"
     },
     {
       "dc:subject": "jbr:category-מפרשי_הרמבם",
       "rdfs:label": "מהר\"ל חביב",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-maharalchaviv"
     },
     {
@@ -574,6 +642,7 @@
       ],
       "rdfs:label": "שולחן ערוך",
       "jbo:author": "jbr:person-רבי_יוסף_קארו",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-shulchanaruch"
     },
     {
@@ -582,12 +651,14 @@
         "jbr:category-הלכה"
       ],
       "rdfs:label": "באר היטב",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-baerheytev"
     },
     {
       "dc:subject": "jbr:category-מחשבה",
       "rdfs:label": "דרשות הר\"ן",
       "jbo:author": "jbr:person-הרן",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-derashotharan"
     },
     {
@@ -597,64 +668,75 @@
       ],
       "rdfs:label": "פירוש רש\"י",
       "jbo:author": "jbr:person-רשי",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-rashi"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התורה",
       "rdfs:label": "שפתי חכמים",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-sifteychachamim"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התורה",
       "rdfs:label": "פירוש הרמב\"ן על התורה",
       "jbo:author": "jbr:person-הרמבן",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-ramban"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התורה",
       "rdfs:label": "תרגום יונתן",
       "jbo:author": "jbr:person-יונתן_בן_עוזיאל",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-yonatan"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התורה",
       "rdfs:label": "פירוש אור החיים על התורה",
       "jbo:author": "jbr:person-אור_החיים_הקדוש",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-orhachayim"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התורה",
       "rdfs:label": "פירוש הראב\"ע",
       "jbo:author": "jbr:person-רבי_אברהם_אבן_עזרא",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-ibnezra"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התורה",
       "rdfs:label": "בעל הטורים",
       "jbo:author": "jbr:person-בעל_הטורים",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-baalhaturim"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התורה",
       "rdfs:label": "תרגום אונקלוס",
       "jbo:author": "jbr:person-אונקלוס",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-onkelos"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התורה",
       "rdfs:label": "ספורנו",
       "jbo:author": "jbr:person-ספורנו",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-seforno"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התורה",
       "rdfs:label": "כלי יקר",
       "jbo:author": "jbr:person-כלי_יקר",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-keliyekar"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התורה",
       "rdfs:label": "דעת זקנים",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-daatzekenim"
     },
     {
@@ -663,6 +745,7 @@
         "jbr:category-מדרשי_אגדה"
       ],
       "rdfs:label": "מדרש רבה",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-midrashraba"
     },
     {
@@ -671,42 +754,49 @@
         "jbr:category-מדרשי_אגדה"
       ],
       "rdfs:label": "מדרש תנחומא",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-midrashtanchuma"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התנך",
       "rdfs:label": "מצודת דוד",
       "jbo:author": "jbr:person-רבי_דוד_אלטשולר",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-metzudatdavid"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התנך",
       "rdfs:label": "מצודת ציון",
       "jbo:author": "jbr:person-רבי_דוד_אלטשולר",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-metzudattzion"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התנך",
       "rdfs:label": "פירוש רלב\"ג",
       "jbo:author": "jbr:person-רלבג",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-ralbag"
     },
     {
       "dc:subject": "jbr:category-מפרשי_התנך",
       "rdfs:label": "פירוש המלבי\"ם",
       "jbo:author": "jbr:person-המלבים",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-malbim"
     },
     {
       "dc:subject": "jbr:category-מוסר",
       "rdfs:label": "מסילת ישרים",
       "jbo:author": "jbr:person-הרמחל",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-mesilatyesharim"
     },
     {
       "dc:subject": "jbr:category-מחשבה",
       "rdfs:label": "ספר האמונות והדעות",
       "jbo:author": "jbr:person-רב_סעדיה_גאון",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-haemunotvehadeot"
     },
     {
@@ -716,6 +806,7 @@
       ],
       "rdfs:label": "מורה הנבוכים",
       "jbo:author": "jbr:person-הרמבם",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-morenevochim"
     },
     {
@@ -725,16 +816,195 @@
       ],
       "rdfs:label": "שפת אמת",
       "jbo:author": "jbr:person-שפת_אמת",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-sefatemet"
     },
     {
-      "dc:subject": [
-        "jbr:category-מחשבה",
-        "jbr:category-אמונה"
-      ],
+      "dc:subject": "jbr:category-מחשבה",
       "rdfs:label": "ספר הכוזרי",
       "jbo:author": "jbr:person-רבי_יהודה_הלוי",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
       "uri": "jbr:book-seferhakuzari"
+    },
+    {
+      "dc:subject": "jbr:category-הלכה",
+      "rdfs:label": "בית יוסף",
+      "jbo:author": "jbr:person-רבי_יוסף_קארו",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-beityosef"
+    },
+    {
+      "dc:subject": "jbr:category-הלכה",
+      "rdfs:label": "דרכי משה",
+      "jbo:author": "jbr:person-רבי משה_איסרלישׂ",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-darcheimoshe"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_אגדה"
+      ],
+      "rdfs:label": "דרך ארץ זוטא",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-derecheretzzuta"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_הלכה"
+      ],
+      "rdfs:label": "מכילתא דרשב\"י",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-mekhiltaderabbishimonbaryochai"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_הלכה"
+      ],
+      "rdfs:label": "מכילתא דרבי ישמעאל",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-mekhiltaderabbiyishmael"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_אגדה"
+      ],
+      "rdfs:label": "מדרש משלי",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-midrashmishlei"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_אגדה"
+      ],
+      "rdfs:label": "מדרש תנחומא בובר",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-midrashtanchumabuber"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_אגדה"
+      ],
+      "rdfs:label": "מדרש תנחומא",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-midrashtanchuma"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_אגדה"
+      ],
+      "rdfs:label": "מדרש תהילים",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-midrashtehillim"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_אגדה"
+      ],
+      "rdfs:label": "פסיקתא דרב כהנא",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-pesiktaderavkahanna"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_אגדה"
+      ],
+      "rdfs:label": "פסיקתא רבתי",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-pesiktarabbati"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_אגדה"
+      ],
+      "rdfs:label": "פרקי דרבי אליעזר",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-pirkeiderabbieliezer"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_הלכה"
+      ],
+      "rdfs:label": "ספרא",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-sifra"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_הלכה"
+      ],
+      "rdfs:label": "ספרי במדבר",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-sifreibamidbar"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_הלכה"
+      ],
+      "rdfs:label": "ספרי דברים",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-sifreidevarim"
+    },
+    {
+      "dc:subject": "jbr:category-תלמוד_ירושלמי",
+      "rdfs:label": "תלמוד ירושלמי",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-yerushalmi"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_אגדה"
+      ],
+      "rdfs:label": "תנא דבי אליהו רבה",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-tannadebeieliyahurabbah"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_אגדה"
+      ],
+      "rdfs:label": "תנא דבי אליהו זוטא",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-tannadebeieliyahuzuta"
+    },
+    {
+      "dc:subject": "jbr:category-הלכה",
+      "rdfs:label": "ארבעה טורים",
+      "jbo:author": "jbr:person-בעל_הטורים",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-tur"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_אגדה"
+      ],
+      "rdfs:label": "ילקוט שמעוני נ\"ך",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-yalkutshimonionnach"
+    },
+    {
+      "dc:subject": [
+        "jbr:category-מדרשים",
+        "jbr:category-מדרשי_אגדה"
+      ],
+      "rdfs:label": "ילקוט שמעוני תורה",
+      "jbo:description": "יש לעדכן תיאור החיבור מתוך ויקיפדיה...",
+      "uri": "jbr:book-yalkutshimoniontorah"
     }
   ]
 }

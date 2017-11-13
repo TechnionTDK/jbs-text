@@ -305,6 +305,17 @@
       "uri": "jbr:person-רבי_יהודה_הלוי",
       "jbo:deathYear": "1141",
       "jbo:title": "Rabbi"
+    },
+    {
+      "jbo:birthYear": "1530",
+      "jbo:alias": [
+        "רבי משה איסרלישׂ",
+        "הרמ\"א"
+      ],
+      "rdfs:label": "רבי משה איסרלישׂ",
+      "uri": "jbr:person-רבי משה_איסרלישׂ",
+      "jbo:deathYear": "1572",
+      "jbo:title": "Rabbi"
     }
   ]
 }
