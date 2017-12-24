@@ -1,0 +1,1384 @@
+{
+  "subjects": [
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-1-2",
+      "jbo:text": "רש\"י  וקרא עליה. את קריאתי :",
+      "rdfs:label": "רש\"י יונה א ב",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-1-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-2",
+      "jbo:text": "מצודת דוד  וקרא עליה. ר''ל שיוכיחם ויזהירם וכדרך הנביא ועדיין לא פירש לו מה יקרא : כי עלתה רעתם. הרעות שהם עושים עלתה למרום לעמוד לפני לקטרג עליהם (ולפי שננוה הוא ראש מלכות אשור שבט אפו של המקום ב''ה רצה להחזירם למוטב למען יעמדו להיות רצועה מרדות על ישראל) :",
+      "rdfs:label": "מצודת דוד יונה א ב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-1-3",
+      "jbo:text": "רש\"י  לברוח תרשישה. ים ששמו תרשיש והוא בחוצה לארץ אמר אברח לי הים שאין השכינה שורה בח''ל אמר לו הקב''ה חייך יש לי שלוחים כיוצא בך לשלוח אחריך ולהביאך משם משל לעבד כהן שברח מן רבו ונכנס לבית הקברות אמר לו רבו יש לי עבדים כיוצא בך לשלוח אחריך ולהביאך משם ומה ראה יונה שלא רצה לילך אל נינוה אמר העכו''ם קרובי תשובה הם אם אומר להם ויעשו תשובה נמצאתי מחייב את ישראל שאין שומעים לדברי הנביאים : ויתן שכרה. הקדים לתת שכרה ואין דרך יורדי הים לתת שכר הספינה עד שעת היציאה והוא הקדים ולא עוד אלא שנתן שכר כולה :",
+      "rdfs:label": "רש\"י יונה א ג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-1-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-3",
+      "jbo:text": "מצודת דוד  לברוח תרשישה. הוא חוץ לארץ מקום שאין הנבואה שורה על הנביאים וז''ש מלפני ה' ור''ל מהמקום שהוא לפני ה' והוא א''י שהוא מקום קבול הנבואה כי פחד פן יבוא לו הנבואה עוד פעם ויפרש מה יקרא ויוכרח ללכת ועל כי העמדת נינוה היה רעה לישראל לכן לא היה חפץ להיות שליח בדבר כי היה טוב בעיניו שיעמדו ברשעם ויאבדו ולא יהיו לשטן לישראל, ורז''ל אמרו שחשב יונה שהנה העכו''ם קרובי תשובה הם ויחייבו את ישראל שאינם ממהרים לשוב : וירד יפו. מקום שפורשים שם הספינות : באה תרשיש. היתה מוכנת ללכת ולבוא לתרשיש : ויתן שכרה. הקדים ליתן שכרה תחילה ולא עוד אלא שנתן שכר כל הספינה למען תמהר ללכת : לבוא עמהם. עם אנשי הספינה :",
+      "rdfs:label": "מצודת דוד יונה א ג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-1-3",
+      "jbo:text": "מצודת ציון  תרשישה. לתרשיש והוא שם מקום : יפו. שם העיר שעל הנמל : אניה. ספינה :",
+      "rdfs:label": "מצודת ציון יונה א ג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-1-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-1-4",
+      "jbo:text": "רש\"י  חשבה להשבר. נדמית כאלו היא נשברת :",
+      "rdfs:label": "רש\"י יונה א ד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-1-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-4",
+      "jbo:text": "מצודת דוד  הטיל. הסיע והמשיך אל הים רוח גדולה והיה סער גדול בים : והאניה. ר''ל אנשי האניה חשבו שהאניה תשבר מחוזק הרוח המוליכה ברדיפה ונדנוד רב מהרמת הגלים וכובד משא הספינה מונע הרדיפה והוא סיבה לשבירת הספינה :",
+      "rdfs:label": "מצודת דוד יונה א ד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-1-4",
+      "jbo:text": "מצודת ציון  הטיל. ענין הסעה כי ורוח נסע (במדבר יב) ת''א נטל : סער. הרעשת גלים מן הסערה : חשבה. מל' מחשב' :",
+      "rdfs:label": "מצודת ציון יונה א ד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-1-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-1-5",
+      "jbo:text": "רש\"י  המלחים. בני אדם המנהיגים את הספינה : איש אל אלהיו. מן שבעים אומות של עכו''ם היו שם :",
+      "rdfs:label": "רש\"י יונה א ה",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-1-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-5",
+      "jbo:text": "מצודת דוד  וייראו המלחים. מוליכי הספינה פחדו וכ''א מהם צעק להתפלל אל העכו''ם שלו : ויטילו. השליכו את הכלים מן הספינה אל הים להקל מעליהם המשא למען תוכל ללכת ברדיפה מבלי מונע : אל ירכתי. ר''ל אל אחת מהירכתים וכן ויקבר בערי גלעד (שופטים יב) :",
+      "rdfs:label": "מצודת דוד יונה א ה",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-1-5",
+      "jbo:text": "מצודת ציון  המלחי'. כן יקראו מוליכי הספינ' וכן כל אניות הים ומלחיהם (יחזקאל כו) : ויטילו. ענין השלכה כמו והטלתי אתכם (ירמיה טז) : ירכתי. עבר וצד כמו ירך המזבח (ויקרא א) : וירדם. הוא שינה עמוקה וכן והוא נרדם ויעף (שופטי' ד) :",
+      "rdfs:label": "מצודת ציון יונה א ה",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-1-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-1-6",
+      "jbo:text": "רש\"י  רב החובל. שר המלחים שאף הם נקראים חובלי הים ובלע''ז גובירניי''ל : מה לך נרדם. מה לך להיות נרדם אין עתה עת רדם : יתעשת. לשון מחשבה וכן (תהלים קמז) עשתנותיו ומלכא עשית (דניאל ז) :",
+      "rdfs:label": "רש\"י יונה א ו",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-1-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-6",
+      "jbo:text": "מצודת דוד  מה לך נרדם. מה לך שנרדמת כאומר וכי אינך מרגיש שאנו עומדים בסכנה : קרא אל אלהיך. התפלל לפניו : אולי יתעשת. ע''י התפלה אולי יחשוב האלהים לנו שלא נאבד :",
+      "rdfs:label": "מצודת דוד יונה א ו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-1-6",
+      "jbo:text": "מצודת ציון  רב החובל. שר מנהיגי הספינה כי רב הוא שר וכן ורבי המלך (ירמיה מא) ומנהיגי הספינה יקראו חובלים על כי מושכים בחבלי הוילון להפנותה מול הרוח וכן המה חבליך (יחזקאל כז) : אולי. עניינו כמו שמא : יתעשת. ענין מחשבה כמו אבדו עשתנותיו (תהלים קמו) : לנו. עלינו : ולא נאבד. הוי''ו הוא במקום שי''ן וכן ויקחו לי תרומה (שמות כה) ור''ל שיקחו :",
+      "rdfs:label": "מצודת ציון יונה א ו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-1-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-1-7",
+      "jbo:text": "רש\"י  לכו ונפילה גורלות. רואים היו שאר ספינות הולכות בים בשלום ושלהם משתברת אמרו בשביל אחד ממנו הוא כן מצינו בפרקי דר' אליעזר : בשלמי. במעשיו של מי ממנו :",
+      "rdfs:label": "רש\"י יונה א ז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-1-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-7",
+      "jbo:text": "מצודת דוד  ויאמרו. אנשי הספינה : גורלות. אמרו להפיל גורלות הרבה כי לא רצו לסמוך על גורל אחד כי פן במקרה נפל על זה אבל כשיפול פעמים מרובות על אחד יהיה נראה שאין זה מקרה : בשלמי. בעבור מי בא עלינו רעת הסכנה הזאת : הגורל. ר''ל כל גורל וגורל :",
+      "rdfs:label": "מצודת דוד יונה א ז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-1-7",
+      "jbo:text": "מצודת ציון  לכו. ענין זרוז : בשלמי. בעבור מי :",
+      "rdfs:label": "מצודת ציון יונה א ז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-1-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-1-8",
+      "jbo:text": "רש\"י  הגידה נא לנו באשר למי. למי חטאת אשר בשביל כן הרעה הזאת לנו : מה מלאכתך. שמא פשעת באומנותיך : ומאין תבא. שמא על אנשי אותו מקום נגזרה גזירה אפי' אין אתה בה : ואי מזה עם אתה. שמא עמך חטאו :",
+      "rdfs:label": "רש\"י יונה א ח",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-1-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-8",
+      "jbo:text": "מצודת דוד  הגידה נא לנו. הואיל וכל הגורלות נפלו עליך הגידה עתה לנו באשר למי ר''ל במה היה החטא ולמי חטאת שבסבתו בא לנו רעת הסכנה הזאת וכאלו יאמרו אם היה בדבר העושק א''כ אפשר להחזיר העושק ואם הרעות למי בדבר הגדוף וכיוצא אפשר לפייסו בממון : מה מלאכתך. ר''ל אולי יש בידך מלאכת רמיה והונית אנשים מרובים עד שלא תדע מי ומי המה להחזיר להם העושק : ומאין תבוא. ר''ל שמא עשקת במקום שבאת משם ואולי רב הדרך ואין לבוא שמה להחזיר העושק : מה ארצך. ר''ל שמא עשית דבר היפך מנהג ארצך וכאלו חטאת לכולם ומי יכול לפייס את כולם : ואי מזה עם אתה. מ''ם השמוש כמו הפוך כאלו אמר ומאי זה עם אתה ר''ל מי הוא אלהיך וכאלו יאמרו פן עשית דבר שלא כדת אלהיך ואין א''כ מקום לפייסו בממון :",
+      "rdfs:label": "מצודת דוד יונה א ח",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-1-8",
+      "jbo:text": "מצודת ציון  נא. עתה : ומאין. מאיזה מקום :",
+      "rdfs:label": "מצודת ציון יונה א ח",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-1-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-9",
+      "jbo:text": "מצודת דוד  עברי אנכי. כאומר אין לכם לשאול כל השאלות הללו כי לא חטאתי לבן אדם ולכן על השאלה ששאלתם באחרונה ואי מזה עם אתה ע''ז השיב עברי אנכי ולתוספת ביאור אמר ואת ה' אלהי השמים אני ירא וכאלו יגיד בזה שאליו חטא : אשר עשה את הים ואת היבשה. ר''ל כמו שעשה את היבשה כן עשה את הים ובכל מקום משלה ידו וכאלו יאמר הנה גם בים מצאה אותי יד ה' וכאלו יכריחני ללכת לנבאות על נינוה וזהו האמירה לגבוה ועל חנם ברחתי בחושבי שפה לא יבוא אלי דבר ה' והנה כאלו באה :",
+      "rdfs:label": "מצודת דוד יונה א ט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-1-9",
+      "jbo:text": "מצודת ציון  עברי. כן יקראו בני ישראל וכן מילדי העברים (שם א) על כי מקור מחצבם מעבר הנהר :",
+      "rdfs:label": "מצודת ציון יונה א ט",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-1-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-1-10",
+      "jbo:text": "רש\"י  מה זאת עשית. למה עשית כן לברוח מן מושל כזה :",
+      "rdfs:label": "רש\"י יונה א י",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-1-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-10",
+      "jbo:text": "מצודת דוד  וייראו וגו'. בשמעם שחטא לה' ואין א''כ מקום לפייס בממון לכן פחדו מאד : מה זאת עשית. לא אמרו כשואלים אלא כמתמיהים כאומר איך עשית דבר כזה למרוד פי ה' ולברוח ממקום הנבואה ודוגמתו מה עשית ותגנוב את לבבי (בראשית לא) שהוא ענין תימה : כי ידעו האנשים. היה נודע להם שהוא בורח מלפני ה' ממקום הנבואה : כי הגיד להם. ר''ל ע''פ הדברים שאמר הבינו אמיתת הענין כאלו הגיד להם בפה מלא :",
+      "rdfs:label": "מצודת דוד יונה א י",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-11",
+      "jbo:text": "מצודת דוד  מה נעשה לך. מה נעשה עמך שישתוק הים מעלינו ולא יוסיף להרעיש עוד בהרמת הגלים : כי וגו'. ר''ל הנה הים מרעיש בגליו בכל פעם יותר ולכן אין פנאי להתעכב ולהתיישב בדבר לזה אמור אתה מה נעשה עמך וכן יקום :",
+      "rdfs:label": "מצודת דוד יונה א יא",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-1-11",
+      "jbo:text": "מצודת ציון  וסוער. מרעיש בהרמת הגלים מן הסערה :",
+      "rdfs:label": "מצודת ציון יונה א יא",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-1-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-12",
+      "jbo:text": "מצודת דוד  שאוני. קחו אותי והשליכו אותי אל הים ובודאי ישתוק הים מעליכם כי ידעתי שבעבורי בא הסער הגדול הזה עליכם :",
+      "rdfs:label": "מצודת דוד יונה א יב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-1-12",
+      "jbo:text": "מצודת ציון  שאוני. ענין לקיחה : והטילוני. ענין השלכה : בשלי. בעבורי :",
+      "rdfs:label": "מצודת ציון יונה א יב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-1-12",
+      "jbo:positionInPerek": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-1-13",
+      "jbo:text": "רש\"י  ויחתרו האנשים. יגעו ועסקו כחותר במחתרת :",
+      "rdfs:label": "רש\"י יונה א יג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-1-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-13",
+      "jbo:text": "מצודת דוד  ויחתרו. היו משתדלים עם המשוטות להשיב הספינה אל היבשה בחשבם ששם יטלו את יונה אל היבשה והם ילכו לדרכם : הולך וסוער עליהם. ר''ל הרעשת הגלים היה עליהם מן היבשה למול פניהם להרחיק את הספינה אל תוך הים :",
+      "rdfs:label": "מצודת דוד יונה א יג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-1-13",
+      "jbo:text": "מצודת ציון  ויחתרו. ענין חפירה וכן אם יחתרו בשאול (עמוס ט) ור''ל השיטו במשוטו' בתוך הים ונדמה כאלו חופרים בים :",
+      "rdfs:label": "מצודת ציון יונה א יג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-1-13",
+      "jbo:positionInPerek": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-1-14",
+      "jbo:text": "רש\"י  בנפש האיש הזה. בעון שנשלח יד בנפשו :",
+      "rdfs:label": "רש\"י יונה א יד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-1-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-14",
+      "jbo:text": "מצודת דוד  אל נא נאבדה. לא נהיו עתה נאבדים בעון שנשלח יד בנפש האיש הזה להשליכו אל הים : ואל תתן וגו'. ר''ל אל תחשב לנו כאילו שפכנו דם נקי : כי אתה ה'. ר''ל הלא הכל בידך ומעולם עשית כאשר חפצת ואם היה חפצך להמיתו שלא על ידינו הלא אין מעצור בידך להמית אותו לבד אלא ודאי הגזירה היא להמיתו על ידינו :",
+      "rdfs:label": "מצודת דוד יונה א יד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-1-14",
+      "jbo:text": "מצודת ציון  אנה. ענין בקשה כמו אנא ה' הושיעה נא (תהלים קיח) :",
+      "rdfs:label": "מצודת ציון יונה א יד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-1-14",
+      "jbo:positionInPerek": "14"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-15",
+      "jbo:text": "מצודת דוד  ויעמוד. שתק ונח מקצף הרעשת גליו :",
+      "rdfs:label": "מצודת דוד יונה א טו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-15",
+      "jbo:positionInPerek": "15"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-1-15",
+      "jbo:text": "מצודת ציון  ויעמוד. ענין שתיקה כמו עמדו לא ענו עוד (איוב לב) : מזעפו. ענין קצף כמו זעף ה' אשא (מיכה ז) ועל הרעשת הגלים יאמר שנראה אז כאלו הים כועס ומתקצף :",
+      "rdfs:label": "מצודת ציון יונה א טו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-1-15",
+      "jbo:positionInPerek": "15"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-1-16",
+      "jbo:text": "רש\"י  וידרו נדרים. שיתגיירו :",
+      "rdfs:label": "רש\"י יונה א טז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-1-16",
+      "jbo:positionInPerek": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-1"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-1-16",
+      "jbo:text": "מצודת דוד  ויראו וגו'. בראותם השגחת המקום ויכלתו : ויזבחו. ר''ל קבלו על עצמם לזבוח לה' בבה''מ : וידרו נדרים. לחלק צדקה לעניים :",
+      "rdfs:label": "מצודת דוד יונה א טז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-1-16",
+      "jbo:positionInPerek": "16"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-2-1",
+      "jbo:text": "רש\"י  דג גדול. זכר היה והיה עומד בריוח ולא נתן לב להתפלל רמז הקב''ה לדג והקיאו לתוך פיה של נקבה שהיתה מלאה עוברי' והיה שם בדוחק ויתפלל שם שנאמר ממעי הדגה :",
+      "rdfs:label": "רש\"י יונה ב א",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-2-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-2-1",
+      "jbo:text": "מצודת דוד  וימן. הזמין את הדג לבלוע אותו מיד שלא יטבע במי הים :",
+      "rdfs:label": "מצודת דוד יונה ב א",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-2-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-2-1",
+      "jbo:text": "מצודת ציון  וימן. ענין הזמנה כמו וימן להם המלך (דניאל א) :",
+      "rdfs:label": "מצודת ציון יונה ב א",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-2-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-2-2",
+      "jbo:text": "מצודת דוד  ממעי הדגה. ארז''ל בתחילה בלעו דג זכר ועמד שם בריוח ולא נתן דעתו להתפלל ורמז המקום להדג והקיאו אל פי הדגה ושם עמד בדוחק מפני העוברים והתפלל מתוך הדחק :",
+      "rdfs:label": "מצודת דוד יונה ב ב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-2-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-2-3",
+      "jbo:text": "רש\"י  מבטן שאול שועתי. מבטן הדג שהוא כשאול לי :",
+      "rdfs:label": "רש\"י יונה ב ג",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-2-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-2-3",
+      "jbo:text": "מצודת דוד  קראתי. הנה קראתי אל ה' מפני הצרה אשר עלי וידעתי כי יענני הואיל ואני קיים כל הימים הללו : מבטן שאול. היא הדגה שהיא לו כעומק השאול : שמעת קולי. מובטח אני אשר שמעת קולי :",
+      "rdfs:label": "מצודת דוד יונה ב ג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-2-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-2-3",
+      "jbo:text": "מצודת ציון  מבטן שאול. ר''ל מעומק הקבר : שועתי. ענין צעקה כמו הקשיבה לקול שועי (תהלים ט) :",
+      "rdfs:label": "מצודת ציון יונה ב ג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-2-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-2-4",
+      "jbo:text": "רש\"י  כל משבריך וגליך. כל נחשולוהי דימא על שם שהנחשול משבר ומפרק את הים :",
+      "rdfs:label": "רש\"י יונה ב ד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-2-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-2-4",
+      "jbo:text": "מצודת דוד  ותשליכני. הנה השלכת אותי במצולה בחוזק הים : ונהר יסובבני. כי שם היה המקום שמתחברים מי הנהר ומי הים : עלי עברו. כי כשעברו על הדגה עברו גם עליו בהיותו במעיה :",
+      "rdfs:label": "מצודת דוד יונה ב ד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-2-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-2-4",
+      "jbo:text": "מצודת ציון  מצולה. כן יקרא עומק המים וכן השלכת במצולות (נחמיה ט) : בלבב. ר''ל בחוזק והוא ל' מושאל על כי הלב הוא החזוק מבע''ח : משבריך. כן יקראו גלי הים ע''ש שנראה כשוברים את הים וחוזרים ונשברים וכן משברי' יתחטאו (איוב מא) וכפל המלה בשמות נרדפים ואמר וגליך וכן אדמת עפר (דניאל יב) :",
+      "rdfs:label": "מצודת ציון יונה ב ד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-2-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-2-5",
+      "jbo:text": "רש\"י  ואני אמרתי. כשהשליכוני אל הים הנני מת ונגרשתי מנגד עיניך : אך. ראיתי שקיימתני כל אלו הימים ידעתי כי אוסיף להביט אל היכל קדשך :",
+      "rdfs:label": "רש\"י יונה ב ה",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-2-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-2-5",
+      "jbo:text": "מצודת דוד  ואני אמרתי. כשהשליכו אותי הימה חשבתי הנה נגרשתי מנגד עיניך ר''ל העלמת עין ממני : אך אוסיף. אך עתה הואיל וקיימתני כל הימים הללו מובטח אני לצאת מזה ואוסיף עוד להביט אל היכל קדשך לבא שמה בקול תודה :",
+      "rdfs:label": "מצודת דוד יונה ב ה",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-2-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-2-5",
+      "jbo:text": "מצודת ציון  נגרשתי. מל' גרושין : להביט. לראות :",
+      "rdfs:label": "מצודת ציון יונה ב ה",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-2-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-2-6",
+      "jbo:text": "רש\"י  סוף חבוש לראשי. ימא דסוף תלי לעיל מן רישי, שהראהו הקב''ה ים סוף ואיך עברו ישראל בתוכו שהיו שתי עיני הדגה כמין שתי חלונות ומסתכל ורואה כל מה שבים :",
+      "rdfs:label": "רש\"י יונה ב ו",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-2-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-2-6",
+      "jbo:text": "מצודת דוד  אפפוני מים. המים סבבו אותי עד קרוב להוצאת הנפש : תהום יסובבני. כפל הדבר במ''ש : סוף חבוש לראשי. כי כשהדגה שטה עמו בים נקשר הסוף בראש הדגה וכאלו נקשר בראשו הואיל והיה במעיה :",
+      "rdfs:label": "מצודת דוד יונה ב ו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-2-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-2-6",
+      "jbo:text": "מצודת ציון  אפפוני. ענין הקפה וסבוב כמו אפפו עלי רעות (תהלים מ) : תהום. עומק הים : סוף. מין דשא הגדל במים וכן קנה וסוף קמלו (ישעיה יט) : חבוש. ענין קשירה כמו ולנשברת לא חבשתם (יחזקאל לד) :",
+      "rdfs:label": "מצודת ציון יונה ב ו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-2-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-2-7",
+      "jbo:text": "רש\"י  לקצבי הרים ירדתי. לסוף מדת ההרים הקבועים על התהום ירדתי. אני אמרתי הארץ בריחיה בעדי. כנגדי למעלה ממני סגור ולא אצא לעולם, בעדי כמו (מלכים ב ד) וסגרת הדלת בעדך וכן כל בעד שבמקרא עור בעד עור (איוב א) אבר כנגד אבר : לעולם. מוסב על מה שאמר למעלה ואני אמרתי נגרשתי ואני אמרתי הארץ בריחיה סגורים בעדי לעולם : ותעל משחת חיי. אבל כבר ראיתי כאן גיהנם ומשם העליתני והנני עתה כנגד תחת ההיכל שבירושלים כענין שנאמר אך אוסיף להביט אל היכל קדשך ותבא אליך תפילתי אל היכל קדשך :",
+      "rdfs:label": "רש\"י יונה ב ז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-2-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-2-7",
+      "jbo:text": "מצודת דוד  לקצבי הרים. לאחרית ההרים התקועים בים והוא קרקעית הים : ירדתי. בהיותי במעי הדגה : הארץ בריחיה. רצה לומר חשבתי שהארץ הבריח' בריחיה כנגדי עד עולם כי לא אשוב אלי' כאילו סגרה את עצמה בבריחים : ותעל. אבל הואיל וקיימתני כל הימים הללו אקוה שתעל חיי משחת הקבר הוא בטן הדגה :",
+      "rdfs:label": "מצודת דוד יונה ב ז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-2-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-2-7",
+      "jbo:text": "מצודת ציון  לקצבי. ענין אחרית וסוף והוא מל' ויקצב עץ (מ''ב ו) כי אחרית דבר החתוך הוא במקום שנחתך : בריחיה. מל' בריח והוא כעין מטה המושם לרוחב השער לסגרו : בעדי. כנגדי וכן וסגרת הדלת בעדך (שם ד) : משחת. ענין בור וחפירה כמו בשחתם נתפש (יחזקאל יט) :",
+      "rdfs:label": "מצודת ציון יונה ב ז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-2-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-2-8",
+      "jbo:text": "רש\"י  בהתעטף. באשתלהיות וכן בהתעטף נפשם וכן בעטף עולל (איכה ב) :",
+      "rdfs:label": "רש\"י יונה ב ח",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-2-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-2-8",
+      "jbo:text": "מצודת דוד  בהתעטף. כשהיה נפשי שעלי מעוטף ומעונה זכרתי את ה' להתפלל לפניו והנה בא אליך תפילתי אל היכל קדשך הוא השמי' :",
+      "rdfs:label": "מצודת דוד יונה ב ח",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-2-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-2-8",
+      "jbo:text": "מצודת ציון  בהתעטף. מל' עטיפה ולבישה כי כשהאדם הוא בצרה הוא מעונה וכפוף כאלו מעוטף קצתו בקצתו וכן העטופים ברעב (איכה ב) :",
+      "rdfs:label": "מצודת ציון יונה ב ח",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-2-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-2-9",
+      "jbo:text": "רש\"י  משמרים הבלי שוא. אותן שעובדים לעכו''ם : חסדם יעזובו. יראת הקב''ה שכל חסדם וטובתם מאתו יעזובו אבל אני איני כן אלא בקול תודה אזבחה לך כך תרגם יונתן ופרקי דר' אליעזר דרשו כלפי המלחים שעזבו חסדם שהיו מטיבים לעכו''ם ונתגיירו :",
+      "rdfs:label": "רש\"י יונה ב ט",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-2-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-2-9",
+      "jbo:text": "מצודת דוד  משמרים הבלי שוא. הם אנשי הספינה המשמרים הבלי שוא הוא העבודת כוכבים ידעתי שהם יעזבו חסדם ולא יקיימו מה שנדרו בעת צרה :",
+      "rdfs:label": "מצודת דוד יונה ב ט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-2-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-2-9",
+      "jbo:text": "מצודת ציון  הבלי. מל' הבל ודבר שאין בו ממש :",
+      "rdfs:label": "מצודת ציון יונה ב ט",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-2-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-2-10",
+      "jbo:text": "רש\"י  ישועתה לה'. נדרי שלמים ותודה אשלם לשם ישועות אשר לה', ישועתה כמו לישועתה וכן קומה עזרתה לנו (תהלים מד) לעזרה שלנו :",
+      "rdfs:label": "רש\"י יונה ב י",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-2-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-2-10",
+      "jbo:text": "מצודת דוד  ואני. אבל אני אזבחה לך זבחים בקול תודה והודאה על הנס ואשר נדרתי אשלמה בעבור הישועה של ה' :",
+      "rdfs:label": "מצודת דוד יונה ב י",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-2-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-2-11",
+      "jbo:text": "מצודת דוד  ויאמר. ר''ל העיר לבו להקיאו : לדג. יתכן שאחר התפלה חזרה הדגה להקיאו אל פי הדג לעמוד בריוח : ויקא. ר''ל כמו שהעיר לבו כן עשה והקיאו אל היבשה :",
+      "rdfs:label": "מצודת דוד יונה ב יא",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-2-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-2"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-2-11",
+      "jbo:text": "מצודת ציון  ויקא. ענין הוצאה דרך הפה כמו פן תשבענו והקאתו (משלי כה) :",
+      "rdfs:label": "מצודת ציון יונה ב יא",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-2-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-3-1",
+      "jbo:text": "מצודת דוד  שנית. בדבר השליחות אל נינוה :",
+      "rdfs:label": "מצודת דוד יונה ג א",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-3-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-3-2",
+      "jbo:text": "מצודת דוד  אשר אנכי דובר אליך. והוא מה שקרא ואמר עוד ארבעים יום ונינוה נהפכת ולא הוצרך לפרש כי מאיליו יובן :",
+      "rdfs:label": "מצודת דוד יונה ג ב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-3-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-3-3",
+      "jbo:text": "מצודת דוד  מהלך. כשיעור הליכת שלשה ימים :",
+      "rdfs:label": "מצודת דוד יונה ג ג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-3-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-3-3",
+      "jbo:text": "מצודת ציון  לאלהים. דרך המקרא כשרוצה להגז יל דבר בתכלית סומכו למלת אל וכן ארזי אל (תהלים פ) :",
+      "rdfs:label": "מצודת ציון יונה ג ג",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-3-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-3-4",
+      "jbo:text": "רש\"י  נהפכת. נחרבת (ולא אמר נחרבת כי נהפכת משמש שתי לשונות רע וטוב אם לא יעשו תשובה נחרבת, ואם יעשו תשובה אז נהפכת על אנשי נינוה קאי שיהפכו מרעה לטובה ויעשו תשובה הג''ה דר''ע) :",
+      "rdfs:label": "רש\"י יונה ג ד",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-3-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-3-4",
+      "jbo:text": "מצודת דוד  ויחל. כשהתחיל לבוא בעיר מהלך יום קרא ואמר הנה יש עוד זמן ארבעים יום ואח''ז תהיה נינוה נהפכת ר''ל כמהפכת סדום ועמורה מיש לאין :",
+      "rdfs:label": "מצודת דוד יונה ג ד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-3-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-3-4",
+      "jbo:text": "מצודת ציון  ויחל. מל' התחלה :",
+      "rdfs:label": "מצודת ציון יונה ג ד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-3-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-3-5",
+      "jbo:text": "מצודת דוד  באלהים. ר''ל בדבר האמור בשם האלהים : ויקראו צום. הכריזו יום צום :",
+      "rdfs:label": "מצודת דוד יונה ג ה",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-3-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-3-6",
+      "jbo:text": "רש\"י  אדרתו. לבוש יקריה :",
+      "rdfs:label": "רש\"י יונה ג ו",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-3-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-3-6",
+      "jbo:text": "מצודת דוד  ויגע הדבר. השמועה הגיעה לאזני המלך וקם מכסאו לשבת על הארץ והעביר מעליו לבוש מלכות :",
+      "rdfs:label": "מצודת דוד יונה ג ו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-3-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-3-6",
+      "jbo:text": "מצודת ציון  אדרתו. ת''י לבוש יקריה וכן אדרוז שנער (יהושע ז) והוא מל' אדיר : שק. יריעה עבה :",
+      "rdfs:label": "מצודת ציון יונה ג ו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-3-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-3-7",
+      "jbo:text": "רש\"י  ויזעק. צוה והכריז : מטעם המלך וגדוליו. מעצת המלך וגדוליו ציוו להכריז :",
+      "rdfs:label": "רש\"י יונה ג ז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-3-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-3-7",
+      "jbo:text": "מצודת דוד  ויזעק. צוה להכריז בקול זעקה לאמר מעצת המלך ומעצת גדולי המלכות נגזר לאמר האדם והבהמה וגו' ובעבור עגמת נפש ציוו למנוע מאכל מבהמות למען יכנע לב האנשים : אל ירעו. מוסב על הבהמה :",
+      "rdfs:label": "מצודת דוד יונה ג ז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-3-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-3-7",
+      "jbo:text": "מצודת ציון  ויזעק. הכריז בקול זעקה : מטעם. ענין עצה הנאמרה בטעם וכן וטעם זקנים יקח (איוב יב) : יטעמו. מל' טעימה וענינו אכילה מועטת : מאומה. שום דבר : ירעו. מל' מרעה :",
+      "rdfs:label": "מצודת ציון יונה ג ז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-3-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-3-8",
+      "jbo:text": "רש\"י  ויקראו אל אלהים בחזקה. אסרו אמהות לבד והולדות לבד אמרו לפניו רבש''ע אם אין אתה מרחם עלינו אין אנו מרחמים על אלו :",
+      "rdfs:label": "רש\"י יונה ג ח",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-3-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-3-8",
+      "jbo:text": "מצודת דוד  ויתכסו. גם זה מן הכרוז שצוה שכולם יתכסו בשקים להראות הכנעה מרובה ושהאנשים יקראו אל אלהים בכל לב וכל אחד ישוב מדרכו הרעה ומן החמס אשר עשו בכפיהם :",
+      "rdfs:label": "מצודת דוד יונה ג ח",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-3-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-3-8",
+      "jbo:text": "מצודת ציון  בחזקה. ר''ל בכל לב :",
+      "rdfs:label": "מצודת ציון יונה ג ח",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-3-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-3-9",
+      "jbo:text": "רש\"י  מי יודע. עבירו' שבידו ישוב :",
+      "rdfs:label": "רש\"י יונה ג ט",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-3-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-3-9",
+      "jbo:text": "מצודת דוד  מי יודע. גם זה מן הכרוז שאמר מי היודע דרכי התשובה ישוב לה' ואז ינחם האלהים וישוב מחרון אפו ולא נהיו נאבדים מן העולם :",
+      "rdfs:label": "מצודת דוד יונה ג ט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-3-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-3-9",
+      "jbo:text": "מצודת ציון  ונחם. ענין הפוך מחשבה וחרטה :",
+      "rdfs:label": "מצודת ציון יונה ג ט",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-3-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-3-10",
+      "jbo:text": "רש\"י  וינחם האלהים. יתעשת על הרעה לשוב ממנה :",
+      "rdfs:label": "רש\"י יונה ג י",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-3-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-3"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-3-10",
+      "jbo:text": "מצודת דוד  כי שבו. כי כן עשו כדבר המלך ועם כי לא נזכר : וינחם. נתחרט על הגזרה :",
+      "rdfs:label": "מצודת דוד יונה ג י",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-3-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-4-1",
+      "jbo:text": "רש\"י  וירע אל יונה. אמר עכשיו יאמרו העכו''ם שאני נבי' השקר :",
+      "rdfs:label": "רש\"י יונה ד א",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-4-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-4-1",
+      "jbo:text": "מצודת דוד  וירע. כי בנבואה נאמר לו שניחם ה' והיה רע בעיניו וחרה על עצמו כדרך המיצר :",
+      "rdfs:label": "מצודת דוד יונה ד א",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-4-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-4-1",
+      "jbo:text": "מצודת ציון  וירע. מל' רעה :",
+      "rdfs:label": "מצודת ציון יונה ד א",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-4-1",
+      "jbo:positionInPerek": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-4-2",
+      "jbo:text": "רש\"י  הלא זה דברי. יודע אני שאם יחזרו בתשובה לא תחריב' ואהיה שקרן בעיניהם :",
+      "rdfs:label": "רש\"י יונה ד ב",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-4-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-4-2",
+      "jbo:text": "מצודת דוד  ויתפלל. התפלה היה מה שאמר במקרא שלאחריו קח נא את נפשי : הלוא זה דברי. התנחומין הזה היה עם מחשבותי בעוד שהייתי על אדמתי עד לא ירדתי אל הים ובעבור זה הקדמתי לברוח תרשישה טרם בא לי הנבואה פעם שנית : כי ידעתי. מאז ידעתי שאתה אל חנון וכו' ומקבל השבים ומתנחם על הרעה ולזה היה קשה עלי הנבואה הזאת כי היה טוב בעיני שלא ישובו ויאבדו בעונם ולא יהיו רצועה מרדות על ישראל ולפ''ד רז''ל יאמר הנה בזה תוסיף כעסך על ישראל בראותם כח התשובה, ואינם לוקחים מוסר וע''ז חשבתי מתחלה ולכן היה קשה עלי הנבואה :",
+      "rdfs:label": "מצודת דוד יונה ד ב",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-4-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-4-2",
+      "jbo:text": "מצודת ציון  עד. בעוד וכן עד זה מדבר (שם א) : קדמתי. מל' הקדמה וזרוז :",
+      "rdfs:label": "מצודת ציון יונה ד ב",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-4-2",
+      "jbo:positionInPerek": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-4-3",
+      "jbo:text": "מצודת דוד  ועתה ה'. הואיל וכן הוא אבקש ממך שתקח את נפשי ממני כי טוב מותי מחיי לראות באבדן בני עמי אשר ע''י באה הסבה :",
+      "rdfs:label": "מצודת דוד יונה ד ג",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-4-3",
+      "jbo:positionInPerek": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-4-4",
+      "jbo:text": "מצודת דוד  ההיטב חרה לך. בה''א התימה וכאומר הנה אראך במופת שאין מהדין שיחרה לך וקצר בדבר המובן כי בדבר הקיקיון הנאמר בענין הראה לו זאת :",
+      "rdfs:label": "מצודת דוד יונה ד ד",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-4-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-4-4",
+      "jbo:text": "מצודת ציון  ההיטב. ענין חוזק וכן שברו היטב (מ''ב י''א) :",
+      "rdfs:label": "מצודת ציון יונה ד ד",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-4-4",
+      "jbo:positionInPerek": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-4-5",
+      "jbo:text": "מצודת דוד  עד אשר יראה וגו'. כי חשב אולי לא יעמדו בתשובתם ותחזור הגזירה למקומה :",
+      "rdfs:label": "מצודת דוד יונה ד ה",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-4-5",
+      "jbo:positionInPerek": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-4-6",
+      "jbo:text": "רש\"י  וימן. לשון הזמנה : להציל לו מרעתו. מחום השמש : קיקיון. עשב הגדל למעלה בענפים רבים ומיצל וכך שמו :",
+      "rdfs:label": "רש\"י יונה ד ו",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-4-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-4-6",
+      "jbo:text": "מצודת דוד  וימן. הצמיח עשב קיקיון וגדלה למעלה ועלה ממעל ליונה להיות לו לצל להצילו מזריחת החמה הרעה לו כי צל הסוכה הוא דבר שאינו מתמיד כי הולך ומתייבש מחום השמש ולא כן הקיקיון היונק רטיבות הארץ : וישמח וגו'. על כי היה לו לצל מתמיד :",
+      "rdfs:label": "מצודת דוד יונה ד ו",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-4-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-4-6",
+      "jbo:text": "מצודת ציון  וימן. ענין הזמנה : קיקיון. שם עשב שעליו גדולים ורוב ים :",
+      "rdfs:label": "מצודת ציון יונה ד ו",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-4-6",
+      "jbo:positionInPerek": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-4-7",
+      "jbo:text": "רש\"י  ותך. התולעת את הקיקיון במקום שיאמר לזכר ויך יאמר לשון נקבה ותך :",
+      "rdfs:label": "רש\"י יונה ד ז",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-4-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-4-7",
+      "jbo:text": "מצודת דוד  בעלות השחר. בעת שעלה השחר למחרת יום שמחתו : ותך. התולעת חתכה ופסקה את הקיקיון ממקום יניקתו ולא בא לו עוד רטיבות הארץ ולכן נתייבש מחום השמש :",
+      "rdfs:label": "מצודת דוד יונה ד ז",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-4-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-4-7",
+      "jbo:text": "מצודת ציון  השחר. הוא האור הנוצץ בפאת המזרח טרם צאת השמש על הארץ : ותך. ר''ל חתכה ופסקה :",
+      "rdfs:label": "מצודת ציון יונה ד ז",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-4-7",
+      "jbo:positionInPerek": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-4-8",
+      "jbo:text": "רש\"י  חרישית. אמרו רבותינו בשעה שמנשבת משתקת כל הרוחות מפניה והיא חמה מאד וכן ת''י שתיקא : ויתעלף. פשמיי''ר בלע''ז :",
+      "rdfs:label": "רש\"י יונה ד ח",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-4-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-4-8",
+      "jbo:text": "מצודת דוד  רוח קדים. היא העזה שברוחות וחמה ביותר ולא היה דבר עומד בפניה כי הוא ישב במזרח העיר : חרישית. ר''ל משמיע שאון רב עד שהיה מחריש את האזנים : ותך השמש. ר''ל השמש השליך ניצוציו על ראש יונה : ויתעלף. בעבור חמימת הרוח וחום השמש : וישאל את נפשו. שאל ובקש את נפשו להפרד ממנו למען ימות : ויאמר. אמר אל נפשו טוב מותי מחיי וזהו על כי נחלה מאד מתוקף חמימות הרוח וניצוצי השמש וסבל יסורים הרבה :",
+      "rdfs:label": "מצודת דוד יונה ד ח",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-4-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-4-8",
+      "jbo:text": "מצודת ציון  חרישית. מל' חרש : ותך. ר''ל זרחה והשליך ניצוציו : ויתעלף. ענין חלשות והעדר ההרגשה כמו בניך עולפו (ישעיה נא) :",
+      "rdfs:label": "מצודת ציון יונה ד ח",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-4-8",
+      "jbo:positionInPerek": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-4-9",
+      "jbo:text": "מצודת דוד  ההיטב. בה''א השאלה ששאל לו אם מאד חרה לו על אבדן הקיקיון : עד מות. עד שאבחר המיתה בעבור זה או ר''ל עד המיתה יחרה לי ולא אנחם כל ימי עולם :",
+      "rdfs:label": "מצודת דוד יונה ד ט",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-4-9",
+      "jbo:positionInPerek": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-4-10",
+      "jbo:text": "רש\"י  לא עמלת בו. בחרישה וזריעה והשקאת מים : שבן לילה. כמו בן לילה לא גדל אלא לילה אחד :",
+      "rdfs:label": "רש\"י יונה ד י",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-4-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-4-10",
+      "jbo:text": "מצודת דוד  אתה חסת. הנה אתה חסת ונצטערת על אבידת הקיקיון אשר אתה לא עמלת בו בחרישה ובזריעה ולא גדלת אותו להשקותו ולזבלו כי הדרך שאדם חס ומצטער על אבידת דבר שעמל בו ולא כן יחוס ויצטער על אבידת דבר שלא עמל בו : שבן לילה היה. ר''ל ועוד שבלילה אחד גדל וצמח ומיד בלילה שאחריה נאבד כי בעלות השחר הכהו התולעת עד לא זרחה השמש וכאומר הלא אין לחוס על דבר הנעשה מהר ולא עמד זמן רב :",
+      "rdfs:label": "מצודת דוד יונה ד י",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-4-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-4-10",
+      "jbo:text": "מצודת ציון  חסת. מל' חס וחמלה : עמלת. מל' עמל ויגיעה : גדלתו. ענין הצמחה : שבן. בן בחיר''ק כמו בן בסגו''ל וכן בן נון (יהושע א) ור''ל בזמן לילה וכן כבש בן שנתו (ויקרא יב) : אבד. נאבד :",
+      "rdfs:label": "מצודת ציון יונה ד י",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-4-10",
+      "jbo:positionInPerek": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-rashi-19-4-11",
+      "jbo:text": "רש\"י  אשר לא ידע וגו'. קטנים : ובהמה רבה. בני אדם גדולים ודעתן כבהמה שאינם מכירים מי בראם :",
+      "rdfs:label": "רש\"י יונה ד יא",
+      "jbo:name": "רש\"י",
+      "jbo:book": "jbr:book-rashi",
+      "jbo:interprets": "jbr:text-tanach-19-4-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudatdavid-19-4-11",
+      "jbo:text": "מצודת דוד  ואני לא אחוס. ר''ל הלא נינוה היא מעשה ידי ואיך אני לא אחוס על עיר גדולה כזאת : הרבה וגו'. ר''ל יותר משתים עשרה וגומר : אשר לא ידע. אשר כל אחד מהם אינו יודע להבחין בין ימינו לשמאלו והם הקטנים שאין לחשוב להם עון ואין בהם עונש אלא בעבור האבות וכיון שהאבות שבו הנה הם בלא עונש וכן בהמה רבה שיש בעיר שאין להם עונש ועל כל אלה ראוי לחוס ולחמול :",
+      "rdfs:label": "מצודת דוד יונה ד יא",
+      "jbo:name": "מצודת דוד",
+      "jbo:book": "jbr:book-metzudatdavid",
+      "jbo:interprets": "jbr:text-tanach-19-4-11",
+      "jbo:positionInPerek": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-tanach-19-4"
+      ],
+      "uri": "jbr:text-tanach-metzudattzion-19-4-11",
+      "jbo:text": "מצודת ציון  רבו. הוא עשרת אלפים : רבה. מרובה :",
+      "rdfs:label": "מצודת ציון יונה ד יא",
+      "jbo:name": "מצודת ציון",
+      "jbo:book": "jbr:book-metzudattzion",
+      "jbo:interprets": "jbr:text-tanach-19-4-11",
+      "jbo:positionInPerek": "11"
+    }
+  ]
+}

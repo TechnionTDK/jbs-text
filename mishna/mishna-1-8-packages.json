@@ -1,0 +1,69 @@
+{
+  "subjects": [
+    {
+      "uri": "jbr:section-mishna-1",
+      "rdfs:label": "סדר זרעים",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-1"
+      ],
+      "uri": "jbr:section-mishna-1-8",
+      "rdfs:label": "﻿משנה מסכת מעשר שני",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-1",
+        "jbr:section-mishna-1-8"
+      ],
+      "uri": "jbr:section-mishna-1-8-1",
+      "rdfs:label": "משנה מעשר שני פרק א",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-1",
+        "jbr:section-mishna-1-8"
+      ],
+      "uri": "jbr:section-mishna-1-8-2",
+      "rdfs:label": "משנה מעשר שני פרק ב",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-1",
+        "jbr:section-mishna-1-8"
+      ],
+      "uri": "jbr:section-mishna-1-8-3",
+      "rdfs:label": "משנה מעשר שני פרק ג",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-1",
+        "jbr:section-mishna-1-8"
+      ],
+      "uri": "jbr:section-mishna-1-8-4",
+      "rdfs:label": "משנה מעשר שני פרק ד",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-1",
+        "jbr:section-mishna-1-8"
+      ],
+      "uri": "jbr:section-mishna-1-8-5",
+      "rdfs:label": "משנה מעשר שני פרק ה",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "5"
+    }
+  ]
+}

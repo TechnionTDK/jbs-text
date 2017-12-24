@@ -1,0 +1,159 @@
+{
+  "subjects": [
+    {
+      "uri": "jbr:section-mishna-6",
+      "rdfs:label": "סדר טהרות",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6"
+      ],
+      "uri": "jbr:section-mishna-6-3",
+      "rdfs:label": "﻿משנה מסכת נגעים",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-1",
+      "rdfs:label": "משנה נגעים פרק א",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-2",
+      "rdfs:label": "משנה נגעים פרק ב",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-3",
+      "rdfs:label": "משנה נגעים פרק ג",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-4",
+      "rdfs:label": "משנה נגעים פרק ד",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-5",
+      "rdfs:label": "משנה נגעים פרק ה",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-6",
+      "rdfs:label": "משנה נגעים פרק ו",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-7",
+      "rdfs:label": "משנה נגעים פרק ז",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-8",
+      "rdfs:label": "משנה נגעים פרק ח",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "8"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-9",
+      "rdfs:label": "משנה נגעים פרק ט",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-10",
+      "rdfs:label": "משנה נגעים פרק י",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-11",
+      "rdfs:label": "משנה נגעים פרק יא",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "11"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-12",
+      "rdfs:label": "משנה נגעים פרק יב",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "12"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-13",
+      "rdfs:label": "משנה נגעים פרק יג",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "13"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-3"
+      ],
+      "uri": "jbr:section-mishna-6-3-14",
+      "rdfs:label": "משנה נגעים פרק יד",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "14"
+    }
+  ]
+}

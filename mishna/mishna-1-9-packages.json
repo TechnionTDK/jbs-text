@@ -1,0 +1,59 @@
+{
+  "subjects": [
+    {
+      "uri": "jbr:section-mishna-1",
+      "rdfs:label": "סדר זרעים",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-1"
+      ],
+      "uri": "jbr:section-mishna-1-9",
+      "rdfs:label": "﻿משנה מסכת חלה",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "9"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-1",
+        "jbr:section-mishna-1-9"
+      ],
+      "uri": "jbr:section-mishna-1-9-1",
+      "rdfs:label": "משנה חלה פרק א",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-1",
+        "jbr:section-mishna-1-9"
+      ],
+      "uri": "jbr:section-mishna-1-9-2",
+      "rdfs:label": "משנה חלה פרק ב",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-1",
+        "jbr:section-mishna-1-9"
+      ],
+      "uri": "jbr:section-mishna-1-9-3",
+      "rdfs:label": "משנה חלה פרק ג",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-1",
+        "jbr:section-mishna-1-9"
+      ],
+      "uri": "jbr:section-mishna-1-9-4",
+      "rdfs:label": "משנה חלה פרק ד",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "4"
+    }
+  ]
+}

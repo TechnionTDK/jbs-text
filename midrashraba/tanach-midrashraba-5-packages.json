@@ -9,100 +9,100 @@
       "jbo:within": [
         "jbr:section-tanach-midrashraba-5"
       ],
-      "uri": "jbr:section-tanach-midrashraba-5-213",
+      "uri": "jbr:section-tanach-midrashraba-5-1",
       "rdfs:label": "מדרש רבה חומש דברים א",
       "jbo:book": "midrashraba",
-      "jbo:position": "213"
+      "jbo:position": "1"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-midrashraba-5"
       ],
-      "uri": "jbr:section-tanach-midrashraba-5-214",
+      "uri": "jbr:section-tanach-midrashraba-5-2",
       "rdfs:label": "מדרש רבה חומש דברים ב",
       "jbo:book": "midrashraba",
-      "jbo:position": "214"
+      "jbo:position": "2"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-midrashraba-5"
       ],
-      "uri": "jbr:section-tanach-midrashraba-5-215",
+      "uri": "jbr:section-tanach-midrashraba-5-3",
       "rdfs:label": "מדרש רבה חומש דברים ג",
       "jbo:book": "midrashraba",
-      "jbo:position": "215"
+      "jbo:position": "3"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-midrashraba-5"
       ],
-      "uri": "jbr:section-tanach-midrashraba-5-216",
+      "uri": "jbr:section-tanach-midrashraba-5-4",
       "rdfs:label": "מדרש רבה חומש דברים ד",
       "jbo:book": "midrashraba",
-      "jbo:position": "216"
+      "jbo:position": "4"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-midrashraba-5"
       ],
-      "uri": "jbr:section-tanach-midrashraba-5-217",
+      "uri": "jbr:section-tanach-midrashraba-5-5",
       "rdfs:label": "מדרש רבה חומש דברים ה",
       "jbo:book": "midrashraba",
-      "jbo:position": "217"
+      "jbo:position": "5"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-midrashraba-5"
       ],
-      "uri": "jbr:section-tanach-midrashraba-5-218",
+      "uri": "jbr:section-tanach-midrashraba-5-6",
       "rdfs:label": "מדרש רבה חומש דברים ו",
       "jbo:book": "midrashraba",
-      "jbo:position": "218"
+      "jbo:position": "6"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-midrashraba-5"
       ],
-      "uri": "jbr:section-tanach-midrashraba-5-219",
+      "uri": "jbr:section-tanach-midrashraba-5-7",
       "rdfs:label": "מדרש רבה חומש דברים ז",
       "jbo:book": "midrashraba",
-      "jbo:position": "219"
+      "jbo:position": "7"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-midrashraba-5"
       ],
-      "uri": "jbr:section-tanach-midrashraba-5-220",
+      "uri": "jbr:section-tanach-midrashraba-5-8",
       "rdfs:label": "מדרש רבה חומש דברים ח",
       "jbo:book": "midrashraba",
-      "jbo:position": "220"
+      "jbo:position": "8"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-midrashraba-5"
       ],
-      "uri": "jbr:section-tanach-midrashraba-5-221",
+      "uri": "jbr:section-tanach-midrashraba-5-9",
       "rdfs:label": "מדרש רבה חומש דברים ט",
       "jbo:book": "midrashraba",
-      "jbo:position": "221"
+      "jbo:position": "9"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-midrashraba-5"
       ],
-      "uri": "jbr:section-tanach-midrashraba-5-222",
+      "uri": "jbr:section-tanach-midrashraba-5-10",
       "rdfs:label": "מדרש רבה חומש דברים י",
       "jbo:book": "midrashraba",
-      "jbo:position": "222"
+      "jbo:position": "10"
     },
     {
       "jbo:within": [
         "jbr:section-tanach-midrashraba-5"
       ],
-      "uri": "jbr:section-tanach-midrashraba-5-223",
+      "uri": "jbr:section-tanach-midrashraba-5-11",
       "rdfs:label": "מדרש רבה חומש דברים יא",
       "jbo:book": "midrashraba",
-      "jbo:position": "223"
+      "jbo:position": "11"
     }
   ]
 }

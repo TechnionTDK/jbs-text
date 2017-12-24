@@ -1,0 +1,99 @@
+{
+  "subjects": [
+    {
+      "uri": "jbr:section-mishna-4",
+      "rdfs:label": "סדר נזיקין",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-4"
+      ],
+      "uri": "jbr:section-mishna-4-7",
+      "rdfs:label": "﻿משנה מסכת עדיות",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-4",
+        "jbr:section-mishna-4-7"
+      ],
+      "uri": "jbr:section-mishna-4-7-1",
+      "rdfs:label": "משנה עדיות פרק א",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-4",
+        "jbr:section-mishna-4-7"
+      ],
+      "uri": "jbr:section-mishna-4-7-2",
+      "rdfs:label": "משנה עדיות פרק ב",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-4",
+        "jbr:section-mishna-4-7"
+      ],
+      "uri": "jbr:section-mishna-4-7-3",
+      "rdfs:label": "משנה עדיות פרק ג",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-4",
+        "jbr:section-mishna-4-7"
+      ],
+      "uri": "jbr:section-mishna-4-7-4",
+      "rdfs:label": "משנה עדיות פרק ד",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-4",
+        "jbr:section-mishna-4-7"
+      ],
+      "uri": "jbr:section-mishna-4-7-5",
+      "rdfs:label": "משנה עדיות פרק ה",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-4",
+        "jbr:section-mishna-4-7"
+      ],
+      "uri": "jbr:section-mishna-4-7-6",
+      "rdfs:label": "משנה עדיות פרק ו",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-4",
+        "jbr:section-mishna-4-7"
+      ],
+      "uri": "jbr:section-mishna-4-7-7",
+      "rdfs:label": "משנה עדיות פרק ז",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "7"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-4",
+        "jbr:section-mishna-4-7"
+      ],
+      "uri": "jbr:section-mishna-4-7-8",
+      "rdfs:label": "משנה עדיות פרק ח",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "8"
+    }
+  ]
+}

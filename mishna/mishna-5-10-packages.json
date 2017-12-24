@@ -1,0 +1,69 @@
+{
+  "subjects": [
+    {
+      "uri": "jbr:section-mishna-5",
+      "rdfs:label": "סדר קדשים",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "5"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-5"
+      ],
+      "uri": "jbr:section-mishna-5-10",
+      "rdfs:label": "﻿משנה מסכת מדות",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-10"
+      ],
+      "uri": "jbr:section-mishna-5-10-1",
+      "rdfs:label": "משנה מדות פרק א",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-10"
+      ],
+      "uri": "jbr:section-mishna-5-10-2",
+      "rdfs:label": "משנה מדות פרק ב",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-10"
+      ],
+      "uri": "jbr:section-mishna-5-10-3",
+      "rdfs:label": "משנה מדות פרק ג",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-10"
+      ],
+      "uri": "jbr:section-mishna-5-10-4",
+      "rdfs:label": "משנה מדות פרק ד",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "4"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-5",
+        "jbr:section-mishna-5-10"
+      ],
+      "uri": "jbr:section-mishna-5-10-5",
+      "rdfs:label": "משנה מדות פרק ה",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "5"
+    }
+  ]
+}

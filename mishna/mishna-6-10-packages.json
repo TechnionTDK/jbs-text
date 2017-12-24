@@ -1,0 +1,59 @@
+{
+  "subjects": [
+    {
+      "uri": "jbr:section-mishna-6",
+      "rdfs:label": "סדר טהרות",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "6"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6"
+      ],
+      "uri": "jbr:section-mishna-6-10",
+      "rdfs:label": "﻿משנה מסכת טבול יום",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "10"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-10"
+      ],
+      "uri": "jbr:section-mishna-6-10-1",
+      "rdfs:label": "משנה טבול יום פרק א",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "1"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-10"
+      ],
+      "uri": "jbr:section-mishna-6-10-2",
+      "rdfs:label": "משנה טבול יום פרק ב",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "2"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-10"
+      ],
+      "uri": "jbr:section-mishna-6-10-3",
+      "rdfs:label": "משנה טבול יום פרק ג",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "3"
+    },
+    {
+      "jbo:within": [
+        "jbr:section-mishna-6",
+        "jbr:section-mishna-6-10"
+      ],
+      "uri": "jbr:section-mishna-6-10-4",
+      "rdfs:label": "משנה טבול יום פרק ד",
+      "jbo:book": "jbr:book-mishna",
+      "jbo:position": "4"
+    }
+  ]
+}
